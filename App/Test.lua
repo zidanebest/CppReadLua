@@ -1,6 +1,6 @@
 ﻿
 
-Test={
+local t={
     [1]=3,
     b=2,
     c={
@@ -12,4 +12,5 @@ Test={
       }  
     }
 }
-return Test;
+return t;
+
