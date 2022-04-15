@@ -5,8 +5,9 @@ end
 -- Register("Test")
 
 T={
-    a="sad",
-    b="sdf"
+    a={
+        b=1
+    }
 }
 
 -- local array=require "array"

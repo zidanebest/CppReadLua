@@ -1,9 +1,9 @@
 #include <assert.h>
 #include <fstream>
 #include <functional>
-#include <windows.h>
+#include <unordered_map>
 
-
+#include "LuaTable.h"
 
 
 extern "C"{
@@ -187,48 +187,57 @@ private:
 };
 
 
-int FN()
-{
-    return 1;
-}
-//延长返回值生命周期
-template<typename T>
-void rvalue2lvalue(T** ptr,T&& rvalue)
-{
-    *ptr=&rvalue;
-}
+#define Init()\
+lua_State* L=luaL_newstate();\
+luaL_openlibs(L);\
+std::fstream f;\
+f.open("Require.lua");\
+\
+assert(f.is_open(),"File open failed");\
+\
+f.seekg(0,std::ios::end);\
+std::string str;\
+str.resize(f.tellg());\
+f.seekg(3,std::ios::beg);\
+f.read(&str[0],str.size());\
+f.close();\
+\
+assert(!luaL_dostring(L,str.c_str()),"Load file failed");\
+\
+lua_getglobal(L,"T");\
+int i=lua_gettop(L);\
+lua_pushnil(L);\
+// while(lua_next(L,i))\
+// {\
+// lua_pushvalue(L,-2);\
+// printf("%s-%s\n",lua_tostring(L,-1),lua_tostring(L,-2));\
+// lua_pop(L,2);\
+// }\
+
+
+
+
+
+//LUA_READER_DECLARE_COMMON_TYPE;
+
+
+
+
+
+
+
 int main(int argc, char* argv[])
 {
-    lua_State* L=luaL_newstate();
-    luaL_openlibs(L);
-    std::fstream f;
-    f.open("Require.lua");
-
-    assert(f.is_open(),"File open failed");
-
-    f.seekg(0,std::ios::end);
-    std::string str;
-    str.resize(f.tellg());
-    f.seekg(3,std::ios::beg);
-    f.read(&str[0],str.size());
-    f.close();
-
-    assert(!luaL_dostring(L,str.c_str()),"Load file failed");
+    Init()
 
     lua_getglobal(L,"T");
-    int i=lua_gettop(L);
-    lua_pushnil(L);
-    while(lua_next(L,i))
-    {
-        lua_pushvalue(L,-2);
-        printf("%s-%s\n",lua_tostring(L,-1),lua_tostring(L,-2));
-        lua_pop(L,2);
-    }
-
-    int* a = nullptr;
-    rvalue2lvalue(&a,1);
-    cout << *a << endl;
+    LuaTable table(L,-1);
+    lua_pop(L,1);
+    // LuaData data(L,-1);
+    // cout<<GetDataCheckString(data)<<endl;
     
+    cout<<table("a",L_Table())("b",L_Double())<<endl; 
+
     
     return 0;
 }
