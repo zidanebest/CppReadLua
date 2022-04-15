@@ -1,4 +1,4 @@
-# LuaTableToCPP
+# CppReadLua
 提供访问Lua Table的API
 
 - 使用方式
