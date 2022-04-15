@@ -1,27 +1,593 @@
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\App.cpp"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-
-
-
-
-
-
-
-
-#line 11 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
+#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\iostream"
 
 
 
 
 
 #pragma once
+
+
+#pragma external_header(push)
+#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
+
+
+
+
+
+#pragma once
+
+
+
+
+
+
+
+
+#line 16 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
+
+#line 18 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
+#line 19 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #pragma external_header(push)
 #line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vcruntime.h"
@@ -3979,2404 +4545,7 @@ extern uintptr_t __security_cookie;
 
 #line 369 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vcruntime.h"
 #pragma external_header(pop)
-#line 11 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-__pragma(pack(push, 8)) extern "C" {
-
-
-
-
-
-
-
-
-
-    
-
-#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-        
-    
-
-#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-    
-#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-#line 41 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-        
-    
-
-#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-#line 52 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-    
-
-
-#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-    
-#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-        
-    #line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 125 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-extern "C++"
-{
-    template<bool _Enable, typename _Ty>
-    struct _CrtEnableIf;
-
-    template<typename _Ty>
-    struct _CrtEnableIf<true, _Ty>
-    {
-        typedef _Ty _Type;
-    };
-}
-#line 148 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    typedef bool  __crt_bool;
-
-
-
-
-
-
-#line 158 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-    
-#line 170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-#line 192 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-        
-    #line 194 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
- 
-  
-
-#line 209 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-   
-  #line 211 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
- 
-
-
-
-
-
-#line 218 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-        
-    #line 240 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 241 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-#line 245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-        
-    
-
-#line 252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    __declspec(dllimport) void __cdecl _invalid_parameter(
-          wchar_t const*,
-          wchar_t const*,
-          wchar_t const*,
-                unsigned int,
-                uintptr_t
-        );
-#line 277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-__declspec(dllimport) void __cdecl _invalid_parameter_noinfo(void);
-__declspec(dllimport) __declspec(noreturn) void __cdecl _invalid_parameter_noinfo_noreturn(void);
-
-__declspec(noreturn)
-__declspec(dllimport) void __cdecl _invoke_watson(
-      wchar_t const* _Expression,
-      wchar_t const* _FunctionName,
-      wchar_t const* _FileName,
-            unsigned int _LineNo,
-            uintptr_t _Reserved);
-
-
-    
-        
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 308 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 329 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-        
-
-
-    #line 338 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-        
-    #line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 358 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-        
-    #line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 366 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 370 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-    
-#line 407 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-#line 416 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 417 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-        
-
-
-            
-        #line 427 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    #line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-#line 439 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-        
-
-
-
-    #line 449 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 450 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-        
-    
-
-
-
-#line 459 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-    
-        
-        
-        
-    
-
-
-
-#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-    
-        
-              
-        
-
-#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-
-
-
-#line 481 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-    
-        
-    
-
-
-
-#line 489 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-    
-        
-    
-
-
-
-#line 497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-#line 502 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-typedef int                           errno_t;
-typedef unsigned short                wint_t;
-typedef unsigned short                wctype_t;
-typedef long                          __time32_t;
-typedef __int64                       __time64_t;
-
-typedef struct __crt_locale_data_public
-{
-      unsigned short const* _locale_pctype;
-      int _locale_mb_cur_max;
-               unsigned int _locale_lc_codepage;
-} __crt_locale_data_public;
-
-typedef struct __crt_locale_pointers
-{
-    struct __crt_locale_data*    locinfo;
-    struct __crt_multibyte_data* mbcinfo;
-} __crt_locale_pointers;
-
-typedef __crt_locale_pointers* _locale_t;
-
-typedef struct _Mbstatet
-{ 
-    unsigned long _Wchar;
-    unsigned short _Byte, _State;
-} _Mbstatet;
-
-typedef _Mbstatet mbstate_t;
-
-
-
-#line 542 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-#line 546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-        typedef __time64_t time_t;
-    #line 553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 554 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-    
-#line 559 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    typedef size_t rsize_t;
-#line 563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-    
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 740 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1815 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-        
-        
-        
-        
-
-        
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-
-            
-
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-            
-
-
-
-            
-
-
-
-            
-
-
-
-            
-
-
-            
-
-
-
-            
-
-
-
-
-            
-
-            
-
-
-
-
-            
-
-            
-
-
-
-
-            
-
-            
-
-
-
-
-            
-
-            
-
-
-
-
-            
-
-            
-
-
-
-
-            
-
-            
-
-
-
-
-            
-
-            
-
-
-
-
-            
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 2005 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    #line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 2007 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-} __pragma(pack(pop))
-#pragma external_header(pop)
-#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-__pragma(pack(push, 8)) extern "C" {
-
-
-
-
-
-
-
-
-
-
-
-    __declspec(dllimport) void __cdecl _wassert(
-          wchar_t const* _Message,
-          wchar_t const* _File,
-            unsigned       _Line
-        );
-
-    
-
-
-
-
-#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-
-
-} __pragma(pack(pop))
-#pragma external_header(pop)
-#line 2 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-#pragma once
-
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
-
-
-
-
-
-#pragma once
-
-
-
-
-
-
-
-
-#line 16 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
-
-#line 18 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
-#line 19 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#line 353 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
 
 
 
@@ -8023,7 +6192,7 @@ __pragma(pack(push, 8)) extern "C" {
 #line 1427 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
 #line 1428 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals_core.h"
 #pragma external_header(pop)
-#line 10 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
+#line 10 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\iostream"
 
 #pragma external_header(push)
 #line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\istream"
@@ -8158,9 +6327,9 @@ __pragma(pack(push, 8)) extern "C" {
 #line 69 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\limits.h"
 
 
-    
-        
-    #line 74 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\limits.h"
+
+
+
 #line 75 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\limits.h"
 
 } __pragma(pack(pop))
@@ -8197,7 +6366,20 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
+
+
+
+
+
+
+
+#pragma once
+
+
+
+#pragma external_header(push)
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -8210,6 +6392,2056 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
+
+
+
+
+
+
+
+
+    
+
+
+        
+    #line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 27 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+    
+#line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+#line 47 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+        
+    #line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        
+    #line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 72 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
+
+__pragma(pack(push, 8)) extern "C" {
+
+
+
+
+
+
+
+    
+
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+        
+    
+
+#line 92 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 93 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+    
+#line 99 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+#line 104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+        
+    
+
+#line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+    
+
+
+#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+    
+#line 153 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+        
+    #line 171 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+#line 178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 182 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+#line 184 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+extern "C++"
+{
+    template<bool _Enable, typename _Ty>
+    struct _CrtEnableIf;
+
+    template<typename _Ty>
+    struct _CrtEnableIf<true, _Ty>
+    {
+        typedef _Ty _Type;
+    };
+}
+#line 211 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    typedef bool  __crt_bool;
+
+
+
+
+
+
+#line 221 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+    
+        
+    #line 234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+#line 243 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+#line 265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+        
+    #line 267 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+#line 276 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+ 
+  
+
+#line 282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+   
+  #line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+ 
+
+
+
+
+
+#line 291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 292 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+    #line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 320 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+#line 324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+        
+    
+
+#line 331 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    __declspec(dllimport) void __cdecl _invalid_parameter(
+          wchar_t const*,
+          wchar_t const*,
+          wchar_t const*,
+                unsigned int,
+                uintptr_t
+        );
+#line 356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+__declspec(dllimport) void __cdecl _invalid_parameter_noinfo(void);
+__declspec(dllimport) __declspec(noreturn) void __cdecl _invalid_parameter_noinfo_noreturn(void);
+
+__declspec(noreturn)
+__declspec(dllimport) void __cdecl _invoke_watson(
+      wchar_t const* _Expression,
+      wchar_t const* _FunctionName,
+      wchar_t const* _FileName,
+            unsigned int _LineNo,
+            uintptr_t _Reserved);
+
+
+    
+        
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+#line 405 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 409 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        
+
+
+    #line 418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 419 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+        
+    #line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        
+    #line 445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 450 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 464 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 480 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+    
+#line 487 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 491 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+#line 496 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        
+
+
+            
+        #line 507 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    #line 508 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 509 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 513 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+#line 519 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        
+
+
+
+    #line 529 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 530 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+        
+    
+
+
+
+#line 539 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+    
+        
+        
+        
+    
+
+
+
+#line 549 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+    
+        
+              
+        
+
+#line 556 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+
+
+
+#line 561 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+    
+        
+    
+
+
+
+#line 569 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+    
+        
+    
+
+
+
+#line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 578 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+#line 582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+typedef int                           errno_t;
+typedef unsigned short                wint_t;
+typedef unsigned short                wctype_t;
+typedef long                          __time32_t;
+typedef __int64                       __time64_t;
+
+typedef struct __crt_locale_data_public
+{
+      unsigned short const* _locale_pctype;
+      int _locale_mb_cur_max;
+               unsigned int _locale_lc_codepage;
+} __crt_locale_data_public;
+
+typedef struct __crt_locale_pointers
+{
+    struct __crt_locale_data*    locinfo;
+    struct __crt_multibyte_data* mbcinfo;
+} __crt_locale_pointers;
+
+typedef __crt_locale_pointers* _locale_t;
+
+typedef struct _Mbstatet
+{ 
+    unsigned long _Wchar;
+    unsigned short _Byte, _State;
+} _Mbstatet;
+
+typedef _Mbstatet mbstate_t;
+
+
+
+#line 622 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 626 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        typedef __time64_t time_t;
+    #line 633 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 634 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+    
+#line 639 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    typedef size_t rsize_t;
+#line 643 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+    
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 813 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 814 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 1865 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+        
+        
+        
+        
+
+        
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+
+            
+
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+            
+
+
+
+            
+
+
+
+            
+
+
+
+            
+
+
+            
+
+
+
+            
+
+
+
+
+            
+
+            
+
+
+
+
+            
+
+            
+
+
+
+
+            
+
+            
+
+
+
+
+            
+
+            
+
+
+
+
+            
+
+            
+
+
+
+
+            
+
+            
+
+
+
+
+            
+
+            
+
+
+
+
+            
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 2055 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    #line 2056 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 2057 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+} __pragma(pack(pop))
+
+
+#pragma warning(pop) 
+#pragma external_header(pop)
+#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 #pragma external_header(push)
 #line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vcruntime_new_debug.h"
 
@@ -8481,7 +8713,11 @@ extern "C++" {
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8)) extern "C" {
 
@@ -8638,7 +8874,7 @@ typedef struct _CrtMemState
               _CRT_DUMP_CLIENT _PFnNewDump
             );
 
-    #line 171 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+    #line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
     __declspec(dllimport) int __cdecl _CrtCheckMemory(void);
 
@@ -8702,7 +8938,7 @@ typedef struct _CrtMemState
           int _NewFlag
         );
 
-#line 235 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+#line 239 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
 
 
@@ -9051,9 +9287,9 @@ typedef struct _CrtMemState
 
 
 
-#line 584 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+#line 588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
-#line 586 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+#line 590 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
 
 
@@ -9151,9 +9387,9 @@ typedef struct _CrtMemState
               _CRT_REPORT_HOOKW _PFnNewHook
             );
 
-    #line 684 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+    #line 688 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
-#line 686 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+#line 690 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
 
 
@@ -9204,15 +9440,15 @@ typedef struct _CrtMemState
 
 
 
-    #line 737 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
-
-    
-        
-    #line 741 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+    #line 741 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
     
         
-    #line 745 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+    #line 745 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
+
+    
+        
+    #line 749 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
     
 
@@ -9234,7 +9470,7 @@ typedef struct _CrtMemState
     
     
 
-#line 767 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+#line 771 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
 
 
@@ -9249,7 +9485,7 @@ typedef struct _CrtMemState
 
 
     
-#line 782 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+#line 786 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 
 
 
@@ -9278,7 +9514,9 @@ typedef struct _CrtMemState
 
 
 } __pragma(pack(pop))
-#line 811 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\crtdbg.h"
+
+#pragma warning(pop) 
+#line 817 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\crtdbg.h"
 #pragma external_header(pop)
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\yvals.h"
 #pragma external_header(push)
@@ -9962,7 +10200,7 @@ private:
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\math.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\math.h"
 
 
 
@@ -9974,7 +10212,7 @@ private:
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -9988,13 +10226,11 @@ private:
 
 
 
-__pragma(pack(push, 8)) extern "C" {
-
 #pragma warning(push)
-#pragma warning(disable:4738) 
-#pragma warning(disable:4820) 
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
+__pragma(pack(push, 8)) extern "C" {
 
 
     
@@ -10021,9 +10257,9 @@ __pragma(pack(push, 8)) extern "C" {
         
 
 
-#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
-    #line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
-#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
+    #line 47 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -10034,10 +10270,10 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 61 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
     typedef float  float_t;
     typedef double double_t;
-#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -10057,12 +10293,12 @@ __pragma(pack(push, 8)) extern "C" {
         extern double const _HUGE;
     
 
-#line 84 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
-#line 85 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 82 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
     
-#line 89 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -10434,7 +10670,7 @@ extern "C++"
         return _fpcomp(_X, _Y) == 0;
     }
 }  
-#line 461 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 459 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -10561,7 +10797,7 @@ extern "C++"
 
           __declspec(dllimport) int  __cdecl _set_SSE2_enable(  int _Flag);
 
-    #line 588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 586 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
     
 
@@ -10574,12 +10810,12 @@ extern "C++"
 
 
 
-#line 601 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 599 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
 
-#line 606 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 604 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -10594,7 +10830,7 @@ extern "C++"
 
 
 
-#line 621 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 619 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
           __inline float __cdecl acosf(  float _X)
         {
@@ -10636,27 +10872,27 @@ extern "C++"
             return (float)exp(_X);
         }
 
-    #line 663 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 661 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
     
 
 
 
-#line 669 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 667 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
           __inline float __cdecl fabsf(  float _X)
         {
             return (float)fabs(_X);
         }
 
-    #line 676 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 674 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
     
 
 
 
 
-#line 683 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 681 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
           __inline float __cdecl floorf(  float _X)
         {
@@ -10668,7 +10904,7 @@ extern "C++"
             return (float)fmod(_X, _Y);
         }
 
-    #line 695 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
       __inline float __cdecl frexpf(  float _X,   int *_Y)
     {
@@ -10697,7 +10933,7 @@ extern "C++"
 
 
 
-#line 724 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 722 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
           __inline float __cdecl log10f(  float _X)
         {
@@ -10747,7 +10983,7 @@ extern "C++"
             return (float)tanh(_X);
         }
 
-    #line 774 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 772 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
       __declspec(dllimport) long double __cdecl acoshl(  long double _X);
 
@@ -10935,7 +11171,7 @@ extern "C++"
 
 
 
-#line 962 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 960 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -10953,7 +11189,7 @@ extern "C++"
             extern double HUGE;
         
 
-#line 980 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 978 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_j0" ". See online help for details."))   __declspec(dllimport) double __cdecl j0(  double _X);
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_j1" ". See online help for details."))   __declspec(dllimport) double __cdecl j1(  double _X);
@@ -10961,17 +11197,16 @@ extern "C++"
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_y0" ". See online help for details."))   __declspec(dllimport) double __cdecl y0(  double _X);
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_y1" ". See online help for details."))   __declspec(dllimport) double __cdecl y1(  double _X);
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_yn" ". See online help for details."))   __declspec(dllimport) double __cdecl yn(  int _X,   double _Y);
-    #line 988 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 986 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
-#line 990 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
-
-
-#pragma warning(pop)
+#line 988 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 } __pragma(pack(pop))
-#line 996 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+
+#pragma warning(pop) 
+#line 993 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 #pragma external_header(pop)
-#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\math.h"
+#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\math.h"
 
 
 
@@ -10979,7 +11214,7 @@ extern "C++"
 #pragma external_header(pop)
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cstdlib"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -10993,7 +11228,7 @@ extern "C++"
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_malloc.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_malloc.h"
 
 
 
@@ -11004,6 +11239,10 @@ extern "C++"
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -11044,7 +11283,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 52 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_malloc.h"
+#line 56 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_malloc.h"
 
      
 __declspec(dllimport) __declspec(allocator) __declspec(restrict)
@@ -11217,15 +11456,17 @@ void* __cdecl _aligned_recalloc(
 
 
 
-#line 225 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_malloc.h"
+#line 229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_malloc.h"
 
 
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
 
 
 
@@ -11240,7 +11481,7 @@ void* __cdecl _aligned_recalloc(
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
 
@@ -11252,6 +11493,10 @@ void* __cdecl _aligned_recalloc(
 
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -11265,7 +11510,7 @@ __pragma(pack(push, 8)) extern "C" {
     }
 
     using ::std::nullptr_t;
-#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
 
@@ -11277,7 +11522,7 @@ __pragma(pack(push, 8)) extern "C" {
     __declspec(dllimport) errno_t __cdecl _set_errno(  int _Value);
     __declspec(dllimport) errno_t __cdecl _get_errno(  int* _Value);
 
-#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 42 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
 
@@ -11287,9 +11532,9 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 52 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
     
-#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 54 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 __declspec(dllimport) extern unsigned long  __cdecl __threadid(void);
 
@@ -11298,9 +11543,15 @@ __declspec(dllimport) extern uintptr_t __cdecl __threadhandle(void);
 
 
 } __pragma(pack(pop))
-#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+
+#pragma warning(pop) 
+#line 65 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 #pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8)) extern "C" {
 
@@ -11329,7 +11580,7 @@ __pragma(pack(push, 8)) extern "C" {
                                                          void*   _Context
         );
 
-#line 44 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
 
 
 
@@ -11470,7 +11721,7 @@ __declspec(dllimport) void* __cdecl _lsearch(
 
 
 
-#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
 
 
 
@@ -11494,15 +11745,17 @@ __declspec(dllimport) void* __cdecl _lsearch(
                                    _CoreCrtNonSecureSearchSortCompareFunction _CompareFunction
         );
 
-#line 209 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 213 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
 
 
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
 
 
@@ -11513,6 +11766,10 @@ __declspec(dllimport) void* __cdecl _lsearch(
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -11560,10 +11817,10 @@ __pragma(pack(push, 8)) extern "C" {
         );
 
     extern "C++" { template <size_t _Size> inline errno_t __cdecl _itow_s(  int _Value, wchar_t (&_Buffer)[_Size],   int _Radix) throw() { return _itow_s(_Value, _Buffer, _Size, _Radix); } }
-#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      __declspec(dllimport) wchar_t* __cdecl _itow( int _Value,   wchar_t *_Buffer,  int _Radix);
-#line 70 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 74 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      
     
@@ -11575,10 +11832,10 @@ __pragma(pack(push, 8)) extern "C" {
         );
 
     extern "C++" { template <size_t _Size> inline errno_t __cdecl _ltow_s(  long _Value, wchar_t (&_Buffer)[_Size],   int _Radix) throw() { return _ltow_s(_Value, _Buffer, _Size, _Radix); } }
-#line 86 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      __declspec(dllimport) wchar_t* __cdecl _ltow( long _Value,   wchar_t *_Buffer,  int _Radix);
-#line 93 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 97 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
     
     __declspec(dllimport) errno_t __cdecl _ultow_s(
@@ -11589,10 +11846,10 @@ __pragma(pack(push, 8)) extern "C" {
         );
 
     extern "C++" { template <size_t _Size> inline errno_t __cdecl _ultow_s(  unsigned long _Value, wchar_t (&_Buffer)[_Size],   int _Radix) throw() { return _ultow_s(_Value, _Buffer, _Size, _Radix); } }
-#line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      __declspec(dllimport) wchar_t* __cdecl _ultow( unsigned long _Value,   wchar_t *_Buffer,  int _Radix);
-#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      
     __declspec(dllimport) double __cdecl wcstod(
@@ -11832,14 +12089,10 @@ __pragma(pack(push, 8)) extern "C" {
         );
 
     extern "C++" { template <size_t _Size> inline errno_t __cdecl _wmakepath_s(wchar_t (&_Buffer)[_Size],   wchar_t const* _Drive,   wchar_t const* _Dir,   wchar_t const* _Filename,   wchar_t const* _Ext) throw() { return _wmakepath_s(_Buffer, _Size, _Drive, _Dir, _Filename, _Ext); } }
-#line 361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
  __declspec(dllimport) void __cdecl _wmakepath(  wchar_t *_Buffer,  wchar_t const* _Drive,  wchar_t const* _Dir,  wchar_t const* _Filename,  wchar_t const* _Ext);
-#line 373 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
-#pragma warning(pop)
+#line 374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
     __declspec(dllimport) void __cdecl _wperror(
           wchar_t const* _ErrorMessage
@@ -11867,7 +12120,7 @@ __pragma(pack(push, 8)) extern "C" {
         );
 
     extern "C++" { template <size_t _DriveSize, size_t _DirSize, size_t _NameSize, size_t _ExtSize> inline errno_t __cdecl _wsplitpath_s(   wchar_t const* _Path,   wchar_t (&_Drive)[_DriveSize],   wchar_t (&_Dir)[_DirSize],   wchar_t (&_Name)[_NameSize],   wchar_t (&_Ext)[_ExtSize] ) throw() { return _wsplitpath_s(_Path, _Drive, _DriveSize, _Dir, _DirSize, _Name, _NameSize, _Ext, _ExtSize); } }
-#line 404 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 404 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
         
         
@@ -11896,7 +12149,7 @@ __pragma(pack(push, 8)) extern "C" {
             );
 
         extern "C++" { template <size_t _Size> inline   errno_t __cdecl _wgetenv_s(  size_t* _RequiredCount, wchar_t (&_Buffer)[_Size],   wchar_t const* _VarName) throw() { return _wgetenv_s(_RequiredCount, _Buffer, _Size, _VarName); } }
-#line 438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
          
         __declspec(dllimport) int __cdecl _wputenv(
@@ -11917,22 +12170,28 @@ __pragma(pack(push, 8)) extern "C" {
             );
 
         extern "C++" { template <size_t _Size> inline errno_t __cdecl _wsearchenv_s(  wchar_t const* _Filename,   wchar_t const* _VarName, wchar_t (&_ResultPath)[_Size]) throw() { return _wsearchenv_s(_Filename, _VarName, _ResultPath, _Size); } }
-#line 463 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 463 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
          __declspec(dllimport) void __cdecl _wsearchenv( wchar_t const* _Filename,  wchar_t const* _VarName,   wchar_t *_ResultPath);
-#line 470 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 470 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
         __declspec(dllimport) int __cdecl _wsystem(
               wchar_t const* _Command
             );
 
-#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
 
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 16 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 16 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -11941,7 +12200,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
     
-#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -11974,7 +12233,7 @@ __declspec(dllimport) void __cdecl _swab(
     __declspec(dllimport) __declspec(noreturn) void __cdecl _Exit(  int _Code);
     __declspec(dllimport) __declspec(noreturn) void __cdecl quick_exit(  int _Code);
     __declspec(dllimport) __declspec(noreturn) void __cdecl abort(void);
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -11994,12 +12253,12 @@ __declspec(dllimport) unsigned int __cdecl _set_abort_behavior(
     
 
 
-#line 78 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 82 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
     
     
-#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12059,7 +12318,7 @@ __declspec(dllimport) unsigned int __cdecl _set_abort_behavior(
 
     int       __cdecl atexit(void (__cdecl*)(void));
     _onexit_t __cdecl _onexit(  _onexit_t _Func);
-#line 143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 int __cdecl at_quick_exit(void (__cdecl*)(void));
 
@@ -12102,7 +12361,7 @@ int __cdecl at_quick_exit(void (__cdecl*)(void));
         );
 
     __declspec(dllimport) _invalid_parameter_handler __cdecl _get_thread_local_invalid_parameter_handler(void);
-#line 186 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12115,7 +12374,7 @@ int __cdecl at_quick_exit(void (__cdecl*)(void));
 
 
 
-#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12150,7 +12409,7 @@ int __cdecl at_quick_exit(void (__cdecl*)(void));
     
 
     __declspec(dllimport) void __cdecl perror(  char const* _ErrMsg);
-#line 234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12169,7 +12428,7 @@ int __cdecl at_quick_exit(void (__cdecl*)(void));
     
     
     
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 257 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
 __declspec(dllimport) errno_t __cdecl _get_pgmptr (  char**    _Value);
@@ -12221,8 +12480,8 @@ typedef struct _lldiv_t
 
 
 
-#pragma warning (push)
-#pragma warning (disable:6540)
+#pragma warning(push)
+#pragma warning(disable: 6540)
 
 unsigned int __cdecl _rotl(
       unsigned int _Value,
@@ -12256,7 +12515,7 @@ unsigned __int64 __cdecl _rotr64(
       int              _Shift
     );
 
-#pragma warning (pop)
+#pragma warning(pop)
 
 
 
@@ -12269,7 +12528,7 @@ __declspec(dllimport) void __cdecl srand(  unsigned int _Seed);
 
 
 
-#line 353 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12296,7 +12555,7 @@ extern "C++"
         return lldiv(_A1, _A2);
     }
 }
-#line 380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12326,7 +12585,7 @@ extern "C++"
 
 
 
-#line 410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 414 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 typedef struct
 {
@@ -12547,14 +12806,10 @@ __declspec(dllimport) errno_t __cdecl _itoa_s(
     );
 
 extern "C++" { template <size_t _Size> inline   errno_t __cdecl _itoa_s(  int _Value, char (&_Buffer)[_Size],   int _Radix) throw() { return _itoa_s(_Value, _Buffer, _Size, _Radix); } }
-#line 636 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 640 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
  __declspec(dllimport) char* __cdecl _itoa( int _Value,   char *_Buffer,  int _Radix);
-#line 646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
-#pragma warning(pop)
+#line 647 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
 
@@ -12566,10 +12821,10 @@ __declspec(dllimport) errno_t __cdecl _ltoa_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _ltoa_s(  long _Value, char (&_Buffer)[_Size],   int _Radix) throw() { return _ltoa_s(_Value, _Buffer, _Size, _Radix); } }
-#line 663 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 663 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) char* __cdecl _ltoa( long _Value,   char *_Buffer,  int _Radix);
-#line 670 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 670 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
 
@@ -12581,13 +12836,10 @@ __declspec(dllimport) errno_t __cdecl _ultoa_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _ultoa_s(  unsigned long _Value, char (&_Buffer)[_Size],   int _Radix) throw() { return _ultoa_s(_Value, _Buffer, _Size, _Radix); } }
-#line 686 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 686 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28726) 
  __declspec(dllimport) char* __cdecl _ultoa( unsigned long _Value,   char *_Buffer,  int _Radix);
-#line 695 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
-#pragma warning(pop)
+#line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
 
@@ -12646,7 +12898,7 @@ __declspec(dllimport) errno_t __cdecl _ecvt_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _ecvt_s(char (&_Buffer)[_Size],   double _Value,   int _DigitCount,   int* _PtDec,   int* _PtSign) throw() { return _ecvt_s(_Buffer, _Size, _Value, _DigitCount, _PtDec, _PtSign); } }
-#line 761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 758 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
   
 __declspec(dllimport) char* __cdecl _ecvt(
@@ -12668,7 +12920,7 @@ __declspec(dllimport) errno_t __cdecl _fcvt_s(
     );
 
 extern "C++" { template <size_t _Size> inline   errno_t __cdecl _fcvt_s(char (&_Buffer)[_Size],   double _Value,   int _FractionalDigitCount,   int* _PtDec,   int* _PtSign) throw() { return _fcvt_s(_Buffer, _Size, _Value, _FractionalDigitCount, _PtDec, _PtSign); } }
-#line 790 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 787 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
   
@@ -12688,7 +12940,7 @@ __declspec(dllimport) errno_t __cdecl _gcvt_s(
     );
 
 extern "C++" { template <size_t _Size> inline   errno_t __cdecl _gcvt_s(char (&_Buffer)[_Size],   double _Value,   int _DigitCount) throw() { return _gcvt_s(_Buffer, _Size, _Value, _DigitCount); } }
-#line 815 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 812 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) char* __cdecl _gcvt(
@@ -12709,22 +12961,22 @@ __declspec(dllimport) char* __cdecl _gcvt(
 
     
 
-#line 836 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 833 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
         
-    #line 838 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+    #line 835 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
 
 
         
-    #line 844 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+    #line 841 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
      
     __declspec(dllimport) int __cdecl ___mb_cur_max_func(void);
 
      
     __declspec(dllimport) int __cdecl ___mb_cur_max_l_func(_locale_t _Locale);
-#line 851 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 848 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12794,10 +13046,10 @@ __declspec(dllimport) errno_t __cdecl mbstowcs_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl mbstowcs_s(  size_t* _PtNumOfCharConverted,   wchar_t (&_Dest)[_Size],   char const* _Source,   size_t _MaxCount) throw() { return mbstowcs_s(_PtNumOfCharConverted, _Dest, _Size, _Source, _MaxCount); } }
-#line 926 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 923 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) size_t __cdecl mbstowcs( wchar_t *_Dest,  char const* _Source,  size_t _MaxCount);
-#line 933 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 930 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) errno_t __cdecl _mbstowcs_s_l(
@@ -12810,10 +13062,10 @@ __declspec(dllimport) errno_t __cdecl _mbstowcs_s_l(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _mbstowcs_s_l(  size_t* _PtNumOfCharConverted,   wchar_t (&_Dest)[_Size],   char const* _Source,   size_t _MaxCount,   _locale_t _Locale) throw() { return _mbstowcs_s_l(_PtNumOfCharConverted, _Dest, _Size, _Source, _MaxCount, _Locale); } }
-#line 952 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 949 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) size_t __cdecl _mbstowcs_l(  wchar_t *_Dest,   char const* _Source,   size_t _MaxCount,   _locale_t _Locale);
-#line 961 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 958 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12841,7 +13093,7 @@ __declspec(dllimport) int __cdecl _wctomb_l(
                                                               wchar_t _WCh
         );
 
-#line 989 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 986 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wctomb_s_l(
@@ -12861,10 +13113,10 @@ __declspec(dllimport) errno_t __cdecl wcstombs_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl wcstombs_s(  size_t* _PtNumOfCharConverted,   char (&_Dest)[_Size],   wchar_t const* _Source,   size_t _MaxCount) throw() { return wcstombs_s(_PtNumOfCharConverted, _Dest, _Size, _Source, _MaxCount); } }
-#line 1014 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1011 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) size_t __cdecl wcstombs( char *_Dest,  wchar_t const* _Source,  size_t _MaxCount);
-#line 1021 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1018 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcstombs_s_l(
@@ -12877,10 +13129,10 @@ __declspec(dllimport) errno_t __cdecl _wcstombs_s_l(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcstombs_s_l(  size_t* _PtNumOfCharConverted,   char (&_Dest)[_Size],   wchar_t const* _Source,   size_t _MaxCount,   _locale_t _Locale) throw() { return _wcstombs_s_l(_PtNumOfCharConverted, _Dest, _Size, _Source, _MaxCount, _Locale); } }
-#line 1040 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1037 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) size_t __cdecl _wcstombs_l(  char *_Dest,   wchar_t const* _Source,   size_t _MaxCount,   _locale_t _Locale);
-#line 1049 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1046 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12922,14 +13174,10 @@ __declspec(dllimport) errno_t __cdecl _makepath_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _makepath_s(char (&_Buffer)[_Size],   char const* _Drive,   char const* _Dir,   char const* _Filename,   char const* _Ext) throw() { return _makepath_s(_Buffer, _Size, _Drive, _Dir, _Filename, _Ext); } }
-#line 1097 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1094 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
  __declspec(dllimport) void __cdecl _makepath(  char *_Buffer,  char const* _Drive,  char const* _Dir,  char const* _Filename,  char const* _Ext);
-#line 1109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
-#pragma warning(pop)
+#line 1103 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) void __cdecl _splitpath(
@@ -12966,7 +13214,7 @@ __declspec(dllimport) errno_t __cdecl getenv_s(
                                 char const* _VarName
     );
 
-#line 1147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -12983,14 +13231,14 @@ __declspec(dllimport) wchar_t*** __cdecl __p___wargv(void);
     
     
     
-#line 1164 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 __declspec(dllimport) char***    __cdecl __p__environ (void);
 __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
 
     
-#line 1171 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1164 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -13000,7 +13248,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
     
     
-#line 1181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1174 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -13016,12 +13264,12 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
         );
 
     extern "C++" { template <size_t _Size> inline errno_t __cdecl getenv_s(  size_t* _RequiredCount, char (&_Buffer)[_Size],   char const* _VarName) throw() { return getenv_s(_RequiredCount, _Buffer, _Size, _VarName); } }
-#line 1201 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1194 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
 
 
-#line 1206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
     __declspec(dllimport) errno_t __cdecl _dupenv_s(
@@ -13032,7 +13280,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
     
 
-#line 1217 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1210 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     __declspec(dllimport) int __cdecl system(
           char const* _Command
@@ -13040,8 +13288,8 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
     
     
-    #pragma warning (push)
-    #pragma warning (disable:6540)
+    #pragma warning(push)
+    #pragma warning(disable: 6540)
 
      
     __declspec(dllimport) int __cdecl _putenv(
@@ -13054,7 +13302,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
           char const* _Value
         );
 
-    #pragma warning (pop)
+    #pragma warning(pop)
 
     __declspec(dllimport) errno_t __cdecl _searchenv_s(
                                 char const* _Filename,
@@ -13064,10 +13312,10 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
         );
 
     extern "C++" { template <size_t _Size> inline errno_t __cdecl _searchenv_s(  char const* _Filename,   char const* _VarName, char (&_Buffer)[_Size]) throw() { return _searchenv_s(_Filename, _VarName, _Buffer, _Size); } }
-#line 1253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
      __declspec(dllimport) void __cdecl _searchenv( char const* _Filename,  char const* _VarName,   char *_Buffer);
-#line 1260 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
     __declspec(deprecated("This function or variable has been superceded by newer library " "or operating system functionality. Consider using " "SetErrorMode" " " "instead. See online help for details."))
@@ -13086,7 +13334,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
           unsigned long _Duration
         );
 
-#line 1279 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -13170,12 +13418,14 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
     _onexit_t __cdecl onexit(  _onexit_t _Func);
 
-#line 1363 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
 } __pragma(pack(pop))
-#line 1368 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+
+#pragma warning(pop) 
+#line 1363 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 #pragma external_header(pop)
 #line 14 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cstdlib"
 
@@ -15277,7 +15527,7 @@ using :: isunordered;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -15291,7 +15541,7 @@ using :: isunordered;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -15305,7 +15555,7 @@ using :: isunordered;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
@@ -15315,20 +15565,24 @@ using :: isunordered;
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 17 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 21 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
-#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
     
-#line 24 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
     
@@ -15337,8 +15591,8 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
-#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
+#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
@@ -15362,28 +15616,28 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
-#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
     
         
 
 
             #pragma detect_mismatch("_CRT_STDIO_ISO_WIDE_SPECIFIERS", "0")
-        #line 70 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
-    #line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
-#line 72 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+        #line 74 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
+    #line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
+#line 76 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
 
 
-#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
     
@@ -15405,11 +15659,12 @@ __pragma(pack(push, 8)) extern "C" {
         static unsigned __int64 _OptionsStorage;
         return &_OptionsStorage;
     }
-#line 101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
-#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
+
 
 
 
@@ -15430,11 +15685,16 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8)) extern "C" {
-
 
 
 
@@ -15447,7 +15707,7 @@ __pragma(pack(push, 8)) extern "C" {
     {
         void* _Placeholder;
     } FILE;
-#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
@@ -15514,7 +15774,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         );
 
     extern "C++" { template <size_t _Size> inline   wchar_t* __cdecl _getws_s( wchar_t (&_Buffer)[_Size]) throw() { return _getws_s(_Buffer, _Size); } }
-#line 100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 103 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __declspec(dllimport) wint_t __cdecl putwc(
@@ -15592,7 +15852,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
               wchar_t const* _Mode
             );
 
-    #line 178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     __declspec(dllimport) int __cdecl _wremove(
           wchar_t const* _FileName
@@ -15617,10 +15877,10 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         );
 
     extern "C++" { template <size_t _Size> inline   errno_t __cdecl _wtmpnam_s( wchar_t (&_Buffer)[_Size]) throw() { return _wtmpnam_s(_Buffer, _Size); } }
-#line 206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 209 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      __declspec(dllimport)  wchar_t* __cdecl _wtmpnam(  wchar_t *_Buffer);
-#line 212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -15661,7 +15921,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
 
 
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -15713,11 +15973,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 305 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 308 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vfwprintf(
@@ -15727,11 +15987,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 322 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l(_Stream, _Format, 0, _ArgList);
     }
-    #line 323 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_s_l(
@@ -15742,11 +16002,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 334 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 337 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf_s((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 338 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -15758,13 +16018,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 350 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 353 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwprintf_s_l(_Stream, _Format, 0, _ArgList);
         }
-    #line 354 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 359 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_p_l(
@@ -15775,11 +16035,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 367 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 370 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf_p((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 371 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_p(
@@ -15789,11 +16049,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 381 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l(_Stream, _Format, 0, _ArgList);
     }
-    #line 385 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_l(
@@ -15803,11 +16063,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 395 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 398 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vwprintf(
@@ -15816,11 +16076,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 408 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l((__acrt_iob_func(1)), _Format, 0, _ArgList);
     }
-    #line 412 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 415 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_s_l(
@@ -15830,11 +16090,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 425 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_s_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -15845,13 +16105,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 440 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwprintf_s_l((__acrt_iob_func(1)), _Format, 0, _ArgList);
         }
-    #line 441 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 444 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 443 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_p_l(
@@ -15861,11 +16121,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 453 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 456 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 457 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 460 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_p(
@@ -15874,11 +16134,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 466 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l((__acrt_iob_func(1)), _Format, 0, _ArgList);
     }
-    #line 470 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_l(
@@ -15888,7 +16148,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 480 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 483 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -15897,7 +16157,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 489 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 492 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl fwprintf(
@@ -15906,7 +16166,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 501 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -15915,7 +16175,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 507 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 510 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_s_l(
@@ -15925,7 +16185,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 517 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 520 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -15934,7 +16194,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 526 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 529 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -15945,7 +16205,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 537 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 540 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -15954,9 +16214,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 549 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 548 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 551 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_p_l(
@@ -15966,7 +16226,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 558 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 561 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -15975,7 +16235,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 567 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 570 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_p(
@@ -15984,7 +16244,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 576 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 579 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -15993,7 +16253,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_l(
@@ -16002,7 +16262,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 594 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 597 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16011,7 +16271,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 606 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl wprintf(
@@ -16019,7 +16279,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 611 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 614 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16028,7 +16288,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 620 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 623 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_s_l(
@@ -16037,7 +16297,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 629 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 632 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16046,7 +16306,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 638 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 641 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -16056,7 +16316,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 651 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -16065,9 +16325,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 657 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 660 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 659 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 662 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_p_l(
@@ -16076,7 +16336,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 668 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 671 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16085,7 +16345,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 677 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 680 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_p(
@@ -16093,7 +16353,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 685 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 688 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16102,7 +16362,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 694 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 697 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
     
@@ -16128,13 +16388,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 720 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwscanf(
             (*__local_stdio_scanf_options ()),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 726 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 729 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vfwscanf(
@@ -16144,11 +16404,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 736 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l(_Stream, _Format, 0, _ArgList);
     }
-    #line 740 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 743 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwscanf_s_l(
@@ -16159,13 +16419,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 751 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 754 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 757 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 760 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -16177,13 +16437,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 769 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 772 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwscanf_s_l(_Stream, _Format, 0, _ArgList);
         }
-    #line 773 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 776 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 775 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 778 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     __inline int __cdecl _vwscanf_l(
             wchar_t const* const _Format,
@@ -16192,11 +16452,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 784 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 787 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 788 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 791 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vwscanf(
@@ -16205,11 +16465,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 797 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 800 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l((__acrt_iob_func(0)), _Format, 0, _ArgList);
     }
-    #line 801 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 804 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwscanf_s_l(
@@ -16219,11 +16479,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 811 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 814 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_s_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 815 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 818 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -16234,13 +16494,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 826 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 829 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwscanf_s_l((__acrt_iob_func(0)), _Format, 0, _ArgList);
         }
-    #line 830 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 833 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 832 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 835 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     __inline int __cdecl _fwscanf_l(
@@ -16250,7 +16510,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 842 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 845 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16259,7 +16519,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 851 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 854 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
       
     __inline int __cdecl fwscanf(
@@ -16268,7 +16528,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 860 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 863 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16277,7 +16537,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 869 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 872 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwscanf_s_l(
@@ -16287,7 +16547,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 879 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16296,7 +16556,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 888 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -16307,7 +16567,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 899 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 902 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -16316,9 +16576,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 908 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 911 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 910 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 913 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     __inline int __cdecl _wscanf_l(
@@ -16327,7 +16587,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 919 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 922 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16336,7 +16596,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 928 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 931 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
       
     __inline int __cdecl wscanf(
@@ -16344,7 +16604,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 936 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 939 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16353,7 +16613,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 945 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wscanf_s_l(
@@ -16362,7 +16622,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 954 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 957 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16371,7 +16631,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 963 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 966 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -16381,7 +16641,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 973 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 976 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -16390,9 +16650,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 982 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 985 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 984 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 987 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -16408,7 +16668,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
     
 
-#line 1000 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1003 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16466,7 +16726,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1058 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1061 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()) | (1ULL << 0),
@@ -16474,10 +16734,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-    #pragma warning(push)
-    #pragma warning(disable: 4793)
+    #line 1069 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16491,7 +16748,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vsnwprintf_s(
             (*__local_stdio_printf_options()),
@@ -16499,7 +16756,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1091 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1091 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16512,16 +16769,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vsnwprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, 0, _ArgList);
     }
-    #line 1108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      __inline   int __cdecl _snwprintf(    wchar_t *_Buffer,   size_t _BufferCount,     wchar_t const* _Format, ...);  __inline   int __cdecl _vsnwprintf(    wchar_t *_Buffer,   size_t _BufferCount,     wchar_t const* _Format, va_list _Args);
-#line 1117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-    #pragma warning(pop)
+#line 1117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -16533,17 +16788,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vsnwprintf_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
-        #pragma warning(pop)
     }
-    #line 1138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1133 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     extern "C++" { template <size_t _Size> inline   int __cdecl _vsnwprintf_s( wchar_t (&_Buffer)[_Size],   size_t _BufferCount,     wchar_t const* _Format, va_list _ArgList) throw() { return _vsnwprintf_s(_Buffer, _Size, _BufferCount, _Format, _ArgList); } }
-#line 1147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16556,7 +16808,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1160 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()),
@@ -16564,7 +16816,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16576,11 +16828,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1180 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
     }
-    #line 1184 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16593,14 +16845,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1197 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1192 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
     }
-    #line 1204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1196 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16612,11 +16861,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_l(_Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1220 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16627,11 +16876,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1231 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1223 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_l(_Buffer, (size_t)-1, _Format, 0, _ArgList);
     }
-    #line 1235 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1227 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16643,11 +16892,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1239 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
     }
-    #line 1251 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1243 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16660,7 +16909,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1264 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_s(
             (*__local_stdio_printf_options()),
@@ -16668,7 +16917,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1264 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -16681,16 +16930,16 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 1285 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vswprintf_s_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
         }
-    #line 1289 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1281 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1283 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     extern "C++" { template <size_t _Size> inline   int __cdecl vswprintf_s( wchar_t (&_Buffer)[_Size],     wchar_t const* _Format, va_list _ArgList) throw() { return vswprintf_s(_Buffer, _Size, _Format, _ArgList); } }
-#line 1299 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16703,7 +16952,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1304 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_p(
             (*__local_stdio_printf_options()),
@@ -16711,7 +16960,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1320 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16723,11 +16972,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_p_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
     }
-    #line 1336 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1328 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -16738,7 +16987,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -16746,7 +16995,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1355 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -16756,11 +17005,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vscwprintf_l(_Format, 0, _ArgList);
     }
-    #line 1369 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -16771,7 +17020,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1372 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_p(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -16779,7 +17028,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -16789,11 +17038,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1398 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1390 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vscwprintf_p_l(_Format, 0, _ArgList);
     }
-    #line 1402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1394 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16804,7 +17053,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1413 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1405 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16813,7 +17062,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1414 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16825,7 +17074,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1434 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16834,7 +17083,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1443 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1435 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16844,7 +17093,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1453 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16853,7 +17102,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1462 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1454 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16864,7 +17113,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1465 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16873,20 +17122,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1482 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-    #pragma warning(push)
-    
-    
-    #pragma warning(disable:4793 4996)
+    #line 1474 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      __inline   int __cdecl __swprintf_l(   wchar_t *_Buffer,     wchar_t const* _Format,   _locale_t _Locale, ...);  __inline   int __cdecl __vswprintf_l(   wchar_t *_Buffer,     wchar_t const* _Format,   _locale_t _Locale, va_list _Args);
-#line 1496 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1483 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      __inline   int __cdecl _swprintf(   wchar_t *_Buffer,     wchar_t const* _Format, ...);  __inline   int __cdecl _vswprintf(   wchar_t *_Buffer,     wchar_t const* _Format, va_list _Args);
-#line 1503 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-    #pragma warning(pop)
+#line 1490 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16898,7 +17140,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1517 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1502 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16907,7 +17149,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1526 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1511 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -16919,7 +17161,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 1538 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1523 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -16928,12 +17170,12 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1547 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1532 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1549 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1534 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    extern "C++" { __pragma(warning(push)); __pragma(warning(disable: 4793)); template <size_t _Size> inline   int __cdecl swprintf_s( wchar_t (&_Buffer)[_Size],     wchar_t const* _Format, ...) throw() { va_list _ArgList; ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1)))))); return vswprintf_s(_Buffer, _Size, _Format, _ArgList); } __pragma(warning(pop)); }
-#line 1556 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    extern "C++" { template <size_t _Size> inline   int __cdecl swprintf_s( wchar_t (&_Buffer)[_Size],     wchar_t const* _Format, ...) throw() { va_list _ArgList; ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1)))))); return vswprintf_s(_Buffer, _Size, _Format, _ArgList); } }
+#line 1541 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16945,7 +17187,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16954,7 +17196,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1562 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16965,7 +17207,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1573 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16974,7 +17216,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1597 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -16986,7 +17228,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1609 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1594 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -16995,7 +17237,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1618 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17006,7 +17248,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1629 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1614 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17015,7 +17257,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1638 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1623 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -17027,21 +17269,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1650 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1635 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Locale)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Locale))) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnwprintf_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1664 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17052,21 +17291,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1675 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1657 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnwprintf_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1689 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1668 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17079,7 +17315,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1702 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1681 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17088,7 +17324,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1711 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1690 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17100,7 +17336,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1702 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17109,10 +17345,10 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1732 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1711 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    extern "C++" { __pragma(warning(push)); __pragma(warning(disable: 4793)); template <size_t _Size> inline   int __cdecl _snwprintf_s( wchar_t (&_Buffer)[_Size],   size_t _BufferCount,     wchar_t const* _Format, ...) throw() { va_list _ArgList; ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1)))))); return _vsnwprintf_s(_Buffer, _Size, _BufferCount, _Format, _ArgList); } __pragma(warning(pop)); }
-#line 1740 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    extern "C++" { template <size_t _Size> inline   int __cdecl _snwprintf_s( wchar_t (&_Buffer)[_Size],   size_t _BufferCount,     wchar_t const* _Format, ...) throw() { va_list _ArgList; ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1)))))); return _vsnwprintf_s(_Buffer, _Size, _BufferCount, _Format, _ArgList); } }
+#line 1719 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     __inline int __cdecl _scwprintf_l(
@@ -17121,7 +17357,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1749 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1728 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17130,7 +17366,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1758 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1737 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -17139,7 +17375,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1767 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1746 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17148,7 +17384,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1776 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1755 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -17158,7 +17394,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1786 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1765 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17167,7 +17403,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1795 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1774 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -17176,7 +17412,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1804 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1783 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17185,12 +17421,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1813 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1792 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
     
+        
+        
         #pragma warning(push)
-        #pragma warning(disable: 4141 4412 4793 4996 6054)
+        #pragma warning(disable: 4141 6054)
 
         
 
@@ -17203,7 +17441,6 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
                 int _Result;
                 va_list _ArgList;
                 ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
-                #pragma warning(suppress: 28719)
                 _Result = vswprintf(_Buffer, 2147483647, _Format, _ArgList);
                 ((void)(_ArgList = (va_list)0));
                 return _Result;
@@ -17216,7 +17453,6 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
                                               va_list              _ArgList
                 ) throw()
             {
-                #pragma warning(suppress: 28719)
                 return vswprintf(_Buffer, 2147483647, _Format, _ArgList);
             }
 
@@ -17246,17 +17482,17 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
                 return _vswprintf_l(_Buffer, (size_t)-1, _Format, _Locale, _ArgList);
             }
 
-        #line 1874 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+        #line 1853 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
         #pragma warning(pop)
-    #line 1877 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1856 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
 
 
 
-#line 1884 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1863 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
     
@@ -17284,13 +17520,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1918 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1897 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17301,11 +17537,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1929 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1908 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswscanf_l(_Buffer, _Format, 0, _ArgList);
     }
-    #line 1933 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17317,13 +17553,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1945 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1924 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1951 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1930 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -17336,16 +17572,16 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 1964 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1943 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vswscanf_s_l(_Buffer, _Format, 0, _ArgList);
         }
-    #line 1968 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1947 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1970 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1949 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     extern "C++" { template <size_t _Size> inline   int __cdecl vswscanf_s(  wchar_t (&_Buffer)[_Size],     wchar_t const* _Format, va_list _ArgList) throw() { return vswscanf_s(_Buffer, _Size, _Format, _ArgList); } }
-#line 1978 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1957 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -17358,13 +17594,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1991 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1970 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, _BufferCount, _Format, _Locale, _ArgList);
     }
-    #line 1997 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1976 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17377,13 +17613,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 2010 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1989 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, _BufferCount, _Format, _Locale, _ArgList);
     }
-    #line 2016 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1995 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -17394,7 +17630,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2027 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17403,7 +17639,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2036 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2015 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
       
@@ -17413,7 +17649,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2046 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2025 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17422,7 +17658,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2055 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2034 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17433,7 +17669,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2045 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17442,7 +17678,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2054 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -17454,7 +17690,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 2087 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -17463,9 +17699,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 2096 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 2098 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2077 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -17477,21 +17713,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2110 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2089 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Locale)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Locale))) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnwscanf_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -17502,21 +17735,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnwscanf_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2149 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17528,7 +17758,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17537,7 +17767,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -17548,7 +17778,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2154 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -17557,18 +17787,22 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
 
-#line 2195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-
+#line 2168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8)) extern "C" {
 
@@ -17603,7 +17837,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
     
-#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 53 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -17621,7 +17855,7 @@ __pragma(pack(push, 8)) extern "C" {
 
     
     
-#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 typedef __int64 fpos_t;
@@ -17652,10 +17886,11 @@ typedef __int64 fpos_t;
             );
 
         
+         
         __declspec(dllimport) errno_t __cdecl fopen_s(
               FILE**      _Stream,
-                                 char const* _FileName,
-                                 char const* _Mode
+                                     char const* _FileName,
+                                     char const* _Mode
             );
 
         
@@ -17694,7 +17929,7 @@ typedef __int64 fpos_t;
                                rsize_t _Size
             );
 
-    #line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) void __cdecl clearerr(
           FILE* _Stream
@@ -17867,7 +18102,7 @@ typedef __int64 fpos_t;
     __declspec(dllimport) int __cdecl _getmaxstdio(void);
 
     extern "C++" { template <size_t _Size> inline char* __cdecl gets_s(char (&_Buffer)[_Size]) throw() { return gets_s(_Buffer, _Size); } }
-#line 314 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __declspec(dllimport) int __cdecl _getw(
@@ -17892,7 +18127,7 @@ typedef __int64 fpos_t;
               char const* _Mode
             );
 
-    #line 339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 344 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -17939,7 +18174,7 @@ typedef __int64 fpos_t;
               char const* _FileName
             );
 
-    #line 386 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) void __cdecl rewind(
           FILE* _Stream
@@ -17971,7 +18206,7 @@ typedef __int64 fpos_t;
     
 
 
-#line 418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __declspec(dllimport) __declspec(allocator) char* __cdecl _tempnam(
@@ -17981,19 +18216,16 @@ typedef __int64 fpos_t;
 
     
 
-#line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
       
     __declspec(dllimport) FILE* __cdecl tmpfile(void);
 
     extern "C++" { template <size_t _Size> inline   errno_t __cdecl tmpnam_s( char (&_Buffer)[_Size]) throw() { return tmpnam_s(_Buffer, _Size); } }
-#line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 442 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28726) 
  __declspec(dllimport)  char* __cdecl tmpnam(  char *_Buffer);
-#line 445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
-#pragma warning(pop)
+#line 448 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -18131,7 +18363,7 @@ typedef __int64 fpos_t;
 
 
 
-#line 584 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 586 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -18141,14 +18373,14 @@ typedef __int64 fpos_t;
 
 
         
-    #line 594 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 596 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
     
     
 
-#line 601 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     
@@ -18189,11 +18421,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 642 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 644 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vfprintf(
@@ -18203,11 +18435,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 656 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 658 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l(_Stream, _Format, 0, _ArgList);
     }
-    #line 660 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 662 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_s_l(
@@ -18218,11 +18450,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 671 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 673 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf_s((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 675 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 677 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -18234,13 +18466,13 @@ typedef __int64 fpos_t;
             )
     
 
-#line 687 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 689 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vfprintf_s_l(_Stream, _Format, 0, _ArgList);
         }
-    #line 691 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 695 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_p_l(
@@ -18251,11 +18483,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 704 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 706 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf_p((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 708 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 710 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_p(
@@ -18265,11 +18497,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 718 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 720 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l(_Stream, _Format, 0, _ArgList);
     }
-    #line 722 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 724 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_l(
@@ -18279,11 +18511,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 732 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 734 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 736 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 738 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vprintf(
@@ -18292,11 +18524,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 745 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 747 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l((__acrt_iob_func(1)), _Format, 0, _ArgList);
     }
-    #line 749 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 751 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_s_l(
@@ -18306,11 +18538,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 759 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_s_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 763 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 765 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -18321,13 +18553,13 @@ typedef __int64 fpos_t;
             )
     
 
-#line 774 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 776 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vfprintf_s_l((__acrt_iob_func(1)), _Format, 0, _ArgList);
         }
-    #line 778 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 780 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 780 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 782 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_p_l(
@@ -18337,11 +18569,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 790 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 792 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 794 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 796 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_p(
@@ -18350,11 +18582,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 803 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 805 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l((__acrt_iob_func(1)), _Format, 0, _ArgList);
     }
-    #line 807 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 809 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_l(
@@ -18364,7 +18596,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 817 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 819 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18373,7 +18605,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 826 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 828 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl fprintf(
@@ -18382,7 +18614,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 835 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 837 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18391,7 +18623,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 844 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 846 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) int __cdecl _set_printf_count_output(
           int _Value
@@ -18407,7 +18639,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 860 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 862 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18416,7 +18648,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 869 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 871 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -18427,7 +18659,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 880 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -18436,9 +18668,9 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 889 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 893 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_p_l(
@@ -18448,7 +18680,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 901 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 903 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18457,7 +18689,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 910 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_p(
@@ -18466,7 +18698,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 919 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 921 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18475,7 +18707,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 928 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 930 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_l(
@@ -18484,7 +18716,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 937 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 939 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18493,7 +18725,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 946 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl printf(
@@ -18501,7 +18733,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 954 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 956 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18510,7 +18742,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 963 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 965 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_s_l(
@@ -18519,7 +18751,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 972 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 974 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18528,7 +18760,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 981 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 983 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -18538,7 +18770,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 991 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 993 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -18547,9 +18779,9 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1000 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1002 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1002 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1004 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_p_l(
@@ -18558,7 +18790,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1011 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1013 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18567,7 +18799,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1020 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1022 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_p(
@@ -18575,7 +18807,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1028 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1030 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18584,7 +18816,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1037 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1039 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
     
@@ -18609,13 +18841,13 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1062 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1064 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfscanf(
             (*__local_stdio_scanf_options ()),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 1068 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1070 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vfscanf(
@@ -18625,11 +18857,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1078 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1080 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l(_Stream, _Format, 0, _ArgList);
     }
-    #line 1082 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1084 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfscanf_s_l(
@@ -18640,13 +18872,13 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1093 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1095 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 1099 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
     
@@ -18659,13 +18891,13 @@ typedef __int64 fpos_t;
             )
     
 
-#line 1112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1114 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vfscanf_s_l(_Stream, _Format, 0, _ArgList);
         }
-    #line 1116 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1120 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscanf_l(
@@ -18675,11 +18907,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1128 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 1132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vscanf(
@@ -18688,11 +18920,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l((__acrt_iob_func(0)), _Format, 0, _ArgList);
     }
-    #line 1145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscanf_s_l(
@@ -18702,11 +18934,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfscanf_s_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 1159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -18717,13 +18949,13 @@ typedef __int64 fpos_t;
             )
     
 
-#line 1170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vfscanf_s_l((__acrt_iob_func(0)), _Format, 0, _ArgList);
         }
-    #line 1174 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _fscanf_l(
@@ -18733,7 +18965,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1186 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18742,7 +18974,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1197 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
       
     __inline int __cdecl fscanf(
@@ -18751,7 +18983,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18760,7 +18992,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1213 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fscanf_s_l(
@@ -18770,7 +19002,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1223 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1225 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18779,7 +19011,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -18790,7 +19022,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 1243 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -18799,9 +19031,9 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _scanf_l(
@@ -18810,7 +19042,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18819,7 +19051,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1274 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
       
     __inline int __cdecl scanf(
@@ -18827,7 +19059,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1280 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18836,7 +19068,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1289 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scanf_s_l(
@@ -18845,7 +19077,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1298 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1300 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -18854,7 +19086,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1307 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -18864,7 +19096,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 1317 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -18873,9 +19105,9 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1328 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1328 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1330 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -18936,7 +19168,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1389 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 0),
@@ -18944,7 +19176,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -18956,14 +19188,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1409 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vsnprintf_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
-        #pragma warning(pop)
     }
-    #line 1416 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1415 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -18974,7 +19203,7 @@ typedef __int64 fpos_t;
 
 
 
-#line 1427 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -18986,7 +19215,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1439 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -18994,7 +19223,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1447 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
      
@@ -19006,14 +19235,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1459 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1458 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vsnprintf_l(_Buffer, (size_t)-1, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
     }
-    #line 1466 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1462 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
      
@@ -19024,14 +19250,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1477 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vsnprintf_l(_Buffer, (size_t)-1, _Format, 0, _ArgList);
-        #pragma warning(pop)
     }
-    #line 1484 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1477 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19044,7 +19267,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1490 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_s(
             (*__local_stdio_printf_options()),
@@ -19052,7 +19275,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1505 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -19066,16 +19289,16 @@ typedef __int64 fpos_t;
             )
     
 
-#line 1519 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1512 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vsprintf_s_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
         }
-    #line 1523 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1516 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         extern "C++" { template <size_t _Size> inline   int __cdecl vsprintf_s( char (&_Buffer)[_Size],     char const* _Format, va_list _ArgList) throw() { return vsprintf_s(_Buffer, _Size, _Format, _ArgList); } }
-#line 1531 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1524 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1533 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1526 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19088,7 +19311,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1539 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_p(
             (*__local_stdio_printf_options()),
@@ -19096,7 +19319,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1554 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1547 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19108,11 +19331,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1566 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1559 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vsprintf_p_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
     }
-    #line 1570 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19126,7 +19349,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1584 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsnprintf_s(
             (*__local_stdio_printf_options()),
@@ -19134,7 +19357,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1592 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19147,14 +19370,14 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1605 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1598 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, 0, _ArgList);
     }
-    #line 1609 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1602 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     extern "C++" { template <size_t _Size> inline   int __cdecl _vsnprintf_s( char (&_Buffer)[_Size],   size_t _BufferCount,     char const* _Format, va_list _ArgList) throw() { return _vsnprintf_s(_Buffer, _Size, _BufferCount, _Format, _ArgList); } }
-#line 1618 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1611 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -19169,16 +19392,16 @@ typedef __int64 fpos_t;
             )
     
 
-#line 1633 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1626 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vsnprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, 0, _ArgList);
         }
-    #line 1637 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1630 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         extern "C++" { template <size_t _Size> inline   int __cdecl vsnprintf_s( char (&_Buffer)[_Size],   size_t _BufferCount,     char const* _Format, va_list _ArgList) throw() { return vsnprintf_s(_Buffer, _Size, _BufferCount, _Format, _ArgList); } }
-#line 1646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1639 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1641 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscprintf_l(
@@ -19188,7 +19411,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1658 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1651 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -19196,7 +19419,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1666 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1659 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _vscprintf(
@@ -19205,11 +19428,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1675 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1668 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vscprintf_l(_Format, 0, _ArgList);
     }
-    #line 1679 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1672 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscprintf_p_l(
@@ -19219,7 +19442,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1689 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1682 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_p(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -19227,7 +19450,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1697 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1690 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _vscprintf_p(
@@ -19236,11 +19459,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1706 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1699 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vscprintf_p_l(_Format, 0, _ArgList);
     }
-    #line 1710 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1703 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vsnprintf_c_l(
@@ -19252,7 +19475,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1722 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1715 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()),
@@ -19260,7 +19483,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1730 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19272,11 +19495,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1742 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1735 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_c_l(_Buffer, _BufferCount, _Format, 0, _ArgList);
     }
-    #line 1746 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
      
@@ -19287,21 +19510,18 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1757 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1750 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Locale)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Locale))) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsprintf_l(_Buffer, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1771 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19311,29 +19531,21 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1781 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1771 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsprintf_l(_Buffer, _Format, 0, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1795 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1782 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #pragma warning(push)
-    #pragma warning(disable: 4996)
-    #pragma warning(disable: 28719) 
-    #pragma warning(disable: 28726) 
        int __cdecl sprintf(  char *_Buffer,  char const* _Format, ...);    int __cdecl vsprintf(  char *_Buffer,  char const* _Format, va_list _Args);
-#line 1806 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
-    #pragma warning(pop)
+#line 1789 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19345,7 +19557,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1819 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1801 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19354,7 +19566,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1828 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1810 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -19367,7 +19579,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 1841 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1823 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -19376,12 +19588,12 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1850 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1832 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1852 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1834 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    extern "C++" { __pragma(warning(push)); __pragma(warning(disable: 4793)); template <size_t _Size> inline   int __cdecl sprintf_s( char (&_Buffer)[_Size],     char const* _Format, ...) throw() { va_list _ArgList; ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1)))))); return vsprintf_s(_Buffer, _Size, _Format, _ArgList); } __pragma(warning(pop)); }
-#line 1859 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    extern "C++" { template <size_t _Size> inline   int __cdecl sprintf_s( char (&_Buffer)[_Size],     char const* _Format, ...) throw() { va_list _ArgList; ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1)))))); return vsprintf_s(_Buffer, _Size, _Format, _ArgList); } }
+#line 1841 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19393,7 +19605,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1871 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1853 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19402,7 +19614,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1880 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1862 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19413,7 +19625,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1873 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19422,7 +19634,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1900 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
      
@@ -19434,21 +19646,18 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1894 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Locale)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Locale))) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnprintf_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1926 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1905 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -19459,7 +19668,7 @@ typedef __int64 fpos_t;
 
 
 
-#line 1937 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1916 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19470,17 +19679,16 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1927 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
-    #pragma warning(suppress:28719)    
         _Result = vsnprintf(_Buffer, _BufferCount, _Format, _ArgList);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1958 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1936 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19491,20 +19699,19 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1969 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1947 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
-    #pragma warning(suppress:28719)    
         _Result = _vsnprintf(_Buffer, _BufferCount, _Format, _ArgList);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1979 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1956 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         int __cdecl _snprintf(    char *_Buffer,   size_t _BufferCount,     char const* _Format, ...);     int __cdecl _vsnprintf(    char *_Buffer,   size_t _BufferCount,     char const* _Format, va_list _Args);
-#line 1988 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1965 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19516,7 +19723,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2000 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1977 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19525,7 +19732,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2009 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1986 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19536,7 +19743,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2020 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1997 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19545,7 +19752,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2029 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19558,7 +19765,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2042 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2019 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19567,7 +19774,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2051 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2028 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -19579,7 +19786,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2063 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2040 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19588,10 +19795,10 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2072 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2049 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    extern "C++" { __pragma(warning(push)); __pragma(warning(disable: 4793)); template <size_t _Size> inline   int __cdecl _snprintf_s( char (&_Buffer)[_Size],   size_t _BufferCount,     char const* _Format, ...) throw() { va_list _ArgList; ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1)))))); return _vsnprintf_s(_Buffer, _Size, _BufferCount, _Format, _ArgList); } __pragma(warning(pop)); }
-#line 2080 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    extern "C++" { template <size_t _Size> inline   int __cdecl _snprintf_s( char (&_Buffer)[_Size],   size_t _BufferCount,     char const* _Format, ...) throw() { va_list _ArgList; ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1)))))); return _vsnprintf_s(_Buffer, _Size, _BufferCount, _Format, _ArgList); } }
+#line 2057 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scprintf_l(
@@ -19600,7 +19807,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2089 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19609,7 +19816,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2098 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _scprintf(
@@ -19617,7 +19824,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2106 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19626,7 +19833,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2092 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scprintf_p_l(
@@ -19635,7 +19842,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19644,7 +19851,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2133 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2110 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _scprintf_p(
@@ -19652,7 +19859,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19661,7 +19868,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     
@@ -19686,13 +19893,13 @@ typedef __int64 fpos_t;
         )
     
 
-#line 2175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vsscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 2181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2158 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vsscanf(
@@ -19702,11 +19909,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 2191 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vsscanf_l(_Buffer, _Format, 0, _ArgList);
     }
-    #line 2195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vsscanf_s_l(
@@ -19717,18 +19924,18 @@ typedef __int64 fpos_t;
         )
     
 
-#line 2206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2183 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vsscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 2212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
         #pragma warning(push)
-        #pragma warning(disable:6530)
+        #pragma warning(disable: 6530) 
 
         
         __inline int __cdecl vsscanf_s(
@@ -19738,18 +19945,18 @@ typedef __int64 fpos_t;
             )
     
 
-#line 2227 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vsscanf_s_l(_Buffer, _Format, 0, _ArgList);
         }
-    #line 2231 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         extern "C++" { template <size_t _Size> inline int __cdecl vsscanf_s(  char const (&_Buffer)[_Size],     char const* _Format, va_list _ArgList) throw() { return vsscanf_s(_Buffer, _Size, _Format, _ArgList); } }
-#line 2238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         #pragma warning(pop)
 
-    #line 2242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _sscanf_l(
@@ -19759,7 +19966,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19768,7 +19975,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
       
     __inline int __cdecl sscanf(
@@ -19777,7 +19984,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19786,7 +19993,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2279 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _sscanf_s_l(
@@ -19796,7 +20003,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2289 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2266 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19805,7 +20012,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2298 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2275 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -19816,26 +20023,23 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 2309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2286 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
             ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-            #pragma warning(push)
-            #pragma warning(disable: 4996) 
             _Result = vsscanf_s(_Buffer, _Format, _ArgList);
-            #pragma warning(pop)
 
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 2323 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2297 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 2325 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2299 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     #pragma warning(push)
-    #pragma warning(disable:6530)
+    #pragma warning(disable: 6530) 
 
      
     __inline int __cdecl _snscanf_l(
@@ -19846,7 +20050,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2313 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19859,7 +20063,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2352 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _snscanf(
@@ -19869,7 +20073,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2362 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2336 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19882,7 +20086,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2375 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
     
@@ -19894,7 +20098,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19907,7 +20111,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _snscanf_s(
@@ -19917,7 +20121,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -19930,13 +20134,13 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     #pragma warning(pop)
 
     
 
-#line 2429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2403 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -19952,7 +20156,7 @@ typedef __int64 fpos_t;
         
 
 
-#line 2445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2419 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_tempnam" ". See online help for details."))
         __declspec(dllimport) char* __cdecl tempnam(
@@ -19962,7 +20166,7 @@ typedef __int64 fpos_t;
 
         
 
-#line 2455 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
          __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_fcloseall" ". See online help for details.")) __declspec(dllimport) int   __cdecl fcloseall(void);
               __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_fdopen" ". See online help for details."))    __declspec(dllimport) FILE* __cdecl fdopen(  int _FileHandle,   char const* _Format);
@@ -19974,13 +20178,15 @@ typedef __int64 fpos_t;
          __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_putw" ". See online help for details."))      __declspec(dllimport) int   __cdecl putw(  int _Ch,   FILE* _Stream);
               __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_rmtmp" ". See online help for details."))     __declspec(dllimport) int   __cdecl rmtmp(void);
 
-    #line 2467 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
-#line 2468 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2441 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
+#line 2442 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
 } __pragma(pack(pop))
-#line 2473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+
+#pragma warning(pop) 
+#line 2449 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 #pragma external_header(pop)
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cstdio"
 
@@ -20113,7 +20319,7 @@ using :: vsscanf;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 
@@ -20127,7 +20333,7 @@ using :: vsscanf;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -20142,7 +20348,7 @@ using :: vsscanf;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
@@ -20154,7 +20360,7 @@ using :: vsscanf;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 
 
 
@@ -20166,6 +20372,10 @@ using :: vsscanf;
 
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -20184,7 +20394,7 @@ __pragma(pack(push, 8)) extern "C" {
 
     __declspec(dllimport) errno_t __cdecl _set_doserrno(  unsigned long _Value);
     __declspec(dllimport) errno_t __cdecl _get_doserrno(  unsigned long * _Value);
-#line 31 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 
 
 
@@ -20232,7 +20442,7 @@ __pragma(pack(push, 8)) extern "C" {
     
     
     
-#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 
 
 
@@ -20280,14 +20490,16 @@ __pragma(pack(push, 8)) extern "C" {
     
     
     
-#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+#line 131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 
 
 
 } __pragma(pack(pop))
-#line 132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+
+#pragma warning(pop) 
+#line 138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 #pragma external_header(pop)
-#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
 #pragma external_header(push)
 #line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vcruntime_string.h"
 
@@ -20396,13 +20608,17 @@ void* __cdecl memset(
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8)) extern "C" {
 
 
     
-#line 19 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
@@ -20442,7 +20658,6 @@ __pragma(pack(push, 8)) extern "C" {
             
             return 22;
         }
-#pragma warning(suppress:4996) 
         memcpy(_Destination, _Source, _SourceSize);
         return 0;
     }
@@ -20464,18 +20679,23 @@ __pragma(pack(push, 8)) extern "C" {
         { int _Expr_val=!!(_Source != 0); if (!(_Expr_val)) { (*_errno()) = 22; _invalid_parameter_noinfo(); return 22; } };
         { int _Expr_val=!!(_DestinationSize >= _SourceSize); if (!(_Expr_val)) { (*_errno()) = 34; _invalid_parameter_noinfo(); return 34; } };
 
-#pragma warning(suppress:4996) 
         memmove(_Destination, _Source, _SourceSize);
         return 0;
     }
 
-#line 86 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
+
+#pragma warning(pop) 
 } __pragma(pack(pop))
 #pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 
@@ -20516,7 +20736,7 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 
 
 
-#line 56 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 60 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
     
 
@@ -20531,9 +20751,9 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 
 
 
-#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
-#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -20554,7 +20774,7 @@ __declspec(dllimport) int __cdecl _memicmp_l(
                                  size_t      _Size
         );
 
-#line 94 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -20571,17 +20791,19 @@ __declspec(dllimport) int __cdecl _memicmp_l(
         return const_cast<void*>(memchr(_Pvc, _C, _N));
     }
 
-#line 111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
 
 
 } __pragma(pack(pop))
 
-#line 117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -20593,6 +20815,10 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 #pragma once
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 
@@ -20645,7 +20871,7 @@ __pragma(pack(push, 8)) extern "C" {
             wchar_t**      _Context
         );
 
-#line 65 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 69 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -20657,7 +20883,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 81 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) __declspec(allocator) wchar_t* __cdecl _wcsdup(
@@ -20666,22 +20892,17 @@ __declspec(dllimport) __declspec(allocator) wchar_t* __cdecl _wcsdup(
 
 
 
-#line 86 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl wcscat_s(wchar_t (&_Destination)[_Size],   wchar_t const* _Source) throw() { return wcscat_s(_Destination, _Size, _Source); } }
-#line 94 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
-
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
      __declspec(dllimport) wchar_t* __cdecl wcscat( wchar_t *_Destination,  wchar_t const* _Source);
-#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
-#pragma warning(pop)
-#line 107 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
+#line 106 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) int __cdecl wcscmp(
@@ -20690,14 +20911,10 @@ __declspec(dllimport) int __cdecl wcscmp(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl wcscpy_s(wchar_t (&_Destination)[_Size],   wchar_t const* _Source) throw() { return wcscpy_s(_Destination, _Size, _Source); } }
-#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
  __declspec(dllimport) wchar_t* __cdecl wcscpy( wchar_t *_Destination,  wchar_t const* _Source);
-#line 128 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
-#pragma warning(pop)
+#line 124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) size_t __cdecl wcscspn(
@@ -20712,9 +20929,9 @@ __declspec(dllimport) size_t __cdecl wcslen(
 
  
 
-#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
-#line 150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 __declspec(dllimport) size_t __cdecl wcsnlen(
       wchar_t const* _Source,
                             size_t         _MaxCount
@@ -20724,9 +20941,9 @@ __declspec(dllimport) size_t __cdecl wcsnlen(
 
      
     
-#line 162 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
     
-#line 166 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
     static __inline size_t __cdecl wcsnlen_s(
           wchar_t const* _Source,
                                 size_t         _MaxCount
@@ -20735,13 +20952,13 @@ __declspec(dllimport) size_t __cdecl wcsnlen(
         return (_Source == 0) ? 0 : wcsnlen(_Source, _MaxCount);
     }
 
-#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl wcsncat_s(  wchar_t (&_Destination)[_Size],   wchar_t const* _Source,   size_t _Count) throw() { return wcsncat_s(_Destination, _Size, _Source, _Count); } }
-#line 182 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 177 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl wcsncat(  wchar_t *_Destination,   wchar_t const* _Source,   size_t _Count);
-#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) int __cdecl wcsncmp(
@@ -20751,10 +20968,10 @@ __declspec(dllimport) int __cdecl wcsncmp(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl wcsncpy_s(wchar_t (&_Destination)[_Size],   wchar_t const* _Source,   size_t _Count) throw() { return wcsncpy_s(_Destination, _Size, _Source, _Count); } }
-#line 204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl wcsncpy(    wchar_t *_Destination,   wchar_t const* _Source,   size_t _Count);
-#line 212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 207 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) wchar_t const* __cdecl wcspbrk(
@@ -20779,16 +20996,13 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
 
     
 
-#line 237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
         
 
 
 
-    #line 242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+    #line 237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
-    #pragma warning(push)
-    #pragma warning(disable: 4141 4996) 
-    #pragma warning(disable: 28719 28726 28727) 
       
     static __inline wchar_t* __cdecl _wcstok(
           wchar_t*       const _String,
@@ -20800,7 +21014,7 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
 
     
 
-#line 258 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 250 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
     
         extern "C++"   __declspec(deprecated("wcstok has been changed to conform with the ISO C standard, " "adding an extra context parameter. To use the legacy Microsoft " "wcstok, define _CRT_NON_CONFORMING_WCSTOK."))
@@ -20811,11 +21025,9 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
         {
             return wcstok(_String, _Delimiter, 0);
         }
-    #line 269 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+    #line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
-    #pragma warning(pop)
-
-#line 273 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -20833,7 +21045,7 @@ __declspec(dllimport) errno_t __cdecl _wcserror_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcserror_s(wchar_t (&_Buffer)[_Size],   int _Error) throw() { return _wcserror_s(_Buffer, _Size, _Error); } }
-#line 294 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
  
@@ -20849,7 +21061,7 @@ __declspec(dllimport) wchar_t* __cdecl __wcserror(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl __wcserror_s(wchar_t (&_Buffer)[_Size],   wchar_t const* _ErrorMessage) throw() { return __wcserror_s(_Buffer, _Size, _ErrorMessage); } }
-#line 313 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
   __declspec(dllimport) int __cdecl _wcsicmp(
       wchar_t const* _String1,
@@ -20883,10 +21095,10 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl __wcserror_s(wchar
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcsnset_s(  wchar_t (&_Destination)[_Size],   wchar_t _Value,   size_t _MaxCount) throw() { return _wcsnset_s(_Destination, _Size, _Value, _MaxCount); } }
-#line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcsnset(  wchar_t *_String,   wchar_t _Value,   size_t _MaxCount);
-#line 359 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(dllimport) wchar_t* __cdecl _wcsrev(
       wchar_t* _String
@@ -20899,10 +21111,10 @@ __declspec(dllimport) wchar_t* __cdecl _wcsrev(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcsset_s(  wchar_t (&_String)[_Size],   wchar_t _Value) throw() { return _wcsset_s(_String, _Size, _Value); } }
-#line 375 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcsset(  wchar_t *_String,   wchar_t _Value);
-#line 382 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 372 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) errno_t __cdecl _wcslwr_s(
       wchar_t* _String,
@@ -20910,10 +21122,10 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcsset_s(  wchar_
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcslwr_s(  wchar_t (&_String)[_Size]) throw() { return _wcslwr_s(_String, _Size); } }
-#line 392 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 382 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcslwr( wchar_t *_String);
-#line 397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcslwr_s_l(
@@ -20923,10 +21135,10 @@ __declspec(dllimport) errno_t __cdecl _wcslwr_s_l(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcslwr_s_l(  wchar_t (&_String)[_Size],   _locale_t _Locale) throw() { return _wcslwr_s_l(_String, _Size, _Locale); } }
-#line 410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcslwr_l(  wchar_t *_String,   _locale_t _Locale);
-#line 417 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 407 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcsupr_s(
@@ -20935,10 +21147,10 @@ __declspec(dllimport) errno_t __cdecl _wcsupr_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcsupr_s(  wchar_t (&_String)[_Size]) throw() { return _wcsupr_s(_String, _Size); } }
-#line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcsupr( wchar_t *_String);
-#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcsupr_s_l(
@@ -20948,10 +21160,10 @@ __declspec(dllimport) errno_t __cdecl _wcsupr_s_l(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wcsupr_s_l(  wchar_t (&_String)[_Size],   _locale_t _Locale) throw() { return _wcsupr_s_l(_String, _Size, _Locale); } }
-#line 446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 436 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcsupr_l(  wchar_t *_String,   _locale_t _Locale);
-#line 453 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 443 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 
@@ -21063,7 +21275,7 @@ extern "C++" {
     }
 
 }
-#line 565 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 555 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -21076,7 +21288,7 @@ extern "C++" {
     
 
 
-#line 578 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
       __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_wcsdup" ". See online help for details."))
     __declspec(dllimport) wchar_t* __cdecl wcsdup(
@@ -21085,7 +21297,7 @@ extern "C++" {
 
     
 
-#line 587 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
     
     
@@ -21142,17 +21354,23 @@ extern "C++" {
           wchar_t const* _String2
         );
 
-#line 644 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 634 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
 } __pragma(pack(pop))
 
-#line 650 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 640 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -21206,7 +21424,7 @@ __pragma(pack(push, 8)) extern "C" {
             char**      _Context
         );
 
-#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 __declspec(dllimport) void* __cdecl _memccpy(
       void*       _Dst,
@@ -21216,18 +21434,14 @@ __declspec(dllimport) void* __cdecl _memccpy(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl strcat_s(char (&_Destination)[_Size],   char const* _Source) throw() { return strcat_s(_Destination, _Size, _Source); } }
-#line 84 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
       char* __cdecl strcat( char *_Destination,  char const* _Source);
-#line 95 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
-#pragma warning(pop)
+#line 96 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
-#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 int __cdecl strcmp(
@@ -21255,14 +21469,10 @@ __declspec(dllimport) int __cdecl _strcoll_l(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl strcpy_s(  char (&_Destination)[_Size],   char const* _Source) throw() { return strcpy_s(_Destination, _Size, _Source); } }
-#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
   char* __cdecl strcpy( char *_Destination,  char const* _Source);
-#line 138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
-#pragma warning(pop)
+#line 135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) size_t __cdecl strcspn(
@@ -21273,7 +21483,7 @@ __declspec(dllimport) size_t __cdecl strcspn(
 
 
 
-#line 150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) __declspec(allocator) char* __cdecl _strdup(
@@ -21282,7 +21492,7 @@ __declspec(dllimport) __declspec(allocator) char* __cdecl _strdup(
 
 
 
-#line 159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
  
@@ -21299,7 +21509,7 @@ __declspec(dllimport) errno_t __cdecl _strerror_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strerror_s(char (&_Buffer)[_Size],   char const* _ErrorMessage) throw() { return _strerror_s(_Buffer, _Size, _ErrorMessage); } }
-#line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
   
@@ -21308,7 +21518,7 @@ __declspec(dllimport) char* __cdecl strerror(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl strerror_s(char (&_Buffer)[_Size],   int _ErrorMessage) throw() { return strerror_s(_Buffer, _Size, _ErrorMessage); } }
-#line 191 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 187 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) int __cdecl _stricmp(
@@ -21348,10 +21558,10 @@ __declspec(dllimport) errno_t __cdecl _strlwr_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strlwr_s(  char (&_String)[_Size]) throw() { return _strlwr_s(_String, _Size); } }
-#line 233 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strlwr( char *_String);
-#line 238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strlwr_s_l(
@@ -21361,16 +21571,16 @@ __declspec(dllimport) errno_t __cdecl _strlwr_s_l(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strlwr_s_l(  char (&_String)[_Size],   _locale_t _Locale) throw() { return _strlwr_s_l(_String, _Size, _Locale); } }
-#line 251 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strlwr_l(  char *_String,   _locale_t _Locale);
-#line 258 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl strncat_s(  char (&_Destination)[_Size],   char const* _Source,   size_t _Count) throw() { return strncat_s(_Destination, _Size, _Source, _Count); } }
-#line 265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl strncat(  char *_Destination,   char const* _Source,   size_t _Count);
-#line 273 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 269 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) int __cdecl strncmp(
@@ -21430,16 +21640,16 @@ __declspec(dllimport) size_t __cdecl __strncnt(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl strncpy_s(char (&_Destination)[_Size],   char const* _Source,   size_t _Count) throw() { return strncpy_s(_Destination, _Size, _Source, _Count); } }
-#line 337 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 333 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl strncpy(    char *_Destination,   char const* _Source,   size_t _Count);
-#line 345 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 
-#line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
-#line 355 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 __declspec(dllimport) size_t __cdecl strnlen(
       char const* _String,
                             size_t      _MaxCount
@@ -21449,9 +21659,9 @@ __declspec(dllimport) size_t __cdecl strnlen(
 
      
     
-#line 367 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 363 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
     
-#line 371 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 367 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
     static __inline size_t __cdecl strnlen_s(
           char const* _String,
                                 size_t      _MaxCount
@@ -21460,7 +21670,7 @@ __declspec(dllimport) size_t __cdecl strnlen(
         return _String == 0 ? 0 : strnlen(_String, _MaxCount);
     }
 
-#line 380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 376 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strnset_s(
@@ -21471,10 +21681,10 @@ __declspec(dllimport) errno_t __cdecl _strnset_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strnset_s(  char (&_Destination)[_Size],   int _Value,   size_t _Count) throw() { return _strnset_s(_Destination, _Size, _Value, _Count); } }
-#line 395 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strnset(  char *_Destination,   int _Value,   size_t _Count);
-#line 403 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) char const* __cdecl strpbrk(
@@ -21494,10 +21704,10 @@ __declspec(dllimport) errno_t __cdecl _strset_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strset_s(  char (&_Destination)[_Size],   int _Value) throw() { return _strset_s(_Destination, _Size, _Value); } }
-#line 426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
   char* __cdecl _strset( char *_Destination,  int _Value);
-#line 432 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) size_t __cdecl strspn(
@@ -21518,10 +21728,10 @@ __declspec(dllimport) errno_t __cdecl _strupr_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strupr_s(  char (&_String)[_Size]) throw() { return _strupr_s(_String, _Size); } }
-#line 455 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 451 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strupr( char *_String);
-#line 460 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 456 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strupr_s_l(
@@ -21531,10 +21741,10 @@ __declspec(dllimport) errno_t __cdecl _strupr_s_l(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strupr_s_l(  char (&_String)[_Size],   _locale_t _Locale) throw() { return _strupr_s_l(_String, _Size, _Locale); } }
-#line 473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strupr_l(  char *_String,   _locale_t _Locale);
-#line 480 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 
@@ -21582,7 +21792,7 @@ extern "C++"
         return const_cast<char*>(strstr(static_cast<char const*>(_String), _SubString));
     }
 }
-#line 528 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 524 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 
@@ -21643,14 +21853,15 @@ extern "C++"
           char* _String
         );
 
-#line 589 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 
 } __pragma(pack(pop))
 
-#line 595 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
-#line 596 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#pragma warning(pop) 
+#line 592 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
+#line 593 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 #pragma external_header(pop)
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cstring"
 
@@ -21716,7 +21927,7 @@ using :: strxfrm;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
 
 
@@ -21733,7 +21944,7 @@ using :: strxfrm;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
 
 
@@ -21747,9 +21958,11 @@ using :: strxfrm;
 
 
 
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
+
 __pragma(pack(push, 8)) extern "C" {
-
-
 
 
 
@@ -21766,7 +21979,7 @@ __pragma(pack(push, 8)) extern "C" {
         );
 
     extern "C++" { template <size_t _Size> inline   errno_t __cdecl _cgetws_s(  wchar_t (&_Buffer)[_Size],   size_t* _SizeRead) throw() { return _cgetws_s(_Buffer, _Size, _SizeRead); } }
-#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 40 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __declspec(dllimport) int __cdecl _cputws(
@@ -21822,11 +22035,11 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 94 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 96 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return __conio_common_vcwprintf((*__local_stdio_printf_options()), _Format, _Locale, _ArgList);
     }
-#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _vcwprintf(
@@ -21835,11 +22048,11 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 107 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return _vcwprintf_l(_Format, 0, _ArgList);
     }
-#line 111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _vcwprintf_s_l(
@@ -21849,11 +22062,11 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 123 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return __conio_common_vcwprintf_s((*__local_stdio_printf_options()), _Format, _Locale, _ArgList);
     }
-#line 125 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _vcwprintf_s(
@@ -21862,11 +22075,11 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return _vcwprintf_s_l(_Format, 0, _ArgList);
     }
-#line 138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _vcwprintf_p_l(
@@ -21876,11 +22089,11 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 148 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return __conio_common_vcwprintf_p((*__local_stdio_printf_options()), _Format, _Locale, _ArgList);
     }
-#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 154 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _vcwprintf_p(
@@ -21889,11 +22102,11 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return _vcwprintf_p_l(_Format, 0, _ArgList);
     }
-#line 165 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 167 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _cwprintf_l(
@@ -21902,7 +22115,7 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 174 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -21911,7 +22124,7 @@ __pragma(pack(push, 8)) extern "C" {
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 183 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _cwprintf(
@@ -21919,7 +22132,7 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 191 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 193 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -21928,7 +22141,7 @@ __pragma(pack(push, 8)) extern "C" {
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 200 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 202 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _cwprintf_s_l(
@@ -21937,7 +22150,7 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 209 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 211 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -21946,7 +22159,7 @@ __pragma(pack(push, 8)) extern "C" {
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 218 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 220 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _cwprintf_s(
@@ -21954,7 +22167,7 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 226 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 228 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -21963,7 +22176,7 @@ __pragma(pack(push, 8)) extern "C" {
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 235 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _cwprintf_p_l(
@@ -21972,7 +22185,7 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 244 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -21981,7 +22194,7 @@ __pragma(pack(push, 8)) extern "C" {
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 255 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _cwprintf_p(
@@ -21989,7 +22202,7 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -21998,7 +22211,7 @@ __pragma(pack(push, 8)) extern "C" {
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
 
 
@@ -22023,13 +22236,13 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 295 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 297 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return __conio_common_vcwscanf(
             (*__local_stdio_scanf_options ()),
             _Format, _Locale, _ArgList);
     }
-#line 301 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
      
     __inline int __cdecl _vcwscanf(
@@ -22038,14 +22251,11 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 310 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vcwscanf_l(_Format, 0, _ArgList);
-        #pragma warning(pop)
     }
-#line 317 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 316 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _vcwscanf_s_l(
@@ -22055,13 +22265,13 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 327 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return __conio_common_vcwscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Format, _Locale, _ArgList);
     }
-#line 333 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _vcwscanf_s(
@@ -22070,11 +22280,11 @@ __pragma(pack(push, 8)) extern "C" {
         )
 
 
-#line 342 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         return _vcwscanf_s_l(_Format, 0, _ArgList);
     }
-#line 346 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 345 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
      
     __inline int __cdecl _cwscanf_l(
@@ -22083,21 +22293,18 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 355 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 354 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Locale)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Locale))) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vcwscanf_l(_Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 369 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
      
     __inline int __cdecl _cwscanf(
@@ -22105,21 +22312,18 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 377 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 373 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(__vcrt_assert_va_start_is_not_reference<decltype(_Format)>(), ((void)(_ArgList = (va_list)(&const_cast<char&>(reinterpret_cast<const volatile char&>(_Format))) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vcwscanf_l(_Format, 0, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _cwscanf_s_l(
@@ -22128,7 +22332,7 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 393 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -22137,7 +22341,7 @@ __pragma(pack(push, 8)) extern "C" {
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 409 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
     
     __inline int __cdecl _cwscanf_s(
@@ -22145,7 +22349,7 @@ __pragma(pack(push, 8)) extern "C" {
         ...)
 
 
-#line 417 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -22154,17 +22358,17 @@ __pragma(pack(push, 8)) extern "C" {
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-#line 426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
+#line 419 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
-#line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wconio.h"
-
-
+#line 421 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wconio.h"
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 17 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 17 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wctype.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wctype.h"
 
 
 
@@ -22175,6 +22379,10 @@ __pragma(pack(push, 8)) extern "C" {
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -22191,9 +22399,9 @@ __pragma(pack(push, 8)) extern "C" {
 
     
 
-#line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wctype.h"
+#line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wctype.h"
         
-    #line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wctype.h"
+    #line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wctype.h"
 
     __declspec(dllimport) const unsigned short* __cdecl __pctype_func(void);
     __declspec(dllimport) const wctype_t*       __cdecl __pwctype_func(void);
@@ -22204,8 +22412,8 @@ __pragma(pack(push, 8)) extern "C" {
 
         
         
-    #line 41 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wctype.h"
-#line 42 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wctype.h"
+    #line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wctype.h"
+#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wctype.h"
 
 
 
@@ -22276,7 +22484,7 @@ __pragma(pack(push, 8)) extern "C" {
       __declspec(dllimport) int __cdecl _isleadbyte_l(  int _C,   _locale_t _Locale);
 
     __declspec(deprecated("This function or variable has been superceded by newer library " "or operating system functionality. Consider using " "iswctype" " " "instead. See online help for details.")) __declspec(dllimport) int __cdecl is_wctype(  wint_t _C,   wctype_t _Type);
-#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wctype.h"
+#line 117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wctype.h"
 
 
 
@@ -22359,15 +22567,17 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 196 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wctype.h"
+#line 200 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wctype.h"
 
 
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 18 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 18 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wdirect.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wdirect.h"
 
 
 
@@ -22378,6 +22588,10 @@ __pragma(pack(push, 8)) extern "C" {
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -22425,10 +22639,12 @@ __declspec(dllimport) int __cdecl _wrmdir(
 
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 19 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 19 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wio.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wio.h"
 
 
 
@@ -22441,7 +22657,7 @@ __declspec(dllimport) int __cdecl _wrmdir(
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_share.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_share.h"
 
 
 
@@ -22454,6 +22670,10 @@ __declspec(dllimport) int __cdecl _wrmdir(
 
 
 
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
+
 
 
 
@@ -22467,18 +22687,20 @@ __declspec(dllimport) int __cdecl _wrmdir(
     
     
     
-#line 27 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_share.h"
+#line 31 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_share.h"
+
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wio.h"
+#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wio.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8)) extern "C" {
 
 
-#pragma warning(push)
-#pragma warning(disable:4820) 
-
-
-
 
 
 
@@ -22489,7 +22711,7 @@ __pragma(pack(push, 8)) extern "C" {
 
     
     
-#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wio.h"
+#line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wio.h"
 
 typedef unsigned long _fsize_t;
 
@@ -22550,7 +22772,7 @@ struct _wfinddata64_t
     
     
     
-#line 94 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wio.h"
+#line 93 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wio.h"
 
  
 __declspec(dllimport) int __cdecl _waccess(
@@ -22606,11 +22828,11 @@ __declspec(dllimport) errno_t __cdecl _wmktemp_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wmktemp_s(wchar_t (&_TemplateName)[_Size]) throw() { return _wmktemp_s(_TemplateName, _Size); } }
-#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wio.h"
+#line 151 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wio.h"
 
  
  __declspec(dllimport) wchar_t* __cdecl _wmktemp( wchar_t *_TemplateName);
-#line 158 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wio.h"
+#line 157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wio.h"
 
  
  
@@ -22720,17 +22942,15 @@ __declspec(dllimport) errno_t __cdecl _wsopen_dispatch(
 
 
 
-#line 268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wio.h"
-
-
-#pragma warning(pop)
-
+#line 267 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wio.h"
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 20 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 20 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wprocess.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wprocess.h"
 
 
 
@@ -22741,6 +22961,10 @@ __declspec(dllimport) errno_t __cdecl _wsopen_dispatch(
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -22846,19 +23070,21 @@ __pragma(pack(push, 8)) extern "C" {
               wchar_t const* _Command
             );
 
-    #line 117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wprocess.h"
-#line 118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wprocess.h"
+    #line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wprocess.h"
+#line 122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wprocess.h"
 
 
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 21 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 21 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 
 
@@ -22869,6 +23095,10 @@ __pragma(pack(push, 8)) extern "C" {
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -22915,7 +23145,7 @@ __declspec(dllimport) errno_t __cdecl _wasctime_s(
     );
 
 extern "C++" { template <size_t _Size> inline   errno_t __cdecl _wasctime_s(  wchar_t (&_Buffer)[_Size],   struct tm const* _Time) throw() { return _wasctime_s(_Buffer, _Size, _Time); } }
-#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
  
 
@@ -22950,7 +23180,7 @@ __declspec(dllimport) errno_t __cdecl _wctime32_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wctime32_s(  wchar_t (&_Buffer)[_Size],   __time32_t const* _Time) throw() { return _wctime32_s(_Buffer, _Size, _Time); } }
-#line 100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
  
  
@@ -22966,7 +23196,7 @@ __declspec(dllimport) errno_t __cdecl _wctime64_s(
                                                        __time64_t const* _Time);
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wctime64_s(  wchar_t (&_Buffer)[_Size],   __time64_t const* _Time) throw() { return _wctime64_s(_Buffer, _Size, _Time); } }
-#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 123 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wstrdate_s(
@@ -22975,10 +23205,10 @@ __declspec(dllimport) errno_t __cdecl _wstrdate_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrdate_s(  wchar_t (&_Buffer)[_Size]) throw() { return _wstrdate_s(_Buffer, _Size); } }
-#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
  __declspec(dllimport)  wchar_t* __cdecl _wstrdate( wchar_t *_Buffer);
-#line 135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 139 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wstrtime_s(
@@ -22987,10 +23217,10 @@ __declspec(dllimport) errno_t __cdecl _wstrtime_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrtime_s(  wchar_t (&_Buffer)[_Size]) throw() { return _wstrtime_s(_Buffer, _Size); } }
-#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
  __declspec(dllimport)  wchar_t* __cdecl _wstrtime( wchar_t *_Buffer);
-#line 151 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 
 
@@ -22999,9 +23229,6 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrtime_s(  wcha
 
 
 
-
-    #pragma warning(push)
-    #pragma warning(disable: 4996)
 
     
 
@@ -23041,18 +23268,16 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrtime_s(  wcha
             return _wctime64_s(_Buffer, _SizeInWords, _Time);
         }
 
-    #line 202 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
-
-    #pragma warning(pop)
-#line 205 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
-
-
+    #line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
+#line 204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 } __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\stat.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\stat.h"
 
 
 
@@ -23064,7 +23289,7 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrtime_s(  wcha
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\types.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\types.h"
 
 
 
@@ -23074,6 +23299,10 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrtime_s(  wcha
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 
@@ -23083,8 +23312,8 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrtime_s(  wcha
 
     
         typedef _ino_t ino_t;
-    #line 20 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\types.h"
-#line 21 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\types.h"
+    #line 24 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\types.h"
+#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\types.h"
 
 
 
@@ -23095,8 +23324,8 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrtime_s(  wcha
 
     
         typedef _dev_t dev_t;
-    #line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\types.h"
-#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\types.h"
+    #line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\types.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\types.h"
 
 
 
@@ -23107,17 +23336,19 @@ extern "C++" { template <size_t _Size> inline errno_t __cdecl _wstrtime_s(  wcha
 
     
         typedef _off_t off_t;
-    #line 44 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\types.h"
-#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\types.h"
+    #line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\types.h"
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\types.h"
+
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\stat.h"
-
-__pragma(pack(push, 8)) extern "C" {
-
+#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\stat.h"
 
 #pragma warning(push)
-#pragma warning(disable: 4820) 
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
+
+__pragma(pack(push, 8)) extern "C" {
 
 
 
@@ -23201,7 +23432,7 @@ struct _stat64
         time_t         st_mtime;
         time_t         st_ctime;
     };
-#line 103 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\stat.h"
+#line 102 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\stat.h"
 
 
 
@@ -23227,7 +23458,7 @@ struct _stat64
     
     
     
-#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\stat.h"
+#line 128 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\stat.h"
 
 
 
@@ -23250,7 +23481,7 @@ struct _stat64
     
     
     
-#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\stat.h"
+#line 151 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\stat.h"
 
 
 
@@ -23335,26 +23566,28 @@ __declspec(dllimport) int __cdecl _wstat64(
 
         static __inline int __cdecl fstat(int const _FileHandle, struct stat* const _Stat)
         {
-            typedef char __static_assert_t[(sizeof(struct stat) == sizeof(struct _stat64i32)) != 0];
+            static_assert((sizeof(struct stat) == sizeof(struct _stat64i32)), "sizeof(struct stat) == sizeof(struct _stat64i32)");
             return _fstat64i32(_FileHandle, (struct _stat64i32*)_Stat);
         }
         static __inline int __cdecl stat(char const* const _FileName, struct stat* const _Stat)
         {
-            typedef char __static_assert_t[(sizeof(struct stat) == sizeof(struct _stat64i32)) != 0];
+            static_assert((sizeof(struct stat) == sizeof(struct _stat64i32)), "sizeof(struct stat) == sizeof(struct _stat64i32)");
             return _stat64i32(_FileName, (struct _stat64i32*)_Stat);
         }
 
-    #line 246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\stat.h"
-#line 247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\sys\\stat.h"
-
-
-#pragma warning(pop)
-
+    #line 245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\stat.h"
+#line 246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\sys\\stat.h"
 
 } __pragma(pack(pop))
-#pragma external_header(pop)
-#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
 
+#pragma warning(pop) 
+#pragma external_header(pop)
+#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
+
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -23414,10 +23647,10 @@ typedef wchar_t _Wint_t;
         );
 
     extern "C++" { template <size_t _Size> inline   errno_t __cdecl mbsrtowcs_s(  size_t* _Retval,   wchar_t (&_Dest)[_Size],     char const** _PSource,   size_t _Count,   mbstate_t* _State) throw() { return mbsrtowcs_s(_Retval, _Dest, _Size, _PSource, _Count, _State); } }
-#line 94 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
       __declspec(dllimport) size_t __cdecl mbsrtowcs( wchar_t *_Dest,  char const** _PSrc,  size_t _Count,  mbstate_t* _State);
-#line 102 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 106 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
      
     __declspec(dllimport) errno_t __cdecl wcrtomb_s(
@@ -23429,10 +23662,10 @@ typedef wchar_t _Wint_t;
         );
 
     extern "C++" { template <size_t _Size> inline   errno_t __cdecl wcrtomb_s(  size_t* _Retval,   char (&_Dest)[_Size],   wchar_t _Source,   mbstate_t* _State) throw() { return wcrtomb_s(_Retval, _Dest, _Size, _Source, _State); } }
-#line 120 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
      __declspec(dllimport) size_t __cdecl wcrtomb(  char *_Dest,  wchar_t _Source,  mbstate_t* _State);
-#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
      
     __declspec(dllimport) errno_t __cdecl wcsrtombs_s(
@@ -23445,10 +23678,10 @@ typedef wchar_t _Wint_t;
         );
 
     extern "C++" { template <size_t _Size> inline   errno_t __cdecl wcsrtombs_s(  size_t* _Retval,   char (&_Dest)[_Size],     wchar_t const** _PSrc,   size_t _Count,   mbstate_t* _State) throw() { return wcsrtombs_s(_Retval, _Dest, _Size, _PSrc, _Count, _State); } }
-#line 147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 151 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
      __declspec(dllimport) size_t __cdecl wcsrtombs(  char *_Dest,  wchar_t const** _PSource,  size_t _Count,  mbstate_t* _State);
-#line 155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+#line 159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
     __declspec(dllimport) int __cdecl wctob(
           wint_t _WCh
@@ -23472,7 +23705,7 @@ typedef wchar_t _Wint_t;
                                       rsize_t        _N
             );
 
-    #line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+    #line 183 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
     __inline int __cdecl fwide(
           FILE* _F,
@@ -23525,10 +23758,8 @@ typedef wchar_t _Wint_t;
                           size_t         _N
         )
     {
-        #pragma warning(push)
-        #pragma warning(disable : 4995 4996 6386)
+        #pragma warning(suppress: 6386) 
         return (wchar_t*)memcpy(_S1, _S2, _N*sizeof(wchar_t));
-        #pragma warning(pop)
     }
 
     __inline 
@@ -23538,10 +23769,8 @@ typedef wchar_t _Wint_t;
                               size_t         _N
         )
     {
-        #pragma warning(push)
-        #pragma warning(disable : 4996 6386)
+        #pragma warning(suppress: 6386) 
         return (wchar_t*)memmove(_S1, _S2, _N*sizeof(wchar_t));
-        #pragma warning(pop)
     }
 
      
@@ -23572,14 +23801,15 @@ typedef wchar_t _Wint_t;
             return const_cast<wchar_t*>(wmemchr(_SC, _C, _N));
         }
 
-    #line 279 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+    #line 279 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
-#line 281 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
-
+#line 281 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 
 
 } __pragma(pack(pop))
-#line 286 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\wchar.h"
+
+#pragma warning(pop) 
+#line 287 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\wchar.h"
 #pragma external_header(pop)
 #line 14 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cwchar"
 
@@ -35735,7 +35965,7 @@ template <class _Ptr>
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\share.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\share.h"
 
 
 
@@ -35748,7 +35978,7 @@ template <class _Ptr>
 
 
 
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\share.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\share.h"
 #pragma external_header(pop)
 #line 12 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xiosbase"
 #pragma external_header(push)
@@ -35874,7 +36104,7 @@ namespace std {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
 
 
@@ -35889,6 +36119,10 @@ namespace std {
 
 
 
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
+
 __pragma(pack(push, 8)) extern "C" {
 
 
@@ -35898,9 +36132,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
     
-#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
-
-
+#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
 
 
@@ -35926,8 +36158,6 @@ typedef struct _heapinfo
 
 
 
-
-
    
 void* __cdecl _alloca(  size_t _Size);
 
@@ -35942,11 +36172,11 @@ void* __cdecl _alloca(  size_t _Size);
 
     
         __declspec(dllimport) int __cdecl _heapwalk(  _HEAPINFO* _EntryInfo);
-    #line 69 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+    #line 69 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
     
           __declspec(dllimport) int __cdecl _heapchk(void);
-    #line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+    #line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
     __declspec(dllimport) int __cdecl _resetstkoflw(void);
 
@@ -35958,13 +36188,14 @@ void* __cdecl _alloca(  size_t _Size);
 
 
         
-    #line 85 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+    #line 85 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
-    typedef char __static_assert_t[(sizeof(unsigned int) <= 8) != 0];
+    static_assert((sizeof(unsigned int) <= 8), "sizeof(unsigned int) <= _ALLOCA_S_MARKER_SIZE");
 
 
     #pragma warning(push)
-    #pragma warning(disable:6540)
+    #pragma warning(disable: 6540) 
+                                   
 
     __inline void* _MarkAllocaS(   void* _Ptr, unsigned int _Marker)
     {
@@ -35984,7 +36215,8 @@ void* __cdecl _alloca(  size_t _Size);
 
     #pragma warning(pop)
 
-#line 111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+#line 112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
+
 
 
 
@@ -35997,7 +36229,7 @@ void* __cdecl _alloca(  size_t _Size);
 
 
 
-    #line 124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+    #line 126 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
 
 
@@ -36010,18 +36242,18 @@ void* __cdecl _alloca(  size_t _Size);
 
 
 
-#line 137 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+#line 139 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
 
 
 
-#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
-#line 143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+#line 144 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
+#line 145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
     
 
     #pragma warning(push)
-    #pragma warning(disable: 6014)
+    #pragma warning(disable: 6014) 
     __inline void __cdecl _freea(    void* _Memory)
     {
         unsigned int _Marker;
@@ -36036,25 +36268,27 @@ void* __cdecl _alloca(  size_t _Size);
             
             else if (_Marker != 0xCCCC)
             {
-                (void)( (!!((("Corrupted pointer passed to _freea" && 0)))) || (1 != _CrtDbgReportW(2, L"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h", 162, 0, L"%ls", L"(\"Corrupted pointer passed to _freea\" && 0)")) || (__debugbreak(), 0) );
+                (void)( (!!((("Corrupted pointer passed to _freea" && 0)))) || (1 != _CrtDbgReportW(2, L"C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h", 164, 0, L"%ls", L"(\"Corrupted pointer passed to _freea\" && 0)")) || (__debugbreak(), 0) );
             }
-            #line 165 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+            #line 167 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
         }
     }
     #pragma warning(pop)
 
-#line 170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+#line 172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
 
 
 
     
-#line 176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+#line 178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 
 
 
 } __pragma(pack(pop))
-#line 181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\malloc.h"
+
+#pragma warning(pop) 
+#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\malloc.h"
 #pragma external_header(pop)
 #line 33 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\exception"
 #pragma external_header(push)
@@ -36082,7 +36316,7 @@ void* __cdecl _alloca(  size_t _Size);
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_terminate.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_terminate.h"
 
 
 
@@ -36094,14 +36328,18 @@ void* __cdecl _alloca(  size_t _Size);
 
 
 
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
+
 
 
 __pragma(pack(push, 8)) extern "C" {
 
 
 
-typedef void (__cdecl* terminate_handler )();
-typedef void (__cdecl* terminate_function)();
+typedef void (__cdecl* terminate_handler )(void);
+typedef void (__cdecl* terminate_function)(void);
 
 
 
@@ -36121,13 +36359,15 @@ typedef void (__cdecl* terminate_function)();
 
         __declspec(dllimport) terminate_handler __cdecl _get_terminate();
 
-    #line 40 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_terminate.h"
+    #line 44 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_terminate.h"
 
-#line 42 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_terminate.h"
+#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_terminate.h"
 
 } __pragma(pack(pop))
 
-#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_terminate.h"
+#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_terminate.h"
+
+#pragma warning(pop) 
 #pragma external_header(pop)
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\eh.h"
 
@@ -36761,7 +37001,7 @@ void rethrow_if_nested(const _Ty& _Arg) {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -36776,6 +37016,10 @@ void rethrow_if_nested(const _Ty& _Arg) {
 
 
 
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
+
 __pragma(pack(push, 8)) extern "C" {
 
 
@@ -36788,9 +37032,9 @@ __pragma(pack(push, 8)) extern "C" {
 
 
             
-        #line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
-    #line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
-#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+        #line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
+    #line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -36815,11 +37059,11 @@ __pragma(pack(push, 8)) extern "C" {
             
         
 
-#line 55 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
     
 
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
-#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
+#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -36976,7 +37220,7 @@ __pragma(pack(push, 8)) extern "C" {
 
 
 
-#line 216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 220 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -36991,7 +37235,7 @@ __pragma(pack(push, 8)) extern "C" {
 __declspec(dllimport) unsigned int __cdecl _clearfp(void);
 
 #pragma warning(push)
-#pragma warning(disable: 4141)
+#pragma warning(disable: 4141) 
 
  
 __declspec(dllimport) unsigned int __cdecl _controlfp(
@@ -37028,7 +37272,7 @@ __declspec(dllimport) void __cdecl _fpreset(void);
           unsigned int* _SSE2Status
         );
 
-#line 268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -37047,7 +37291,7 @@ __declspec(dllimport) unsigned int __cdecl _control87(
           unsigned int* _X86ControlWord,
           unsigned int* _Sse2ControlWord
         );
-#line 287 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
  
@@ -37159,12 +37403,14 @@ __declspec(dllimport) int __cdecl __fpe_flt_rounds(void);
 
     
 
-#line 399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 403 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
 } __pragma(pack(pop))
-#line 404 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+
+#pragma warning(pop) 
+#line 410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 #pragma external_header(pop)
 #line 12 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cfloat"
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cfloat"
@@ -46093,7 +46339,7 @@ enum class errc {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
@@ -46106,6 +46352,10 @@ enum class errc {
 
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -46137,7 +46387,7 @@ struct _timespec64
         time_t tv_sec;  
         long   tv_nsec; 
     };
-#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
@@ -46222,10 +46472,10 @@ __declspec(dllimport) char* __cdecl asctime(
                                             size_t           _SizeInBytes,
                                                          struct tm const* _Tm
         );
-#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl asctime_s(  char (&_Buffer)[_Size],   struct tm const* _Time) throw() { return asctime_s(_Buffer, _Size, _Time); } }
-#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  
 __declspec(dllimport) clock_t __cdecl clock(void);
@@ -46245,7 +46495,7 @@ __declspec(dllimport) errno_t __cdecl _ctime32_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _ctime32_s(  char (&_Buffer)[_Size],   __time32_t const* _Time) throw() { return _ctime32_s(_Buffer, _Size, _Time); } }
-#line 159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  
  
@@ -46262,7 +46512,7 @@ __declspec(dllimport) errno_t __cdecl _ctime64_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _ctime64_s(  char (&_Buffer)[_Size],   __time64_t const* _Time) throw() { return _ctime64_s(_Buffer, _Size, _Time); } }
-#line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 183 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  
 __declspec(dllimport) double __cdecl _difftime32(
@@ -46370,10 +46620,10 @@ __declspec(dllimport) errno_t __cdecl _strdate_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strdate_s(  char (&_Buffer)[_Size]) throw() { return _strdate_s(_Buffer, _Size); } }
-#line 289 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 293 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  __declspec(dllimport)  char* __cdecl _strdate( char *_Buffer);
-#line 294 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 298 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strtime_s(
@@ -46382,10 +46632,10 @@ __declspec(dllimport) errno_t __cdecl _strtime_s(
     );
 
 extern "C++" { template <size_t _Size> inline errno_t __cdecl _strtime_s(  char (&_Buffer)[_Size]) throw() { return _strtime_s(_Buffer, _Size); } }
-#line 305 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  __declspec(dllimport) char* __cdecl _strtime( char *_Buffer);
-#line 310 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 314 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 __declspec(dllimport) __time32_t __cdecl _time32(
       __time32_t* _Time
@@ -46432,7 +46682,7 @@ __declspec(dllimport) int __cdecl _timespec64_get(
           unsigned   _Milliseconds
         );
 
-#line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
@@ -46444,15 +46694,6 @@ __declspec(dllimport) int __cdecl _timespec64_get(
 
 
     
-
-
-
-
-
-
-
-
-
 
 
 
@@ -46556,10 +46797,7 @@ __declspec(dllimport) int __cdecl _timespec64_get(
               time_t const* const _Time
             )
         {
-            #pragma warning(push)
-            #pragma warning(disable: 4996)
             return _ctime64(_Time);
-            #pragma warning(pop)
         }
 
          
@@ -46575,10 +46813,7 @@ __declspec(dllimport) int __cdecl _timespec64_get(
         static __inline struct tm* __cdecl gmtime(
               time_t const* const _Time)
         {
-            #pragma warning(push)
-            #pragma warning(disable: 4996)
             return _gmtime64(_Time);
-            #pragma warning(pop)
         }
 
         
@@ -46586,10 +46821,7 @@ __declspec(dllimport) int __cdecl _timespec64_get(
               time_t const* const _Time
             )
         {
-            #pragma warning(push)
-            #pragma warning(disable: 4996)
             return _localtime64(_Time);
-            #pragma warning(pop)
         }
 
          
@@ -46652,11 +46884,11 @@ __declspec(dllimport) int __cdecl _timespec64_get(
             {
                 return _localtime64_s(_Tm, _Time);
             }
-        #line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+        #line 563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
-    #line 579 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+    #line 565 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
-#line 581 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 567 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
@@ -46671,14 +46903,16 @@ __declspec(dllimport) int __cdecl _timespec64_get(
 
     
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_tzset" ". See online help for details.")) __declspec(dllimport) void __cdecl tzset(void);
-    #line 596 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+    #line 582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
-#line 598 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 584 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
 } __pragma(pack(pop))
-#line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+
+#pragma warning(pop) 
+#line 591 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 #pragma external_header(pop)
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\ctime"
 
@@ -55230,7 +55464,7 @@ void __cdecl _Facet_Register(_Facet_base*);
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
 
 
 
@@ -55243,6 +55477,10 @@ void __cdecl _Facet_Register(_Facet_base*);
 
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -55362,20 +55600,12 @@ __inline int __cdecl __acrt_locale_get_ctype_array_value(
     
 
 
-#line 133 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+#line 137 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
 
 
 
     
     
-    
-    
-    
-    
-    
-    
-
-
 
     
 
@@ -55385,12 +55615,61 @@ __inline int __cdecl __acrt_locale_get_ctype_array_value(
 
 
 
+        __forceinline int __cdecl __ascii_tolower(int const _C)
+        {
+            if (_C >= 'A' && _C <= 'Z')
+            {
+                return _C - ('A' - 'a');
+            }
+            return _C;
+        }
+
+        __forceinline int __cdecl __ascii_toupper(int const _C)
+        {
+            if (_C >= 'a' && _C <= 'z')
+            {
+                return _C - ('a' - 'A');
+            }
+            return _C;
+        }
+
+        __forceinline int __cdecl __ascii_iswalpha(int const _C)
+        {
+            return (_C >= 'A' && _C <= 'Z') || (_C >= 'a' && _C <= 'z');
+        }
+
+        __forceinline int __cdecl __ascii_iswdigit(int const _C)
+        {
+            return _C >= '0' && _C <= '9';
+        }
+
+        __forceinline int __cdecl __ascii_towlower(int const _C)
+        {
+            return __ascii_tolower(_C);
+        }
+
+        __forceinline int __cdecl __ascii_towupper(int const _C)
+        {
+            return __ascii_toupper(_C);
+        }
+    #line 189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
+
+
+
+    
 
 
 
 
 
-#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+
+
+
+
+
+
+
+#line 206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
 
     __inline __crt_locale_data_public* __cdecl __acrt_get_locale_data_prefix(void const volatile* const _LocalePointers)
     {
@@ -55400,7 +55679,7 @@ __inline int __cdecl __acrt_locale_get_ctype_array_value(
 
     
     __declspec(dllimport) int __cdecl _chvalidator_l(  _locale_t,   int _Ch,   int _Mask);
-    #line 171 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+    #line 216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
 
     __inline int __cdecl _chvalidchk_l(
               int       const _C,
@@ -55417,7 +55696,7 @@ __inline int __cdecl __acrt_locale_get_ctype_array_value(
 
 
 
-#line 188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+#line 233 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
     }
 
     
@@ -55429,12 +55708,21 @@ __inline int __cdecl __acrt_locale_get_ctype_array_value(
           _locale_t const _Locale
         )
     {
-        if (_Locale && __acrt_get_locale_data_prefix(_Locale)->_locale_mb_cur_max > 1)
-        {
-            return _isctype_l(_C, _Mask, _Locale);
+        if (_Locale) {
+            if (_C >= -1 && _C <= 255)
+            {
+                return __acrt_get_locale_data_prefix(_Locale)->_locale_pctype[_C] & _Mask;
+            }
+
+            if (__acrt_get_locale_data_prefix(_Locale)->_locale_mb_cur_max > 1)
+            {
+                return _isctype_l(_C, _Mask, _Locale);
+            }
+
+            return 0; 
         }
 
-        return _chvalidchk_l(_C, _Mask, _Locale);
+        return _chvalidchk_l(_C, _Mask, 0);
     }
 
     
@@ -55468,7 +55756,7 @@ __inline int __cdecl __acrt_locale_get_ctype_array_value(
     
     
 
-#line 239 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+#line 293 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
 
 
 
@@ -55476,13 +55764,15 @@ __inline int __cdecl __acrt_locale_get_ctype_array_value(
     
     
     
-#line 247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+#line 301 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
 
 
 
-#line 251 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+#line 305 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
 } __pragma(pack(pop))
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\ctype.h"
+
+#pragma warning(pop) 
+#line 309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\ctype.h"
 #pragma external_header(pop)
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cctype"
 
@@ -55550,7 +55840,7 @@ using :: isblank;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\locale.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\locale.h"
 
 
 
@@ -55562,6 +55852,10 @@ using :: isblank;
 
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8)) extern "C" {
@@ -55724,11 +56018,13 @@ struct tm;
                           void*            _Lc_time_arg
         );
 
-#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\locale.h"
+#line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\locale.h"
 
 
 } __pragma(pack(pop))
-#line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\locale.h"
+
+#pragma warning(pop) 
+#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\locale.h"
 #pragma external_header(pop)
 #line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\clocale"
 
@@ -64400,16328 +64696,7 @@ basic_istream<_Elem, _Traits>& __cdecl ws(basic_istream<_Elem, _Traits>& _Istr) 
 #line 924 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\istream"
 #line 925 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\istream"
 #pragma external_header(pop)
-#line 12 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-
-
-
-
-
-
-namespace std {
-
-
-
-
-#line 32 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-
-#line 39 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-#line 40 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-namespace experimental {
-    namespace filesystem {
-        inline namespace v1 {
-            class path;
-        }
-    } 
-} 
-#line 50 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-extern  FILE* __cdecl _Fiopen(const char*, ios_base::openmode, int);
-extern  FILE* __cdecl _Fiopen(const wchar_t*, ios_base::openmode, int);
-
-
-extern  FILE* __cdecl _Fiopen(const unsigned short*, ios_base::openmode, int);
-#line 57 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-template <class _Elem>
-bool _Fgetc(_Elem& _Ch, FILE* _File) { 
-    return :: fread(&_Ch, sizeof(_Elem), 1, _File) == 1;
-}
-
-template <>
-inline bool _Fgetc(char& _Byte, FILE* _File) { 
-    int _Meta;
-    if ((_Meta = :: fgetc(_File)) == (-1)) {
-        return false;
-    } else { 
-        _Byte = static_cast<char>(_Meta);
-        return true;
-    }
-}
-
-template <>
-inline bool _Fgetc(wchar_t& _Wchar, FILE* _File) { 
-    wint_t _Meta;
-    if ((_Meta = :: fgetwc(_File)) == ((wint_t)(0xFFFF))) {
-        return false;
-    } else { 
-        _Wchar = static_cast<wchar_t>(_Meta);
-        return true;
-    }
-}
-
-
-template <>
-inline bool _Fgetc(unsigned short& _Wchar, FILE* _File) { 
-    wint_t _Meta;
-    if ((_Meta = :: fgetwc(_File)) == ((wint_t)(0xFFFF))) {
-        return false;
-    } else { 
-        _Wchar = static_cast<unsigned short>(_Meta);
-        return true;
-    }
-}
-#line 98 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-template <class _Elem>
-bool _Fputc(_Elem _Ch, FILE* _File) { 
-    return :: fwrite(&_Ch, 1, sizeof(_Elem), _File) == sizeof(_Elem);
-}
-
-template <>
-inline bool _Fputc(char _Byte, FILE* _File) { 
-    return :: fputc(_Byte, _File) != (-1);
-}
-
-template <>
-inline bool _Fputc(wchar_t _Wchar, FILE* _File) { 
-    return :: fputwc(_Wchar, _File) != ((wint_t)(0xFFFF));
-}
-
-
-template <>
-inline bool _Fputc(unsigned short _Wchar, FILE* _File) { 
-    return :: fputwc(_Wchar, _File) != ((wint_t)(0xFFFF));
-}
-#line 121 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-template <class _Elem>
-bool _Ungetc(const _Elem&, FILE*) { 
-    return false;
-}
-
-template <>
-inline bool _Ungetc(const char& _Byte, FILE* _File) { 
-    return :: ungetc(static_cast<unsigned char>(_Byte), _File) != (-1);
-}
-
-template <>
-inline bool _Ungetc(const signed char& _Byte, FILE* _File) { 
-    return :: ungetc(static_cast<unsigned char>(_Byte), _File) != (-1);
-}
-
-template <>
-inline bool _Ungetc(const unsigned char& _Byte, FILE* _File) { 
-    return :: ungetc(_Byte, _File) != (-1);
-}
-
-template <>
-inline bool _Ungetc(const wchar_t& _Wchar, FILE* _File) { 
-    return :: ungetwc(_Wchar, _File) != ((wint_t)(0xFFFF));
-}
-
-
-template <>
-inline bool _Ungetc(const unsigned short& _Wchar, FILE* _File) { 
-    return :: ungetwc(_Wchar, _File) != ((wint_t)(0xFFFF));
-}
-#line 154 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-template <class _Elem, class _Traits>
-class basic_filebuf : public basic_streambuf<_Elem, _Traits> { 
-public:
-    using _Mysb = basic_streambuf<_Elem, _Traits>;
-    using _Cvt  = codecvt<_Elem, char, typename _Traits::state_type>;
-
-    basic_filebuf() : _Mysb() {
-        _Init(nullptr, _Newfl);
-    }
-
-    explicit basic_filebuf(FILE* const _File) : _Mysb() { 
-        _Init(_File, _Newfl);
-    }
-
-    virtual  ~basic_filebuf() noexcept {
-        if (_Myfile) {
-            _Reset_back(); 
-        }
-
-        if (_Closef) {
-            close();
-        }
-    }
-
-    using int_type = typename _Traits::int_type;
-    using pos_type = typename _Traits::pos_type;
-    using off_type = typename _Traits::off_type;
-
-    basic_filebuf(_Uninitialized) : _Mysb(_Noinit) {}
-
-    basic_filebuf(basic_filebuf&& _Right) {
-        _Init(_Right._Myfile, _Newfl); 
-        _Init(static_cast<FILE*>(nullptr), _Closefl); 
-        _Assign_rv(::std:: move(_Right));
-    }
-
-    basic_filebuf& operator=(basic_filebuf&& _Right) {
-        _Assign_rv(::std:: move(_Right));
-        return *this;
-    }
-
-    void _Assign_rv(basic_filebuf&& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            close();
-            this->swap(_Right);
-        }
-    }
-
-    void swap(basic_filebuf& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            FILE* _Myfile_sav                       = _Myfile;
-            const _Cvt* _Pcvt_sav                   = _Pcvt;
-            typename _Traits::state_type _State_sav = _State;
-            bool _Wrotesome_sav                     = _Wrotesome;
-            bool _Closef_sav                        = _Closef;
-            bool _Set_eback_sav                     = _Mysb::eback() == &_Mychar;
-            bool _Set_eback_live                    = _Mysb::gptr() == &_Mychar;
-
-            _Elem* _Pfirst0 = _Mysb::pbase();
-            _Elem* _Pnext0  = _Mysb::pptr();
-            _Elem* _Pend    = _Mysb::epptr();
-            _Elem* _Gfirst0 = _Mysb::eback();
-            _Elem* _Gnext0  = _Mysb::gptr();
-            _Elem* _Gend    = _Mysb::egptr();
-
-            
-            _Init(_Right._Myfile, _Right._Myfile ? _Openfl : _Newfl);
-            _Mysb::setp(_Right.pbase(), _Right.pptr(), _Right.epptr());
-            if (_Right.eback() != &_Right._Mychar) {
-                _Mysb::setg(_Right.eback(), _Right.gptr(), _Right.egptr());
-            } else if (_Right.gptr() != &_Right._Mychar) {
-                _Mysb::setg(&_Mychar, &_Mychar + 1, &_Mychar + 1);
-            } else {
-                _Mysb::setg(&_Mychar, &_Mychar, &_Mychar + 1);
-            }
-
-            _Pcvt      = _Right._Pcvt;
-            _State     = _Right._State;
-            _Wrotesome = _Right._Wrotesome;
-            _Closef    = _Right._Closef;
-
-            
-            _Right._Init(_Myfile_sav, _Myfile_sav ? _Openfl : _Newfl);
-            _Right.setp(_Pfirst0, _Pnext0, _Pend);
-            if (!_Set_eback_sav) {
-                _Right.setg(_Gfirst0, _Gnext0, _Gend);
-            } else if (!_Set_eback_live) {
-                _Right.setg(&_Right._Mychar, &_Right._Mychar + 1, &_Right._Mychar + 1);
-            } else {
-                _Right.setg(&_Right._Mychar, &_Right._Mychar, &_Right._Mychar + 1);
-            }
-
-            _Right._Pcvt      = _Pcvt_sav;
-            _Right._State     = _State_sav;
-            _Right._Wrotesome = _Wrotesome_sav;
-            _Right._Closef    = _Closef_sav;
-
-            
-            ::std:: swap(_Set_eback, _Right._Set_eback);
-            ::std:: swap(_Set_egptr, _Right._Set_egptr);
-
-            ::std:: swap(_Mychar, _Right._Mychar);
-            ::std:: swap(_Mysb::_Plocale, _Right._Plocale);
-        }
-    }
-
-    basic_filebuf(const basic_filebuf&) = delete;
-    basic_filebuf& operator=(const basic_filebuf&) = delete;
-
-    enum _Initfl { 
-        _Newfl,
-        _Openfl,
-        _Closefl
-    };
-
-    [[nodiscard]] bool is_open() const {
-        return static_cast<bool>(_Myfile);
-    }
-
-    basic_filebuf* open(const char* _Filename, ios_base::openmode _Mode, int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Myfile) {
-            return nullptr;
-        }
-
-        const auto _File = _Fiopen(_Filename, _Mode, _Prot);
-        if (!_File) {
-            return nullptr; 
-        }
-
-        _Init(_File, _Openfl);
-        _Initcvt(::std:: use_facet<_Cvt>(_Mysb::getloc()));
-        return this; 
-    }
-
-    basic_filebuf* open(const string& _Str, ios_base::openmode _Mode, int _Prot = ios_base::_Default_open_prot) {
-        
-        return open(_Str.c_str(), _Mode, _Prot);
-    }
-
-
-    basic_filebuf* open(const char* _Filename, ios_base::open_mode _Mode) {
-        return open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 301 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    basic_filebuf* open(const wchar_t* _Filename, ios_base::openmode _Mode, int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Myfile) {
-            return nullptr;
-        }
-
-        const auto _File = _Fiopen(_Filename, _Mode, _Prot);
-        if (!_File) {
-            return nullptr; 
-        }
-
-        _Init(_File, _Openfl);
-        _Initcvt(::std:: use_facet<_Cvt>(_Mysb::getloc()));
-        return this; 
-    }
-
-    basic_filebuf* open(const wstring& _Str, ios_base::openmode _Mode, int _Prot = ios_base::_Default_open_prot) {
-        
-        return open(_Str.c_str(), _Mode, _Prot);
-    }
-
-
-    template <class _Path_ish = experimental::filesystem::path>
-    basic_filebuf* open(
-        const _Identity_t<_Path_ish>& _Path, ios_base::openmode _Mode, int _Prot = ios_base::_Default_open_prot) {
-        
-        return open(_Path.c_str(), _Mode, _Prot);
-    }
-#line 331 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-
-
-
-#line 340 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    basic_filebuf* open(const wchar_t* _Filename, ios_base::open_mode _Mode) {
-        
-        return open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 347 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    basic_filebuf* open(
-        const unsigned short* _Filename, ios_base::openmode _Mode, int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Myfile) {
-            return nullptr;
-        }
-
-        const auto _File = _Fiopen(_Filename, _Mode, _Prot);
-        if (!_File) {
-            return nullptr; 
-        }
-
-        _Init(_File, _Openfl);
-        _Initcvt(::std:: use_facet<_Cvt>(_Mysb::getloc()));
-        return this; 
-    }
-
-
-    basic_filebuf* open(const unsigned short* _Filename, ios_base::open_mode _Mode) {
-        
-        return open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 372 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-#line 373 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    basic_filebuf* close() {
-        basic_filebuf* _Ans;
-        if (_Myfile) { 
-            _Ans = this;
-            if (!_Endwrite()) {
-                _Ans = nullptr;
-            }
-
-            if (:: fclose(_Myfile) != 0) {
-                _Ans = nullptr;
-            }
-        } else {
-            _Ans = nullptr;
-        }
-
-        _Init(nullptr, _Closefl);
-        return _Ans;
-    }
-
-    virtual void  _Lock() override { 
-        if (_Myfile) {
-            :: _lock_file(_Myfile);
-        }
-    }
-
-    virtual void  _Unlock() override { 
-        if (_Myfile) {
-            :: _unlock_file(_Myfile);
-        }
-    }
-
-protected:
-    virtual int_type  overflow(int_type _Meta = _Traits::eof()) override { 
-        if (_Traits::eq_int_type(_Traits::eof(), _Meta)) {
-            return _Traits::not_eof(_Meta); 
-        }
-
-        if (_Mysb::pptr() && _Mysb::pptr() < _Mysb::epptr()) { 
-            *_Mysb::_Pninc() = _Traits::to_char_type(_Meta);
-            return _Meta;
-        }
-
-        if (!_Myfile) {
-            return _Traits::eof(); 
-        }
-
-        _Reset_back(); 
-        if (!_Pcvt) { 
-            return _Fputc(_Traits::to_char_type(_Meta), _Myfile) ? _Meta : _Traits::eof();
-        }
-
-        
-        constexpr size_t _Codecvt_temp_buf = 32;
-        char _Str[_Codecvt_temp_buf];
-        const _Elem _Ch = _Traits::to_char_type(_Meta);
-        const _Elem* _Src;
-        char* _Dest;
-        switch (_Pcvt->out(_State, &_Ch, &_Ch + 1, _Src, _Str, _Str + _Codecvt_temp_buf,
-            _Dest)) { 
-        case codecvt_base::partial:
-        case codecvt_base::ok:
-            { 
-                const auto _Count = static_cast<size_t>(_Dest - _Str);
-                if (0 < _Count && _Count != static_cast<size_t>(:: fwrite(_Str, 1, _Count, _Myfile))) {
-                    return _Traits::eof(); 
-                }
-
-                _Wrotesome = true; 
-                if (_Src != &_Ch) {
-                    return _Meta; 
-                }
-
-                return _Traits::eof(); 
-            }
-
-        case codecvt_base::noconv:
-            
-            return _Fputc(_Ch, _Myfile) ? _Meta : _Traits::eof();
-
-        default:
-            return _Traits::eof(); 
-        }
-    }
-
-    virtual int_type  pbackfail(int_type _Meta = _Traits::eof()) override {
-        
-        if (_Mysb::gptr() && _Mysb::eback() < _Mysb::gptr()
-            && (_Traits::eq_int_type(_Traits::eof(), _Meta)
-                || _Traits::eq_int_type(_Traits::to_int_type(_Mysb::gptr()[-1]),
-                    _Meta))) { 
-            _Mysb::_Gndec();
-            return _Traits::not_eof(_Meta);
-        } else if (!_Myfile || _Traits::eq_int_type(_Traits::eof(), _Meta)) {
-            return _Traits::eof(); 
-        } else if (!_Pcvt && _Ungetc(_Traits::to_char_type(_Meta), _Myfile)) {
-            return _Meta; 
-        } else if (_Mysb::gptr() != &_Mychar) { 
-            _Mychar = _Traits::to_char_type(_Meta);
-            _Set_back(); 
-            return _Meta;
-        } else {
-            return _Traits::eof(); 
-        }
-    }
-
-    virtual int_type  underflow() override { 
-        int_type _Meta;
-        if (_Mysb::gptr() && _Mysb::gptr() < _Mysb::egptr()) {
-            return _Traits::to_int_type(*_Mysb::gptr()); 
-        } else if (_Traits::eq_int_type(_Traits::eof(), _Meta = uflow())) {
-            return _Meta; 
-        } else { 
-            pbackfail(_Meta);
-            return _Meta;
-        }
-    }
-
-    virtual int_type  uflow() override { 
-        if (_Mysb::gptr() && _Mysb::gptr() < _Mysb::egptr()) {
-            return _Traits::to_int_type(*_Mysb::_Gninc()); 
-        }
-
-        if (!_Myfile) {
-            return _Traits::eof(); 
-        }
-
-        _Reset_back(); 
-        if (!_Pcvt) { 
-            _Elem _Ch;
-            return _Fgetc(_Ch, _Myfile) ? _Traits::to_int_type(_Ch) : _Traits::eof();
-        }
-
-        
-        string _Str;
-
-        for (;;) { 
-            const char* _Src;
-            int _Meta = :: fgetc(_Myfile);
-
-            if (_Meta == (-1)) {
-                return _Traits::eof(); 
-            }
-
-            _Str.push_back(static_cast<char>(_Meta)); 
-
-            _Elem _Ch;
-            _Elem* _Dest;
-            switch (_Pcvt->in(_State, _Str.data(), _Str.data() + _Str.size(), _Src, &_Ch, &_Ch + 1,
-                _Dest)) { 
-            case codecvt_base::partial:
-            case codecvt_base::ok:
-                if (_Dest != &_Ch) { 
-                    auto _Nleft = _Str.data() + _Str.size() - _Src;
-                    while (0 < _Nleft) {
-                        :: ungetc(_Src[--_Nleft], _Myfile);
-                    }
-
-                    return _Traits::to_int_type(_Ch);
-                }
-
-                _Str.erase(0, static_cast<size_t>(_Src - _Str.data())); 
-                break;
-
-            case codecvt_base::noconv:
-                
-                return static_cast<int_type>(_Str.front());
-
-            default:
-                return _Traits::eof(); 
-            }
-        }
-    }
-
-#pragma warning(push)
-#pragma warning(disable : 4127) 
-    virtual streamsize  xsgetn(_Elem* _Ptr, streamsize _Count) override {
-        
-        if constexpr (sizeof(_Elem) == 1) {
-            if (_Count <= 0) {
-                return 0;
-            }
-
-            if (_Pcvt) { 
-                return _Mysb::xsgetn(_Ptr, _Count);
-            }
-
-            
-            auto _Count_s           = static_cast<size_t>(_Count);
-            const auto _Start_count = _Count;
-            const auto _Available   = static_cast<size_t>(_Mysb::_Gnavail());
-            if (0 < _Available) { 
-                const auto _Read_size = (::std:: min)(_Count_s, _Available);
-                _Traits::copy(_Ptr, _Mysb::gptr(), _Read_size);
-                _Ptr += _Read_size;
-                _Count_s -= _Read_size;
-                _Mysb::gbump(static_cast<int>(_Read_size));
-            }
-
-            if (_Myfile) { 
-                _Reset_back(); 
-                
-                
-                constexpr size_t _Read_size = 4095; 
-                while (_Read_size < _Count_s) {
-                    const auto _Actual_read = :: fread(_Ptr, sizeof(_Elem), _Read_size, _Myfile);
-                    _Ptr += _Actual_read;
-                    _Count_s -= _Actual_read;
-                    if (_Actual_read != _Read_size) {
-                        return static_cast<streamsize>(_Start_count - _Count_s);
-                    }
-                }
-
-                if (0 < _Count_s) {
-                    _Count_s -= :: fread(_Ptr, sizeof(_Elem), _Count_s, _Myfile);
-                }
-            }
-
-            return static_cast<streamsize>(_Start_count - _Count_s);
-        } else { 
-            return _Mysb::xsgetn(_Ptr, _Count);
-        }
-    }
-
-    virtual streamsize  xsputn(const _Elem* _Ptr, streamsize _Count) override {
-        
-        if constexpr (sizeof(_Elem) == 1) {
-            if (_Pcvt) { 
-                return _Mysb::xsputn(_Ptr, _Count);
-            }
-
-            const streamsize _Start_count = _Count;
-            streamsize _Size              = _Mysb::_Pnavail();
-            if (0 < _Count && 0 < _Size) { 
-                if (_Count < _Size) {
-                    _Size = _Count;
-                }
-
-                _Traits::copy(_Mysb::pptr(), _Ptr, static_cast<size_t>(_Size));
-                _Ptr += _Size;
-                _Count -= _Size;
-                _Mysb::pbump(static_cast<int>(_Size));
-            }
-
-            if (0 < _Count && _Myfile) { 
-                _Count -= :: fwrite(_Ptr, sizeof(_Elem), static_cast<size_t>(_Count), _Myfile);
-            }
-
-            return _Start_count - _Count;
-        } else { 
-            return _Mysb::xsputn(_Ptr, _Count);
-        }
-    }
-#pragma warning(pop)
-
-    virtual pos_type  seekoff(off_type _Off, ios_base::seekdir _Way,
-        ios_base::openmode = ios_base::in | ios_base::out) override { 
-        fpos_t _Fileposition;
-
-        if (_Mysb::gptr() == &_Mychar 
-            && _Way == ios_base::cur 
-            && !_Pcvt) { 
-            _Off -= static_cast<off_type>(sizeof(_Elem)); 
-        }
-
-        if (!_Myfile || !_Endwrite()
-            || ((_Off != 0 || _Way != ios_base::cur) && :: _fseeki64(_Myfile, _Off, _Way) != 0)
-            || :: fgetpos(_Myfile, &_Fileposition) != 0) {
-            return pos_type(-1); 
-        }
-
-        _Reset_back(); 
-        return pos_type(_State, _Fileposition); 
-    }
-
-    virtual pos_type  seekpos(
-        pos_type _Pos, ios_base::openmode = ios_base::in | ios_base::out) override {
-        
-        off_type _Off = static_cast<off_type>(_Pos);
-
-        if (!_Myfile || !_Endwrite() || :: fsetpos(_Myfile, &_Off) != 0) {
-            return pos_type(-1); 
-        }
-
-        _State = _Pos.state();
-        _Reset_back(); 
-        return pos_type(_State, _Off); 
-    }
-
-    virtual _Mysb*  setbuf(_Elem* _Buffer, streamsize _Count) override { 
-        int _Mode;
-        if (!_Buffer && _Count == 0) {
-            _Mode = 0x0004;
-        } else {
-            _Mode = 0x0000;
-        }
-
-        const size_t _Size = static_cast<size_t>(_Count) * sizeof(_Elem);
-
-        if (!_Myfile || :: setvbuf(_Myfile, reinterpret_cast<char*>(_Buffer), _Mode, _Size) != 0) {
-            return nullptr; 
-        }
-
-        
-        _Init(_Myfile, _Openfl);
-        return this;
-    }
-
-    virtual int  sync() override { 
-        if (!_Myfile || _Traits::eq_int_type(_Traits::eof(), overflow()) || 0 <= :: fflush(_Myfile)) {
-            return 0;
-        }
-
-        return -1;
-    }
-
-    virtual void  imbue(const locale& _Loc) override {
-        
-        _Initcvt(::std:: use_facet<_Cvt>(_Loc));
-    }
-
-    void _Init(FILE* _File, _Initfl _Which) { 
-        using _State_type = typename _Traits::state_type;
-
-         static _State_type _Stinit; 
-
-        _Closef    = _Which == _Openfl;
-        _Wrotesome = false;
-
-        _Mysb::_Init(); 
-
-        if (_File && sizeof(_Elem) == 1) { 
-            _Elem** _Pb = nullptr;
-            _Elem** _Pn = nullptr;
-            int* _Nr    = nullptr;
-
-            ::_get_stream_buffer_pointers(
-                _File, reinterpret_cast<char***>(&_Pb), reinterpret_cast<char***>(&_Pn), &_Nr);
-            int* _Nw = _Nr;
-
-            _Mysb::_Init(_Pb, _Pn, _Nr, _Pb, _Pn, _Nw);
-        }
-
-        _Myfile = _File;
-        _State  = _Stinit;
-        _Pcvt   = nullptr; 
-    }
-
-    bool _Endwrite() { 
-        if (!_Pcvt || !_Wrotesome) {
-            return true;
-        }
-
-        
-        if (_Traits::eq_int_type(_Traits::eof(), overflow())) {
-            return false;
-        }
-
-        constexpr size_t _Codecvt_temp_buf = 32;
-        char _Str[_Codecvt_temp_buf];
-        char* _Dest;
-        switch (_Pcvt->unshift(_State, _Str, _Str + _Codecvt_temp_buf, _Dest)) { 
-        case codecvt_base::ok:
-            _Wrotesome = false; 
-
-        case codecvt_base::partial: 
-            { 
-                const auto _Count = static_cast<size_t>(_Dest - _Str);
-                if (0 < _Count && _Count != static_cast<size_t>(:: fwrite(_Str, 1, _Count, _Myfile))) {
-                    return false; 
-                }
-
-                return !_Wrotesome;
-            }
-
-        case codecvt_base::noconv:
-            _Wrotesome = false; 
-            return true; 
-
-        default:
-            return false; 
-        }
-    }
-
-    void _Initcvt(const _Cvt& _Newcvt) { 
-        if (_Newcvt.always_noconv()) {
-            _Pcvt = nullptr; 
-        } else { 
-            _Pcvt = ::std:: addressof(_Newcvt);
-            _Mysb::_Init(); 
-        }
-    }
-
-private:
-    const _Cvt* _Pcvt; 
-    _Elem _Mychar; 
-    bool _Wrotesome; 
-    typename _Traits::state_type _State; 
-    bool _Closef; 
-    FILE* _Myfile; 
-
-    void _Reset_back() { 
-        if (_Mysb::eback() == &_Mychar) {
-            _Mysb::setg(_Set_eback, _Set_eback, _Set_egptr);
-        }
-    }
-
-    void _Set_back() { 
-        if (_Mysb::eback() != &_Mychar) { 
-            _Set_eback = _Mysb::eback();
-            _Set_egptr = _Mysb::egptr();
-        }
-        _Mysb::setg(&_Mychar, &_Mychar, &_Mychar + 1);
-    }
-
-    _Elem* _Set_eback; 
-    _Elem* _Set_egptr; 
-};
-
-template <class _Elem, class _Traits>
-void swap(basic_filebuf<_Elem, _Traits>& _Left, basic_filebuf<_Elem, _Traits>& _Right) {
-    _Left.swap(_Right);
-}
-
-
-template <class _Elem, class _Traits>
-class basic_ifstream : public basic_istream<_Elem, _Traits> { 
-public:
-    using _Mybase = basic_istream<_Elem, _Traits>;
-    using _Myfb   = basic_filebuf<_Elem, _Traits>;
-    using _Myios  = basic_ios<_Elem, _Traits>;
-
-    basic_ifstream() : _Mybase(::std:: addressof(_Filebuffer)) {}
-
-    explicit basic_ifstream(
-        const char* _Filename, ios_base::openmode _Mode = ios_base::in, int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) {
-        
-        if (!_Filebuffer.open(_Filename, _Mode | ios_base::in, _Prot)) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    explicit basic_ifstream(
-        const string& _Str, ios_base::openmode _Mode = ios_base::in, int _Prot = ios_base::_Default_open_prot)
-        : basic_ifstream(_Str.c_str(), _Mode, _Prot) {} 
-
-    explicit basic_ifstream(
-        const wchar_t* _Filename, ios_base::openmode _Mode = ios_base::in, int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) {
-        
-        if (!_Filebuffer.open(_Filename, _Mode | ios_base::in, _Prot)) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    explicit basic_ifstream(
-        const wstring& _Str, ios_base::openmode _Mode = ios_base::in, int _Prot = ios_base::_Default_open_prot)
-        : basic_ifstream(_Str.c_str(), _Mode, _Prot) {} 
-
-
-    template <class _Path_ish = experimental::filesystem::path>
-    explicit basic_ifstream(const _Identity_t<_Path_ish>& _Path, ios_base::openmode _Mode = ios_base::in,
-        int _Prot = ios_base::_Default_open_prot)
-        : basic_ifstream(_Path.c_str(), _Mode, _Prot) {} 
-#line 839 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-
-#line 846 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    explicit basic_ifstream(const unsigned short* _Filename, ios_base::openmode _Mode = ios_base::in,
-        int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) {
-        
-        if (_Filebuffer.open(_Filename, _Mode | ios_base::in, _Prot) == 0) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-#line 857 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    explicit basic_ifstream(FILE* _File) : _Mybase(::std:: addressof(_Filebuffer)), _Filebuffer(_File) {} 
-
-    basic_ifstream(basic_ifstream&& _Right) : _Mybase(::std:: addressof(_Filebuffer)) {
-        _Assign_rv(::std:: move(_Right));
-    }
-
-    basic_ifstream& operator=(basic_ifstream&& _Right) {
-        _Assign_rv(::std:: move(_Right));
-        return *this;
-    }
-
-    void _Assign_rv(basic_ifstream&& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Filebuffer.close();
-            this->swap(_Right);
-        }
-    }
-
-    void swap(basic_ifstream& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Mybase::swap(_Right);
-            _Filebuffer.swap(_Right._Filebuffer);
-        }
-    }
-
-    basic_ifstream(const basic_ifstream&) = delete;
-    basic_ifstream& operator=(const basic_ifstream&) = delete;
-
-    void open(
-        const wchar_t* _Filename, ios_base::openmode _Mode = ios_base::in, int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode | ios_base::in, _Prot)) {
-            _Myios::clear();
-        } else {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    void open(const wstring& _Str, ios_base::openmode _Mode = ios_base::in, int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Str.c_str(), _Mode, _Prot);
-    }
-
-
-    template <class _Path_ish = experimental::filesystem::path>
-    void open(const _Identity_t<_Path_ish>& _Path, ios_base::openmode _Mode = ios_base::in,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Path.c_str(), _Mode, _Prot);
-    }
-#line 909 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-
-
-
-#line 918 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    void open(const wchar_t* _Filename, ios_base::open_mode _Mode) {
-        
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 925 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    void open(const unsigned short* _Filename, ios_base::openmode _Mode = ios_base::in,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode | ios_base::in, _Prot) == 0) {
-            _Myios::setstate(ios_base::failbit);
-        } else {
-            _Myios::clear();
-        }
-    }
-
-
-    void open(const unsigned short* _Filename, ios_base::open_mode _Mode) {
-        
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 943 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-#line 944 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    virtual  ~basic_ifstream() noexcept {}
-
-    [[nodiscard]] _Myfb* rdbuf() const {
-        return const_cast<_Myfb*>(::std:: addressof(_Filebuffer));
-    }
-
-    [[nodiscard]] bool is_open() const {
-        return _Filebuffer.is_open();
-    }
-
-    void open(
-        const char* _Filename, ios_base::openmode _Mode = ios_base::in, int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode | ios_base::in, _Prot)) {
-            _Myios::clear();
-        } else {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    void open(const string& _Str, ios_base::openmode _Mode = ios_base::in, int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Str.c_str(), _Mode, _Prot);
-    }
-
-
-    void open(const char* _Filename, ios_base::open_mode _Mode) {
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 975 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    void close() {
-        if (!_Filebuffer.close()) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-private:
-    _Myfb _Filebuffer;
-};
-
-template <class _Elem, class _Traits>
-void swap(basic_ifstream<_Elem, _Traits>& _Left, basic_ifstream<_Elem, _Traits>& _Right) {
-    _Left.swap(_Right);
-}
-
-
-template <class _Elem, class _Traits>
-class basic_ofstream : public basic_ostream<_Elem, _Traits> { 
-public:
-    using _Mybase = basic_ostream<_Elem, _Traits>;
-    using _Myfb   = basic_filebuf<_Elem, _Traits>;
-    using _Myios  = basic_ios<_Elem, _Traits>;
-
-    basic_ofstream() : _Mybase(::std:: addressof(_Filebuffer)) {}
-
-    explicit basic_ofstream(const char* _Filename, ios_base::openmode _Mode = ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) { 
-        if (!_Filebuffer.open(_Filename, _Mode | ios_base::out, _Prot)) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    explicit basic_ofstream(
-        const string& _Str, ios_base::openmode _Mode = ios_base::out, int _Prot = ios_base::_Default_open_prot)
-        : basic_ofstream(_Str.c_str(), _Mode, _Prot) {} 
-
-    explicit basic_ofstream(
-        const wchar_t* _Filename, ios_base::openmode _Mode = ios_base::out, int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) {
-        
-        if (!_Filebuffer.open(_Filename, _Mode | ios_base::out, _Prot)) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    explicit basic_ofstream(
-        const wstring& _Str, ios_base::openmode _Mode = ios_base::out, int _Prot = ios_base::_Default_open_prot)
-        : basic_ofstream(_Str.c_str(), _Mode, _Prot) {} 
-
-
-    template <class _Path_ish = experimental::filesystem::path>
-    explicit basic_ofstream(const _Identity_t<_Path_ish>& _Path, ios_base::openmode _Mode = ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : basic_ofstream(_Path.c_str(), _Mode, _Prot) {} 
-#line 1032 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-
-#line 1039 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    explicit basic_ofstream(const unsigned short* _Filename, ios_base::openmode _Mode = ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) {
-        
-        if (_Filebuffer.open(_Filename, _Mode | ios_base::out, _Prot) == 0) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-#line 1050 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    explicit basic_ofstream(FILE* _File) : _Mybase(::std:: addressof(_Filebuffer)), _Filebuffer(_File) {} 
-
-    basic_ofstream(basic_ofstream&& _Right) : _Mybase(::std:: addressof(_Filebuffer)) {
-        _Assign_rv(::std:: move(_Right));
-    }
-
-    basic_ofstream& operator=(basic_ofstream&& _Right) {
-        _Assign_rv(::std:: move(_Right));
-        return *this;
-    }
-
-    void _Assign_rv(basic_ofstream&& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Filebuffer.close();
-            this->swap(_Right);
-        }
-    }
-
-    void swap(basic_ofstream& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Mybase::swap(_Right);
-            _Filebuffer.swap(_Right._Filebuffer);
-        }
-    }
-
-    basic_ofstream(const basic_ofstream&) = delete;
-    basic_ofstream& operator=(const basic_ofstream&) = delete;
-
-    void open(
-        const wchar_t* _Filename, ios_base::openmode _Mode = ios_base::out, int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode | ios_base::out, _Prot)) {
-            _Myios::clear();
-        } else {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    void open(const wstring& _Str, ios_base::openmode _Mode = ios_base::out, int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Str.c_str(), _Mode, _Prot);
-    }
-
-
-    template <class _Path_ish = experimental::filesystem::path>
-    void open(const _Identity_t<_Path_ish>& _Path, ios_base::openmode _Mode = ios_base::out,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Path.c_str(), _Mode, _Prot);
-    }
-#line 1102 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-
-
-
-#line 1111 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    void open(const wchar_t* _Filename, ios_base::open_mode _Mode) {
-        
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 1118 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    void open(const unsigned short* _Filename, ios_base::openmode _Mode = ios_base::out,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode | ios_base::out, _Prot) == 0) {
-            _Myios::setstate(ios_base::failbit);
-        } else {
-            _Myios::clear();
-        }
-    }
-
-
-    void open(const unsigned short* _Filename, ios_base::open_mode _Mode) {
-        
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 1136 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-#line 1137 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    virtual  ~basic_ofstream() noexcept {}
-
-    [[nodiscard]] _Myfb* rdbuf() const {
-        return const_cast<_Myfb*>(::std:: addressof(_Filebuffer));
-    }
-
-    [[nodiscard]] bool is_open() const {
-        return _Filebuffer.is_open();
-    }
-
-    void open(
-        const char* _Filename, ios_base::openmode _Mode = ios_base::out, int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode | ios_base::out, _Prot)) {
-            _Myios::clear();
-        } else {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    void open(const string& _Str, ios_base::openmode _Mode = ios_base::out, int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Str.c_str(), _Mode, _Prot);
-    }
-
-
-    void open(const char* _Filename, ios_base::open_mode _Mode) {
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 1168 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    void close() {
-        if (!_Filebuffer.close()) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-private:
-    _Myfb _Filebuffer;
-};
-
-template <class _Elem, class _Traits>
-void swap(basic_ofstream<_Elem, _Traits>& _Left, basic_ofstream<_Elem, _Traits>& _Right) {
-    _Left.swap(_Right);
-}
-
-
-template <class _Elem, class _Traits>
-class basic_fstream : public basic_iostream<_Elem, _Traits> { 
-public:
-    using _Mybase     = basic_iostream<_Elem, _Traits>;
-    using _Myfb       = basic_filebuf<_Elem, _Traits>;
-    using _Myios      = basic_ios<_Elem, _Traits>;
-    using char_type   = _Elem;
-    using traits_type = _Traits;
-    using int_type    = typename _Traits::int_type;
-    using pos_type    = typename _Traits::pos_type;
-    using off_type    = typename _Traits::off_type;
-
-    basic_fstream() : _Mybase(::std:: addressof(_Filebuffer)) {}
-
-    explicit basic_fstream(const char* _Filename, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) { 
-        if (!_Filebuffer.open(_Filename, _Mode, _Prot)) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    explicit basic_fstream(const string& _Str, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : basic_fstream(_Str.c_str(), _Mode, _Prot) {} 
-
-    explicit basic_fstream(const wchar_t* _Filename, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) {
-        
-        if (!_Filebuffer.open(_Filename, _Mode, _Prot)) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    explicit basic_fstream(const wstring& _Str, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : basic_fstream(_Str.c_str(), _Mode, _Prot) {} 
-
-
-    template <class _Path_ish = experimental::filesystem::path>
-    explicit basic_fstream(const _Identity_t<_Path_ish>& _Path, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : basic_fstream(_Path.c_str(), _Mode, _Prot) {} 
-#line 1230 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-
-#line 1237 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    explicit basic_fstream(const unsigned short* _Filename, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot)
-        : _Mybase(::std:: addressof(_Filebuffer)) {
-        
-        if (_Filebuffer.open(_Filename, _Mode, _Prot) == 0) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-#line 1248 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    explicit basic_fstream(FILE* _File) : _Mybase(::std:: addressof(_Filebuffer)), _Filebuffer(_File) {} 
-
-    basic_fstream(basic_fstream&& _Right) : _Mybase(::std:: addressof(_Filebuffer)) {
-        _Assign_rv(::std:: move(_Right));
-    }
-
-    basic_fstream& operator=(basic_fstream&& _Right) {
-        _Assign_rv(::std:: move(_Right));
-        return *this;
-    }
-
-    void _Assign_rv(basic_fstream&& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Filebuffer.close();
-            this->swap(_Right);
-        }
-    }
-
-    void swap(basic_fstream& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Mybase::swap(_Right);
-            _Filebuffer.swap(_Right._Filebuffer);
-        }
-    }
-
-    basic_fstream(const basic_fstream&) = delete;
-    basic_fstream& operator=(const basic_fstream&) = delete;
-
-    void open(const wchar_t* _Filename, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode, _Prot)) {
-            _Myios::clear();
-        } else {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    void open(const wstring& _Str, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Str.c_str(), _Mode, _Prot);
-    }
-
-
-    template <class _Path_ish = experimental::filesystem::path>
-    void open(const _Identity_t<_Path_ish>& _Path, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Path.c_str(), _Mode, _Prot);
-    }
-#line 1301 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-
-
-
-
-
-
-#line 1310 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    void open(const wchar_t* _Filename, ios_base::open_mode _Mode) {
-        
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 1317 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-
-    void open(const unsigned short* _Filename, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode, _Prot) == 0) {
-            _Myios::setstate(ios_base::failbit);
-        } else {
-            _Myios::clear();
-        }
-    }
-
-
-    void open(const unsigned short* _Filename, ios_base::open_mode _Mode) {
-        
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 1335 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-#line 1336 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    virtual  ~basic_fstream() noexcept {}
-
-    [[nodiscard]] _Myfb* rdbuf() const {
-        return const_cast<_Myfb*>(::std:: addressof(_Filebuffer));
-    }
-
-    [[nodiscard]] bool is_open() const {
-        return _Filebuffer.is_open();
-    }
-
-    void open(const char* _Filename, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        if (_Filebuffer.open(_Filename, _Mode, _Prot)) {
-            _Myios::clear();
-        } else {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-    void open(const string& _Str, ios_base::openmode _Mode = ios_base::in | ios_base::out,
-        int _Prot = ios_base::_Default_open_prot) {
-        
-        open(_Str.c_str(), _Mode, _Prot);
-    }
-
-
-    void open(const char* _Filename, ios_base::open_mode _Mode) {
-        open(_Filename, static_cast<ios_base::openmode>(_Mode));
-    }
-#line 1368 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-
-    void close() {
-        if (!_Filebuffer.close()) {
-            _Myios::setstate(ios_base::failbit);
-        }
-    }
-
-private:
-    _Myfb _Filebuffer;
-};
-
-template <class _Elem, class _Traits>
-void swap(basic_fstream<_Elem, _Traits>& _Left, basic_fstream<_Elem, _Traits>& _Right) {
-    _Left.swap(_Right);
-}
-}
-
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 1390 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-#line 1391 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\fstream"
-#pragma external_header(pop)
-#line 3 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-
-
-
-#pragma once
-
-
-
-
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-
-
-
-#pragma once
-
-
-
-
-
-
-
-
-
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-namespace std {
-
-
-template <bool _Same, class _Dest, class... _Srcs>
- constexpr bool _Tuple_conditional_explicit_v0 = false;
-
-template <class... _Dests, class... _Srcs>
- constexpr bool _Tuple_conditional_explicit_v0<true, tuple<_Dests...>, _Srcs...> =
-    !conjunction_v<is_convertible<_Srcs, _Dests>...>;
-
-template <class _Dest, class... _Srcs>
- constexpr bool _Tuple_conditional_explicit_v =
-    _Tuple_conditional_explicit_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 64 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-template <bool _Same, class _Dest, class... _Srcs>
- constexpr bool _Tuple_constructible_v0 = false;
-
-template <class... _Dests, class... _Srcs>
- constexpr bool _Tuple_constructible_v0<true, tuple<_Dests...>, _Srcs...> =
-    conjunction_v<is_constructible<_Dests, _Srcs>...>;
-
-template <class _Dest, class... _Srcs>
- constexpr bool _Tuple_constructible_v =
-    _Tuple_constructible_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
-
-template <class _Dest, class... _Srcs>
-struct _Tuple_constructible_val : bool_constant<_Tuple_constructible_v<_Dest, _Srcs...>> {};
-
-
-template <bool _Same, class _Dest, class... _Srcs>
- constexpr bool _Tuple_nothrow_constructible_v0 = false;
-
-template <class... _Dests, class... _Srcs>
- constexpr bool _Tuple_nothrow_constructible_v0<true, tuple<_Dests...>, _Srcs...> =
-    conjunction_v<is_nothrow_constructible<_Dests, _Srcs>...>;
-
-template <class _Dest, class... _Srcs>
- constexpr bool _Tuple_nothrow_constructible_v =
-    _Tuple_nothrow_constructible_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
-
-
-template <bool _Same, class _Dest, class... _Srcs>
- constexpr bool _Tuple_assignable_v0 = false;
-
-template <class... _Dests, class... _Srcs>
- constexpr bool _Tuple_assignable_v0<true, tuple<_Dests...>, _Srcs...> =
-    conjunction_v<is_assignable<_Dests&, _Srcs>...>; 
-
-template <class _Dest, class... _Srcs>
- constexpr bool _Tuple_assignable_v =
-    _Tuple_assignable_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
-
-template <class _Dest, class... _Srcs>
-struct _Tuple_assignable_val : bool_constant<_Tuple_assignable_v<_Dest, _Srcs...>> {};
-
-
-template <bool _Same, class _Dest, class... _Srcs>
- constexpr bool _Tuple_nothrow_assignable_v0 = false;
-
-template <class... _Dests, class... _Srcs>
- constexpr bool _Tuple_nothrow_assignable_v0<true, tuple<_Dests...>, _Srcs...> =
-    conjunction_v<is_nothrow_assignable<_Dests&, _Srcs>...>; 
-
-template <class _Dest, class... _Srcs>
- constexpr bool _Tuple_nothrow_assignable_v =
-    _Tuple_nothrow_assignable_v0<tuple_size_v<_Dest> == sizeof...(_Srcs), _Dest, _Srcs...>;
-
-
-
-template <class _Myself, class... _Other>
-struct _Tuple_convert_copy_val : true_type {};
-
-template <class _This, class _Uty>
-struct _Tuple_convert_copy_val<tuple<_This>, _Uty>
-    : bool_constant<!disjunction_v<is_same<_This, _Uty>, is_constructible<_This, const tuple<_Uty>&>,
-          is_convertible<const tuple<_Uty>&, _This>>> {};
-
-
-
-template <class _Myself, class... _Other>
-struct _Tuple_convert_move_val : true_type {};
-
-template <class _This, class _Uty>
-struct _Tuple_convert_move_val<tuple<_This>, _Uty>
-    : bool_constant<!disjunction_v<is_same<_This, _Uty>, is_constructible<_This, tuple<_Uty>>,
-          is_convertible<tuple<_Uty>, _This>>> {};
-
-
-
-template <class _Myself, class _This2, class... _Rest2>
-struct _Tuple_perfect_val : true_type {};
-
-template <class _Myself, class _This2>
-struct _Tuple_perfect_val<_Myself, _This2>
-    : bool_constant<!is_same_v<_Myself, remove_const_t<remove_reference_t<_This2>>>> {};
-
-
-struct _Ignore { 
-    template <class _Ty>
-    constexpr const _Ignore& operator=(const _Ty&) const noexcept  {
-        
-        return *this;
-    }
-};
-
- constexpr _Ignore ignore{};
-
-
-
-
-
-
-
-template <class _Ty>
-struct _Tuple_val { 
-    constexpr _Tuple_val() : _Val() {}
-
-    template <class _Other>
-    constexpr _Tuple_val(_Other&& _Arg) : _Val(::std:: forward<_Other>(_Arg)) {}
-
-    template <class _Alloc, class... _Other, enable_if_t<!uses_allocator_v<_Ty, _Alloc>, int> = 0>
-    constexpr _Tuple_val(const _Alloc&, allocator_arg_t, _Other&&... _Arg) : _Val(::std:: forward<_Other>(_Arg)...) {}
-
-    template <class _Alloc, class... _Other,
-        enable_if_t<conjunction_v<::std:: uses_allocator<_Ty, _Alloc>,
-                        ::std:: is_constructible<_Ty, ::std:: allocator_arg_t, const _Alloc&, _Other...>>,
-            int> = 0>
-    constexpr _Tuple_val(const _Alloc& _Al, allocator_arg_t, _Other&&... _Arg)
-        : _Val(allocator_arg, _Al, ::std:: forward<_Other>(_Arg)...) {}
-
-    template <class _Alloc, class... _Other,
-        enable_if_t<conjunction_v<::std:: uses_allocator<_Ty, _Alloc>,
-                        ::std:: negation<::std:: is_constructible<_Ty, ::std:: allocator_arg_t, const _Alloc&, _Other...>>>,
-            int> = 0>
-    constexpr _Tuple_val(const _Alloc& _Al, allocator_arg_t, _Other&&... _Arg)
-        : _Val(::std:: forward<_Other>(_Arg)..., _Al) {}
-
-    _Ty _Val;
-};
-
-
-struct _Exact_args_t {
-    explicit _Exact_args_t() = default;
-}; 
-
-struct _Unpack_tuple_t {
-    explicit _Unpack_tuple_t() = default;
-}; 
-
-struct _Alloc_exact_args_t {
-    explicit _Alloc_exact_args_t() = default;
-}; 
-
-struct _Alloc_unpack_tuple_t {
-    explicit _Alloc_unpack_tuple_t() = default;
-}; 
-
-template <class... _Types>
-class tuple;
-
-template <>
-class tuple<> { 
-public:
-    constexpr tuple() noexcept = default; 
-
-    constexpr tuple(const tuple&) noexcept  {} 
-
-    template <class _Alloc>
-    inline tuple(allocator_arg_t, const _Alloc&) noexcept  {}
-
-    template <class _Alloc>
-    inline tuple(allocator_arg_t, const _Alloc&, const tuple&) noexcept  {}
-
-    template <class _Tag, enable_if_t<is_same_v<_Tag, ::std:: _Exact_args_t>, int> = 0>
-    constexpr tuple(_Tag) noexcept  {}
-
-    template <class _Tag, class _Alloc, enable_if_t<is_same_v<_Tag, ::std:: _Alloc_exact_args_t>, int> = 0>
-    constexpr tuple(_Tag, const _Alloc&) noexcept  {}
-
-    constexpr tuple& operator=(const tuple&) = default;
-
-    inline void swap(tuple&) noexcept {}
-
-    constexpr bool _Equals(const tuple&) const noexcept {
-        return true;
-    }
-
-
-
-
-
-
-    [[nodiscard]] constexpr bool _Less(const tuple&) const noexcept {
-        return false;
-    }
-#line 248 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-};
-
-template <class _This, class... _Rest>
-class tuple<_This, _Rest...> : private tuple<_Rest...> { 
-public:
-    using _This_type = _This;
-    using _Mybase    = tuple<_Rest...>;
-
-    template <class _Tag, class _This2, class... _Rest2, enable_if_t<is_same_v<_Tag, ::std:: _Exact_args_t>, int> = 0>
-    constexpr tuple(_Tag, _This2&& _This_arg, _Rest2&&... _Rest_arg)
-        : _Mybase(_Exact_args_t{}, ::std:: forward<_Rest2>(_Rest_arg)...), _Myfirst(::std:: forward<_This2>(_This_arg)) {}
-
-    template <class _Tag, class _Tpl, size_t... _Indices, enable_if_t<is_same_v<_Tag, ::std:: _Unpack_tuple_t>, int> = 0>
-    constexpr tuple(_Tag, _Tpl&& _Right, index_sequence<_Indices...>);
-
-    template <class _Tag, class _Tpl, enable_if_t<is_same_v<_Tag, ::std:: _Unpack_tuple_t>, int> = 0>
-    constexpr tuple(_Tag, _Tpl&& _Right)
-        : tuple(_Unpack_tuple_t{}, ::std:: forward<_Tpl>(_Right),
-            make_index_sequence<tuple_size_v<remove_reference_t<_Tpl>>>{}) {}
-
-    template <class _Tag, class _Alloc, class _This2, class... _Rest2,
-        enable_if_t<is_same_v<_Tag, ::std:: _Alloc_exact_args_t>, int> = 0>
-    constexpr tuple(_Tag, const _Alloc& _Al, _This2&& _This_arg, _Rest2&&... _Rest_arg)
-        : _Mybase(_Alloc_exact_args_t{}, _Al, ::std:: forward<_Rest2>(_Rest_arg)...),
-          _Myfirst(_Al, allocator_arg, ::std:: forward<_This2>(_This_arg)) {}
-
-    template <class _Tag, class _Alloc, class _Tpl, size_t... _Indices,
-        enable_if_t<is_same_v<_Tag, ::std:: _Alloc_unpack_tuple_t>, int> = 0>
-    constexpr tuple(_Tag, const _Alloc& _Al, _Tpl&& _Right, index_sequence<_Indices...>);
-
-    template <class _Tag, class _Alloc, class _Tpl, enable_if_t<is_same_v<_Tag, ::std:: _Alloc_unpack_tuple_t>, int> = 0>
-    constexpr tuple(_Tag, const _Alloc& _Al, _Tpl&& _Right)
-        : tuple(_Alloc_unpack_tuple_t{}, _Al, ::std:: forward<_Tpl>(_Right),
-            make_index_sequence<tuple_size_v<remove_reference_t<_Tpl>>>{}) {}
-
-
-    template <class _This2 = _This,
-        enable_if_t<conjunction_v<::std:: is_default_constructible<_This2>, ::std:: is_default_constructible<_Rest>...>,
-            int>           = 0>
-    constexpr explicit(
-        !conjunction_v<_Is_implicitly_default_constructible<_This2>, _Is_implicitly_default_constructible<_Rest>...>)
-        tuple() noexcept(conjunction_v<is_nothrow_default_constructible<_This2>,
-            is_nothrow_default_constructible<_Rest>...>) 
-        : _Mybase(), _Myfirst() {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 310 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _This2 = _This, enable_if_t<_Tuple_constructible_v<tuple, const _This2&, const _Rest&...>, int> = 0>
-    constexpr explicit(_Tuple_conditional_explicit_v<tuple, const _This2&, const _Rest&...>) tuple(
-        const _This& _This_arg, const _Rest&... _Rest_arg) noexcept(conjunction_v<is_nothrow_copy_constructible<_This2>,
-        is_nothrow_copy_constructible<_Rest>...>) 
-        : tuple(_Exact_args_t{}, _This_arg, _Rest_arg...) {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 332 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _This2, class... _Rest2,
-        enable_if_t<conjunction_v<::std:: _Tuple_perfect_val<tuple, _This2, _Rest2...>,
-                        ::std:: _Tuple_constructible_val<tuple, _This2, _Rest2...>>,
-            int> = 0>
-    constexpr explicit(_Tuple_conditional_explicit_v<tuple, _This2, _Rest2...>) tuple(_This2&& _This_arg,
-        _Rest2&&... _Rest_arg) noexcept(_Tuple_nothrow_constructible_v<tuple, _This2, _Rest2...>) 
-        : tuple(_Exact_args_t{}, ::std:: forward<_This2>(_This_arg), ::std:: forward<_Rest2>(_Rest_arg)...) {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 358 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-    tuple(const tuple&) = default;
-    tuple(tuple&&)      = default;
-
-
-    template <class... _Other, enable_if_t<conjunction_v<::std:: _Tuple_constructible_val<tuple, const _Other&...>,
-                                               ::std:: _Tuple_convert_copy_val<tuple, _Other...>>,
-                                   int> = 0>
-    constexpr explicit(_Tuple_conditional_explicit_v<tuple, const _Other&...>)
-        tuple(const tuple<_Other...>& _Right) noexcept(
-            _Tuple_nothrow_constructible_v<tuple, const _Other&...>) 
-        : tuple(_Unpack_tuple_t{}, _Right) {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 385 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class... _Other, enable_if_t<conjunction_v<::std:: _Tuple_constructible_val<tuple, _Other...>,
-                                               ::std:: _Tuple_convert_move_val<tuple, _Other...>>,
-                                   int> = 0>
-    constexpr explicit(_Tuple_conditional_explicit_v<tuple, _Other...>)
-        tuple(tuple<_Other...>&& _Right) noexcept(_Tuple_nothrow_constructible_v<tuple, _Other...>) 
-        : tuple(_Unpack_tuple_t{}, ::std:: move(_Right)) {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 408 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _First, class _Second,
-        enable_if_t<_Tuple_constructible_v<tuple, const _First&, const _Second&>, int> = 0>
-    constexpr explicit(_Tuple_conditional_explicit_v<tuple, const _First&, const _Second&>)
-        tuple(const pair<_First, _Second>& _Right) noexcept(
-            _Tuple_nothrow_constructible_v<tuple, const _First&, const _Second&>) 
-        : tuple(_Unpack_tuple_t{}, _Right) {}
-
-
-
-
-
-
-
-
-
-
-
-
-#line 429 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _First, class _Second, enable_if_t<_Tuple_constructible_v<tuple, _First, _Second>, int> = 0>
-    constexpr explicit(_Tuple_conditional_explicit_v<tuple, _First, _Second>) tuple(
-        pair<_First, _Second>&& _Right) noexcept(_Tuple_nothrow_constructible_v<tuple, _First, _Second>) 
-        : tuple(_Unpack_tuple_t{}, ::std:: move(_Right)) {}
-
-
-
-
-
-
-
-
-
-
-#line 446 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _Alloc, class _This2 = _This,
-        enable_if_t<conjunction_v<::std:: is_default_constructible<_This2>, ::std:: is_default_constructible<_Rest>...>,
-            int> = 0>
-    inline explicit(
-        !conjunction_v<_Is_implicitly_default_constructible<_This2>, _Is_implicitly_default_constructible<_Rest>...>)
-        tuple(allocator_arg_t, const _Alloc& _Al)
-        : _Mybase(allocator_arg, _Al), _Myfirst(_Al, allocator_arg) {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 471 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _Alloc, class _This2 = _This,
-        enable_if_t<_Tuple_constructible_v<tuple, const _This2&, const _Rest&...>, int> = 0>
-    inline explicit(_Tuple_conditional_explicit_v<tuple, const _This2&, const _Rest&...>)
-        tuple(allocator_arg_t, const _Alloc& _Al, const _This& _This_arg, const _Rest&... _Rest_arg)
-        : tuple(_Alloc_exact_args_t{}, _Al, _This_arg, _Rest_arg...) {}
-
-
-
-
-
-
-
-
-
-
-#line 489 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _Alloc, class _This2, class... _Rest2,
-        enable_if_t<conjunction_v<::std:: _Tuple_perfect_val<tuple, _This2, _Rest2...>,
-                        ::std:: _Tuple_constructible_val<tuple, _This2, _Rest2...>>,
-            int> = 0>
-    inline explicit(_Tuple_conditional_explicit_v<tuple, _This2, _Rest2...>)
-        tuple(allocator_arg_t, const _Alloc& _Al, _This2&& _This_arg, _Rest2&&... _Rest_arg)
-        : tuple(_Alloc_exact_args_t{}, _Al, ::std:: forward<_This2>(_This_arg), ::std:: forward<_Rest2>(_Rest_arg)...) {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 513 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-    template <class _Alloc, class _This2 = _This,
-        enable_if_t<_Tuple_constructible_v<tuple, const _This2&, const _Rest&...>, int> = 0>
-    inline tuple(allocator_arg_t, const _Alloc& _Al, const tuple& _Right)
-        : tuple(_Alloc_unpack_tuple_t{}, _Al, _Right) {}
-
-    template <class _Alloc, class _This2 = _This, enable_if_t<_Tuple_constructible_v<tuple, _This2, _Rest...>, int> = 0>
-    inline tuple(allocator_arg_t, const _Alloc& _Al, tuple&& _Right)
-        : tuple(_Alloc_unpack_tuple_t{}, _Al, ::std:: move(_Right)) {}
-
-
-    template <class _Alloc, class... _Other,
-        enable_if_t<conjunction_v<::std:: _Tuple_constructible_val<tuple, const _Other&...>,
-                        ::std:: _Tuple_convert_copy_val<tuple, _Other...>>,
-            int> = 0>
-    inline explicit(_Tuple_conditional_explicit_v<tuple, const _Other&...>)
-        tuple(allocator_arg_t, const _Alloc& _Al, const tuple<_Other...>& _Right)
-        : tuple(_Alloc_unpack_tuple_t{}, _Al, _Right) {}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 546 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _Alloc, class... _Other,
-        enable_if_t<conjunction_v<::std:: _Tuple_constructible_val<tuple, _Other...>,
-                        ::std:: _Tuple_convert_move_val<tuple, _Other...>>,
-            int> = 0>
-    inline explicit(_Tuple_conditional_explicit_v<tuple, _Other...>)
-        tuple(allocator_arg_t, const _Alloc& _Al, tuple<_Other...>&& _Right)
-        : tuple(_Alloc_unpack_tuple_t{}, _Al, ::std:: move(_Right)) {}
-
-
-
-
-
-
-
-
-
-
-
-
-#line 568 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _Alloc, class _First, class _Second,
-        enable_if_t<_Tuple_constructible_v<tuple, const _First&, const _Second&>, int> = 0>
-    inline explicit(_Tuple_conditional_explicit_v<tuple, const _First&, const _Second&>)
-        tuple(allocator_arg_t, const _Alloc& _Al, const pair<_First, _Second>& _Right)
-        : tuple(_Alloc_unpack_tuple_t{}, _Al, _Right) {}
-
-
-
-
-
-
-
-
-
-
-#line 586 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-    template <class _Alloc, class _First, class _Second,
-        enable_if_t<_Tuple_constructible_v<tuple, _First, _Second>, int> = 0>
-    inline explicit(_Tuple_conditional_explicit_v<tuple, _First, _Second>)
-        tuple(allocator_arg_t, const _Alloc& _Al, pair<_First, _Second>&& _Right)
-        : tuple(_Alloc_unpack_tuple_t{}, _Al, ::std:: move(_Right)) {}
-
-
-
-
-
-
-
-
-
-
-#line 604 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-    tuple& operator=(const volatile tuple&) = delete;
-
-    template <class _Myself = tuple, class _This2 = _This,
-        enable_if_t<conjunction_v<::std:: _Is_copy_assignable_no_precondition_check<_This2>,
-                        ::std:: _Is_copy_assignable_no_precondition_check<_Rest>...>,
-            int> = 0>
-    inline tuple& operator=(_Identity_t<const _Myself&> _Right) noexcept(
-        conjunction_v<is_nothrow_copy_assignable<_This2>, is_nothrow_copy_assignable<_Rest>...>)  {
-        _Myfirst._Val = _Right._Myfirst._Val;
-        _Get_rest()   = _Right._Get_rest();
-        return *this;
-    }
-
-    template <class _Myself = tuple, class _This2 = _This,
-        enable_if_t<conjunction_v<::std:: _Is_move_assignable_no_precondition_check<_This2>,
-                        ::std:: _Is_move_assignable_no_precondition_check<_Rest>...>,
-            int> = 0>
-    inline tuple& operator=(_Identity_t<_Myself&&> _Right) noexcept(
-        conjunction_v<is_nothrow_move_assignable<_This2>, is_nothrow_move_assignable<_Rest>...>) {
-        _Myfirst._Val = ::std:: forward<_This>(_Right._Myfirst._Val);
-        _Get_rest()   = ::std:: forward<_Mybase>(_Right._Get_rest());
-        return *this;
-    }
-
-    template <class... _Other, enable_if_t<conjunction_v<::std:: negation<::std:: is_same<tuple, ::std:: tuple<_Other...>>>,
-                                               ::std:: _Tuple_assignable_val<tuple, const _Other&...>>,
-                                   int> = 0>
-    inline tuple& operator=(const tuple<_Other...>& _Right) noexcept(
-        _Tuple_nothrow_assignable_v<tuple, const _Other&...>)  {
-        _Myfirst._Val = _Right._Myfirst._Val;
-        _Get_rest()   = _Right._Get_rest();
-        return *this;
-    }
-
-    template <class... _Other, enable_if_t<conjunction_v<::std:: negation<::std:: is_same<tuple, ::std:: tuple<_Other...>>>,
-                                               ::std:: _Tuple_assignable_val<tuple, _Other...>>,
-                                   int> = 0>
-    inline tuple& operator=(tuple<_Other...>&& _Right) noexcept(
-        _Tuple_nothrow_assignable_v<tuple, _Other...>)  {
-        _Myfirst._Val = ::std:: forward<typename tuple<_Other...>::_This_type>(_Right._Myfirst._Val);
-        _Get_rest()   = ::std:: forward<typename tuple<_Other...>::_Mybase>(_Right._Get_rest());
-        return *this;
-    }
-
-    template <class _First, class _Second,
-        enable_if_t<_Tuple_assignable_v<tuple, const _First&, const _Second&>, int> = 0>
-    inline tuple& operator=(const pair<_First, _Second>& _Right) noexcept(
-        _Tuple_nothrow_assignable_v<tuple, const _First&, const _Second&>)  {
-        _Myfirst._Val             = _Right.first;
-        _Get_rest()._Myfirst._Val = _Right.second;
-        return *this;
-    }
-
-    template <class _First, class _Second, enable_if_t<_Tuple_assignable_v<tuple, _First, _Second>, int> = 0>
-    inline tuple& operator=(pair<_First, _Second>&& _Right) noexcept(
-        _Tuple_nothrow_assignable_v<tuple, _First, _Second>)  {
-        _Myfirst._Val             = ::std:: forward<_First>(_Right.first);
-        _Get_rest()._Myfirst._Val = ::std:: forward<_Second>(_Right.second);
-        return *this;
-    }
-
-    inline void swap(tuple& _Right) noexcept(
-        conjunction_v<_Is_nothrow_swappable<_This>, _Is_nothrow_swappable<_Rest>...>) {
-        _Swap_adl(_Myfirst._Val, _Right._Myfirst._Val);
-        _Mybase::swap(_Right._Get_rest());
-    }
-
-    constexpr _Mybase& _Get_rest() noexcept { 
-        return *this;
-    }
-
-    constexpr const _Mybase& _Get_rest() const noexcept { 
-        return *this;
-    }
-
-    template <class... _Other>
-    constexpr bool _Equals(const tuple<_Other...>& _Right) const {
-        return _Myfirst._Val == _Right._Myfirst._Val && _Mybase::_Equals(_Right._Get_rest());
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-    template <class... _Other>
-    [[nodiscard]] constexpr bool _Less(const tuple<_Other...>& _Right) const {
-        return _Myfirst._Val < _Right._Myfirst._Val
-            || (!(_Right._Myfirst._Val < _Myfirst._Val) && _Mybase::_Less(_Right._Get_rest()));
-    }
-#line 702 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-    template <size_t _Index, class... _Types>
-    friend constexpr tuple_element_t<_Index, tuple<_Types...>>& get(tuple<_Types...>& _Tuple) noexcept;
-
-    template <size_t _Index, class... _Types>
-    friend constexpr const tuple_element_t<_Index, tuple<_Types...>>& get(const tuple<_Types...>& _Tuple) noexcept;
-
-    template <size_t _Index, class... _Types>
-    friend constexpr tuple_element_t<_Index, tuple<_Types...>>&& get(tuple<_Types...>&& _Tuple) noexcept;
-
-    template <size_t _Index, class... _Types>
-    friend constexpr const tuple_element_t<_Index, tuple<_Types...>>&& get(const tuple<_Types...>&& _Tuple) noexcept;
-
-    template <size_t _Index, class... _Types>
-    friend constexpr auto&& _Tuple_get(tuple<_Types...>&& _Tuple) noexcept;
-
-    template <class _Ty, class... _Types>
-    friend constexpr _Ty& get(tuple<_Types...>& _Tuple) noexcept;
-
-    template <class _Ty, class... _Types>
-    friend constexpr const _Ty& get(const tuple<_Types...>& _Tuple) noexcept;
-
-    template <class _Ty, class... _Types>
-    friend constexpr _Ty&& get(tuple<_Types...>&& _Tuple) noexcept;
-
-    template <class _Ty, class... _Types>
-    friend constexpr const _Ty&& get(const tuple<_Types...>&& _Tuple) noexcept;
-
-    _Tuple_val<_This> _Myfirst; 
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 749 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-template <class... _Types1, class... _Types2>
-[[nodiscard]] constexpr bool operator==(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
-    static_assert(sizeof...(_Types1) == sizeof...(_Types2), "cannot compare tuples of different sizes");
-    return _Left._Equals(_Right);
-}
-
-
-
-
-
-
-
-
-
-
-template <class... _Types1, class... _Types2>
-[[nodiscard]] constexpr bool operator!=(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
-    return !(_Left == _Right);
-}
-#line 771 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-template <class... _Types1, class... _Types2>
-[[nodiscard]] constexpr bool operator<(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
-    static_assert(sizeof...(_Types1) == sizeof...(_Types2), "cannot compare tuples of different sizes");
-    return _Left._Less(_Right);
-}
-
-template <class... _Types1, class... _Types2>
-[[nodiscard]] constexpr bool operator>=(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
-    return !(_Left < _Right);
-}
-
-template <class... _Types1, class... _Types2>
-[[nodiscard]] constexpr bool operator>(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
-    return _Right < _Left;
-}
-
-template <class... _Types1, class... _Types2>
-[[nodiscard]] constexpr bool operator<=(const tuple<_Types1...>& _Left, const tuple<_Types2...>& _Right) {
-    return !(_Right < _Left);
-}
-#line 793 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-template <class... _Types, enable_if_t<conjunction_v<::std:: _Is_swappable<_Types>...>, int> = 0>
-inline void swap(tuple<_Types...>& _Left, tuple<_Types...>& _Right) noexcept(noexcept(_Left.swap(_Right))) {
-    return _Left.swap(_Right);
-}
-
-
-template <class _Ty, class _Tuple>
-struct _Tuple_element {}; 
-
-template <class _This, class... _Rest>
-struct _Tuple_element<_This, tuple<_This, _Rest...>> { 
-    static_assert(!_Is_any_of_v<_This, _Rest...>, "duplicate type T in get<T>(tuple)");
-    using _Ttype = tuple<_This, _Rest...>;
-};
-
-template <class _Ty, class _This, class... _Rest>
-struct _Tuple_element<_Ty, tuple<_This, _Rest...>> { 
-    using _Ttype = typename _Tuple_element<_Ty, tuple<_Rest...>>::_Ttype;
-};
-
-
-template <size_t _Index, class... _Types>
-[[nodiscard]] constexpr tuple_element_t<_Index, tuple<_Types...>>& get(tuple<_Types...>& _Tuple) noexcept {
-    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
-    return static_cast<_Ttype&>(_Tuple)._Myfirst._Val;
-}
-
-template <size_t _Index, class... _Types>
-[[nodiscard]] constexpr const tuple_element_t<_Index, tuple<_Types...>>& get(const tuple<_Types...>& _Tuple) noexcept {
-    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
-    return static_cast<const _Ttype&>(_Tuple)._Myfirst._Val;
-}
-
-template <size_t _Index, class... _Types>
-[[nodiscard]] constexpr tuple_element_t<_Index, tuple<_Types...>>&& get(tuple<_Types...>&& _Tuple) noexcept {
-    using _Ty    = tuple_element_t<_Index, tuple<_Types...>>;
-    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
-    return static_cast<_Ty&&>(static_cast<_Ttype&>(_Tuple)._Myfirst._Val);
-}
-
-template <size_t _Index, class... _Types>
-[[nodiscard]] constexpr const tuple_element_t<_Index, tuple<_Types...>>&& get(const tuple<_Types...>&& _Tuple) noexcept {
-    using _Ty    = tuple_element_t<_Index, tuple<_Types...>>;
-    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
-    return static_cast<const _Ty&&>(static_cast<const _Ttype&>(_Tuple)._Myfirst._Val);
-}
-
-template <size_t _Index, class... _Types>
-[[nodiscard]] constexpr auto&& _Tuple_get(tuple<_Types...>&& _Tuple) noexcept {
-    
-    using _Ty    = tuple_element_t<_Index, tuple<_Types...>>;
-    using _Ttype = typename tuple_element<_Index, tuple<_Types...>>::_Ttype;
-    return static_cast<_Ty&&>(static_cast<_Ttype&>(_Tuple)._Myfirst._Val);
-}
-
-
-template <class _Ty, class... _Types>
-[[nodiscard]] constexpr _Ty& get(tuple<_Types...>& _Tuple) noexcept {
-    using _Ttype = typename _Tuple_element<_Ty, tuple<_Types...>>::_Ttype;
-    return static_cast<_Ttype&>(_Tuple)._Myfirst._Val;
-}
-
-template <class _Ty, class... _Types>
-[[nodiscard]] constexpr const _Ty& get(const tuple<_Types...>& _Tuple) noexcept {
-    using _Ttype = typename _Tuple_element<_Ty, tuple<_Types...>>::_Ttype;
-    return static_cast<const _Ttype&>(_Tuple)._Myfirst._Val;
-}
-
-template <class _Ty, class... _Types>
-[[nodiscard]] constexpr _Ty&& get(tuple<_Types...>&& _Tuple) noexcept {
-    using _Ttype = typename _Tuple_element<_Ty, tuple<_Types...>>::_Ttype;
-    return static_cast<_Ty&&>(static_cast<_Ttype&>(_Tuple)._Myfirst._Val);
-}
-
-template <class _Ty, class... _Types>
-[[nodiscard]] constexpr const _Ty&& get(const tuple<_Types...>&& _Tuple) noexcept {
-    using _Ttype = typename _Tuple_element<_Ty, tuple<_Types...>>::_Ttype;
-    return static_cast<const _Ty&&>(static_cast<const _Ttype&>(_Tuple)._Myfirst._Val);
-}
-
-
-template <class _This, class... _Rest>
-template <class _Tag, class _Tpl, size_t... _Indices, enable_if_t<is_same_v<_Tag, ::std:: _Unpack_tuple_t>, int>>
-constexpr tuple<_This, _Rest...>::tuple(_Tag, _Tpl&& _Right, index_sequence<_Indices...>)
-    : tuple(_Exact_args_t{}, ::std:: get<_Indices>(::std:: forward<_Tpl>(_Right))...) {}
-
-template <class _This, class... _Rest>
-template <class _Tag, class _Alloc, class _Tpl, size_t... _Indices,
-    enable_if_t<is_same_v<_Tag, ::std:: _Alloc_unpack_tuple_t>, int>>
-constexpr tuple<_This, _Rest...>::tuple(_Tag, const _Alloc& _Al, _Tpl&& _Right, index_sequence<_Indices...>)
-    : tuple(_Alloc_exact_args_t{}, _Al, ::std:: get<_Indices>(::std:: forward<_Tpl>(_Right))...) {}
-
-
-template <class... _Types>
-[[nodiscard]] constexpr tuple<_Unrefwrap_t<_Types>...> make_tuple(_Types&&... _Args) { 
-    using _Ttype = tuple<_Unrefwrap_t<_Types>...>;
-    return _Ttype(::std:: forward<_Types>(_Args)...);
-}
-
-
-template <class... _Types>
-[[nodiscard]] constexpr tuple<_Types&...> tie(_Types&... _Args) noexcept { 
-    using _Ttype = tuple<_Types&...>;
-    return _Ttype(_Args...);
-}
-
-
-template <class... _Types>
-[[nodiscard]] constexpr tuple<_Types&&...> forward_as_tuple(_Types&&... _Args) noexcept { 
-    return tuple<_Types&&...>(::std:: forward<_Types>(_Args)...);
-}
-
-
-template <class _Seq_type1, class _Seq_type2>
-struct _Cat_sequences;
-
-template <size_t... _Indexes1, size_t... _Indexes2>
-struct _Cat_sequences<index_sequence<_Indexes1...>,
-    index_sequence<_Indexes2...>> { 
-    using type = index_sequence<_Indexes1..., _Indexes2...>;
-};
-
-
-template <class _Ty, size_t _Size>
-class array;
-
-template <size_t _Idx, class _Ty, size_t _Size>
-[[nodiscard]] constexpr _Ty& get(array<_Ty, _Size>& _Arr) noexcept;
-
-template <size_t _Idx, class _Ty, size_t _Size>
-[[nodiscard]] constexpr const _Ty& get(const array<_Ty, _Size>& _Arr) noexcept;
-
-template <size_t _Idx, class _Ty, size_t _Size>
-[[nodiscard]] constexpr _Ty&& get(array<_Ty, _Size>&& _Arr) noexcept;
-
-template <size_t _Idx, class _Ty, size_t _Size>
-[[nodiscard]] constexpr const _Ty&& get(const array<_Ty, _Size>&& _Arr) noexcept;
-
-
-template <class _Ty, class... _For_array>
-struct _View_as_tuple { 
-    static_assert(_Always_false<_Ty>, "Unsupported tuple_cat arguments.");
-};
-
-template <class... _Types>
-struct _View_as_tuple<tuple<_Types...>> { 
-    using type = tuple<_Types...>;
-};
-
-template <class _Ty1, class _Ty2>
-struct _View_as_tuple<pair<_Ty1, _Ty2>> { 
-    using type = tuple<_Ty1, _Ty2>;
-};
-
-template <class _Ty, class... _Types>
-struct _View_as_tuple<array<_Ty, 0>, _Types...> { 
-    using type = tuple<_Types...>;
-};
-
-template <class _Ty, size_t _Size, class... _Types>
-struct _View_as_tuple<array<_Ty, _Size>, _Types...>
-    : _View_as_tuple<array<_Ty, _Size - 1>, _Ty, _Types...> { 
-};
-
-
-template <size_t _Nx, class _Ty>
-struct _Repeat_for : integral_constant<size_t, _Nx> {}; 
-
-
-template <class _Ret, class _Kx_arg, class _Ix_arg, size_t _Ix_next, class... _Tuples>
-struct _Tuple_cat2 { 
-    static_assert(sizeof...(_Tuples) == 0, "Unsupported tuple_cat arguments.");
-    using type        = _Ret;
-    using _Kx_arg_seq = _Kx_arg;
-    using _Ix_arg_seq = _Ix_arg;
-};
-
-template <class... _Types1, class _Kx_arg, size_t... _Ix, size_t _Ix_next, class... _Types2, class... _Rest>
-struct _Tuple_cat2<tuple<_Types1...>, _Kx_arg, index_sequence<_Ix...>, _Ix_next, tuple<_Types2...>, _Rest...>
-    : _Tuple_cat2<tuple<_Types1..., _Types2...>, typename _Cat_sequences<_Kx_arg, index_sequence_for<_Types2...>>::type,
-          index_sequence<_Ix..., _Repeat_for<_Ix_next, _Types2>::value...>, _Ix_next + 1,
-          _Rest...> { 
-};
-
-template <class... _Tuples>
-struct _Tuple_cat1 : _Tuple_cat2<tuple<>, index_sequence<>, index_sequence<>, 0,
-                         typename _View_as_tuple<decay_t<_Tuples>>::type...> { 
-                                                                               
-};
-
-template <class _Ret, size_t... _Kx, size_t... _Ix, class _Ty>
-constexpr _Ret _Tuple_cat(index_sequence<_Kx...>, index_sequence<_Ix...>, _Ty&& _Arg) { 
-    return _Ret(::std:: get<_Kx>(::std:: get<_Ix>(::std:: forward<_Ty>(_Arg)))...);
-}
-
-template <class... _Tuples>
-[[nodiscard]] constexpr typename _Tuple_cat1<_Tuples...>::type tuple_cat(_Tuples&&... _Tpls) { 
-    using _Cat1 = _Tuple_cat1<_Tuples...>;
-    return _Tuple_cat<typename _Cat1::type>(typename _Cat1::_Kx_arg_seq(), typename _Cat1::_Ix_arg_seq(),
-        ::std:: forward_as_tuple(::std:: forward<_Tuples>(_Tpls)...));
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1023 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-
-template <class... _Types, class _Alloc>
-struct uses_allocator<tuple<_Types...>, _Alloc> : true_type {}; 
-
-
-namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can " "define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.")]] tr1 {
-    using ::std:: get;
-    using ::std:: ignore;
-    using ::std:: make_tuple;
-    using ::std:: ref;
-    using ::std:: tie;
-    using ::std:: tuple;
-} 
-#line 1038 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-
-}
-
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 1046 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-#line 1047 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\tuple"
-#pragma external_header(pop)
-#line 13 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-
-
-
-
-#line 20 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-namespace std {
-
-
-
-
-
-
-
-
-
-
-template <class _Ty = void>
-struct divides {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef _Ty result_type;
-
-    [[nodiscard]] constexpr _Ty operator()(const _Ty& _Left, const _Ty& _Right) const {
-        return _Left / _Right;
-    }
-};
-
-
-template <class _Ty = void>
-struct modulus {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef _Ty result_type;
-
-    [[nodiscard]] constexpr _Ty operator()(const _Ty& _Left, const _Ty& _Right) const {
-        return _Left % _Right;
-    }
-};
-
-
-template <class _Ty = void>
-struct negate {
-     typedef _Ty argument_type;
-     typedef _Ty result_type;
-
-    [[nodiscard]] constexpr _Ty operator()(const _Ty& _Left) const {
-        return -_Left;
-    }
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-template <class _Ty = void>
-struct logical_and {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef bool result_type;
-
-    [[nodiscard]] constexpr bool operator()(const _Ty& _Left, const _Ty& _Right) const {
-        return _Left && _Right;
-    }
-};
-
-
-template <class _Ty = void>
-struct logical_or {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef bool result_type;
-
-    [[nodiscard]] constexpr bool operator()(const _Ty& _Left, const _Ty& _Right) const {
-        return _Left || _Right;
-    }
-};
-
-
-template <class _Ty = void>
-struct logical_not {
-     typedef _Ty argument_type;
-     typedef bool result_type;
-
-    [[nodiscard]] constexpr bool operator()(const _Ty& _Left) const {
-        return !_Left;
-    }
-};
-
-
-template <class _Ty = void>
-struct bit_and {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef _Ty result_type;
-
-    [[nodiscard]] constexpr _Ty operator()(const _Ty& _Left, const _Ty& _Right) const {
-        return _Left & _Right;
-    }
-};
-
-
-template <class _Ty = void>
-struct bit_or {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef _Ty result_type;
-
-    [[nodiscard]] constexpr _Ty operator()(const _Ty& _Left, const _Ty& _Right) const {
-        return _Left | _Right;
-    }
-};
-
-
-template <class _Ty = void>
-struct bit_xor {
-     typedef _Ty first_argument_type;
-     typedef _Ty second_argument_type;
-     typedef _Ty result_type;
-
-    [[nodiscard]] constexpr _Ty operator()(const _Ty& _Left, const _Ty& _Right) const {
-        return _Left ^ _Right;
-    }
-};
-
-
-template <class _Ty = void>
-struct bit_not {
-     typedef _Ty argument_type;
-     typedef _Ty result_type;
-
-    [[nodiscard]] constexpr _Ty operator()(const _Ty& _Left) const {
-        return ~_Left;
-    }
-};
-
-
-
-
-
-
-
-
-
-
-
-template <>
-struct divides<void> {
-    template <class _Ty1, class _Ty2>
-    [[nodiscard]] constexpr auto operator()(_Ty1&& _Left, _Ty2&& _Right) const
-        -> decltype(::std:: forward<_Ty1>(_Left) / ::std:: forward<_Ty2>(_Right)) {
-        return ::std:: forward<_Ty1>(_Left) / ::std:: forward<_Ty2>(_Right);
-    }
-
-    using is_transparent = int;
-};
-
-
-template <>
-struct modulus<void> {
-    template <class _Ty1, class _Ty2>
-    [[nodiscard]] constexpr auto operator()(_Ty1&& _Left, _Ty2&& _Right) const
-        -> decltype(::std:: forward<_Ty1>(_Left) % ::std:: forward<_Ty2>(_Right)) {
-        return ::std:: forward<_Ty1>(_Left) % ::std:: forward<_Ty2>(_Right);
-    }
-
-    using is_transparent = int;
-};
-
-
-template <>
-struct negate<void> {
-    template <class _Ty>
-    [[nodiscard]] constexpr auto operator()(_Ty&& _Left) const -> decltype(-::std:: forward<_Ty>(_Left)) {
-        return -::std:: forward<_Ty>(_Left);
-    }
-
-    using is_transparent = int;
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-template <>
-struct logical_and<void> {
-    template <class _Ty1, class _Ty2>
-    [[nodiscard]] constexpr auto operator()(_Ty1&& _Left, _Ty2&& _Right) const
-        -> decltype(::std:: forward<_Ty1>(_Left) && ::std:: forward<_Ty2>(_Right)) {
-        return ::std:: forward<_Ty1>(_Left) && ::std:: forward<_Ty2>(_Right);
-    }
-
-    using is_transparent = int;
-};
-
-
-template <>
-struct logical_or<void> {
-    template <class _Ty1, class _Ty2>
-    [[nodiscard]] constexpr auto operator()(_Ty1&& _Left, _Ty2&& _Right) const
-        -> decltype(::std:: forward<_Ty1>(_Left) || ::std:: forward<_Ty2>(_Right)) {
-        return ::std:: forward<_Ty1>(_Left) || ::std:: forward<_Ty2>(_Right);
-    }
-
-    using is_transparent = int;
-};
-
-
-template <>
-struct logical_not<void> {
-    template <class _Ty>
-    [[nodiscard]] constexpr auto operator()(_Ty&& _Left) const -> decltype(!::std:: forward<_Ty>(_Left)) {
-        return !::std:: forward<_Ty>(_Left);
-    }
-
-    using is_transparent = int;
-};
-
-
-template <>
-struct bit_and<void> {
-    template <class _Ty1, class _Ty2>
-    [[nodiscard]] constexpr auto operator()(_Ty1&& _Left, _Ty2&& _Right) const
-        -> decltype(::std:: forward<_Ty1>(_Left) & ::std:: forward<_Ty2>(_Right)) {
-        return ::std:: forward<_Ty1>(_Left) & ::std:: forward<_Ty2>(_Right);
-    }
-
-    using is_transparent = int;
-};
-
-
-template <>
-struct bit_or<void> {
-    template <class _Ty1, class _Ty2>
-    [[nodiscard]] constexpr auto operator()(_Ty1&& _Left, _Ty2&& _Right) const
-        -> decltype(::std:: forward<_Ty1>(_Left) | ::std:: forward<_Ty2>(_Right)) {
-        return ::std:: forward<_Ty1>(_Left) | ::std:: forward<_Ty2>(_Right);
-    }
-
-    using is_transparent = int;
-};
-
-
-template <>
-struct bit_xor<void> {
-    template <class _Ty1, class _Ty2>
-    [[nodiscard]] constexpr auto operator()(_Ty1&& _Left, _Ty2&& _Right) const
-        -> decltype(::std:: forward<_Ty1>(_Left) ^ ::std:: forward<_Ty2>(_Right)) {
-        return ::std:: forward<_Ty1>(_Left) ^ ::std:: forward<_Ty2>(_Right);
-    }
-
-    using is_transparent = int;
-};
-
-
-template <>
-struct bit_not<void> {
-    template <class _Ty>
-    [[nodiscard]] constexpr auto operator()(_Ty&& _Left) const -> decltype(~::std:: forward<_Ty>(_Left)) {
-        return ~::std:: forward<_Ty>(_Left);
-    }
-
-    using is_transparent = int;
-};
-
-
-__pragma(warning(push)) __pragma(warning(disable : 4996))
-
-template <class _Fn>
-class  unary_negate {
-public:
-    using argument_type = typename _Fn::argument_type;
-    using result_type   = bool;
-
-    constexpr explicit unary_negate(const _Fn& _Func) : _Functor(_Func) {}
-
-    [[nodiscard]] constexpr bool operator()(const argument_type& _Left) const {
-        return !_Functor(_Left);
-    }
-
-private:
-    _Fn _Functor;
-};
-
-
-template <class _Fn>
- [[nodiscard]] constexpr unary_negate<_Fn> not1(const _Fn& _Func) {
-    return unary_negate<_Fn>(_Func);
-}
-
-
-template <class _Fn>
-class  binary_negate {
-public:
-    using first_argument_type  = typename _Fn::first_argument_type;
-    using second_argument_type = typename _Fn::second_argument_type;
-    using result_type          = bool;
-
-    constexpr explicit binary_negate(const _Fn& _Func) : _Functor(_Func) {}
-
-    [[nodiscard]] constexpr bool operator()(const first_argument_type& _Left, const second_argument_type& _Right) const {
-        return !_Functor(_Left, _Right);
-    }
-
-private:
-    _Fn _Functor;
-};
-
-
-template <class _Fn>
- [[nodiscard]] constexpr binary_negate<_Fn> not2(const _Fn& _Func) {
-    return binary_negate<_Fn>(_Func);
-}
-__pragma(warning(pop))
-#line 370 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-__pragma(warning(push)) __pragma(warning(disable : 4996))
-
-template <class _Fn>
-class binder1st : public unary_function<typename _Fn::second_argument_type,
-                      typename _Fn::result_type> { 
-public:
-    using _Base         = unary_function<typename _Fn::second_argument_type, typename _Fn::result_type>;
-    using argument_type = typename _Base::argument_type;
-    using result_type   = typename _Base::result_type;
-
-    binder1st(const _Fn& _Func, const typename _Fn::first_argument_type& _Left) : op(_Func), value(_Left) {}
-
-    result_type operator()(const argument_type& _Right) const {
-        return op(value, _Right);
-    }
-
-    result_type operator()(argument_type& _Right) const {
-        return op(value, _Right);
-    }
-
-protected:
-    _Fn op;
-    typename _Fn::first_argument_type value; 
-};
-
-
-template <class _Fn, class _Ty>
-[[nodiscard]] binder1st<_Fn> bind1st(const _Fn& _Func, const _Ty& _Left) {
-    typename _Fn::first_argument_type _Val(_Left);
-    return binder1st<_Fn>(_Func, _Val);
-}
-
-
-template <class _Fn>
-class binder2nd : public unary_function<typename _Fn::first_argument_type,
-                      typename _Fn::result_type> { 
-public:
-    using _Base         = unary_function<typename _Fn::first_argument_type, typename _Fn::result_type>;
-    using argument_type = typename _Base::argument_type;
-    using result_type   = typename _Base::result_type;
-
-    binder2nd(const _Fn& _Func, const typename _Fn::second_argument_type& _Right) : op(_Func), value(_Right) {}
-
-    result_type operator()(const argument_type& _Left) const {
-        return op(_Left, value);
-    }
-
-    result_type operator()(argument_type& _Left) const {
-        return op(_Left, value);
-    }
-
-protected:
-    _Fn op;
-    typename _Fn::second_argument_type value; 
-};
-
-
-template <class _Fn, class _Ty>
-[[nodiscard]] binder2nd<_Fn> bind2nd(const _Fn& _Func, const _Ty& _Right) {
-    typename _Fn::second_argument_type _Val(_Right);
-    return binder2nd<_Fn>(_Func, _Val);
-}
-__pragma(warning(pop))
-
-
-template <class _Arg, class _Result, class _Fn = _Result (*)(_Arg)>
-class pointer_to_unary_function : public unary_function<_Arg, _Result> { 
-public:
-    explicit pointer_to_unary_function(_Fn _Left) : _Pfun(_Left) {}
-
-    _Result operator()(_Arg _Left) const {
-        return _Pfun(_Left);
-    }
-
-protected:
-    _Fn _Pfun; 
-};
-
-
-template <class _Arg1, class _Arg2, class _Result, class _Fn = _Result (*)(_Arg1, _Arg2)>
-class pointer_to_binary_function
-    : public binary_function<_Arg1, _Arg2, _Result> { 
-public:
-    explicit pointer_to_binary_function(_Fn _Left) : _Pfun(_Left) {}
-
-    _Result operator()(_Arg1 _Left, _Arg2 _Right) const {
-        return _Pfun(_Left, _Right);
-    }
-
-protected:
-    _Fn _Pfun; 
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-template <class _Arg, class _Result> [[nodiscard]] pointer_to_unary_function<_Arg, _Result, _Result(__cdecl*)(_Arg)> ptr_fun( _Result(__cdecl* _Left)(_Arg)) { return pointer_to_unary_function<_Arg, _Result, _Result(__cdecl*)(_Arg)>(_Left); } template <class _Arg1, class _Arg2, class _Result> [[nodiscard]] pointer_to_binary_function<_Arg1, _Arg2, _Result, _Result(__cdecl*)(_Arg1, _Arg2)> ptr_fun( _Result(__cdecl* _Left)(_Arg1, _Arg2)) { return pointer_to_binary_function<_Arg1, _Arg2, _Result, _Result(__cdecl*)(_Arg1, _Arg2)>(_Left); }  template <class _Arg, class _Result> [[nodiscard]] pointer_to_unary_function<_Arg, _Result, _Result(__fastcall*)(_Arg)> ptr_fun( _Result(__fastcall* _Left)(_Arg)) { return pointer_to_unary_function<_Arg, _Result, _Result(__fastcall*)(_Arg)>(_Left); } template <class _Arg1, class _Arg2, class _Result> [[nodiscard]] pointer_to_binary_function<_Arg1, _Arg2, _Result, _Result(__fastcall*)(_Arg1, _Arg2)> ptr_fun( _Result(__fastcall* _Left)(_Arg1, _Arg2)) { return pointer_to_binary_function<_Arg1, _Arg2, _Result, _Result(__fastcall*)(_Arg1, _Arg2)>(_Left); } template <class _Arg, class _Result> [[nodiscard]] pointer_to_unary_function<_Arg, _Result, _Result(__stdcall*)(_Arg)> ptr_fun( _Result(__stdcall* _Left)(_Arg)) { return pointer_to_unary_function<_Arg, _Result, _Result(__stdcall*)(_Arg)>(_Left); } template <class _Arg1, class _Arg2, class _Result> [[nodiscard]] pointer_to_binary_function<_Arg1, _Arg2, _Result, _Result(__stdcall*)(_Arg1, _Arg2)> ptr_fun( _Result(__stdcall* _Left)(_Arg1, _Arg2)) { return pointer_to_binary_function<_Arg1, _Arg2, _Result, _Result(__stdcall*)(_Arg1, _Arg2)>(_Left); } template <class _Arg, class _Result> [[nodiscard]] pointer_to_unary_function<_Arg, _Result, _Result(__vectorcall*)(_Arg)> ptr_fun( _Result(__vectorcall* _Left)(_Arg)) { return pointer_to_unary_function<_Arg, _Result, _Result(__vectorcall*)(_Arg)>(_Left); } template <class _Arg1, class _Arg2, class _Result> [[nodiscard]] pointer_to_binary_function<_Arg1, _Arg2, _Result, _Result(__vectorcall*)(_Arg1, _Arg2)> ptr_fun( _Result(__vectorcall* _Left)(_Arg1, _Arg2)) { return pointer_to_binary_function<_Arg1, _Arg2, _Result, _Result(__vectorcall*)(_Arg1, _Arg2)>(_Left); }
-
-
-
-template <class _Result, class _Ty>
-class mem_fun_t : public unary_function<_Ty*, _Result> { 
-public:
-    explicit mem_fun_t(_Result (_Ty::*_Pm)()) : _Pmemfun(_Pm) {}
-
-    _Result operator()(_Ty* _Pleft) const {
-        return (_Pleft->*_Pmemfun)();
-    }
-
-private:
-    _Result (_Ty::*_Pmemfun)(); 
-};
-
-
-template <class _Result, class _Ty, class _Arg>
-class mem_fun1_t : public binary_function<_Ty*, _Arg, _Result> { 
-public:
-    explicit mem_fun1_t(_Result (_Ty::*_Pm)(_Arg)) : _Pmemfun(_Pm) {}
-
-    _Result operator()(_Ty* _Pleft, _Arg _Right) const {
-        return (_Pleft->*_Pmemfun)(_Right);
-    }
-
-private:
-    _Result (_Ty::*_Pmemfun)(_Arg); 
-};
-
-
-template <class _Result, class _Ty>
-class const_mem_fun_t : public unary_function<const _Ty*, _Result> { 
-public:
-    explicit const_mem_fun_t(_Result (_Ty::*_Pm)() const) : _Pmemfun(_Pm) {}
-
-    _Result operator()(const _Ty* _Pleft) const {
-        return (_Pleft->*_Pmemfun)();
-    }
-
-private:
-    _Result (_Ty::*_Pmemfun)() const; 
-};
-
-
-template <class _Result, class _Ty, class _Arg>
-class const_mem_fun1_t
-    : public binary_function<const _Ty*, _Arg, _Result> { 
-public:
-    explicit const_mem_fun1_t(_Result (_Ty::*_Pm)(_Arg) const) : _Pmemfun(_Pm) {}
-
-    _Result operator()(const _Ty* _Pleft, _Arg _Right) const {
-        return (_Pleft->*_Pmemfun)(_Right);
-    }
-
-private:
-    _Result (_Ty::*_Pmemfun)(_Arg) const; 
-};
-
-
-template <class _Result, class _Ty>
-[[nodiscard]] mem_fun_t<_Result, _Ty> mem_fun(_Result (_Ty::*_Pm)()) {
-    return mem_fun_t<_Result, _Ty>(_Pm);
-}
-
-template <class _Result, class _Ty, class _Arg>
-[[nodiscard]] mem_fun1_t<_Result, _Ty, _Arg> mem_fun(_Result (_Ty::*_Pm)(_Arg)) {
-    return mem_fun1_t<_Result, _Ty, _Arg>(_Pm);
-}
-
-template <class _Result, class _Ty>
-[[nodiscard]] const_mem_fun_t<_Result, _Ty> mem_fun(_Result (_Ty::*_Pm)() const) {
-    return const_mem_fun_t<_Result, _Ty>(_Pm);
-}
-
-template <class _Result, class _Ty, class _Arg>
-[[nodiscard]] const_mem_fun1_t<_Result, _Ty, _Arg> mem_fun(_Result (_Ty::*_Pm)(_Arg) const) {
-    return const_mem_fun1_t<_Result, _Ty, _Arg>(_Pm);
-}
-
-
-template <class _Result, class _Ty>
-class mem_fun_ref_t : public unary_function<_Ty, _Result> { 
-public:
-    explicit mem_fun_ref_t(_Result (_Ty::*_Pm)()) : _Pmemfun(_Pm) {}
-
-    _Result operator()(_Ty& _Left) const {
-        return (_Left.*_Pmemfun)();
-    }
-
-private:
-    _Result (_Ty::*_Pmemfun)(); 
-};
-
-
-template <class _Result, class _Ty, class _Arg>
-class mem_fun1_ref_t
-    : public binary_function<_Ty, _Arg, _Result> { 
-public:
-    explicit mem_fun1_ref_t(_Result (_Ty::*_Pm)(_Arg)) : _Pmemfun(_Pm) {}
-
-    _Result operator()(_Ty& _Left, _Arg _Right) const {
-        return (_Left.*_Pmemfun)(_Right);
-    }
-
-private:
-    _Result (_Ty::*_Pmemfun)(_Arg); 
-};
-
-
-template <class _Result, class _Ty>
-class const_mem_fun_ref_t : public unary_function<_Ty, _Result> { 
-public:
-    explicit const_mem_fun_ref_t(_Result (_Ty::*_Pm)() const) : _Pmemfun(_Pm) {}
-
-    _Result operator()(const _Ty& _Left) const {
-        return (_Left.*_Pmemfun)();
-    }
-
-private:
-    _Result (_Ty::*_Pmemfun)() const; 
-};
-
-
-template <class _Result, class _Ty, class _Arg>
-class const_mem_fun1_ref_t
-    : public binary_function<_Ty, _Arg, _Result> { 
-public:
-    explicit const_mem_fun1_ref_t(_Result (_Ty::*_Pm)(_Arg) const) : _Pmemfun(_Pm) {}
-
-    _Result operator()(const _Ty& _Left, _Arg _Right) const {
-        return (_Left.*_Pmemfun)(_Right);
-    }
-
-private:
-    _Result (_Ty::*_Pmemfun)(_Arg) const; 
-};
-
-
-template <class _Result, class _Ty>
-[[nodiscard]] mem_fun_ref_t<_Result, _Ty> mem_fun_ref(_Result (_Ty::*_Pm)()) {
-    return mem_fun_ref_t<_Result, _Ty>(_Pm);
-}
-
-template <class _Result, class _Ty, class _Arg>
-[[nodiscard]] mem_fun1_ref_t<_Result, _Ty, _Arg> mem_fun_ref(_Result (_Ty::*_Pm)(_Arg)) {
-    return mem_fun1_ref_t<_Result, _Ty, _Arg>(_Pm);
-}
-
-template <class _Result, class _Ty>
-[[nodiscard]] const_mem_fun_ref_t<_Result, _Ty> mem_fun_ref(_Result (_Ty::*_Pm)() const) {
-    return const_mem_fun_ref_t<_Result, _Ty>(_Pm);
-}
-
-template <class _Result, class _Ty, class _Arg>
-[[nodiscard]] const_mem_fun1_ref_t<_Result, _Ty, _Arg> mem_fun_ref(_Result (_Ty::*_Pm)(_Arg) const) {
-    return const_mem_fun1_ref_t<_Result, _Ty, _Arg>(_Pm);
-}
-#line 638 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-template <class _Memptr>
-class _Mem_fn : public _Weak_types<_Memptr> {
-private:
-    _Memptr _Pm;
-
-public:
-    constexpr explicit _Mem_fn(_Memptr _Val) noexcept : _Pm(_Val) {}
-
-    template <class... _Types>
-    inline auto operator()(_Types&&... _Args) const
-        noexcept(noexcept(::std:: invoke(_Pm, ::std:: forward<_Types>(_Args)...)))
-            -> decltype(::std:: invoke(_Pm, ::std:: forward<_Types>(_Args)...)) {
-        return ::std:: invoke(_Pm, ::std:: forward<_Types>(_Args)...);
-    }
-};
-
-template <class _Rx, class _Ty>
-[[nodiscard]] inline _Mem_fn<_Rx _Ty::*> mem_fn(_Rx _Ty::*_Pm) noexcept {
-    return _Mem_fn<_Rx _Ty::*>(_Pm);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 717 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-
-
-class bad_function_call : public exception { 
-public:
-    bad_function_call() noexcept {}
-
-    [[nodiscard]] virtual const char*  what() const noexcept override {
-        
-        return "bad function call";
-    }
-};
-
-[[noreturn]]  void __cdecl _Xbad_function_call();
-
-struct _Unforced { 
-    explicit _Unforced() = default;
-};
-
-
-
-template <class _Rx, bool = is_void_v<_Rx>>
-struct _Invoker_ret { 
-    template <class _Fx, class... _Valtys>
-    static inline void _Call(_Fx&& _Func, _Valtys&&... _Vals) noexcept(_Select_invoke_traits<_Fx,
-        _Valtys...>::_Is_nothrow_invocable::value) { 
-        ::std:: invoke(static_cast<_Fx&&>(_Func), static_cast<_Valtys&&>(_Vals)...);
-    }
-};
-
-template <class _Rx>
-struct _Invoker_ret<_Rx, false> { 
-    template <class _Fx, class... _Valtys>
-    static inline _Rx _Call(_Fx&& _Func, _Valtys&&... _Vals) noexcept(_Select_invoke_traits<_Fx,
-        _Valtys...>::template _Is_nothrow_invocable_r<_Rx>::value) { 
-        return ::std:: invoke(static_cast<_Fx&&>(_Func), static_cast<_Valtys&&>(_Vals)...);
-    }
-};
-
-template <>
-struct _Invoker_ret<_Unforced, false> { 
-    template <class _Fx, class... _Valtys>
-    static inline auto _Call(_Fx&& _Func, _Valtys&&... _Vals) noexcept(
-        _Select_invoke_traits<_Fx, _Valtys...>::_Is_nothrow_invocable::value)
-        -> decltype(::std:: invoke(static_cast<_Fx&&>(_Func), static_cast<_Valtys&&>(_Vals)...)) { 
-        return ::std:: invoke(static_cast<_Fx&&>(_Func), static_cast<_Valtys&&>(_Vals)...);
-    }
-};
-
-
-template <class _Fty>
-class function;
-
-template <class _Ty>
- constexpr bool _Testable_callable_v =
-    disjunction_v<is_pointer<_Ty>, _Is_specialization<_Ty, function>, is_member_pointer<_Ty>>;
-
-template <class _Ty>
-bool _Test_callable(const _Ty& _Arg) noexcept { 
-    if constexpr (_Testable_callable_v<_Ty>) {
-        return !!_Arg;
-    } else {
-        return true;
-    }
-}
-
-
-template <class _Rx, class... _Types>
-class __declspec(novtable) _Func_base { 
-public:
-    virtual _Func_base* _Copy(void*) const                 = 0;
-    virtual _Func_base* _Move(void*) noexcept              = 0;
-    virtual _Rx _Do_call(_Types&&...)                      = 0;
-    virtual const type_info& _Target_type() const noexcept = 0;
-    virtual void _Delete_this(bool) noexcept               = 0;
-
-
-    const void* _Target(const type_info& _Info) const noexcept {
-        return _Target_type() == _Info ? _Get() : nullptr;
-    }
-#line 799 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-    _Func_base()                  = default;
-    _Func_base(const _Func_base&) = delete;
-    _Func_base& operator=(const _Func_base&) = delete;
-    
-
-private:
-    virtual const void* _Get() const noexcept = 0;
-};
-
-
-constexpr size_t _Space_size = (_Small_object_num_ptrs - 1) * sizeof(void*);
-
-template <class _Impl> 
- constexpr bool _Is_large = sizeof(_Impl) > _Space_size || alignof(_Impl) > alignof(max_align_t)
-                                    || !_Impl::_Nothrow_move::value;
-
-
-
-template <class _Callable, class _Alloc, class _Rx, class... _Types>
-class _Func_impl final : public _Func_base<_Rx, _Types...> {
-    
-public:
-    using _Mybase        = _Func_base<_Rx, _Types...>;
-    using _Myalty        = _Rebind_alloc_t<_Alloc, _Func_impl>;
-    using _Myalty_traits = allocator_traits<_Myalty>;
-    using _Nothrow_move  = is_nothrow_move_constructible<_Callable>;
-
-    template <class _Other1, class _Other2>
-    _Func_impl(_Other1&& _Val, _Other2&& _Ax)
-        : _Mypair(_One_then_variadic_args_t{}, ::std:: forward<_Other2>(_Ax), ::std:: forward<_Other1>(_Val)) {}
-
-    
-
-private:
-    virtual _Mybase* _Copy(void* _Where) const override {
-        auto& _Myax = _Mypair._Get_first();
-        if constexpr (_Is_large<_Func_impl>) {
-            _Myalty _Rebound(_Myax);
-            _Alloc_construct_ptr<_Myalty> _Constructor{_Rebound};
-            _Constructor._Allocate();
-            _Construct_in_place(*_Constructor._Ptr, _Mypair._Myval2, _Myax);
-            return _Constructor._Release();
-        } else {
-            const auto _Ptr = static_cast<_Func_impl*>(_Where);
-            _Construct_in_place(*_Ptr, _Mypair._Myval2, _Myax);
-            return _Ptr;
-        }
-    }
-
-    virtual _Mybase* _Move(void* _Where) noexcept override {
-        if constexpr (_Is_large<_Func_impl>) {
-            return nullptr;
-        } else {
-            const auto _Ptr = static_cast<_Func_impl*>(_Where);
-            _Construct_in_place(*_Ptr, ::std:: move(_Mypair._Myval2), ::std:: move(_Mypair._Get_first()));
-            return _Ptr;
-        }
-    }
-
-    virtual _Rx _Do_call(_Types&&... _Args) override { 
-        return _Invoker_ret<_Rx>::_Call(_Mypair._Myval2, ::std:: forward<_Types>(_Args)...);
-    }
-
-    virtual const type_info& _Target_type() const noexcept override {
-
-        return typeid(_Callable);
-
-
-#line 869 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-    }
-
-    virtual const void* _Get() const noexcept override {
-        return ::std:: addressof(_Mypair._Myval2);
-    }
-
-    virtual void _Delete_this(bool _Deallocate) noexcept override { 
-        _Myalty _Al(_Mypair._Get_first());
-        _Destroy_in_place(*this);
-        if (_Deallocate) {
-            _Deallocate_plain(_Al, this);
-        }
-    }
-
-    _Compressed_pair<_Alloc, _Callable> _Mypair;
-};
-#line 886 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-template <class _Callable, class _Rx, class... _Types>
-class _Func_impl_no_alloc final : public _Func_base<_Rx, _Types...> {
-    
-public:
-    using _Mybase       = _Func_base<_Rx, _Types...>;
-    using _Nothrow_move = is_nothrow_move_constructible<_Callable>;
-
-    template <class _Other, enable_if_t<!is_same_v<_Func_impl_no_alloc, decay_t<_Other>>, int> = 0>
-    explicit _Func_impl_no_alloc(_Other&& _Val) : _Callee(::std:: forward<_Other>(_Val)) {}
-
-    
-
-private:
-    virtual _Mybase* _Copy(void* _Where) const override {
-        if constexpr (_Is_large<_Func_impl_no_alloc>) {
-            (void) _Where; 
-            return _Global_new<_Func_impl_no_alloc>(_Callee);
-        } else {
-            return ::new (_Where) _Func_impl_no_alloc(_Callee);
-        }
-    }
-
-    virtual _Mybase* _Move(void* _Where) noexcept override {
-        if constexpr (_Is_large<_Func_impl_no_alloc>) {
-            (void) _Where; 
-            return nullptr;
-        } else {
-            return ::new (_Where) _Func_impl_no_alloc(::std:: move(_Callee));
-        }
-    }
-
-    virtual _Rx _Do_call(_Types&&... _Args) override { 
-        return _Invoker_ret<_Rx>::_Call(_Callee, ::std:: forward<_Types>(_Args)...);
-    }
-
-    virtual const type_info& _Target_type() const noexcept override {
-
-        return typeid(_Callable);
-
-
-#line 929 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-    }
-
-    virtual const void* _Get() const noexcept override {
-        return ::std:: addressof(_Callee);
-    }
-
-    virtual void _Delete_this(bool _Dealloc) noexcept override { 
-        this->~_Func_impl_no_alloc();
-        if (_Dealloc) {
-            _Deallocate<alignof(_Func_impl_no_alloc)>(this, sizeof(_Func_impl_no_alloc));
-        }
-    }
-
-    _Callable _Callee;
-};
-
-
-
-
-
-#line 950 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-template <class _Ret, class... _Types>
-class _Func_class : public _Arg_types<_Types...> {
-public:
-    using result_type = _Ret;
-
-    using _Ptrt = _Func_base<_Ret, _Types...>;
-
-    _Func_class() noexcept {
-        _Set(nullptr);
-    }
-
-    _Ret operator()(_Types... _Args) const {
-        if (_Empty()) {
-            _Xbad_function_call();
-        }
-        const auto _Impl = _Getimpl();
-        return _Impl->_Do_call(::std:: forward<_Types>(_Args)...);
-    }
-
-    ~_Func_class() noexcept {
-        _Tidy();
-    }
-
-protected:
-    template <class _Fx, class _Function>
-    using _Enable_if_callable_t =
-        enable_if_t<conjunction_v<negation<is_same<decay_t<_Fx>, _Function>>, _Is_invocable_r<_Ret, _Fx, _Types...>>,
-            int>;
-
-    bool _Empty() const noexcept {
-        return !_Getimpl();
-    }
-
-    void _Reset_copy(const _Func_class& _Right) { 
-        if (!_Right._Empty()) {
-            _Set(_Right._Getimpl()->_Copy(&_Mystorage));
-        }
-    }
-
-    void _Reset_move(_Func_class&& _Right) noexcept { 
-        if (!_Right._Empty()) {
-            if (_Right._Local()) { 
-                _Set(_Right._Getimpl()->_Move(&_Mystorage));
-                _Right._Tidy();
-            } else { 
-                _Set(_Right._Getimpl());
-                _Right._Set(nullptr);
-            }
-        }
-    }
-
-    template <class _Fx>
-    void _Reset(_Fx&& _Val) { 
-        if (!_Test_callable(_Val)) { 
-            return; 
-        }
-
-        using _Impl = _Func_impl_no_alloc<decay_t<_Fx>, _Ret, _Types...>;
-        if constexpr (_Is_large<_Impl>) {
-            
-            _Set(_Global_new<_Impl>(::std:: forward<_Fx>(_Val)));
-        } else {
-            
-            _Set(::new (static_cast<void*>(&_Mystorage)) _Impl(::std:: forward<_Fx>(_Val)));
-        }
-    }
-
-
-    template <class _Fx, class _Alloc>
-    void _Reset_alloc(_Fx&& _Val, const _Alloc& _Ax) { 
-        if (!_Test_callable(_Val)) { 
-            return; 
-        }
-
-        using _Myimpl = _Func_impl<decay_t<_Fx>, _Alloc, _Ret, _Types...>;
-        if constexpr (_Is_large<_Myimpl>) {
-            
-            using _Alimpl = _Rebind_alloc_t<_Alloc, _Myimpl>;
-            _Alimpl _Al(_Ax);
-            _Alloc_construct_ptr<_Alimpl> _Constructor{_Al};
-            _Constructor._Allocate();
-            _Construct_in_place(*_Constructor._Ptr, ::std:: forward<_Fx>(_Val), _Ax);
-            _Set(_Unfancy(_Constructor._Release()));
-        } else {
-            
-            const auto _Ptr = reinterpret_cast<_Myimpl*>(&_Mystorage);
-            _Construct_in_place(*_Ptr, ::std:: forward<_Fx>(_Val), _Ax);
-            _Set(_Ptr);
-        }
-    }
-#line 1043 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-    void _Tidy() noexcept {
-        if (!_Empty()) { 
-            _Getimpl()->_Delete_this(!_Local());
-            _Set(nullptr);
-        }
-    }
-
-    void _Swap(_Func_class& _Right) noexcept { 
-        if (!_Local() && !_Right._Local()) { 
-            _Ptrt* _Temp = _Getimpl();
-            _Set(_Right._Getimpl());
-            _Right._Set(_Temp);
-        } else { 
-            _Func_class _Temp;
-            _Temp._Reset_move(::std:: move(*this));
-            _Reset_move(::std:: move(_Right));
-            _Right._Reset_move(::std:: move(_Temp));
-        }
-    }
-
-
-    const type_info& _Target_type() const noexcept {
-        return _Getimpl() ? _Getimpl()->_Target_type() : typeid(void);
-    }
-
-    const void* _Target(const type_info& _Info) const noexcept {
-        return _Getimpl() ? _Getimpl()->_Target(_Info) : nullptr;
-    }
-#line 1073 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-private:
-    bool _Local() const noexcept { 
-        return _Getimpl() == static_cast<const void*>(&_Mystorage);
-    }
-
-    union _Storage { 
-        max_align_t _Dummy1; 
-        char _Dummy2[_Space_size]; 
-        _Ptrt* _Ptrs[_Small_object_num_ptrs]; 
-    };
-
-    _Storage _Mystorage;
-    enum { _EEN_IMPL = _Small_object_num_ptrs - 1 }; 
-    _Ptrt* _Getimpl() const noexcept { 
-        return _Mystorage._Ptrs[_Small_object_num_ptrs - 1];
-    }
-
-    void _Set(_Ptrt* _Ptr) noexcept { 
-        _Mystorage._Ptrs[_Small_object_num_ptrs - 1] = _Ptr;
-    }
-};
-
-
-template <class _Tx>
-struct _Get_function_impl {
-    static_assert(_Always_false<_Tx>, "std::function does not accept non-function types as template arguments.");
-};
-
-
-
-
-
-
-
-template <class _Ret, class... _Types> struct _Get_function_impl<_Ret __cdecl(_Types...)> { using type = _Func_class<_Ret, _Types...>; };  template <class _Ret, class... _Types> struct _Get_function_impl<_Ret __fastcall(_Types...)> { using type = _Func_class<_Ret, _Types...>; }; template <class _Ret, class... _Types> struct _Get_function_impl<_Ret __stdcall(_Types...)> { using type = _Func_class<_Ret, _Types...>; }; template <class _Ret, class... _Types> struct _Get_function_impl<_Ret __vectorcall(_Types...)> { using type = _Func_class<_Ret, _Types...>; };
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-template <class _Fty>
-class function : public _Get_function_impl<_Fty>::type { 
-private:
-    using _Mybase = typename _Get_function_impl<_Fty>::type;
-
-public:
-    function() noexcept {}
-
-    function(nullptr_t) noexcept {}
-
-    function(const function& _Right) {
-        this->_Reset_copy(_Right);
-    }
-
-
-    template <class _Fx, typename _Mybase::template _Enable_if_callable_t<_Fx&, function> = 0>
-
-
-#line 1142 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-    function(_Fx _Func) {
-        this->_Reset(::std:: move(_Func));
-    }
-
-
-    template <class _Alloc>
-    function(allocator_arg_t, const _Alloc&) noexcept {}
-
-    template <class _Alloc>
-    function(allocator_arg_t, const _Alloc&, nullptr_t) noexcept {}
-
-    template <class _Alloc>
-    function(allocator_arg_t, const _Alloc& _Ax, const function& _Right) {
-        this->_Reset_alloc(_Right, _Ax);
-    }
-
-
-    template <class _Fx, class _Alloc, typename _Mybase::template _Enable_if_callable_t<_Fx&, function> = 0>
-
-
-#line 1163 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-    function(allocator_arg_t, const _Alloc& _Ax, _Fx _Func) {
-        this->_Reset_alloc(::std:: move(_Func), _Ax);
-    }
-#line 1167 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-    function& operator=(const function& _Right) {
-        function(_Right).swap(*this);
-        return *this;
-    }
-
-    function(function&& _Right) noexcept {
-        this->_Reset_move(::std:: move(_Right));
-    }
-
-
-    template <class _Alloc>
-    function(allocator_arg_t, const _Alloc& _Al, function&& _Right) {
-        this->_Reset_alloc(::std:: move(_Right), _Al);
-    }
-#line 1183 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-    function& operator=(function&& _Right) noexcept  {
-        if (this != ::std:: addressof(_Right)) {
-            this->_Tidy();
-            this->_Reset_move(::std:: move(_Right));
-        }
-        return *this;
-    }
-
-
-    template <class _Fx, typename _Mybase::template _Enable_if_callable_t<decay_t<_Fx>&, function> = 0>
-
-
-#line 1197 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-    function& operator=(_Fx&& _Func) {
-        function(::std:: forward<_Fx>(_Func)).swap(*this);
-        return *this;
-    }
-
-
-    template <class _Fx, class _Alloc>
-    void assign(_Fx&& _Func, const _Alloc& _Ax) {
-        function(allocator_arg, _Ax, ::std:: forward<_Fx>(_Func)).swap(*this);
-    }
-#line 1208 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-    function& operator=(nullptr_t) noexcept {
-        this->_Tidy();
-        return *this;
-    }
-
-    template <class _Fx>
-    function& operator=(reference_wrapper<_Fx> _Func) noexcept {
-        this->_Tidy();
-        this->_Reset(_Func);
-        return *this;
-    }
-
-    void swap(function& _Right) noexcept {
-        this->_Swap(_Right);
-    }
-
-    explicit operator bool() const noexcept {
-        return !this->_Empty();
-    }
-
-
-    [[nodiscard]] const type_info& target_type() const noexcept {
-        return this->_Target_type();
-    }
-
-    template <class _Fx>
-    [[nodiscard]] _Fx* target() noexcept {
-        return reinterpret_cast<_Fx*>(const_cast<void*>(this->_Target(typeid(_Fx))));
-    }
-
-    template <class _Fx>
-    [[nodiscard]] const _Fx* target() const noexcept {
-        return reinterpret_cast<const _Fx*>(this->_Target(typeid(_Fx)));
-    }
-
-
-
-
-
-
-
-
-#line 1252 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1273 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-template <class _Fty>
-void swap(function<_Fty>& _Left, function<_Fty>& _Right) noexcept {
-    _Left.swap(_Right);
-}
-
-template <class _Fty>
-[[nodiscard]] bool operator==(const function<_Fty>& _Other, nullptr_t) noexcept {
-    return !_Other;
-}
-
-
-template <class _Fty>
-[[nodiscard]] bool operator==(nullptr_t, const function<_Fty>& _Other) noexcept {
-    return !_Other;
-}
-
-template <class _Fty>
-[[nodiscard]] bool operator!=(const function<_Fty>& _Other, nullptr_t) noexcept {
-    return static_cast<bool>(_Other);
-}
-
-template <class _Fty>
-[[nodiscard]] bool operator!=(nullptr_t, const function<_Fty>& _Other) noexcept {
-    return static_cast<bool>(_Other);
-}
-#line 1300 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-template <int _Nx>
-struct _Ph { 
-    static_assert(_Nx > 0, "invalid placeholder index");
-};
-
-template <class _Tx>
-struct is_placeholder : integral_constant<int, 0> {}; 
-
-template <int _Nx>
-struct is_placeholder<_Ph<_Nx>> : integral_constant<int, _Nx> {}; 
-
-template <class _Tx>
-struct is_placeholder<const _Tx> : is_placeholder<_Tx>::type {}; 
-
-template <class _Tx>
-struct is_placeholder<volatile _Tx> : is_placeholder<_Tx>::type {}; 
-
-template <class _Tx>
-struct is_placeholder<const volatile _Tx> : is_placeholder<_Tx>::type {}; 
-
-template <class _Ty>
- constexpr int is_placeholder_v = is_placeholder<_Ty>::value;
-
-
-template <class _Ret, class _Fx, class... _Types>
-class _Binder;
-
-
-template <class _Tx>
-struct is_bind_expression : false_type {}; 
-
-template <class _Ret, class _Fx, class... _Types>
-struct is_bind_expression<_Binder<_Ret, _Fx, _Types...>> : true_type {}; 
-
-template <class _Tx>
-struct is_bind_expression<const _Tx> : is_bind_expression<_Tx>::type {}; 
-
-template <class _Tx>
-struct is_bind_expression<volatile _Tx> : is_bind_expression<_Tx>::type {}; 
-
-template <class _Tx>
-struct is_bind_expression<const volatile _Tx> : is_bind_expression<_Tx>::type {}; 
-
-template <class _Ty>
- constexpr bool is_bind_expression_v = is_bind_expression<_Ty>::value;
-
-
-template <class _Cv_TiD, bool = _Is_specialization_v<remove_cv_t<_Cv_TiD>, reference_wrapper>,
-    bool = is_bind_expression_v<_Cv_TiD>, int = is_placeholder_v<_Cv_TiD>>
-struct _Select_fixer;
-
-template <class _Cv_TiD>
-struct _Select_fixer<_Cv_TiD, true, false, 0> { 
-    template <class _Untuple>
-    static constexpr auto _Fix(_Cv_TiD& _Tid, _Untuple&&) noexcept -> typename _Cv_TiD::type& {
-        
-        return _Tid.get();
-    }
-};
-
-template <class _Cv_TiD>
-struct _Select_fixer<_Cv_TiD, false, true, 0> { 
-    template <class _Untuple, size_t... _Jx>
-    static constexpr auto _Apply(_Cv_TiD& _Tid, _Untuple&& _Ut, index_sequence<_Jx...>) noexcept(
-        noexcept(_Tid(::std:: get<_Jx>(::std:: move(_Ut))...))) -> decltype(_Tid(::std:: get<_Jx>(::std:: move(_Ut))...)) {
-        
-        return _Tid(::std:: get<_Jx>(::std:: move(_Ut))...);
-    }
-
-    template <class _Untuple>
-    static constexpr auto _Fix(_Cv_TiD& _Tid, _Untuple&& _Ut) noexcept(
-        noexcept(_Apply(_Tid, ::std:: move(_Ut), make_index_sequence<tuple_size_v<_Untuple>>{})))
-        -> decltype(_Apply(_Tid, ::std:: move(_Ut), make_index_sequence<tuple_size_v<_Untuple>>{})) {
-        
-        return _Apply(_Tid, ::std:: move(_Ut), make_index_sequence<tuple_size_v<_Untuple>>{});
-    }
-};
-
-template <class _Cv_TiD>
-struct _Select_fixer<_Cv_TiD, false, false, 0> { 
-    template <class _Untuple>
-    static constexpr _Cv_TiD& _Fix(_Cv_TiD& _Tid, _Untuple&&) noexcept {
-        
-        return _Tid;
-    }
-};
-
-template <class _Cv_TiD, int _Jx>
-struct _Select_fixer<_Cv_TiD, false, false, _Jx> { 
-    static_assert(_Jx > 0, "invalid is_placeholder value");
-
-    template <class _Untuple>
-    static constexpr auto _Fix(_Cv_TiD&, _Untuple&& _Ut) noexcept
-        -> decltype(::std:: get<_Jx - 1>(::std:: move(_Ut))) { 
-        return ::std:: get<_Jx - 1>(::std:: move(_Ut));
-    }
-};
-
-template <class _Cv_TiD, class _Untuple>
-constexpr auto _Fix_arg(_Cv_TiD& _Tid, _Untuple&& _Ut) noexcept(
-    noexcept(_Select_fixer<_Cv_TiD>::_Fix(_Tid, ::std:: move(_Ut))))
-    -> decltype(_Select_fixer<_Cv_TiD>::_Fix(_Tid, ::std:: move(_Ut))) { 
-    return _Select_fixer<_Cv_TiD>::_Fix(_Tid, ::std:: move(_Ut));
-}
-
-
-template <class _Ret, size_t... _Ix, class _Cv_FD, class _Cv_tuple_TiD, class _Untuple>
-inline auto _Call_binder(_Invoker_ret<_Ret>, index_sequence<_Ix...>, _Cv_FD& _Obj, _Cv_tuple_TiD& _Tpl,
-    _Untuple&& _Ut) noexcept(noexcept(_Invoker_ret<_Ret>::_Call(_Obj,
-    _Fix_arg(::std:: get<_Ix>(_Tpl), ::std:: move(_Ut))...)))
-    -> decltype(_Invoker_ret<_Ret>::_Call(_Obj, _Fix_arg(::std:: get<_Ix>(_Tpl), ::std:: move(_Ut))...)) {
-    
-    return _Invoker_ret<_Ret>::_Call(_Obj, _Fix_arg(::std:: get<_Ix>(_Tpl), ::std:: move(_Ut))...);
-}
-
-
-template <class _Ret>
-struct _Forced_result_type { 
-     typedef _Ret result_type;
-};
-
-template <class _Ret, class _Fx>
-struct _Binder_result_type { 
-    using _Decayed = decay_t<_Fx>;
-
-    using _All_weak_types = _Weak_types<_Decayed>;
-
-    using type =
-        conditional_t<is_same_v<_Ret, _Unforced>, _Weak_result_type<_All_weak_types>, _Forced_result_type<_Ret>>;
-};
-
-template <class _Ret, class _Fx, class... _Types>
-class _Binder : public _Binder_result_type<_Ret, _Fx>::type { 
-private:
-    using _Seq    = index_sequence_for<_Types...>;
-    using _First  = decay_t<_Fx>;
-    using _Second = tuple<decay_t<_Types>...>;
-
-    _Compressed_pair<_First, _Second> _Mypair;
-
-public:
-    constexpr explicit _Binder(_Fx&& _Func, _Types&&... _Args)
-        : _Mypair(_One_then_variadic_args_t{}, ::std:: forward<_Fx>(_Func), ::std:: forward<_Types>(_Args)...) {}
-
-
-
-
-
-    template <class... _Unbound>
-    inline auto operator()(_Unbound&&... _Unbargs) noexcept(noexcept(_Call_binder(_Invoker_ret<_Ret>{}, _Seq{}, _Mypair._Get_first(), _Mypair._Myval2, ::std:: forward_as_tuple(::std:: forward<_Unbound>(_Unbargs)...)))) -> decltype(_Call_binder(_Invoker_ret<_Ret>{}, _Seq{}, _Mypair._Get_first(), _Mypair._Myval2, ::std:: forward_as_tuple(::std:: forward<_Unbound>(_Unbargs)...))) {
-        return _Call_binder(_Invoker_ret<_Ret>{}, _Seq{}, _Mypair._Get_first(), _Mypair._Myval2, ::std:: forward_as_tuple(::std:: forward<_Unbound>(_Unbargs)...));
-    }
-
-    template <class... _Unbound>
-    inline auto operator()(_Unbound&&... _Unbargs) const noexcept(noexcept(_Call_binder(_Invoker_ret<_Ret>{}, _Seq{}, _Mypair._Get_first(), _Mypair._Myval2, ::std:: forward_as_tuple(::std:: forward<_Unbound>(_Unbargs)...))))
-        -> decltype(_Call_binder(_Invoker_ret<_Ret>{}, _Seq{}, _Mypair._Get_first(), _Mypair._Myval2, ::std:: forward_as_tuple(::std:: forward<_Unbound>(_Unbargs)...))) {
-        return _Call_binder(_Invoker_ret<_Ret>{}, _Seq{}, _Mypair._Get_first(), _Mypair._Myval2, ::std:: forward_as_tuple(::std:: forward<_Unbound>(_Unbargs)...));
-    }
-
-
-};
-
-
-template <class _Fx, class... _Types>
-[[nodiscard]] inline _Binder<_Unforced, _Fx, _Types...> bind(_Fx&& _Func, _Types&&... _Args) {
-    return _Binder<_Unforced, _Fx, _Types...>(::std:: forward<_Fx>(_Func), ::std:: forward<_Types>(_Args)...);
-}
-
-
-template <class _Ret, class _Fx, class... _Types>
-[[nodiscard]] inline _Binder<_Ret, _Fx, _Types...> bind(_Fx&& _Func, _Types&&... _Args) {
-    return _Binder<_Ret, _Fx, _Types...>(::std:: forward<_Fx>(_Func), ::std:: forward<_Types>(_Args)...);
-}
-
-
-namespace placeholders {
-     constexpr _Ph<1> _1{};
-     constexpr _Ph<2> _2{};
-     constexpr _Ph<3> _3{};
-     constexpr _Ph<4> _4{};
-     constexpr _Ph<5> _5{};
-     constexpr _Ph<6> _6{};
-     constexpr _Ph<7> _7{};
-     constexpr _Ph<8> _8{};
-     constexpr _Ph<9> _9{};
-     constexpr _Ph<10> _10{};
-     constexpr _Ph<11> _11{};
-     constexpr _Ph<12> _12{};
-     constexpr _Ph<13> _13{};
-     constexpr _Ph<14> _14{};
-     constexpr _Ph<15> _15{};
-     constexpr _Ph<16> _16{};
-     constexpr _Ph<17> _17{};
-     constexpr _Ph<18> _18{};
-     constexpr _Ph<19> _19{};
-     constexpr _Ph<20> _20{};
-} 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1579 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-
-template <class _Fty, class _Alloc>
-struct uses_allocator<function<_Fty>, _Alloc> : true_type {}; 
-#line 1585 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 2215 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can " "define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.")]] tr1 {
-    using ::std:: bad_function_call;
-    using ::std:: bind;
-    using ::std:: function;
-    using ::std:: is_bind_expression;
-    using ::std:: is_placeholder;
-    using ::std:: mem_fn;
-    using ::std:: swap;
-    namespace placeholders {
-        using namespace ::std:: placeholders;
-    }
-} 
-#line 2276 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-
-}
-
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 2284 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-#line 2285 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\functional"
-#pragma external_header(pop)
-#line 4 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-
-
-
-
-#pragma once
-
-
-
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-
-
-
-
-
-#pragma once
-
-
-
-
-
-
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-
-
-
-
-#pragma once
-
-
-
-
-
-
-
-
-#line 16 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-namespace std {
-
-template <class _Mylist, class _Base = _Iterator_base0>
-class _List_unchecked_const_iterator : public _Base {
-public:
-    using iterator_category = bidirectional_iterator_tag;
-
-    using _Nodeptr        = typename _Mylist::_Nodeptr;
-    using value_type      = typename _Mylist::value_type;
-    using difference_type = typename _Mylist::difference_type;
-    using pointer         = typename _Mylist::const_pointer;
-    using reference       = const value_type&;
-
-    _List_unchecked_const_iterator() noexcept : _Ptr() {}
-
-    _List_unchecked_const_iterator(_Nodeptr _Pnode, const _Mylist* _Plist) noexcept : _Ptr(_Pnode) {
-        this->_Adopt(_Plist);
-    }
-
-    [[nodiscard]] reference operator*() const noexcept {
-        return _Ptr->_Myval;
-    }
-
-    [[nodiscard]] pointer operator->() const noexcept {
-        return pointer_traits<pointer>::pointer_to(**this);
-    }
-
-    _List_unchecked_const_iterator& operator++() noexcept {
-        _Ptr = _Ptr->_Next;
-        return *this;
-    }
-
-    _List_unchecked_const_iterator operator++(int) noexcept {
-        _List_unchecked_const_iterator _Tmp = *this;
-        _Ptr                                = _Ptr->_Next;
-        return _Tmp;
-    }
-
-    _List_unchecked_const_iterator& operator--() noexcept {
-        _Ptr = _Ptr->_Prev;
-        return *this;
-    }
-
-    _List_unchecked_const_iterator operator--(int) noexcept {
-        _List_unchecked_const_iterator _Tmp = *this;
-        _Ptr                                = _Ptr->_Prev;
-        return _Tmp;
-    }
-
-    [[nodiscard]] bool operator==(const _List_unchecked_const_iterator& _Right) const noexcept {
-        return _Ptr == _Right._Ptr;
-    }
-
-
-    [[nodiscard]] bool operator!=(const _List_unchecked_const_iterator& _Right) const noexcept {
-        return !(*this == _Right);
-    }
-#line 82 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-    _Nodeptr _Ptr; 
-};
-
-
-template <class _Mylist>
-class _List_unchecked_iterator : public _List_unchecked_const_iterator<_Mylist> {
-public:
-    using _Mybase           = _List_unchecked_const_iterator<_Mylist>;
-    using iterator_category = bidirectional_iterator_tag;
-
-    using _Nodeptr        = typename _Mylist::_Nodeptr;
-    using value_type      = typename _Mylist::value_type;
-    using difference_type = typename _Mylist::difference_type;
-    using pointer         = typename _Mylist::pointer;
-    using reference       = value_type&;
-
-    using _Mybase::_Mybase;
-
-    [[nodiscard]] reference operator*() const noexcept {
-        return const_cast<reference>(_Mybase::operator*());
-    }
-
-    [[nodiscard]] pointer operator->() const noexcept {
-        return pointer_traits<pointer>::pointer_to(**this);
-    }
-
-    _List_unchecked_iterator& operator++() noexcept {
-        _Mybase::operator++();
-        return *this;
-    }
-
-    _List_unchecked_iterator operator++(int) noexcept {
-        _List_unchecked_iterator _Tmp = *this;
-        _Mybase::operator++();
-        return _Tmp;
-    }
-
-    _List_unchecked_iterator& operator--() noexcept {
-        _Mybase::operator--();
-        return *this;
-    }
-
-    _List_unchecked_iterator operator--(int) noexcept {
-        _List_unchecked_iterator _Tmp = *this;
-        _Mybase::operator--();
-        return _Tmp;
-    }
-};
-
-
-template <class _Mylist>
-class _List_const_iterator : public _List_unchecked_const_iterator<_Mylist, _Iterator_base> {
-public:
-    using _Mybase           = _List_unchecked_const_iterator<_Mylist, _Iterator_base>;
-    using iterator_category = bidirectional_iterator_tag;
-
-    using _Nodeptr        = typename _Mylist::_Nodeptr;
-    using value_type      = typename _Mylist::value_type;
-    using difference_type = typename _Mylist::difference_type;
-    using pointer         = typename _Mylist::const_pointer;
-    using reference       = const value_type&;
-
-    using _Mybase::_Mybase;
-
-    [[nodiscard]] reference operator*() const noexcept {
-
-        const auto _Mycont = static_cast<const _Mylist*>(this->_Getcont());
-        do { if (_Mycont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 150, 0, "%s", "cannot dereference value-initialized list iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference value-initialized list iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 150, 0); } while (false); } ; } while (false);
-        do { if (this->_Ptr != _Mycont->_Myhead) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 151, 0, "%s", "cannot dereference end list iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference end list iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 151, 0); } while (false); } ; } while (false);
-#line 153 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        return this->_Ptr->_Myval;
-    }
-
-    [[nodiscard]] pointer operator->() const noexcept {
-        return pointer_traits<pointer>::pointer_to(**this);
-    }
-
-    _List_const_iterator& operator++() noexcept {
-
-        const auto _Mycont = static_cast<const _Mylist*>(this->_Getcont());
-        do { if (_Mycont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 164, 0, "%s", "cannot increment value-initialized list iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot increment value-initialized list iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 164, 0); } while (false); } ; } while (false);
-        do { if (this->_Ptr != _Mycont->_Myhead) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 165, 0, "%s", "cannot increment end list iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot increment end list iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 165, 0); } while (false); } ; } while (false);
-#line 167 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        this->_Ptr = this->_Ptr->_Next;
-        return *this;
-    }
-
-    _List_const_iterator operator++(int) noexcept {
-        _List_const_iterator _Tmp = *this;
-        ++*this;
-        return _Tmp;
-    }
-
-    _List_const_iterator& operator--() noexcept {
-        const auto _New_ptr = this->_Ptr->_Prev;
-
-        const auto _Mycont = static_cast<const _Mylist*>(this->_Getcont());
-        do { if (_Mycont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 182, 0, "%s", "cannot decrement value-initialized list iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot decrement value-initialized list iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 182, 0); } while (false); } ; } while (false);
-        do { if (_New_ptr != _Mycont->_Myhead) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 183, 0, "%s", "cannot decrement begin list iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot decrement begin list iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 183, 0); } while (false); } ; } while (false);
-#line 185 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        this->_Ptr = _New_ptr;
-        return *this;
-    }
-
-    _List_const_iterator operator--(int) noexcept {
-        _List_const_iterator _Tmp = *this;
-        --*this;
-        return _Tmp;
-    }
-
-    [[nodiscard]] bool operator==(const _List_const_iterator& _Right) const noexcept {
-
-        do { if (this->_Getcont() == _Right._Getcont()) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 198, 0, "%s", "list iterators incompatible")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list iterators incompatible\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 198, 0); } while (false); } ; } while (false);
-#line 200 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        return this->_Ptr == _Right._Ptr;
-    }
-
-
-    [[nodiscard]] bool operator!=(const _List_const_iterator& _Right) const noexcept {
-        return !(*this == _Right);
-    }
-#line 209 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-
-    friend void _Verify_range(const _List_const_iterator& _First, const _List_const_iterator& _Last) noexcept {
-        do { if (_First._Getcont() == _Last._Getcont()) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 212, 0, "%s", "list iterators in range are from different containers")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list iterators in range are from different containers\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 212, 0); } while (false); } ; } while (false);
-    }
-#line 215 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-    using _Prevent_inheriting_unwrap = _List_const_iterator;
-
-    [[nodiscard]] _List_unchecked_const_iterator<_Mylist> _Unwrapped() const noexcept {
-        return _List_unchecked_const_iterator<_Mylist>(this->_Ptr, static_cast<const _Mylist*>(this->_Getcont()));
-    }
-
-    void _Seek_to(const _List_unchecked_const_iterator<_Mylist> _It) noexcept {
-        this->_Ptr = _It._Ptr;
-    }
-};
-
-
-template <class _Mylist>
-class _List_iterator : public _List_const_iterator<_Mylist> {
-public:
-    using _Mybase           = _List_const_iterator<_Mylist>;
-    using iterator_category = bidirectional_iterator_tag;
-
-    using _Nodeptr        = typename _Mylist::_Nodeptr;
-    using value_type      = typename _Mylist::value_type;
-    using difference_type = typename _Mylist::difference_type;
-    using pointer         = typename _Mylist::pointer;
-    using reference       = value_type&;
-
-    using _Mybase::_Mybase;
-
-    [[nodiscard]] reference operator*() const noexcept {
-        return const_cast<reference>(_Mybase::operator*());
-    }
-
-    [[nodiscard]] pointer operator->() const noexcept {
-        return pointer_traits<pointer>::pointer_to(**this);
-    }
-
-    _List_iterator& operator++() noexcept {
-        _Mybase::operator++();
-        return *this;
-    }
-
-    _List_iterator operator++(int) noexcept {
-        _List_iterator _Tmp = *this;
-        _Mybase::operator++();
-        return _Tmp;
-    }
-
-    _List_iterator& operator--() noexcept {
-        _Mybase::operator--();
-        return *this;
-    }
-
-    _List_iterator operator--(int) noexcept {
-        _List_iterator _Tmp = *this;
-        _Mybase::operator--();
-        return _Tmp;
-    }
-
-    using _Prevent_inheriting_unwrap = _List_iterator;
-
-    [[nodiscard]] _List_unchecked_iterator<_Mylist> _Unwrapped() const noexcept {
-        return _List_unchecked_iterator<_Mylist>(this->_Ptr, static_cast<const _Mylist*>(this->_Getcont()));
-    }
-};
-
-
-template <class _Value_type, class _Size_type, class _Difference_type, class _Pointer, class _Const_pointer,
-    class _Reference, class _Const_reference, class _Nodeptr_type>
-struct _List_iter_types {
-    using value_type      = _Value_type;
-    using size_type       = _Size_type;
-    using difference_type = _Difference_type;
-    using pointer         = _Pointer;
-    using const_pointer   = _Const_pointer;
-    using _Nodeptr        = _Nodeptr_type;
-};
-
-template <class _Value_type, class _Voidptr>
-struct _List_node { 
-    using value_type = _Value_type;
-    using _Nodeptr   = _Rebind_pointer_t<_Voidptr, _List_node>;
-    _Nodeptr _Next; 
-    _Nodeptr _Prev; 
-    _Value_type _Myval; 
-
-    _List_node(const _List_node&) = delete;
-    _List_node& operator=(const _List_node&) = delete;
-
-    template <class _Alnode>
-    static _Nodeptr _Buyheadnode(_Alnode& _Al) {
-        const auto _Result = _Al.allocate(1);
-        _Construct_in_place(_Result->_Next, _Result);
-        _Construct_in_place(_Result->_Prev, _Result);
-        return _Result;
-    }
-
-    template <class _Alnode>
-    static void _Freenode0(_Alnode& _Al, _Nodeptr _Ptr) noexcept {
-        
-        static_assert(is_same_v<typename _Alnode::value_type, _List_node>, "Bad _Freenode0 call");
-        _Destroy_in_place(_Ptr->_Next);
-        _Destroy_in_place(_Ptr->_Prev);
-        allocator_traits<_Alnode>::deallocate(_Al, _Ptr, 1);
-    }
-
-    template <class _Alnode>
-    static void _Freenode(_Alnode& _Al, _Nodeptr _Ptr) noexcept { 
-        allocator_traits<_Alnode>::destroy(_Al, ::std:: addressof(_Ptr->_Myval));
-        _Freenode0(_Al, _Ptr);
-    }
-
-    template <class _Alnode>
-    static void _Free_non_head(
-        _Alnode& _Al, _Nodeptr _Head) noexcept { 
-        _Head->_Prev->_Next = nullptr;
-
-        auto _Pnode = _Head->_Next;
-        for (_Nodeptr _Pnext; _Pnode; _Pnode = _Pnext) {
-            _Pnext = _Pnode->_Next;
-            _Freenode(_Al, _Pnode);
-        }
-    }
-};
-
-template <class _Ty>
-struct _List_simple_types : _Simple_types<_Ty> {
-    using _Node    = _List_node<_Ty, void*>;
-    using _Nodeptr = _Node*;
-};
-
-
-template <class _Val_types>
-class _List_val : public _Container_base {
-public:
-    using _Nodeptr = typename _Val_types::_Nodeptr;
-
-    using value_type      = typename _Val_types::value_type;
-    using size_type       = typename _Val_types::size_type;
-    using difference_type = typename _Val_types::difference_type;
-    using pointer         = typename _Val_types::pointer;
-    using const_pointer   = typename _Val_types::const_pointer;
-    using reference       = value_type&;
-    using const_reference = const value_type&;
-
-    _List_val() noexcept : _Myhead(), _Mysize(0) {} 
-
-    void _Orphan_ptr2(_Nodeptr _Ptr) noexcept { 
-
-        _Lockit _Lock(3);
-        _Iterator_base12** _Pnext = &this->_Myproxy->_Myfirstiter;
-        const auto _Head          = _Myhead;
-        while (*_Pnext) {
-            _Iterator_base12** _Pnextnext = &(*_Pnext)->_Mynextiter;
-            const auto _Pnextptr          = static_cast<_List_const_iterator<_List_val>&>(**_Pnext)._Ptr;
-            if (_Pnextptr == _Head || _Pnextptr != _Ptr) {
-                
-                _Pnext = _Pnextnext;
-            } else { 
-                (*_Pnext)->_Myproxy = nullptr;
-                *_Pnext             = *_Pnextnext;
-            }
-        }
-
-
-#line 379 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-    }
-
-    void _Orphan_non_end() noexcept { 
-
-        _Lockit _Lock(3);
-        _Iterator_base12** _Pnext = &this->_Myproxy->_Myfirstiter;
-        const auto _Head          = _Myhead;
-        while (*_Pnext) {
-            _Iterator_base12** _Pnextnext = &(*_Pnext)->_Mynextiter;
-            if (static_cast<_List_const_iterator<_List_val>&>(**_Pnext)._Ptr == _Head) { 
-                _Pnext = _Pnextnext;
-            } else { 
-                (*_Pnext)->_Myproxy = nullptr;
-                *_Pnext             = *_Pnextnext;
-            }
-        }
-#line 396 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-    }
-
-    _Nodeptr _Unlinknode(_Nodeptr _Pnode) noexcept { 
-        _Orphan_ptr2(_Pnode);
-        _Pnode->_Prev->_Next = _Pnode->_Next;
-        _Pnode->_Next->_Prev = _Pnode->_Prev;
-        --_Mysize;
-        return _Pnode;
-    }
-
-
-    void _Adopt_unique(_List_val& _Other, _Nodeptr _Pnode) noexcept {
-        
-        _Lockit _Lock(3);
-        _Iterator_base12** _Pnext = &_Other._Myproxy->_Myfirstiter;
-        const auto _Myproxy       = this->_Myproxy;
-        while (*_Pnext) {
-            auto& _Iter = static_cast<_List_const_iterator<_List_val>&>(**_Pnext);
-            if (_Iter._Ptr == _Pnode) { 
-                *_Pnext                = _Iter._Mynextiter;
-                _Iter._Myproxy         = _Myproxy;
-                _Iter._Mynextiter      = _Myproxy->_Myfirstiter;
-                _Myproxy->_Myfirstiter = ::std:: addressof(_Iter);
-            } else { 
-                _Pnext = &_Iter._Mynextiter;
-            }
-        }
-    }
-
-    void _Adopt_all(_List_val& _Other) noexcept {
-        
-        _Lockit _Lock(3);
-        _Iterator_base12** _Pnext = &_Other._Myproxy->_Myfirstiter;
-        const auto _Myproxy       = this->_Myproxy;
-        const auto _Otherhead     = _Other._Myhead;
-        while (*_Pnext) {
-            auto& _Iter = static_cast<_List_const_iterator<_List_val>&>(**_Pnext);
-            if (_Iter._Ptr != _Otherhead) { 
-                *_Pnext                = _Iter._Mynextiter;
-                _Iter._Myproxy         = _Myproxy;
-                _Iter._Mynextiter      = _Myproxy->_Myfirstiter;
-                _Myproxy->_Myfirstiter = ::std:: addressof(_Iter);
-            } else { 
-                _Pnext = &_Iter._Mynextiter;
-            }
-        }
-    }
-
-    void _Adopt_range(_List_val& _Other, const _Nodeptr _First, const _Nodeptr _Last) noexcept {
-        
-        _Lockit _Lock(3);
-        _Iterator_base12** _Pnext = &_Other._Myproxy->_Myfirstiter;
-        const auto _Myproxy       = this->_Myproxy;
-        _Nodeptr _Oldprev         = _First->_Prev;
-        for (_Nodeptr _Ptr = _First; _Ptr != _Last; _Ptr = _Ptr->_Next) { 
-            _Ptr->_Prev = nullptr;
-        }
-
-        while (*_Pnext) { 
-            auto& _Iter = static_cast<_List_const_iterator<_List_val>&>(**_Pnext);
-            if (_Iter._Ptr->_Prev) { 
-                _Pnext = &_Iter._Mynextiter;
-            } else { 
-                *_Pnext                = _Iter._Mynextiter;
-                _Iter._Myproxy         = _Myproxy;
-                _Iter._Mynextiter      = _Myproxy->_Myfirstiter;
-                _Myproxy->_Myfirstiter = ::std:: addressof(_Iter);
-            }
-        }
-
-        for (_Nodeptr _Ptr = _First; _Ptr != _Last; _Ptr = _Ptr->_Next) { 
-            _Ptr->_Prev = _Oldprev;
-            _Oldprev    = _Ptr;
-        }
-    }
-#line 472 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-    static _Nodeptr _Unchecked_splice(const _Nodeptr _Before, const _Nodeptr _First, const _Nodeptr _Last) noexcept {
-        
-        ;
-        
-
-        
-        const auto _First_prev  = _First->_Prev;
-        _First_prev->_Next      = _Last;
-        const auto _Last_prev   = _Last->_Prev;
-        _Last_prev->_Next       = _Before;
-        const auto _Before_prev = _Before->_Prev;
-        _Before_prev->_Next     = _First;
-
-        
-        _Before->_Prev = _Last_prev;
-        _Last->_Prev   = _First_prev;
-        _First->_Prev  = _Before_prev;
-
-        return _Last;
-    }
-
-    static _Nodeptr _Unchecked_splice(const _Nodeptr _Before, const _Nodeptr _First) noexcept {
-        
-        ;
-        
-        const auto _Last = _First->_Next;
-
-        
-        const auto _First_prev = _First->_Prev;
-        _First_prev->_Next     = _Last;
-        
-        _First->_Next           = _Before;
-        const auto _Before_prev = _Before->_Prev;
-        _Before_prev->_Next     = _First;
-
-        
-        _Before->_Prev = _First;
-        _Last->_Prev   = _First_prev;
-        _First->_Prev  = _Before_prev;
-
-        return _Last;
-    }
-
-    template <class _Pr2>
-    static _Nodeptr _Merge_same(_Nodeptr _First, _Nodeptr _Mid, const _Nodeptr _Last, _Pr2 _Pred) {
-        
-        
-        ;
-        _Nodeptr _Newfirst;
-        if (_Debug_lt_pred(_Pred, _Mid->_Myval, _First->_Myval)) {
-            
-            _Newfirst = _Mid;
-        } else {
-            
-            
-            _Newfirst = _First;
-            do {
-                _First = _First->_Next;
-                if (_First == _Mid) {
-                    return _Newfirst;
-                }
-            } while (!_Debug_lt_pred(_Pred, _Mid->_Myval, _First->_Myval));
-        }
-
-        for (;;) { 
-            auto _Run_start = _Mid;
-            do { 
-                _Mid = _Mid->_Next;
-            } while (_Mid != _Last && _Debug_lt_pred(_Pred, _Mid->_Myval, _First->_Myval));
-
-            
-            _Unchecked_splice(_First, _Run_start, _Mid);
-            if (_Mid == _Last) {
-                return _Newfirst;
-            }
-
-            
-            
-            do {
-                _First = _First->_Next;
-                if (_First == _Mid) {
-                    return _Newfirst;
-                }
-            } while (!_Debug_lt_pred(_Pred, _Mid->_Myval, _First->_Myval));
-        }
-    }
-
-    template <class _Pr2>
-    static _Nodeptr _Sort(_Nodeptr& _First, const size_type _Size, _Pr2 _Pred) {
-        
-        switch (_Size) {
-        case 0:
-            return _First;
-        case 1:
-            return _First->_Next;
-        default:
-            break;
-        }
-
-        auto _Mid        = _Sort(_First, _Size / 2, _Pred);
-        const auto _Last = _Sort(_Mid, _Size - _Size / 2, _Pred);
-        _First           = _Merge_same(_First, _Mid, _Last, _Pred);
-        return _Last;
-    }
-
-    _Nodeptr _Myhead; 
-    size_type _Mysize; 
-};
-
-
-template <class _Alnode>
-struct _List_node_emplace_op2 : _Alloc_construct_ptr<_Alnode> {
-    using _Alnode_traits = allocator_traits<_Alnode>;
-    using pointer        = typename _Alnode_traits::pointer;
-
-    template <class... _Valtys>
-    explicit _List_node_emplace_op2(_Alnode& _Al_, _Valtys&&... _Vals) : _Alloc_construct_ptr<_Alnode>(_Al_) {
-        this->_Allocate();
-        _Alnode_traits::construct(this->_Al, ::std:: addressof(this->_Ptr->_Myval), ::std:: forward<_Valtys>(_Vals)...);
-    }
-
-    ~_List_node_emplace_op2() {
-        if (this->_Ptr != pointer{}) {
-            _Alnode_traits::destroy(this->_Al, ::std:: addressof(this->_Ptr->_Myval));
-        }
-    }
-
-    _List_node_emplace_op2(const _List_node_emplace_op2&) = delete;
-    _List_node_emplace_op2& operator=(const _List_node_emplace_op2&) = delete;
-
-    pointer _Transfer_before(const pointer _Insert_before) noexcept {
-        const pointer _Insert_after = _Insert_before->_Prev;
-        _Construct_in_place(this->_Ptr->_Next, _Insert_before);
-        _Construct_in_place(this->_Ptr->_Prev, _Insert_after);
-        const auto _Result    = this->_Ptr;
-        this->_Ptr            = pointer{};
-        _Insert_before->_Prev = _Result;
-        _Insert_after->_Next  = _Result;
-        return _Result;
-    }
-};
-
-
-template <class _Alnode>
-struct _List_node_insert_op2 {
-    
-    using _Alnode_traits = allocator_traits<_Alnode>;
-    using pointer        = typename _Alnode_traits::pointer;
-    using size_type      = typename _Alnode_traits::size_type;
-    using value_type     = typename _Alnode_traits::value_type;
-
-    explicit _List_node_insert_op2(_Alnode& _Al_) : _Al(_Al_), _Added(0) {}
-
-    _List_node_insert_op2(const _List_node_insert_op2&) = delete;
-    _List_node_insert_op2& operator=(const _List_node_insert_op2&) = delete;
-
-    template <class... _CArgT>
-    void _Append_n(size_type _Count, const _CArgT&... _Carg) {
-        
-        if (_Count <= 0) {
-            return;
-        }
-
-        _Alloc_construct_ptr<_Alnode> _Newnode(_Al);
-        if (_Added == 0) {
-            _Newnode._Allocate(); 
-            _Alnode_traits::construct(_Al, ::std:: addressof(_Newnode._Ptr->_Myval), _Carg...); 
-            _Head = _Newnode._Ptr;
-            _Tail = _Newnode._Ptr;
-            ++_Added;
-            --_Count;
-        }
-
-        for (; 0 < _Count; --_Count) {
-            _Newnode._Allocate(); 
-            _Alnode_traits::construct(_Al, ::std:: addressof(_Newnode._Ptr->_Myval), _Carg...); 
-            _Construct_in_place(_Tail->_Next, _Newnode._Ptr);
-            _Construct_in_place(_Newnode._Ptr->_Prev, _Tail);
-            _Tail = _Newnode._Ptr;
-            ++_Added;
-        }
-
-        _Newnode._Ptr = pointer{};
-    }
-
-    template <class _InIt, class _Sentinel>
-    void _Append_range_unchecked(_InIt _First, const _Sentinel _Last) {
-        
-        if (_First == _Last) { 
-            return;
-        }
-
-        _Alloc_construct_ptr<_Alnode> _Newnode(_Al);
-        if (_Added == 0) {
-            _Newnode._Allocate(); 
-            _Alnode_traits::construct(_Al, ::std:: addressof(_Newnode._Ptr->_Myval), *_First); 
-            const auto _Newhead = ::std:: exchange(_Newnode._Ptr, pointer{});
-            _Head               = _Newhead;
-            _Tail               = _Newhead;
-            ++_Added;
-            ++_First; 
-        }
-
-        while (_First != _Last) { 
-            _Newnode._Allocate(); 
-            _Alnode_traits::construct(_Al, ::std:: addressof(_Newnode._Ptr->_Myval), *_First); 
-            _Construct_in_place(_Tail->_Next, _Newnode._Ptr);
-            _Construct_in_place(_Newnode._Ptr->_Prev, _Tail);
-            _Tail = ::std:: exchange(_Newnode._Ptr, pointer{});
-            ++_Added;
-            ++_First; 
-        }
-    }
-
-    template <class _Val_types>
-    pointer _Attach_before(_List_val<_Val_types>& _List_data, const pointer _Insert_before) noexcept {
-        
-        
-        
-
-        const auto _Local_added = _Added;
-        if (_Local_added == 0) {
-            return _Insert_before;
-        }
-
-        const auto _Local_head   = _Head;
-        const auto _Local_tail   = _Tail;
-        const auto _Insert_after = _Insert_before->_Prev;
-
-        _Construct_in_place(_Local_head->_Prev, _Insert_after);
-        _Insert_after->_Next = _Local_head;
-        _Construct_in_place(_Local_tail->_Next, _Insert_before);
-        _Insert_before->_Prev = _Local_tail;
-
-        _List_data._Mysize += _Local_added;
-        _Added = 0;
-        return _Local_head;
-    }
-
-    template <class _Val_types>
-    void _Attach_at_end(_List_val<_Val_types>& _List_data) noexcept {
-        _Attach_before(_List_data, _List_data._Myhead);
-    }
-
-    template <class _Val_types>
-    void _Attach_head(_List_val<_Val_types>& _List_data) {
-        _Alloc_construct_ptr<_Alnode> _Newnode(_Al);
-        _Newnode._Allocate(); 
-        const auto _Local_added = ::std:: exchange(_Added, size_type{0});
-        if (_Local_added == 0) {
-            _Construct_in_place(_Newnode._Ptr->_Next, _Newnode._Ptr);
-            _Construct_in_place(_Newnode._Ptr->_Prev, _Newnode._Ptr);
-        } else {
-            const auto _Local_head = _Head;
-            const auto _Local_tail = _Tail;
-            _Construct_in_place(_Newnode._Ptr->_Next, _Local_head);
-            _Construct_in_place(_Newnode._Ptr->_Prev, _Local_tail);
-            _Construct_in_place(_Local_head->_Prev, _Newnode._Ptr);
-            _Construct_in_place(_Local_tail->_Next, _Newnode._Ptr);
-        }
-
-        _List_data._Mysize = _Local_added;
-        _List_data._Myhead = _Newnode._Release();
-    }
-
-    ~_List_node_insert_op2() {
-        if (_Added == 0) {
-            return;
-        }
-
-        _Construct_in_place(_Head->_Prev, pointer{});
-        _Construct_in_place(_Tail->_Next, pointer{});
-        pointer _Subject = _Head;
-        while (_Subject) {
-            value_type::_Freenode(_Al, ::std:: exchange(_Subject, _Subject->_Next));
-        }
-    }
-
-private:
-    _Alnode& _Al;
-    size_type _Added; 
-    pointer _Tail; 
-    pointer _Head; 
-};
-
-template <class _Traits>
-class _Hash;
-
-
-template <class _Ty, class _Alloc = allocator<_Ty>>
-class list { 
-private:
-    template <class>
-    friend class _Hash;
-    template <class _Traits>
-    friend bool _Hash_equal(const _Hash<_Traits>&, const _Hash<_Traits>&);
-
-    using _Alty          = _Rebind_alloc_t<_Alloc, _Ty>;
-    using _Alty_traits   = allocator_traits<_Alty>;
-    using _Node          = _List_node<_Ty, typename allocator_traits<_Alloc>::void_pointer>;
-    using _Alnode        = _Rebind_alloc_t<_Alloc, _Node>;
-    using _Alnode_traits = allocator_traits<_Alnode>;
-    using _Nodeptr       = typename _Alnode_traits::pointer;
-
-    using _Val_types = conditional_t<_Is_simple_alloc_v<_Alnode>, _List_simple_types<_Ty>,
-        _List_iter_types<_Ty, typename _Alty_traits::size_type, typename _Alty_traits::difference_type,
-            typename _Alty_traits::pointer, typename _Alty_traits::const_pointer, _Ty&, const _Ty&, _Nodeptr>>;
-
-    using _Scary_val = _List_val<_Val_types>;
-
-public:
-    static_assert(!0 || is_same_v<_Ty, typename _Alloc::value_type>,
-        "list<T, Allocator>" " requires that Allocator's value_type match " "T" " (See N4659 26.2.1 [container.requirements.general]/16 allocator_type)" " Either fix the allocator value_type or define _ENFORCE_MATCHING_ALLOCATORS=0" " to suppress this diagnostic.");
-
-    using value_type      = _Ty;
-    using allocator_type  = _Alloc;
-    using size_type       = typename _Alty_traits::size_type;
-    using difference_type = typename _Alty_traits::difference_type;
-    using pointer         = typename _Alty_traits::pointer;
-    using const_pointer   = typename _Alty_traits::const_pointer;
-    using reference       = value_type&;
-    using const_reference = const value_type&;
-
-    using iterator                  = _List_iterator<_Scary_val>;
-    using const_iterator            = _List_const_iterator<_Scary_val>;
-    using _Unchecked_iterator       = _List_unchecked_iterator<_Scary_val>;
-    using _Unchecked_const_iterator = _List_unchecked_const_iterator<_Scary_val>;
-
-    using reverse_iterator       = ::std:: reverse_iterator<iterator>;
-    using const_reverse_iterator = ::std:: reverse_iterator<const_iterator>;
-
-    list() : _Mypair(_Zero_then_variadic_args_t{}) {
-        _Alloc_sentinel_and_proxy();
-    }
-
-    explicit list(const _Alloc& _Al) : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        _Alloc_sentinel_and_proxy();
-    }
-
-private:
-    template <class _Any_alloc>
-    explicit list(_Move_allocator_tag, _Any_alloc& _Al) : _Mypair(_One_then_variadic_args_t{}, ::std:: move(_Al)) {
-        _Alloc_sentinel_and_proxy();
-    }
-
-    void _Construct_n(__declspec(guard(overflow)) size_type _Count) {
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Getal());
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
-        _List_node_insert_op2<_Alnode> _Appended(_Getal());
-        _Appended._Append_n(_Count);
-        _Appended._Attach_head(_Mypair._Myval2);
-        _Proxy._Release();
-    }
-
-public:
-    explicit list(__declspec(guard(overflow)) size_type _Count)
-        : _Mypair(_Zero_then_variadic_args_t{}) { 
-        _Construct_n(_Count);
-    }
-
-    explicit list(__declspec(guard(overflow)) size_type _Count, const _Alloc& _Al)
-        : _Mypair(_One_then_variadic_args_t{}, _Al) { 
-        _Construct_n(_Count);
-    }
-
-private:
-    void _Construct_n(__declspec(guard(overflow)) size_type _Count, const _Ty& _Val) {
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Getal());
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
-        _List_node_insert_op2<_Alnode> _Appended(_Getal());
-        _Appended._Append_n(_Count, _Val);
-        _Appended._Attach_head(_Mypair._Myval2);
-        _Proxy._Release();
-    }
-
-public:
-    list(__declspec(guard(overflow)) size_type _Count, const _Ty& _Val)
-        : _Mypair(_Zero_then_variadic_args_t{}) { 
-        _Construct_n(_Count, _Val);
-    }
-
-    list(__declspec(guard(overflow)) size_type _Count, const _Ty& _Val, const _Alloc& _Al)
-        : _Mypair(_One_then_variadic_args_t{}, _Al) { 
-        _Construct_n(_Count, _Val);
-    }
-
-private:
-    template <class _Iter>
-    void _Construct_range_unchecked(_Iter _First, _Iter _Last) {
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Getal());
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
-        _List_node_insert_op2<_Alnode> _Appended(_Getal());
-        _Appended._Append_range_unchecked(_First, _Last);
-        _Appended._Attach_head(_Mypair._Myval2);
-        _Proxy._Release();
-    }
-
-public:
-    list(const list& _Right)
-        : _Mypair(_One_then_variadic_args_t{}, _Alnode_traits::select_on_container_copy_construction(_Right._Getal())) {
-        _Construct_range_unchecked(_Right._Unchecked_begin(), _Right._Unchecked_end());
-    }
-
-    list(const list& _Right, const _Alloc& _Al) : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        _Construct_range_unchecked(_Right._Unchecked_begin(), _Right._Unchecked_end());
-    }
-
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    list(_Iter _First, _Iter _Last) : _Mypair(_Zero_then_variadic_args_t{}) {
-        _Adl_verify_range(_First, _Last);
-        _Construct_range_unchecked(_Get_unwrapped(_First), _Get_unwrapped(_Last));
-    }
-
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    list(_Iter _First, _Iter _Last, const _Alloc& _Al) : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        _Adl_verify_range(_First, _Last);
-        _Construct_range_unchecked(_Get_unwrapped(_First), _Get_unwrapped(_Last));
-    }
-
-    list(list&& _Right) : _Mypair(_One_then_variadic_args_t{}, ::std:: move(_Right._Getal())) {
-        _Alloc_sentinel_and_proxy();
-        _Swap_val(_Right);
-    }
-
-    list(list&& _Right, const _Alloc& _Al) : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        if constexpr (!_Alnode_traits::is_always_equal::value) {
-            if (_Getal() != _Right._Getal()) {
-                _Construct_range_unchecked(::std:: make_move_iterator(_Right._Unchecked_begin()),
-                    ::std:: make_move_iterator(_Right._Unchecked_end()));
-                return;
-            }
-        }
-
-        _Alloc_sentinel_and_proxy();
-        _Swap_val(_Right);
-    }
-
-private:
-    void _Move_assign(list& _Right, _Equal_allocators) noexcept {
-        clear();
-        _Pocma(_Getal(), _Right._Getal());
-        _Swap_val(_Right);
-    }
-
-    void _Move_assign(list& _Right, _Propagate_allocators) {
-        auto& _Al       = _Getal();
-        auto& _Right_al = _Right._Getal();
-        if (_Al == _Right_al) {
-            _Move_assign(_Right, _Equal_allocators{});
-        } else {
-            auto&& _Alproxy       = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Al);
-            auto&& _Right_alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Right_al);
-            _Container_proxy_ptr<_Alty> _Proxy(_Right_alproxy, _Leave_proxy_unbound{});
-            auto& _My_data      = _Mypair._Myval2;
-            auto& _Right_data   = _Right._Mypair._Myval2;
-            const auto _Newhead = ::std:: exchange(_Right_data._Myhead, _Node::_Buyheadnode(_Right_al));
-            const auto _Newsize = ::std:: exchange(_Right_data._Mysize, size_type{0});
-            _Tidy();
-            _Pocma(_Al, _Right_al);
-            _My_data._Myhead = _Newhead;
-            _My_data._Mysize = _Newsize;
-            _Proxy._Bind(_Alproxy, ::std:: addressof(_My_data));
-            _My_data._Swap_proxy_and_iterators(_Right_data);
-        }
-    }
-
-    void _Move_assign(list& _Right, _No_propagate_allocators) {
-        if (_Getal() == _Right._Getal()) {
-            _Move_assign(_Right, _Equal_allocators{});
-        } else {
-            assign(
-                ::std:: make_move_iterator(_Right._Unchecked_begin()), ::std:: make_move_iterator(_Right._Unchecked_end()));
-        }
-    }
-
-public:
-    list& operator=(list&& _Right) noexcept(
-        noexcept(_Move_assign(_Right, _Choose_pocma<_Alnode>{})))  {
-        if (this != ::std:: addressof(_Right)) {
-            _Move_assign(_Right, _Choose_pocma<_Alnode>{});
-        }
-
-        return *this;
-    }
-
-private:
-    void _Swap_val(list& _Right) noexcept { 
-        auto& _My_data    = _Mypair._Myval2;
-        auto& _Right_data = _Right._Mypair._Myval2;
-        _My_data._Swap_proxy_and_iterators(_Right_data);
-        _Swap_adl(_My_data._Myhead, _Right_data._Myhead);
-        ::std:: swap(_My_data._Mysize, _Right_data._Mysize);
-    }
-
-public:
-    void push_front(_Ty&& _Val) { 
-        _Emplace(_Mypair._Myval2._Myhead->_Next, ::std:: move(_Val));
-    }
-
-    void push_back(_Ty&& _Val) { 
-        _Emplace(_Mypair._Myval2._Myhead, ::std:: move(_Val));
-    }
-
-    iterator insert(const_iterator _Where, _Ty&& _Val) { 
-        return emplace(_Where, ::std:: move(_Val));
-    }
-
-    template <class... _Valty>
-    decltype(auto) emplace_front(_Valty&&... _Val) { 
-        reference _Result = _Emplace(_Mypair._Myval2._Myhead->_Next, ::std:: forward<_Valty>(_Val)...)->_Myval;
-
-
-
-#line 987 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        (void) _Result;
-#line 989 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-    }
-
-    template <class... _Valty>
-    decltype(auto) emplace_back(_Valty&&... _Val) { 
-        reference _Result = _Emplace(_Mypair._Myval2._Myhead, ::std:: forward<_Valty>(_Val)...)->_Myval;
-
-
-
-#line 998 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        (void) _Result;
-#line 1000 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-    }
-
-    template <class... _Valty>
-    iterator emplace(const const_iterator _Where, _Valty&&... _Val) { 
-
-        do { if (_Where._Getcont() == ::std:: addressof(_Mypair._Myval2)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1005, 0, "%s", "list emplace iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list emplace iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1005, 0); } while (false); } ; } while (false);
-#line 1007 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        return _Make_iter(_Emplace(_Where._Ptr, ::std:: forward<_Valty>(_Val)...));
-    }
-
-    template <class... _Valty>
-    _Nodeptr _Emplace(const _Nodeptr _Where, _Valty&&... _Val) { 
-        size_type& _Mysize = _Mypair._Myval2._Mysize;
-        if (_Mysize == max_size()) {
-            _Xlength_error("list too long");
-        }
-
-        _List_node_emplace_op2<_Alnode> _Op{_Getal(), ::std:: forward<_Valty>(_Val)...};
-        ++_Mysize;
-        return _Op._Transfer_before(_Where);
-    }
-
-    list(initializer_list<_Ty> _Ilist) : _Mypair(_Zero_then_variadic_args_t{}) {
-        _Construct_range_unchecked(_Ilist.begin(), _Ilist.end());
-    }
-
-    list(initializer_list<_Ty> _Ilist, const _Alloc& _Al) : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        _Construct_range_unchecked(_Ilist.begin(), _Ilist.end());
-    }
-
-    list& operator=(initializer_list<_Ty> _Ilist) {
-        assign(_Ilist.begin(), _Ilist.end());
-        return *this;
-    }
-
-    void assign(initializer_list<_Ty> _Ilist) {
-        assign(_Ilist.begin(), _Ilist.end());
-    }
-
-    iterator insert(const_iterator _Where,
-        initializer_list<_Ty> _Ilist) { 
-        return insert(_Where, _Ilist.begin(), _Ilist.end());
-    }
-
-    ~list() noexcept {
-        _Tidy();
-
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Getal());
-        _Delete_plain_internal(_Alproxy, _Mypair._Myval2._Myproxy);
-#line 1051 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-    }
-
-private:
-    void _Reload_sentinel_and_proxy(const list& _Right) { 
-        auto& _Al             = _Getal();
-        auto&& _Alproxy       = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Al);
-        auto& _Right_al       = _Right._Getal();
-        auto&& _Right_alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Right_al);
-        _Container_proxy_ptr<_Alty> _Proxy(_Right_alproxy, _Leave_proxy_unbound{});
-        auto _Right_al_non_const = _Right_al;
-        auto _Newhead            = _Node::_Buyheadnode(_Right_al_non_const);
-        _Tidy();
-        _Pocca(_Al, _Right_al);
-        _Mypair._Myval2._Myhead = _Newhead;
-        _Mypair._Myval2._Mysize = 0;
-        _Proxy._Bind(_Alproxy, ::std:: addressof(_Mypair._Myval2));
-    }
-
-    void _Copy_assign(const list& _Right, false_type) {
-        _Pocca(_Getal(), _Right._Getal());
-        assign(_Right._Unchecked_begin(), _Right._Unchecked_end());
-    }
-
-    void _Copy_assign(const list& _Right, true_type) {
-        if (_Getal() != _Right._Getal()) {
-            _Reload_sentinel_and_proxy(_Right);
-        }
-
-        assign(_Right._Unchecked_begin(), _Right._Unchecked_end());
-    }
-
-public:
-    list& operator=(const list& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Copy_assign(_Right, _Choose_pocca<_Alnode>{});
-        }
-
-        return *this;
-    }
-
-    [[nodiscard]] iterator begin() noexcept {
-        return iterator(_Mypair._Myval2._Myhead->_Next, ::std:: addressof(_Mypair._Myval2));
-    }
-
-    [[nodiscard]] const_iterator begin() const noexcept {
-        return const_iterator(_Mypair._Myval2._Myhead->_Next, ::std:: addressof(_Mypair._Myval2));
-    }
-
-    [[nodiscard]] iterator end() noexcept {
-        return iterator(_Mypair._Myval2._Myhead, ::std:: addressof(_Mypair._Myval2));
-    }
-
-    [[nodiscard]] const_iterator end() const noexcept {
-        return const_iterator(_Mypair._Myval2._Myhead, ::std:: addressof(_Mypair._Myval2));
-    }
-
-    _Unchecked_iterator _Unchecked_begin() noexcept {
-        return _Unchecked_iterator(_Mypair._Myval2._Myhead->_Next, nullptr);
-    }
-
-    _Unchecked_const_iterator _Unchecked_begin() const noexcept {
-        return _Unchecked_const_iterator(_Mypair._Myval2._Myhead->_Next, nullptr);
-    }
-
-    _Unchecked_iterator _Unchecked_end() noexcept {
-        return _Unchecked_iterator(_Mypair._Myval2._Myhead, nullptr);
-    }
-
-    _Unchecked_const_iterator _Unchecked_end() const noexcept {
-        return _Unchecked_const_iterator(_Mypair._Myval2._Myhead, nullptr);
-    }
-
-    iterator _Make_iter(_Nodeptr _Where) const noexcept {
-        return iterator(_Where, ::std:: addressof(_Mypair._Myval2));
-    }
-
-    const_iterator _Make_const_iter(_Nodeptr _Where) const noexcept {
-        return const_iterator(_Where, ::std:: addressof(_Mypair._Myval2));
-    }
-
-    [[nodiscard]] reverse_iterator rbegin() noexcept {
-        return reverse_iterator(end());
-    }
-
-    [[nodiscard]] const_reverse_iterator rbegin() const noexcept {
-        return const_reverse_iterator(end());
-    }
-
-    [[nodiscard]] reverse_iterator rend() noexcept {
-        return reverse_iterator(begin());
-    }
-
-    [[nodiscard]] const_reverse_iterator rend() const noexcept {
-        return const_reverse_iterator(begin());
-    }
-
-    [[nodiscard]] const_iterator cbegin() const noexcept {
-        return begin();
-    }
-
-    [[nodiscard]] const_iterator cend() const noexcept {
-        return end();
-    }
-
-    [[nodiscard]] const_reverse_iterator crbegin() const noexcept {
-        return rbegin();
-    }
-
-    [[nodiscard]] const_reverse_iterator crend() const noexcept {
-        return rend();
-    }
-
-    void resize(__declspec(guard(overflow)) size_type _Newsize) { 
-        auto& _My_data = _Mypair._Myval2;
-        if (_My_data._Mysize < _Newsize) { 
-            _List_node_insert_op2<_Alnode> _Op(_Getal());
-            _Op._Append_n(_Newsize - _My_data._Mysize);
-            _Op._Attach_at_end(_My_data);
-        } else {
-            while (_Newsize < _My_data._Mysize) {
-                pop_back();
-            }
-        }
-    }
-
-    void resize(__declspec(guard(overflow)) size_type _Newsize, const _Ty& _Val) {
-        
-        auto& _My_data = _Mypair._Myval2;
-        if (_My_data._Mysize < _Newsize) { 
-            _List_node_insert_op2<_Alnode> _Op(_Getal());
-            _Op._Append_n(_Newsize - _My_data._Mysize, _Val);
-            _Op._Attach_at_end(_My_data);
-        } else {
-            while (_Newsize < _My_data._Mysize) {
-                pop_back();
-            }
-        }
-    }
-
-    [[nodiscard]] size_type size() const noexcept {
-        return _Mypair._Myval2._Mysize;
-    }
-
-    [[nodiscard]] size_type max_size() const noexcept {
-        return (::std:: min)(
-            static_cast<size_type>((numeric_limits<difference_type>::max)()), _Alnode_traits::max_size(_Getal()));
-    }
-
-    [[nodiscard]] bool empty() const noexcept {
-        return _Mypair._Myval2._Mysize == 0;
-    }
-
-    [[nodiscard]] allocator_type get_allocator() const noexcept {
-        return static_cast<allocator_type>(_Getal());
-    }
-
-    [[nodiscard]] reference front() noexcept  {
-
-        do { if (_Mypair._Myval2._Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1209, 0, "%s", "front() called on empty list")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"front() called on empty list\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1209, 0); } while (false); } ; } while (false);
-#line 1211 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        return _Mypair._Myval2._Myhead->_Next->_Myval;
-    }
-
-    [[nodiscard]] const_reference front() const noexcept  {
-
-        do { if (_Mypair._Myval2._Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1217, 0, "%s", "front() called on empty list")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"front() called on empty list\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1217, 0); } while (false); } ; } while (false);
-#line 1219 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        return _Mypair._Myval2._Myhead->_Next->_Myval;
-    }
-
-    [[nodiscard]] reference back() noexcept  {
-
-        do { if (_Mypair._Myval2._Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1225, 0, "%s", "back() called on empty list")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"back() called on empty list\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1225, 0); } while (false); } ; } while (false);
-#line 1227 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        return _Mypair._Myval2._Myhead->_Prev->_Myval;
-    }
-
-    [[nodiscard]] const_reference back() const noexcept  {
-
-        do { if (_Mypair._Myval2._Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1233, 0, "%s", "back() called on empty list")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"back() called on empty list\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1233, 0); } while (false); } ; } while (false);
-#line 1235 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        return _Mypair._Myval2._Myhead->_Prev->_Myval;
-    }
-
-    void push_front(const _Ty& _Val) {
-        _Emplace(_Mypair._Myval2._Myhead->_Next, _Val);
-    }
-
-    void pop_front() noexcept  {
-
-        do { if (_Mypair._Myval2._Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1245, 0, "%s", "pop_front called on empty list")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"pop_front called on empty list\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1245, 0); } while (false); } ; } while (false);
-#line 1247 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        _Unchecked_erase(_Mypair._Myval2._Myhead->_Next);
-    }
-
-    void push_back(const _Ty& _Val) {
-        _Emplace(_Mypair._Myval2._Myhead, _Val);
-    }
-
-    void pop_back() noexcept  {
-
-        do { if (_Mypair._Myval2._Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1257, 0, "%s", "pop_back called on empty list")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"pop_back called on empty list\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1257, 0); } while (false); } ; } while (false);
-#line 1259 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        _Unchecked_erase(_Mypair._Myval2._Myhead->_Prev);
-    }
-
-private:
-    template <class _Target_ref, class _UIter>
-    void _Assign_cast(_UIter _UFirst, const _UIter _ULast) {
-        
-        const auto _Myend = _Mypair._Myval2._Myhead;
-        auto _Old         = _Myend->_Next;
-        for (;;) { 
-            if (_Old == _Myend) { 
-                _List_node_insert_op2<_Alnode> _Op(_Getal());
-                _Op._Append_range_unchecked(_UFirst, _ULast);
-                _Op._Attach_at_end(_Mypair._Myval2);
-                return;
-            }
-
-            if (_UFirst == _ULast) {
-                
-                _Unchecked_erase(_Old, _Myend);
-                return;
-            }
-
-            
-            reinterpret_cast<_Target_ref>(_Old->_Myval) = *_UFirst;
-            _Old                                        = _Old->_Next;
-            ++_UFirst;
-        }
-    }
-
-public:
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    void assign(_Iter _First, _Iter _Last) {
-        _Assign_cast<reference>(_Get_unwrapped(_First), _Get_unwrapped(_Last));
-    }
-
-    void assign(__declspec(guard(overflow)) size_type _Count, const _Ty& _Val) { 
-        const auto _Myend = _Mypair._Myval2._Myhead;
-        auto _Old         = _Myend->_Next;
-        for (;;) { 
-            if (_Old == _Myend) { 
-                _List_node_insert_op2<_Alnode> _Op(_Getal());
-                _Op._Append_n(_Count, _Val);
-                _Op._Attach_at_end(_Mypair._Myval2);
-                return;
-            }
-
-            if (_Count == 0) {
-                
-                _Unchecked_erase(_Old, _Myend);
-                return;
-            }
-
-            
-            _Old->_Myval = _Val;
-            _Old         = _Old->_Next;
-            --_Count;
-        }
-    }
-
-    iterator insert(const_iterator _Where, const _Ty& _Val) { 
-
-        do { if (_Where._Getcont() == ::std:: addressof(_Mypair._Myval2)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1322, 0, "%s", "list insert iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list insert iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1322, 0); } while (false); } ; } while (false);
-#line 1324 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        return _Make_iter(_Emplace(_Where._Ptr, _Val));
-    }
-
-    iterator insert(const_iterator _Where, __declspec(guard(overflow)) size_type _Count,
-        const _Ty& _Val) { 
-
-        do { if (_Where._Getcont() == ::std:: addressof(_Mypair._Myval2)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1330, 0, "%s", "list insert iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list insert iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1330, 0); } while (false); } ; } while (false);
-#line 1332 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        _List_node_insert_op2<_Alnode> _Op(_Getal());
-        _Op._Append_n(_Count, _Val);
-        return _Make_iter(_Op._Attach_before(_Mypair._Myval2, _Where._Ptr));
-    }
-
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    iterator insert(const const_iterator _Where, _Iter _First, _Iter _Last) { 
-
-        do { if (_Where._Getcont() == ::std:: addressof(_Mypair._Myval2)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1340, 0, "%s", "list insert iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list insert iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1340, 0); } while (false); } ; } while (false);
-#line 1342 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        _Adl_verify_range(_First, _Last);
-        _List_node_insert_op2<_Alnode> _Op(_Getal());
-        _Op._Append_range_unchecked(_Get_unwrapped(_First), _Get_unwrapped(_Last));
-        return _Make_iter(_Op._Attach_before(_Mypair._Myval2, _Where._Ptr));
-    }
-
-public:
-    iterator erase(const const_iterator _Where) noexcept  {
-
-        do { if (_Where._Getcont() == ::std:: addressof(_Mypair._Myval2)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1351, 0, "%s", "list erase iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list erase iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1351, 0); } while (false); } ; } while (false);
-#line 1353 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        const auto _Result = _Where._Ptr->_Next;
-        _Node::_Freenode(_Getal(), _Mypair._Myval2._Unlinknode(_Where._Ptr));
-        return _Make_iter(_Result);
-    }
-
-private:
-    _Nodeptr _Unchecked_erase(const _Nodeptr _Pnode) noexcept { 
-        const auto _Result = _Pnode->_Next;
-        _Mypair._Myval2._Orphan_ptr2(_Pnode);
-        --_Mypair._Myval2._Mysize;
-        _Pnode->_Prev->_Next = _Result;
-        _Result->_Prev       = _Pnode->_Prev;
-        _Node::_Freenode(_Getal(), _Pnode);
-        return _Result;
-    }
-
-public:
-    iterator erase(const const_iterator _First, const const_iterator _Last) noexcept  {
-        _Adl_verify_range(_First, _Last);
-        return _Make_iter(_Unchecked_erase(_First._Ptr, _Last._Ptr));
-    }
-
-private:
-    _Nodeptr _Unchecked_erase(_Nodeptr _First, const _Nodeptr _Last) noexcept { 
-        if (_First == _Last) {
-            return _Last;
-        }
-
-        const auto _Predecessor = _First->_Prev;
-
-        const auto _Head = _Mypair._Myval2._Myhead;
-        if (_First == _Head->_Next && _Last == _Head) { 
-            _Mypair._Myval2._Orphan_non_end();
-        } else { 
-            _Lockit _Lock(3);
-            for (auto _Marked = _First; _Marked != _Last; _Marked = _Marked->_Next) { 
-                _Marked->_Prev = nullptr;
-            }
-
-            _Iterator_base12** _Pnext = &_Mypair._Myval2._Myproxy->_Myfirstiter;
-            while (*_Pnext) {
-                _Iterator_base12** _Pnextnext = &(*_Pnext)->_Mynextiter;
-                if (static_cast<const_iterator&>(**_Pnext)._Ptr->_Prev) { 
-                    _Pnext = _Pnextnext;
-                } else { 
-                    (*_Pnext)->_Myproxy = nullptr;
-                    *_Pnext             = *_Pnextnext;
-                }
-            }
-
-            
-        }
-#line 1406 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        
-        _Predecessor->_Next = _Last;
-        _Last->_Prev        = _Predecessor;
-
-        
-        auto& _Al           = _Getal();
-        size_type _Erasures = 0;
-        do {
-            const auto _Next = _First->_Next;
-            _Node::_Freenode(_Al, _First);
-            _First = _Next;
-            ++_Erasures;
-        } while (_First != _Last);
-
-        _Mypair._Myval2._Mysize -= _Erasures;
-        return _Last;
-    }
-
-public:
-    void clear() noexcept { 
-        auto& _My_data = _Mypair._Myval2;
-        _My_data._Orphan_non_end();
-        _Node::_Free_non_head(_Getal(), _My_data._Myhead);
-        _My_data._Myhead->_Next = _My_data._Myhead;
-        _My_data._Myhead->_Prev = _My_data._Myhead;
-        _My_data._Mysize        = 0;
-    }
-
-private:
-    void _Tidy() noexcept {
-        auto& _Al      = _Getal();
-        auto& _My_data = _Mypair._Myval2;
-        _My_data._Orphan_all();
-        _Node::_Free_non_head(_Al, _My_data._Myhead);
-        _Node::_Freenode0(_Al, _My_data._Myhead);
-    }
-
-public:
-    void swap(list& _Right) noexcept  {
-        if (this != ::std:: addressof(_Right)) {
-            _Pocs(_Getal(), _Right._Getal());
-            _Swap_val(_Right);
-        }
-    }
-
-    void splice(const const_iterator _Where, list& _Right) { 
-        auto& _Right_data = _Right._Mypair._Myval2;
-        if (this != ::std:: addressof(_Right) && _Right_data._Mysize != 0) { 
-
-            do { if (_Where._Getcont() == ::std:: addressof(_Mypair._Myval2)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1456, 0, "%s", "list splice iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list splice iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1456, 0); } while (false); } ; } while (false);
-#line 1458 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-            const auto _Right_head = _Right_data._Myhead;
-            _Splice(_Where._Ptr, _Right, _Right_head->_Next, _Right_head, _Right_data._Mysize);
-        }
-    }
-
-    void splice(const const_iterator _Where, list&& _Right) { 
-        splice(_Where, _Right);
-    }
-
-    void splice(const const_iterator _Where, list& _Right, const const_iterator _First) {
-        
-
-        do { if (_Where._Getcont() == ::std:: addressof(_Mypair._Myval2) && _First._Getcont() == ::std:: addressof(_Right._Mypair._Myval2)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1472, 0, "%s", "list splice iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list splice iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1472, 0); } while (false); } ; } while (false);
-#line 1473 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-#line 1474 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        const auto _UWhere = _Where._Ptr;
-        const auto _UFirst = _First._Ptr;
-
-
-        if (_UFirst == _Right._Mypair._Myval2._Myhead) {
-            do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1479, 0, "%s", "list splice iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list splice iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1479, 0); } while (false);
-        }
-#line 1482 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        const auto _ULast = _UFirst->_Next;
-        if (this != ::std:: addressof(_Right) || (_UWhere != _UFirst && _UWhere != _ULast)) {
-            _Splice(_UWhere, _Right, _UFirst, _ULast, 1);
-        }
-    }
-
-    void splice(const const_iterator _Where, list&& _Right, const const_iterator _First) {
-        
-        splice(_Where, _Right, _First);
-    }
-
-    void splice(const const_iterator _Where, list& _Right, const const_iterator _First, const const_iterator _Last) {
-        
-
-        const auto _Right_data_ptr = ::std:: addressof(_Right._Mypair._Myval2);
-        do { if (_Where._Getcont() == ::std:: addressof(_Mypair._Myval2) && _First._Getcont() == _Right_data_ptr && _Last._Getcont() == _Right_data_ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1500, 0, "%s", "list splice iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list splice iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1500, 0); } while (false); } ; } while (false);
-#line 1501 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-#line 1502 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        const auto _UWhere = _Where._Ptr;
-        const auto _UFirst = _First._Ptr;
-        const auto _ULast  = _Last._Ptr;
-
-        if (_UFirst != _ULast && (this != ::std:: addressof(_Right) || _UWhere != _ULast)) { 
-            size_type _Count = 0;
-
-            if (this != ::std:: addressof(_Right)) {
-                const auto _Right_end = _Right._Mypair._Myval2._Myhead;
-                if (_UFirst == _Right_end->_Next && _ULast == _Right_end) {
-                    _Count = _Right._Mypair._Myval2._Mysize; 
-                } else { 
-                    for (auto _To_check = _UFirst; _To_check != _ULast; _To_check = _To_check->_Next, (void) ++_Count) {
-
-                        do { if (_To_check != _Right_end) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1517, 0, "%s", "list bad splice")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list bad splice\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1517, 0); } while (false); } ; } while (false);
-#line 1519 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-                    }
-                }
-            }
-
-            _Splice(_UWhere, _Right, _UFirst, _ULast, _Count);
-        }
-    }
-
-    void splice(const const_iterator _Where, list&& _Right, const const_iterator _First, const const_iterator _Last) {
-        
-        splice(_Where, _Right, _First, _Last);
-    }
-
-    struct _List_node_remove_op {
-        
-        
-
-        explicit _List_node_remove_op(list& _List_) noexcept : _List(_List_), _Head(), _Tail(::std:: addressof(_Head)) {}
-
-        _List_node_remove_op(const _List_node_remove_op&) = delete;
-        _List_node_remove_op& operator=(const _List_node_remove_op&) = delete;
-
-        _Nodeptr _Transfer_back(const _Nodeptr _Removed) noexcept {
-            
-            
-            ;
-
-            
-            --_List._Mypair._Myval2._Mysize;
-            const auto _Next = ::std:: exchange(_Removed->_Next, _Nodeptr());
-            const auto _Prev = _Removed->_Prev;
-            _Prev->_Next     = _Next;
-            _Next->_Prev     = _Prev;
-
-
-            
-            _Removed->_Prev = _Nodeptr();
-#line 1557 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-            *_Tail = _Removed;
-            _Tail  = ::std:: addressof(_Removed->_Next);
-
-            return _Next;
-        }
-
-        ~_List_node_remove_op() {
-            auto& _Al = _List._Getal();
-
-
-            {
-                _Lockit _Lock(3);
-                _Iterator_base12** _Pnext = &_List._Mypair._Myval2._Myproxy->_Myfirstiter;
-                while (*_Pnext) {
-                    _Iterator_base12** _Pnextnext = &(*_Pnext)->_Mynextiter;
-                    const auto _Pnextptr          = static_cast<const_iterator&>(**_Pnext)._Ptr;
-                    if (_Pnextptr->_Prev) {
-                        
-                        _Pnext = _Pnextnext;
-                    } else { 
-                        (*_Pnext)->_Myproxy = nullptr;
-                        *_Pnext             = *_Pnextnext;
-                    }
-                }
-            }
-#line 1584 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-            auto _Target = _Head;
-            while (_Target) {
-                auto _Next = _Target->_Next;
-                _List._Mypair._Myval2._Orphan_ptr2(_Target);
-                _Alnode_traits::destroy(_Al, ::std:: addressof(_Target->_Next));
-                _Alnode_traits::destroy(_Al, ::std:: addressof(_Target->_Prev));
-                _Alnode_traits::destroy(_Al, ::std:: addressof(_Target->_Myval));
-                _Al.deallocate(_Target, 1);
-                _Target = _Next;
-            }
-        }
-
-        list& _List;
-        _Nodeptr _Head; 
-        _Nodeptr* _Tail;
-    };
-
-    auto remove(const _Ty& _Val) { 
-        return remove_if([&](const _Ty& _Other) { return _Other == _Val; });
-    }
-
-    template <class _Pr1>
-    auto remove_if(_Pr1 _Pred) { 
-        auto& _My_data = _Mypair._Myval2;
-        _List_node_remove_op _Op(*this);
-        const auto _Last         = _My_data._Myhead;
-        const size_type _Oldsize = _My_data._Mysize;
-        for (auto _First = _Last->_Next; _First != _Last;) {
-            auto _Next = _First->_Next;
-            if (_Pred(_First->_Myval)) {
-                _Op._Transfer_back(_First);
-            }
-
-            _First = _Next;
-        }
-
-
-
-#line 1624 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        (void) _Oldsize;
-#line 1626 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-    }
-
-    auto unique() { 
-        return unique(equal_to<>{});
-    }
-
-    template <class _Pr2>
-    auto unique(_Pr2 _Pred) { 
-        _List_node_remove_op _Op(*this);
-        const _Nodeptr _Phead    = _Mypair._Myval2._Myhead;
-        _Nodeptr _Pprev          = _Phead->_Next;
-        _Nodeptr _Pnode          = _Pprev->_Next;
-        const size_type _Oldsize = _Mypair._Myval2._Mysize;
-        while (_Pnode != _Phead) {
-            if (_Pred(_Pprev->_Myval, _Pnode->_Myval)) { 
-                _Pnode = _Op._Transfer_back(_Pnode);
-            } else { 
-                _Pprev = _Pnode;
-                _Pnode = _Pnode->_Next;
-            }
-        }
-
-
-
-#line 1651 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        (void) _Oldsize;
-#line 1653 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-    }
-
-    void merge(list& _Right) { 
-        _Merge1(_Right, less<>{});
-    }
-
-    void merge(list&& _Right) { 
-        _Merge1(_Right, less<>{});
-    }
-
-    template <class _Pr2>
-    void merge(list& _Right, _Pr2 _Pred) { 
-        _Merge1(_Right, _Pass_fn(_Pred));
-    }
-
-    template <class _Pr2>
-    void merge(list&& _Right, _Pr2 _Pred) { 
-        _Merge1(_Right, _Pass_fn(_Pred));
-    }
-
-private:
-    template <class _Pr2>
-    void _Merge1(list& _Right, _Pr2 _Pred) { 
-
-        _Debug_order_unchecked(_Unchecked_begin(), _Unchecked_end(), _Pred);
-#line 1679 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-        if (this == ::std:: addressof(_Right)) {
-            return;
-        }
-
-
-        _Debug_order_unchecked(_Right._Unchecked_begin(), _Right._Unchecked_end(), _Pred);
-        if constexpr (!_Alnode_traits::is_always_equal::value) {
-            do { if (_Getal() == _Right._Getal()) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1686, 0, "%s", "list allocators incompatible for merge")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list allocators incompatible for merge\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1686, 0); } while (false); } ; } while (false);
-        }
-#line 1689 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-        const auto _Right_size = _Right._Mypair._Myval2._Mysize;
-        if (_Right_size == 0) {
-            
-            return;
-        }
-
-        
-        const auto _Myhead     = _Mypair._Myval2._Myhead;
-        const auto _Right_head = _Right._Mypair._Myval2._Myhead;
-        const auto _Mid        = _Right_head->_Next;
-        _Splice(_Myhead, _Right, _Mid, _Right_head, _Right_size);
-
-        
-        if (_Myhead->_Next != _Mid) {
-            _Scary_val::_Merge_same(_Myhead->_Next, _Mid, _Myhead, _Pred);
-        }
-    }
-
-public:
-    void sort() { 
-        sort(less<>{});
-    }
-
-    template <class _Pr2>
-    void sort(_Pr2 _Pred) { 
-        auto& _My_data = _Mypair._Myval2;
-        _Scary_val::_Sort(_My_data._Myhead->_Next, _My_data._Mysize, _Pass_fn(_Pred));
-    }
-
-    void reverse() noexcept { 
-        const _Nodeptr _Phead = _Mypair._Myval2._Myhead;
-        _Nodeptr _Pnode       = _Phead;
-
-        for (;;) { 
-            const _Nodeptr _Pnext = _Pnode->_Next;
-            _Pnode->_Next         = _Pnode->_Prev;
-            _Pnode->_Prev         = _Pnext;
-
-            if (_Pnext == _Phead) {
-                break;
-            }
-
-            _Pnode = _Pnext;
-        }
-    }
-
-private:
-    _Nodeptr _Splice(
-        const _Nodeptr _Where, list& _Right, const _Nodeptr _First, const _Nodeptr _Last, const size_type _Count) {
-        
-        if (this != ::std:: addressof(_Right)) { 
-
-            if constexpr (!_Alnode_traits::is_always_equal::value) {
-                do { if (_Getal() == _Right._Getal()) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1743, 0, "%s", "list allocators incompatible for splice")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"list allocators incompatible for splice\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list", 1743, 0); } while (false); } ; } while (false);
-            }
-#line 1746 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-            auto& _My_data = _Mypair._Myval2;
-            if (max_size() - _My_data._Mysize < _Count) {
-                _Xlength_error("list too long");
-            }
-
-            auto& _Right_data = _Right._Mypair._Myval2;
-
-            
-            if (_Count == 1) {
-                _My_data._Adopt_unique(_Right_data, _First);
-            } else if (_Count == _Right_data._Mysize) {
-                _My_data._Adopt_all(_Right_data);
-            } else {
-                _My_data._Adopt_range(_Right_data, _First, _Last);
-            }
-#line 1763 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-            _My_data._Mysize += _Count;
-            _Right_data._Mysize -= _Count;
-        }
-
-        return _Scary_val::_Unchecked_splice(_Where, _First, _Last);
-    }
-
-    void _Alloc_sentinel_and_proxy() {
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Getal());
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
-        auto& _Al     = _Getal();
-        auto _Newhead = _Al.allocate(1);
-        _Construct_in_place(_Newhead->_Next, _Newhead);
-        _Construct_in_place(_Newhead->_Prev, _Newhead);
-        _Mypair._Myval2._Myhead = _Newhead;
-        _Proxy._Release();
-    }
-
-    void _Orphan_all() noexcept {
-        _Mypair._Myval2._Orphan_all();
-    }
-
-    _Alnode& _Getal() noexcept {
-        return _Mypair._Get_first();
-    }
-
-    const _Alnode& _Getal() const noexcept {
-        return _Mypair._Get_first();
-    }
-
-    _Compressed_pair<_Alnode, _Scary_val> _Mypair;
-};
-
-
-
-
-
-#line 1802 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-template <class _Ty, class _Alloc>
-void swap(list<_Ty, _Alloc>& _Left, list<_Ty, _Alloc>& _Right) noexcept  {
-    _Left.swap(_Right);
-}
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] bool operator==(const list<_Ty, _Alloc>& _Left, const list<_Ty, _Alloc>& _Right) {
-    return _Left.size() == _Right.size()
-        && ::std:: equal(_Left._Unchecked_begin(), _Left._Unchecked_end(), _Right._Unchecked_begin());
-}
-
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] bool operator!=(const list<_Ty, _Alloc>& _Left, const list<_Ty, _Alloc>& _Right) {
-    return !(_Left == _Right);
-}
-#line 1820 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-
-
-
-
-
-
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] bool operator<(const list<_Ty, _Alloc>& _Left, const list<_Ty, _Alloc>& _Right) {
-    return ::std:: lexicographical_compare(
-        _Left._Unchecked_begin(), _Left._Unchecked_end(), _Right._Unchecked_begin(), _Right._Unchecked_end());
-}
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] bool operator>(const list<_Ty, _Alloc>& _Left, const list<_Ty, _Alloc>& _Right) {
-    return _Right < _Left;
-}
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] bool operator<=(const list<_Ty, _Alloc>& _Left, const list<_Ty, _Alloc>& _Right) {
-    return !(_Right < _Left);
-}
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] bool operator>=(const list<_Ty, _Alloc>& _Left, const list<_Ty, _Alloc>& _Right) {
-    return !(_Left < _Right);
-}
-#line 1849 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-
-
-
-
-
-
-
-
-
-
-#line 1861 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-
-
-
-
-
-
-#line 1868 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-}
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 1874 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-#line 1875 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\list"
-#pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-
-
-
-
-#pragma once
-
-
-
-
-
-
-
-
-#line 16 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-namespace std {
-
-template <class _Myvec>
-class _Vector_const_iterator : public _Iterator_base {
-public:
-
-
-
-    using iterator_category = random_access_iterator_tag;
-    using value_type        = typename _Myvec::value_type;
-    using difference_type   = typename _Myvec::difference_type;
-    using pointer           = typename _Myvec::const_pointer;
-    using reference         = const value_type&;
-
-    using _Tptr = typename _Myvec::pointer;
-
-    inline _Vector_const_iterator() noexcept : _Ptr() {}
-
-    inline _Vector_const_iterator(_Tptr _Parg, const _Container_base* _Pvector) noexcept : _Ptr(_Parg) {
-        this->_Adopt(_Pvector);
-    }
-
-    
-    inline _Vector_const_iterator& operator=(const _Vector_const_iterator&) noexcept = default;
-
-    [[nodiscard]] inline reference operator*() const noexcept {
-
-        const auto _Mycont = static_cast<const _Myvec*>(this->_Getcont());
-        do { if (_Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 52, 0, "%s", "can't dereference value-initialized vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't dereference value-initialized vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 52, 0); } while (false); } ; } while (false);
-        do { if (_Mycont->_Myfirst <= _Ptr && _Ptr < _Mycont->_Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 54, 0, "%s", "can't dereference out of range vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't dereference out of range vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 54, 0); } while (false); } ; } while (false);
-#line 55 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 56 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return *_Ptr;
-    }
-
-    [[nodiscard]] inline pointer operator->() const noexcept {
-
-        const auto _Mycont = static_cast<const _Myvec*>(this->_Getcont());
-        do { if (_Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 63, 0, "%s", "can't dereference value-initialized vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't dereference value-initialized vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 63, 0); } while (false); } ; } while (false);
-        do { if (_Mycont->_Myfirst <= _Ptr && _Ptr < _Mycont->_Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 65, 0, "%s", "can't dereference out of range vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't dereference out of range vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 65, 0); } while (false); } ; } while (false);
-#line 66 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 67 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return _Ptr;
-    }
-
-    inline _Vector_const_iterator& operator++() noexcept {
-
-        const auto _Mycont = static_cast<const _Myvec*>(this->_Getcont());
-        do { if (_Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 74, 0, "%s", "can't increment value-initialized vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't increment value-initialized vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 74, 0); } while (false); } ; } while (false);
-        do { if (_Ptr < _Mycont->_Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 75, 0, "%s", "can't increment vector iterator past end")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't increment vector iterator past end\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 75, 0); } while (false); } ; } while (false);
-#line 77 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        ++_Ptr;
-        return *this;
-    }
-
-    inline _Vector_const_iterator operator++(int) noexcept {
-        _Vector_const_iterator _Tmp = *this;
-        ++*this;
-        return _Tmp;
-    }
-
-    inline _Vector_const_iterator& operator--() noexcept {
-
-        const auto _Mycont = static_cast<const _Myvec*>(this->_Getcont());
-        do { if (_Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 91, 0, "%s", "can't decrement value-initialized vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't decrement value-initialized vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 91, 0); } while (false); } ; } while (false);
-        do { if (_Mycont->_Myfirst < _Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 92, 0, "%s", "can't decrement vector iterator before begin")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't decrement vector iterator before begin\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 92, 0); } while (false); } ; } while (false);
-#line 94 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        --_Ptr;
-        return *this;
-    }
-
-    inline _Vector_const_iterator operator--(int) noexcept {
-        _Vector_const_iterator _Tmp = *this;
-        --*this;
-        return _Tmp;
-    }
-
-    inline void _Verify_offset(const difference_type _Off) const noexcept {
-
-
-#line 109 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        const auto _Mycont = static_cast<const _Myvec*>(this->_Getcont());
-        do { if (_Off == 0 || _Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 110, 0, "%s", "cannot seek value-initialized vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek value-initialized vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 110, 0); } while (false); } ; } while (false);
-        if (_Off < 0) {
-            do { if (_Off >= _Mycont->_Myfirst - _Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 112, 0, "%s", "cannot seek vector iterator before begin")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek vector iterator before begin\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 112, 0); } while (false); } ; } while (false);
-        }
-
-        if (_Off > 0) {
-            do { if (_Off <= _Mycont->_Mylast - _Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 116, 0, "%s", "cannot seek vector iterator after end")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek vector iterator after end\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 116, 0); } while (false); } ; } while (false);
-        }
-#line 119 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-
-    inline _Vector_const_iterator& operator+=(const difference_type _Off) noexcept {
-        _Verify_offset(_Off);
-        _Ptr += _Off;
-        return *this;
-    }
-
-    [[nodiscard]] inline _Vector_const_iterator operator+(const difference_type _Off) const noexcept {
-        _Vector_const_iterator _Tmp = *this;
-        _Tmp += _Off; 
-        return _Tmp;
-    }
-
-    inline _Vector_const_iterator& operator-=(const difference_type _Off) noexcept {
-        return *this += -_Off;
-    }
-
-    [[nodiscard]] inline _Vector_const_iterator operator-(const difference_type _Off) const noexcept {
-        _Vector_const_iterator _Tmp = *this;
-        _Tmp -= _Off; 
-        return _Tmp;
-    }
-
-    [[nodiscard]] inline difference_type operator-(const _Vector_const_iterator& _Right) const noexcept {
-        _Compat(_Right);
-        return _Ptr - _Right._Ptr;
-    }
-
-    [[nodiscard]] inline reference operator[](const difference_type _Off) const noexcept {
-        return *(*this + _Off);
-    }
-
-    [[nodiscard]] inline bool operator==(const _Vector_const_iterator& _Right) const noexcept {
-        _Compat(_Right);
-        return _Ptr == _Right._Ptr;
-    }
-
-
-
-
-
-
-#line 163 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    [[nodiscard]] bool operator!=(const _Vector_const_iterator& _Right) const noexcept {
-        return !(*this == _Right);
-    }
-
-    [[nodiscard]] bool operator<(const _Vector_const_iterator& _Right) const noexcept {
-        _Compat(_Right);
-        return _Ptr < _Right._Ptr;
-    }
-
-    [[nodiscard]] bool operator>(const _Vector_const_iterator& _Right) const noexcept {
-        return _Right < *this;
-    }
-
-    [[nodiscard]] bool operator<=(const _Vector_const_iterator& _Right) const noexcept {
-        return !(_Right < *this);
-    }
-
-    [[nodiscard]] bool operator>=(const _Vector_const_iterator& _Right) const noexcept {
-        return !(*this < _Right);
-    }
-#line 184 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-    inline void _Compat(const _Vector_const_iterator& _Right) const noexcept {
-        
-
-
-#line 190 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        do { if (this->_Getcont() == _Right._Getcont()) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 190, 0, "%s", "vector iterators incompatible")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector iterators incompatible\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 190, 0); } while (false); } ; } while (false);
-#line 192 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-
-
-    friend inline void _Verify_range(
-        const _Vector_const_iterator& _First, const _Vector_const_iterator& _Last) noexcept {
-        do { if (_First._Getcont() == _Last._Getcont()) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 197, 0, "%s", "vector iterators in range are from different containers")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector iterators in range are from different containers\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 197, 0); } while (false); } ; } while (false);
-        do { if (_First._Ptr <= _Last._Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 198, 0, "%s", "vector iterator range transposed")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector iterator range transposed\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 198, 0); } while (false); } ; } while (false);
-    }
-#line 201 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-    using _Prevent_inheriting_unwrap = _Vector_const_iterator;
-
-    [[nodiscard]] inline const value_type* _Unwrapped() const noexcept {
-        return _Unfancy(_Ptr);
-    }
-
-    inline void _Seek_to(const value_type* _It) noexcept {
-        _Ptr = _Refancy<_Tptr>(const_cast<value_type*>(_It));
-    }
-
-    _Tptr _Ptr; 
-};
-
-template <class _Myvec>
-[[nodiscard]] inline _Vector_const_iterator<_Myvec> operator+(
-    typename _Vector_const_iterator<_Myvec>::difference_type _Off, _Vector_const_iterator<_Myvec> _Next) noexcept {
-    return _Next += _Off;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 247 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-
-template <class _Myvec>
-class _Vector_iterator : public _Vector_const_iterator<_Myvec> {
-public:
-    using _Mybase = _Vector_const_iterator<_Myvec>;
-
-
-
-
-    using iterator_category = random_access_iterator_tag;
-    using value_type        = typename _Myvec::value_type;
-    using difference_type   = typename _Myvec::difference_type;
-    using pointer           = typename _Myvec::pointer;
-    using reference         = value_type&;
-
-    using _Mybase::_Mybase;
-
-    
-    inline _Vector_iterator& operator=(const _Vector_iterator&) noexcept = default;
-
-    [[nodiscard]] inline reference operator*() const noexcept {
-        return const_cast<reference>(_Mybase::operator*());
-    }
-
-    [[nodiscard]] inline pointer operator->() const noexcept {
-
-        const auto _Mycont = static_cast<const _Myvec*>(this->_Getcont());
-        do { if (this->_Ptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 275, 0, "%s", "can't dereference value-initialized vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't dereference value-initialized vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 275, 0); } while (false); } ; } while (false);
-        do { if (_Mycont->_Myfirst <= this->_Ptr && this->_Ptr < _Mycont->_Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 277, 0, "%s", "can't dereference out of range vector iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"can't dereference out of range vector iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 277, 0); } while (false); } ; } while (false);
-#line 278 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 279 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return this->_Ptr;
-    }
-
-    inline _Vector_iterator& operator++() noexcept {
-        _Mybase::operator++();
-        return *this;
-    }
-
-    inline _Vector_iterator operator++(int) noexcept {
-        _Vector_iterator _Tmp = *this;
-        _Mybase::operator++();
-        return _Tmp;
-    }
-
-    inline _Vector_iterator& operator--() noexcept {
-        _Mybase::operator--();
-        return *this;
-    }
-
-    inline _Vector_iterator operator--(int) noexcept {
-        _Vector_iterator _Tmp = *this;
-        _Mybase::operator--();
-        return _Tmp;
-    }
-
-    inline _Vector_iterator& operator+=(const difference_type _Off) noexcept {
-        _Mybase::operator+=(_Off);
-        return *this;
-    }
-
-    [[nodiscard]] inline _Vector_iterator operator+(const difference_type _Off) const noexcept {
-        _Vector_iterator _Tmp = *this;
-        _Tmp += _Off; 
-        return _Tmp;
-    }
-
-    inline _Vector_iterator& operator-=(const difference_type _Off) noexcept {
-        _Mybase::operator-=(_Off);
-        return *this;
-    }
-
-    using _Mybase::operator-;
-
-    [[nodiscard]] inline _Vector_iterator operator-(const difference_type _Off) const noexcept {
-        _Vector_iterator _Tmp = *this;
-        _Tmp -= _Off; 
-        return _Tmp;
-    }
-
-    [[nodiscard]] inline reference operator[](const difference_type _Off) const noexcept {
-        return const_cast<reference>(_Mybase::operator[](_Off));
-    }
-
-    using _Prevent_inheriting_unwrap = _Vector_iterator;
-
-    [[nodiscard]] inline value_type* _Unwrapped() const noexcept {
-        return _Unfancy(this->_Ptr);
-    }
-};
-
-template <class _Myvec>
-[[nodiscard]] inline _Vector_iterator<_Myvec> operator+(
-    typename _Vector_iterator<_Myvec>::difference_type _Off, _Vector_iterator<_Myvec> _Next) noexcept {
-    return _Next += _Off;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 372 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-
-template <class _Value_type, class _Size_type, class _Difference_type, class _Pointer, class _Const_pointer,
-    class _Reference, class _Const_reference>
-struct _Vec_iter_types {
-    using value_type      = _Value_type;
-    using size_type       = _Size_type;
-    using difference_type = _Difference_type;
-    using pointer         = _Pointer;
-    using const_pointer   = _Const_pointer;
-};
-
-
-struct _Value_init_tag { 
-    explicit _Value_init_tag() = default;
-};
-
-
-template <class _Val_types>
-class _Vector_val : public _Container_base {
-public:
-    using value_type      = typename _Val_types::value_type;
-    using size_type       = typename _Val_types::size_type;
-    using difference_type = typename _Val_types::difference_type;
-    using pointer         = typename _Val_types::pointer;
-    using const_pointer   = typename _Val_types::const_pointer;
-    using reference       = value_type&;
-    using const_reference = const value_type&;
-
-    inline _Vector_val() noexcept : _Myfirst(), _Mylast(), _Myend() {}
-
-    inline _Vector_val(pointer _First, pointer _Last, pointer _End) noexcept
-        : _Myfirst(_First), _Mylast(_Last), _Myend(_End) {}
-
-    inline void _Swap_val(_Vector_val& _Right) noexcept {
-        this->_Swap_proxy_and_iterators(_Right);
-        _Swap_adl(_Myfirst, _Right._Myfirst);
-        _Swap_adl(_Mylast, _Right._Mylast);
-        _Swap_adl(_Myend, _Right._Myend);
-    }
-
-    inline void _Take_contents(_Vector_val& _Right) noexcept {
-        this->_Swap_proxy_and_iterators(_Right);
-        _Myfirst = _Right._Myfirst;
-        _Mylast  = _Right._Mylast;
-        _Myend   = _Right._Myend;
-
-        _Right._Myfirst = nullptr;
-        _Right._Mylast  = nullptr;
-        _Right._Myend   = nullptr;
-    }
-
-    pointer _Myfirst; 
-    pointer _Mylast; 
-    pointer _Myend; 
-};
-
-
-template <class _Ptrty>
-constexpr auto _Unfancy_maybe_null(_Ptrty _Ptr) noexcept {
-    
-    return _Ptr ? ::std:: addressof(*_Ptr) : nullptr;
-}
-
-template <class _Ty>
-constexpr _Ty* _Unfancy_maybe_null(_Ty* _Ptr) noexcept { 
-    return _Ptr;
-}
-
-
-template <class _Ty, class _Alloc = allocator<_Ty>>
-class vector { 
-private:
-    template <class>
-    friend class _Vb_val;
-    friend _Tidy_guard<vector>;
-
-    using _Alty        = _Rebind_alloc_t<_Alloc, _Ty>;
-    using _Alty_traits = allocator_traits<_Alty>;
-
-public:
-    static_assert(!0 || is_same_v<_Ty, typename _Alloc::value_type>,
-        "vector<T, Allocator>" " requires that Allocator's value_type match " "T" " (See N4659 26.2.1 [container.requirements.general]/16 allocator_type)" " Either fix the allocator value_type or define _ENFORCE_MATCHING_ALLOCATORS=0" " to suppress this diagnostic.");
-
-    using value_type      = _Ty;
-    using allocator_type  = _Alloc;
-    using pointer         = typename _Alty_traits::pointer;
-    using const_pointer   = typename _Alty_traits::const_pointer;
-    using reference       = _Ty&;
-    using const_reference = const _Ty&;
-    using size_type       = typename _Alty_traits::size_type;
-    using difference_type = typename _Alty_traits::difference_type;
-
-private:
-    using _Scary_val = _Vector_val<conditional_t<_Is_simple_alloc_v<_Alty>, _Simple_types<_Ty>,
-        _Vec_iter_types<_Ty, size_type, difference_type, pointer, const_pointer, _Ty&, const _Ty&>>>;
-
-public:
-    using iterator               = _Vector_iterator<_Scary_val>;
-    using const_iterator         = _Vector_const_iterator<_Scary_val>;
-    using reverse_iterator       = ::std:: reverse_iterator<iterator>;
-    using const_reverse_iterator = ::std:: reverse_iterator<const_iterator>;
-
-    inline vector() noexcept(is_nothrow_default_constructible_v<_Alty>)
-        : _Mypair(_Zero_then_variadic_args_t{}) {
-        _Mypair._Myval2._Alloc_proxy(static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal()));
-    }
-
-    inline explicit vector(const _Alloc& _Al) noexcept : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        _Mypair._Myval2._Alloc_proxy(static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal()));
-    }
-
-private:
-    template <class _Ty2>
-    inline void _Construct_n_copies_of_ty(__declspec(guard(overflow)) const size_type _Count, const _Ty2& _Val) {
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
-        auto& _My_data  = _Mypair._Myval2;
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _My_data);
-        if (_Count != 0) {
-            _Buy_nonzero(_Count);
-            _Tidy_guard<vector> _Guard{this};
-            _My_data._Mylast = _Ufill(_My_data._Myfirst, _Count, _Val);
-            _Guard._Target   = nullptr;
-        }
-
-        _Proxy._Release();
-    }
-
-public:
-    inline explicit vector(__declspec(guard(overflow)) const size_type _Count, const _Alloc& _Al = _Alloc())
-        : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        _Construct_n_copies_of_ty(_Count, _Value_init_tag{});
-    }
-
-    inline vector(
-        __declspec(guard(overflow)) const size_type _Count, const _Ty& _Val, const _Alloc& _Al = _Alloc())
-        : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        _Construct_n_copies_of_ty(_Count, _Val);
-    }
-
-private:
-    template <class _Iter>
-    inline void _Range_construct_or_tidy(_Iter _First, _Iter _Last, input_iterator_tag) {
-        _Tidy_guard<vector> _Guard{this};
-        for (; _First != _Last; ++_First) {
-            emplace_back(*_First); 
-        }
-
-        _Guard._Target = nullptr;
-    }
-
-    template <class _Iter>
-    inline void _Range_construct_or_tidy(_Iter _First, _Iter _Last, forward_iterator_tag) {
-        const auto _Count = _Convert_size<size_type>(static_cast<size_t>(::std:: distance(_First, _Last)));
-        if (_Count != 0) {
-            _Buy_nonzero(_Count);
-            _Tidy_guard<vector> _Guard{this};
-            auto& _My_data   = _Mypair._Myval2;
-            _My_data._Mylast = _Ucopy(_First, _Last, _My_data._Myfirst);
-            _Guard._Target   = nullptr;
-        }
-    }
-
-public:
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    inline vector(_Iter _First, _Iter _Last, const _Alloc& _Al = _Alloc())
-        : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
-        _Adl_verify_range(_First, _Last);
-        _Range_construct_or_tidy(_Get_unwrapped(_First), _Get_unwrapped(_Last), _Iter_cat_t<_Iter>{});
-        _Proxy._Release();
-    }
-
-    inline vector(initializer_list<_Ty> _Ilist, const _Alloc& _Al = _Alloc())
-        : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
-        _Range_construct_or_tidy(_Ilist.begin(), _Ilist.end(), random_access_iterator_tag{});
-        _Proxy._Release();
-    }
-
-    inline vector(const vector& _Right)
-        : _Mypair(_One_then_variadic_args_t{}, _Alty_traits::select_on_container_copy_construction(_Right._Getal())) {
-        auto&& _Alproxy           = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
-        auto& _My_data            = _Mypair._Myval2;
-        const auto& _Right_data   = _Right._Mypair._Myval2;
-        const pointer _Rightfirst = _Right_data._Myfirst;
-        const pointer _Rightlast  = _Right_data._Mylast;
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _My_data);
-        if (_Rightfirst != _Rightlast) {
-            _Buy_raw(static_cast<size_type>(_Rightlast - _Rightfirst));
-            _Tidy_guard<vector> _Guard{this};
-            _My_data._Mylast = _Ucopy(_Rightfirst, _Rightlast, _My_data._Myfirst);
-            _Guard._Target   = nullptr;
-        }
-
-        _Proxy._Release();
-    }
-
-    inline vector(const vector& _Right, const _Alloc& _Al) : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        auto&& _Alproxy           = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
-        auto& _My_data            = _Mypair._Myval2;
-        const auto& _Right_data   = _Right._Mypair._Myval2;
-        const pointer _Rightfirst = _Right_data._Myfirst;
-        const pointer _Rightlast  = _Right_data._Mylast;
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _My_data);
-        if (_Rightfirst != _Rightlast) {
-            _Buy_raw(static_cast<size_type>(_Rightlast - _Rightfirst));
-            _Tidy_guard<vector> _Guard{this};
-            _My_data._Mylast = _Ucopy(_Rightfirst, _Rightlast, _My_data._Myfirst);
-            _Guard._Target   = nullptr;
-        }
-
-        _Proxy._Release();
-    }
-
-private:
-    inline void _Move_construct(vector& _Right, true_type) noexcept {
-        
-        _Mypair._Myval2._Take_contents(_Right._Mypair._Myval2);
-    }
-
-    inline void _Move_construct(vector& _Right, false_type) {
-        
-        if constexpr (!_Alty_traits::is_always_equal::value) {
-            if (_Getal() != _Right._Getal()) {
-                const auto& _Right_data   = _Right._Mypair._Myval2;
-                const pointer _Rightfirst = _Right_data._Myfirst;
-                const pointer _Rightlast  = _Right_data._Mylast;
-                if (_Rightfirst != _Rightlast) {
-                    _Buy_raw(static_cast<size_type>(_Rightlast - _Rightfirst));
-                    _Tidy_guard<vector> _Guard{this};
-                    auto& _My_data   = _Mypair._Myval2;
-                    _My_data._Mylast = _Umove(_Rightfirst, _Rightlast, _My_data._Myfirst);
-                    _Guard._Target   = nullptr;
-                }
-                return;
-            }
-        }
-
-        _Move_construct(_Right, true_type{});
-    }
-
-public:
-    inline vector(vector&& _Right) noexcept
-        : _Mypair(_One_then_variadic_args_t{}, ::std:: move(_Right._Getal()),
-            ::std:: exchange(_Right._Mypair._Myval2._Myfirst, nullptr),
-            ::std:: exchange(_Right._Mypair._Myval2._Mylast, nullptr),
-            ::std:: exchange(_Right._Mypair._Myval2._Myend, nullptr)) {
-        _Mypair._Myval2._Alloc_proxy(static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal()));
-        _Mypair._Myval2._Swap_proxy_and_iterators(_Right._Mypair._Myval2);
-    }
-
-    inline vector(vector&& _Right, const _Alloc& _Al) noexcept(
-        _Alty_traits::is_always_equal::value) 
-        : _Mypair(_One_then_variadic_args_t{}, _Al) {
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
-        _Container_proxy_ptr<_Alty> _Proxy(_Alproxy, _Mypair._Myval2);
-        _Move_construct(_Right, typename _Alty_traits::is_always_equal::type{});
-        _Proxy._Release();
-    }
-
-private:
-    inline void _Move_assign(vector& _Right, _Equal_allocators) noexcept {
-        _Tidy();
-        _Pocma(_Getal(), _Right._Getal());
-        _Mypair._Myval2._Take_contents(_Right._Mypair._Myval2);
-    }
-
-    inline void _Move_assign(vector& _Right, _Propagate_allocators) noexcept  {
-        _Tidy();
-
-        if (_Getal() != _Right._Getal()) {
-            
-            _Mypair._Myval2._Reload_proxy(
-                static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal()), static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Right._Getal()));
-        }
-#line 651 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        _Pocma(_Getal(), _Right._Getal());
-        _Mypair._Myval2._Take_contents(_Right._Mypair._Myval2);
-    }
-
-    inline void _Move_assign(vector& _Right, _No_propagate_allocators) {
-        if (_Getal() == _Right._Getal()) {
-            _Move_assign(_Right, _Equal_allocators{});
-        } else {
-            auto& _Right_data    = _Right._Mypair._Myval2;
-            const pointer _First = _Right_data._Myfirst;
-            const pointer _Last  = _Right_data._Mylast;
-            const auto _Newsize  = static_cast<size_type>(_Last - _First);
-
-            auto& _My_data    = _Mypair._Myval2;
-            pointer& _Myfirst = _My_data._Myfirst;
-            pointer& _Mylast  = _My_data._Mylast;
-
-            _My_data._Orphan_all();
-
-            const auto _Oldcapacity = static_cast<size_type>(_My_data._Myend - _Myfirst);
-            if constexpr (conjunction_v<bool_constant<_Ptr_copy_cat<_Ty*, _Ty*>::_Trivially_copyable>,
-                              _Uses_default_construct<_Alty, _Ty*, _Ty>, _Uses_default_destroy<_Alty, _Ty*>>) {
-                if (_Newsize > _Oldcapacity) {
-                    _Clear_and_reserve_geometric(_Newsize);
-                }
-
-                _Mylast = _Refancy<pointer>(_Copy_memmove(_Unfancy(_First), _Unfancy(_Last), _Unfancy(_Myfirst)));
-            } else {
-                auto _Oldsize = static_cast<size_type>(_Mylast - _Myfirst);
-
-                if (_Newsize > _Oldsize) {
-                    if (_Newsize > _Oldcapacity) { 
-                        _Clear_and_reserve_geometric(_Newsize);
-                        _Oldsize = 0;
-                    }
-
-                    const pointer _Mid = _First + _Oldsize;
-                    _Move_unchecked(_First, _Mid, _Myfirst);
-                    _Mylast = _Umove(_Mid, _Last, _Mylast);
-                } else {
-                    const pointer _Newlast = _Myfirst + _Newsize;
-                    _Move_unchecked(_First, _Last, _Myfirst);
-                    _Destroy(_Newlast, _Mylast);
-                    _Mylast = _Newlast;
-                }
-            }
-        }
-    }
-
-public:
-    inline vector& operator=(vector&& _Right) noexcept(
-        noexcept(_Move_assign(_Right, _Choose_pocma<_Alty>{}))) {
-        if (this != ::std:: addressof(_Right)) {
-            _Move_assign(_Right, _Choose_pocma<_Alty>{});
-        }
-
-        return *this;
-    }
-
-    inline ~vector() noexcept {
-        _Tidy();
-
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal());
-        _Delete_plain_internal(_Alproxy, ::std:: exchange(_Mypair._Myval2._Myproxy, nullptr));
-#line 717 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-
-private:
-    template <class... _Valty>
-    inline decltype(auto) _Emplace_back_with_unused_capacity(_Valty&&... _Val) {
-        
-        auto& _My_data   = _Mypair._Myval2;
-        pointer& _Mylast = _My_data._Mylast;
-        ; 
-        _Alty_traits::construct(_Getal(), _Unfancy(_Mylast), ::std:: forward<_Valty>(_Val)...);
-        _Orphan_range(_Mylast, _Mylast);
-        _Ty& _Result = *_Mylast;
-        ++_Mylast;
-
-
-#line 733 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        (void) _Result;
-#line 735 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-
-public:
-    template <class... _Valty>
-    inline decltype(auto) emplace_back(_Valty&&... _Val) {
-        
-        auto& _My_data   = _Mypair._Myval2;
-        pointer& _Mylast = _My_data._Mylast;
-        if (_Mylast != _My_data._Myend) {
-            return _Emplace_back_with_unused_capacity(::std:: forward<_Valty>(_Val)...);
-        }
-
-        _Ty& _Result = *_Emplace_reallocate(_Mylast, ::std:: forward<_Valty>(_Val)...);
-
-
-#line 751 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        (void) _Result;
-#line 753 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-
-    inline void push_back(const _Ty& _Val) { 
-        emplace_back(_Val);
-    }
-
-    inline void push_back(_Ty&& _Val) {
-        
-        emplace_back(::std:: move(_Val));
-    }
-
-    template <class... _Valty>
-    inline pointer _Emplace_reallocate(const pointer _Whereptr, _Valty&&... _Val) {
-        
-        _Alty& _Al        = _Getal();
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-
-        ; 
-
-        const auto _Whereoff = static_cast<size_type>(_Whereptr - _Myfirst);
-        const auto _Oldsize  = static_cast<size_type>(_Mylast - _Myfirst);
-
-        if (_Oldsize == max_size()) {
-            _Xlength();
-        }
-
-        const size_type _Newsize     = _Oldsize + 1;
-        const size_type _Newcapacity = _Calculate_growth(_Newsize);
-
-        const pointer _Newvec           = _Al.allocate(_Newcapacity);
-        const pointer _Constructed_last = _Newvec + _Whereoff + 1;
-        pointer _Constructed_first      = _Constructed_last;
-
-        try {
-        _Alty_traits::construct(_Al, _Unfancy(_Newvec + _Whereoff), ::std:: forward<_Valty>(_Val)...);
-        _Constructed_first = _Newvec + _Whereoff;
-
-        if (_Whereptr == _Mylast) { 
-            _Umove_if_noexcept(_Myfirst, _Mylast, _Newvec);
-        } else { 
-            _Umove(_Myfirst, _Whereptr, _Newvec);
-            _Constructed_first = _Newvec;
-            _Umove(_Whereptr, _Mylast, _Newvec + _Whereoff + 1);
-        }
-        } catch (...) {
-        _Destroy(_Constructed_first, _Constructed_last);
-        _Al.deallocate(_Newvec, _Newcapacity);
-        throw;
-        }
-
-        _Change_array(_Newvec, _Newsize, _Newcapacity);
-        return _Newvec + _Whereoff;
-    }
-
-    template <class... _Valty>
-    inline iterator emplace(const_iterator _Where, _Valty&&... _Val) {
-        
-        const pointer _Whereptr = _Where._Ptr;
-        auto& _My_data          = _Mypair._Myval2;
-        const pointer _Oldlast  = _My_data._Mylast;
-
-        do { if (_Where._Getcont() == ::std:: addressof(_My_data) && _Whereptr >= _My_data._Myfirst && _Oldlast >= _Whereptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 818, 0, "%s", "vector emplace iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector emplace iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 818, 0); } while (false); } ; } while (false);
-#line 819 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 820 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        if (_Oldlast != _My_data._Myend) {
-            if (_Whereptr == _Oldlast) { 
-                _Emplace_back_with_unused_capacity(::std:: forward<_Valty>(_Val)...);
-            } else {
-                auto& _Al = _Getal();
-                _Alloc_temporary<_Alty> _Obj(_Al, ::std:: forward<_Valty>(_Val)...); 
-                
-                _Orphan_range(_Whereptr, _Oldlast);
-                _Alty_traits::construct(_Al, _Unfancy(_Oldlast), ::std:: move(_Oldlast[-1]));
-                ++_My_data._Mylast;
-                _Move_backward_unchecked(_Whereptr, _Oldlast - 1, _Oldlast);
-                *_Whereptr = ::std:: move(_Obj._Storage._Value);
-            }
-
-            return _Make_iterator(_Whereptr);
-        }
-
-        return _Make_iterator(_Emplace_reallocate(_Whereptr, ::std:: forward<_Valty>(_Val)...));
-    }
-
-    inline iterator insert(const_iterator _Where, const _Ty& _Val) { 
-        return emplace(_Where, _Val);
-    }
-
-    inline iterator insert(const_iterator _Where, _Ty&& _Val) { 
-        return emplace(_Where, ::std:: move(_Val));
-    }
-
-    inline iterator insert(
-        const_iterator _Where, __declspec(guard(overflow)) const size_type _Count, const _Ty& _Val) {
-        
-        const pointer _Whereptr = _Where._Ptr;
-
-        auto& _My_data   = _Mypair._Myval2;
-        pointer& _Mylast = _My_data._Mylast;
-
-        const pointer _Oldfirst = _My_data._Myfirst;
-        const pointer _Oldlast  = _Mylast;
-
-        do { if (_Where._Getcont() == ::std:: addressof(_My_data) && _Whereptr >= _Oldfirst && _Oldlast >= _Whereptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 861, 0, "%s", "vector insert iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector insert iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 861, 0); } while (false); } ; } while (false);
-#line 862 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 863 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        const auto _Whereoff        = static_cast<size_type>(_Whereptr - _Oldfirst);
-        const auto _Unused_capacity = static_cast<size_type>(_My_data._Myend - _Oldlast);
-        const bool _One_at_back     = _Count == 1 && _Whereptr == _Oldlast;
-        if (_Count == 0) { 
-        } else if (_Count > _Unused_capacity) { 
-            const auto _Oldsize = static_cast<size_type>(_Oldlast - _Oldfirst);
-
-            if (_Count > max_size() - _Oldsize) {
-                _Xlength();
-            }
-
-            const size_type _Newsize     = _Oldsize + _Count;
-            const size_type _Newcapacity = _Calculate_growth(_Newsize);
-
-            const pointer _Newvec           = _Getal().allocate(_Newcapacity);
-            const pointer _Constructed_last = _Newvec + _Whereoff + _Count;
-            pointer _Constructed_first      = _Constructed_last;
-
-            try {
-            _Ufill(_Newvec + _Whereoff, _Count, _Val);
-            _Constructed_first = _Newvec + _Whereoff;
-
-            if (_One_at_back) { 
-                _Umove_if_noexcept(_Oldfirst, _Oldlast, _Newvec);
-            } else { 
-                _Umove(_Oldfirst, _Whereptr, _Newvec);
-                _Constructed_first = _Newvec;
-                _Umove(_Whereptr, _Oldlast, _Newvec + _Whereoff + _Count);
-            }
-            } catch (...) {
-            _Destroy(_Constructed_first, _Constructed_last);
-            _Getal().deallocate(_Newvec, _Newcapacity);
-            throw;
-            }
-
-            _Change_array(_Newvec, _Newsize, _Newcapacity);
-        } else if (_One_at_back) { 
-            _Emplace_back_with_unused_capacity(_Val);
-        } else { 
-            const _Alloc_temporary<_Alty> _Tmp_storage(_Getal(), _Val); 
-            const auto& _Tmp              = _Tmp_storage._Storage._Value;
-            const auto _Affected_elements = static_cast<size_type>(_Oldlast - _Whereptr);
-            _Orphan_range(_Whereptr, _Oldlast);
-
-            if (_Count > _Affected_elements) { 
-                _Mylast = _Ufill(_Oldlast, _Count - _Affected_elements, _Tmp);
-                _Mylast = _Umove(_Whereptr, _Oldlast, _Mylast);
-                ::std:: fill(_Whereptr, _Oldlast, _Tmp);
-            } else { 
-                _Mylast = _Umove(_Oldlast - _Count, _Oldlast, _Oldlast);
-                _Move_backward_unchecked(_Whereptr, _Oldlast - _Count, _Oldlast);
-                ::std:: fill(_Whereptr, _Whereptr + _Count, _Tmp);
-            }
-        }
-
-        return _Make_iterator_offset(_Whereoff);
-    }
-
-private:
-    template <class _Iter>
-    inline void _Insert_range(const_iterator _Where, _Iter _First, _Iter _Last, input_iterator_tag) {
-        
-        if (_First == _Last) {
-            return; 
-        }
-
-        auto& _My_data       = _Mypair._Myval2;
-        pointer& _Myfirst    = _My_data._Myfirst;
-        pointer& _Mylast     = _My_data._Mylast;
-        const auto _Whereoff = static_cast<size_type>(_Where._Ptr - _Myfirst);
-        const auto _Oldsize  = static_cast<size_type>(_Mylast - _Myfirst);
-
-        
-        
-        
-
-        for (; _First != _Last; ++_First) {
-            emplace_back(*_First);
-        }
-
-        _Orphan_range(_Myfirst + _Whereoff, _Myfirst + _Oldsize);
-
-        ::std:: rotate(_Myfirst + _Whereoff, _Myfirst + _Oldsize, _Mylast);
-    }
-
-    template <class _Iter>
-    inline void _Insert_range(const_iterator _Where, _Iter _First, _Iter _Last, forward_iterator_tag) {
-        
-        const pointer _Whereptr = _Where._Ptr;
-        const auto _Count       = _Convert_size<size_type>(static_cast<size_t>(::std:: distance(_First, _Last)));
-
-        auto& _My_data   = _Mypair._Myval2;
-        pointer& _Mylast = _My_data._Mylast;
-
-        const pointer _Oldfirst     = _My_data._Myfirst;
-        const pointer _Oldlast      = _Mylast;
-        const auto _Unused_capacity = static_cast<size_type>(_My_data._Myend - _Oldlast);
-
-        if (_Count == 0) { 
-        } else if (_Count > _Unused_capacity) { 
-            const auto _Oldsize = static_cast<size_type>(_Oldlast - _Oldfirst);
-
-            if (_Count > max_size() - _Oldsize) {
-                _Xlength();
-            }
-
-            const size_type _Newsize     = _Oldsize + _Count;
-            const size_type _Newcapacity = _Calculate_growth(_Newsize);
-
-            const pointer _Newvec           = _Getal().allocate(_Newcapacity);
-            const auto _Whereoff            = static_cast<size_type>(_Whereptr - _Oldfirst);
-            const pointer _Constructed_last = _Newvec + _Whereoff + _Count;
-            pointer _Constructed_first      = _Constructed_last;
-
-            try {
-            _Ucopy(_First, _Last, _Newvec + _Whereoff);
-            _Constructed_first = _Newvec + _Whereoff;
-
-            if (_Count == 1 && _Whereptr == _Oldlast) { 
-                _Umove_if_noexcept(_Oldfirst, _Oldlast, _Newvec);
-            } else { 
-                _Umove(_Oldfirst, _Whereptr, _Newvec);
-                _Constructed_first = _Newvec;
-                _Umove(_Whereptr, _Oldlast, _Newvec + _Whereoff + _Count);
-            }
-            } catch (...) {
-            _Destroy(_Constructed_first, _Constructed_last);
-            _Getal().deallocate(_Newvec, _Newcapacity);
-            throw;
-            }
-
-            _Change_array(_Newvec, _Newsize, _Newcapacity);
-        } else { 
-                 
-                 
-
-            const auto _Affected_elements = static_cast<size_type>(_Oldlast - _Whereptr);
-
-            if (_Count < _Affected_elements) { 
-                _Mylast = _Umove(_Oldlast - _Count, _Oldlast, _Oldlast);
-                _Move_backward_unchecked(_Whereptr, _Oldlast - _Count, _Oldlast);
-                _Destroy(_Whereptr, _Whereptr + _Count);
-
-                try {
-                _Ucopy(_First, _Last, _Whereptr);
-                } catch (...) {
-                
-
-                try {
-                _Umove(_Whereptr + _Count, _Whereptr + 2 * _Count, _Whereptr);
-                } catch (...) {
-                
-                _Orphan_range(_Whereptr, _Oldlast);
-                _Destroy(_Whereptr + _Count, _Mylast);
-                _Mylast = _Whereptr;
-                throw;
-                }
-
-                _Move_unchecked(_Whereptr + 2 * _Count, _Mylast, _Whereptr + _Count);
-                _Destroy(_Oldlast, _Mylast);
-                _Mylast = _Oldlast;
-                throw;
-                }
-            } else { 
-                const pointer _Relocated = _Whereptr + _Count;
-                _Mylast                  = _Umove(_Whereptr, _Oldlast, _Relocated);
-                _Destroy(_Whereptr, _Oldlast);
-
-                try {
-                _Ucopy(_First, _Last, _Whereptr);
-                } catch (...) {
-                
-
-                try {
-                _Umove(_Relocated, _Mylast, _Whereptr);
-                } catch (...) {
-                
-                _Orphan_range(_Whereptr, _Oldlast);
-                _Destroy(_Relocated, _Mylast);
-                _Mylast = _Whereptr;
-                throw;
-                }
-
-                _Destroy(_Relocated, _Mylast);
-                _Mylast = _Oldlast;
-                throw;
-                }
-            }
-
-            _Orphan_range(_Whereptr, _Oldlast);
-        }
-    }
-
-public:
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    inline iterator insert(const_iterator _Where, _Iter _First, _Iter _Last) {
-        const pointer _Whereptr = _Where._Ptr;
-        auto& _My_data          = _Mypair._Myval2;
-        const pointer _Oldfirst = _My_data._Myfirst;
-
-        do { if (_Where._Getcont() == ::std:: addressof(_My_data) && _Whereptr >= _Oldfirst && _My_data._Mylast >= _Whereptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1066, 0, "%s", "vector insert iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector insert iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1066, 0); } while (false); } ; } while (false);
-#line 1067 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 1068 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        _Adl_verify_range(_First, _Last);
-        const auto _Whereoff = static_cast<size_type>(_Whereptr - _Oldfirst);
-        _Insert_range(_Where, _Get_unwrapped(_First), _Get_unwrapped(_Last), _Iter_cat_t<_Iter>{});
-        return _Make_iterator_offset(_Whereoff);
-    }
-
-    inline iterator insert(const_iterator _Where, initializer_list<_Ty> _Ilist) {
-        return insert(_Where, _Ilist.begin(), _Ilist.end());
-    }
-
-    inline void assign(__declspec(guard(overflow)) const size_type _Newsize, const _Ty& _Val) {
-        
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-
-        _My_data._Orphan_all();
-
-        auto _Oldsize = static_cast<size_type>(_Mylast - _Myfirst);
-        if (_Newsize > _Oldsize) {
-            const auto _Oldcapacity = static_cast<size_type>(_My_data._Myend - _Myfirst);
-            if (_Newsize > _Oldcapacity) { 
-                _Clear_and_reserve_geometric(_Newsize);
-                _Oldsize = 0;
-            } else {
-                ::std:: fill(_Myfirst, _Mylast, _Val);
-            }
-
-            _Mylast = _Ufill(_Mylast, _Newsize - _Oldsize, _Val);
-        } else {
-            const pointer _Newlast = _Myfirst + _Newsize;
-            ::std:: fill(_Myfirst, _Newlast, _Val);
-            _Destroy(_Newlast, _Mylast);
-            _Mylast = _Newlast;
-        }
-    }
-
-private:
-    template <class _Iter>
-    inline void _Assign_range(_Iter _First, _Iter _Last, input_iterator_tag) {
-        
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-
-        _My_data._Orphan_all();
-
-        pointer _Next = _Myfirst;
-
-        for (; _First != _Last && _Next != _Mylast; ++_First, (void) ++_Next) {
-            *_Next = *_First;
-        }
-
-        
-        
-        
-        
-
-        
-        _Destroy(_Next, _Mylast);
-        _Mylast = _Next;
-
-        
-        for (; _First != _Last; ++_First) {
-            emplace_back(*_First); 
-        }
-    }
-
-    template <class _Iter>
-    inline void _Assign_range(_Iter _First, _Iter _Last, forward_iterator_tag) {
-        
-        const auto _Newsize = _Convert_size<size_type>(static_cast<size_t>(::std:: distance(_First, _Last)));
-        auto& _My_data      = _Mypair._Myval2;
-        pointer& _Myfirst   = _My_data._Myfirst;
-        pointer& _Mylast    = _My_data._Mylast;
-        pointer& _Myend     = _My_data._Myend;
-
-        _My_data._Orphan_all();
-
-        if constexpr (conjunction_v<bool_constant<_Ptr_copy_cat<_Iter, _Ty*>::_Trivially_copyable>,
-                          _Uses_default_construct<_Alty, _Ty*, decltype(*_First)>,
-                          _Uses_default_destroy<_Alty, _Ty*>>) {
-
-
-
-            {
-                const auto _Oldcapacity = static_cast<size_type>(_Myend - _Myfirst);
-                if (_Newsize > _Oldcapacity) {
-                    _Clear_and_reserve_geometric(_Newsize);
-                }
-
-                _Mylast = _Refancy<pointer>(_Copy_memmove(_First, _Last, _Unfancy(_Myfirst)));
-                return;
-            }
-        }
-        auto _Oldsize = static_cast<size_type>(_Mylast - _Myfirst);
-
-        if (_Newsize > _Oldsize) {
-            const auto _Oldcapacity = static_cast<size_type>(_Myend - _Myfirst);
-            if (_Newsize > _Oldcapacity) { 
-                _Clear_and_reserve_geometric(_Newsize);
-                _Oldsize = 0;
-            }
-
-            
-            const _Iter _Mid = ::std:: next(_First, static_cast<difference_type>(_Oldsize));
-            _Copy_unchecked(_First, _Mid, _Myfirst);
-            _Mylast = _Ucopy(_Mid, _Last, _Mylast);
-        } else {
-            const pointer _Newlast = _Myfirst + _Newsize;
-            _Copy_unchecked(_First, _Last, _Myfirst);
-            _Destroy(_Newlast, _Mylast);
-            _Mylast = _Newlast;
-        }
-    }
-
-public:
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    inline void assign(_Iter _First, _Iter _Last) {
-        _Adl_verify_range(_First, _Last);
-        _Assign_range(_Get_unwrapped(_First), _Get_unwrapped(_Last), _Iter_cat_t<_Iter>{});
-    }
-
-    inline void assign(initializer_list<_Ty> _Ilist) {
-        _Assign_range(_Ilist.begin(), _Ilist.end(), random_access_iterator_tag{});
-    }
-
-private:
-    inline void _Copy_assign(const vector& _Right, false_type) {
-        _Pocca(_Getal(), _Right._Getal());
-        auto& _Right_data = _Right._Mypair._Myval2;
-        assign(_Right_data._Myfirst, _Right_data._Mylast);
-    }
-
-    inline void _Copy_assign(const vector& _Right, true_type) {
-        if (_Getal() != _Right._Getal()) {
-            _Tidy();
-            _Mypair._Myval2._Reload_proxy(
-                static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Getal()), static_cast<_Rebind_alloc_t<_Alty, _Container_proxy>>(_Right._Getal()));
-        }
-
-        _Copy_assign(_Right, false_type{});
-    }
-
-public:
-    inline vector& operator=(const vector& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Copy_assign(_Right, _Choose_pocca<_Alty>{});
-        }
-
-        return *this;
-    }
-
-    inline vector& operator=(initializer_list<_Ty> _Ilist) {
-        _Assign_range(_Ilist.begin(), _Ilist.end(), random_access_iterator_tag{});
-        return *this;
-    }
-
-private:
-    template <class _Ty2>
-    inline void _Resize_reallocate(const size_type _Newsize, const _Ty2& _Val) {
-        if (_Newsize > max_size()) {
-            _Xlength();
-        }
-
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-
-        const auto _Oldsize          = static_cast<size_type>(_Mylast - _Myfirst);
-        const size_type _Newcapacity = _Calculate_growth(_Newsize);
-
-        const pointer _Newvec         = _Getal().allocate(_Newcapacity);
-        const pointer _Appended_first = _Newvec + _Oldsize;
-        pointer _Appended_last        = _Appended_first;
-
-        try {
-        _Appended_last = _Ufill(_Appended_first, _Newsize - _Oldsize, _Val);
-        _Umove_if_noexcept(_Myfirst, _Mylast, _Newvec);
-        } catch (...) {
-        _Destroy(_Appended_first, _Appended_last);
-        _Getal().deallocate(_Newvec, _Newcapacity);
-        throw;
-        }
-
-        _Change_array(_Newvec, _Newsize, _Newcapacity);
-    }
-
-    template <class _Ty2>
-    inline void _Resize(const size_type _Newsize, const _Ty2& _Val) {
-        
-        auto& _My_data      = _Mypair._Myval2;
-        pointer& _Myfirst   = _My_data._Myfirst;
-        pointer& _Mylast    = _My_data._Mylast;
-        const auto _Oldsize = static_cast<size_type>(_Mylast - _Myfirst);
-        if (_Newsize < _Oldsize) { 
-            const pointer _Newlast = _Myfirst + _Newsize;
-            _Orphan_range(_Newlast, _Mylast);
-            _Destroy(_Newlast, _Mylast);
-            _Mylast = _Newlast;
-            return;
-        }
-
-        if (_Newsize > _Oldsize) { 
-            const auto _Oldcapacity = static_cast<size_type>(_My_data._Myend - _Myfirst);
-            if (_Newsize > _Oldcapacity) { 
-                _Resize_reallocate(_Newsize, _Val);
-                return;
-            }
-
-            const pointer _Oldlast = _Mylast;
-            _Mylast                = _Ufill(_Oldlast, _Newsize - _Oldsize, _Val);
-            _Orphan_range(_Oldlast, _Oldlast);
-        }
-
-        
-    }
-
-public:
-    inline void resize(__declspec(guard(overflow)) const size_type _Newsize) {
-        
-        _Resize(_Newsize, _Value_init_tag{});
-    }
-
-    inline void resize(__declspec(guard(overflow)) const size_type _Newsize, const _Ty& _Val) {
-        
-        _Resize(_Newsize, _Val);
-    }
-
-private:
-    inline void _Reallocate_exactly(const size_type _Newcapacity) {
-        
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-
-        const auto _Size = static_cast<size_type>(_Mylast - _Myfirst);
-
-        const pointer _Newvec = _Getal().allocate(_Newcapacity);
-
-        try {
-        _Umove_if_noexcept(_Myfirst, _Mylast, _Newvec);
-        } catch (...) {
-        _Getal().deallocate(_Newvec, _Newcapacity);
-        throw;
-        }
-
-        _Change_array(_Newvec, _Size, _Newcapacity);
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1338 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-    inline void _Clear_and_reserve_geometric(const size_type _Newsize) {
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-        pointer& _Myend   = _My_data._Myend;
-
-
-
-
-#line 1349 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        if (_Newsize > max_size()) {
-            _Xlength();
-        }
-
-        const size_type _Newcapacity = _Calculate_growth(_Newsize);
-
-        if (_Myfirst) { 
-            _Destroy(_Myfirst, _Mylast);
-            _Getal().deallocate(_Myfirst, static_cast<size_type>(_Myend - _Myfirst));
-
-            _Myfirst = nullptr;
-            _Mylast  = nullptr;
-            _Myend   = nullptr;
-        }
-
-        _Buy_raw(_Newcapacity);
-    }
-
-public:
-    inline void reserve(__declspec(guard(overflow)) const size_type _Newcapacity) {
-        
-        if (_Newcapacity > capacity()) { 
-            if (_Newcapacity > max_size()) {
-                _Xlength();
-            }
-
-            _Reallocate_exactly(_Newcapacity);
-        }
-    }
-
-    inline void shrink_to_fit() { 
-        auto& _My_data         = _Mypair._Myval2;
-        const pointer _Oldlast = _My_data._Mylast;
-        if (_Oldlast != _My_data._Myend) { 
-            const pointer _Oldfirst = _My_data._Myfirst;
-            if (_Oldfirst == _Oldlast) {
-                _Tidy();
-            } else {
-                _Reallocate_exactly(static_cast<size_type>(_Oldlast - _Oldfirst));
-            }
-        }
-    }
-
-    inline void pop_back() noexcept  {
-        auto& _My_data   = _Mypair._Myval2;
-        pointer& _Mylast = _My_data._Mylast;
-
-
-        do { if (_My_data._Myfirst != _Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1398, 0, "%s", "vector empty before pop")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector empty before pop\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1398, 0); } while (false); } ; } while (false);
-#line 1400 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        _Orphan_range(_Mylast - 1, _Mylast);
-        _Alty_traits::destroy(_Getal(), _Unfancy(_Mylast - 1));
-        --_Mylast;
-    }
-
-    inline iterator erase(const_iterator _Where) noexcept(
-        is_nothrow_move_assignable_v<value_type>)  {
-        const pointer _Whereptr = _Where._Ptr;
-        auto& _My_data          = _Mypair._Myval2;
-        pointer& _Mylast        = _My_data._Mylast;
-
-
-        do { if (_Where._Getcont() == ::std:: addressof(_My_data) && _Whereptr >= _My_data._Myfirst && _Mylast > _Whereptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1415, 0, "%s", "vector erase iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector erase iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1415, 0); } while (false); } ; } while (false);
-#line 1416 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 1417 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        _Orphan_range(_Whereptr, _Mylast);
-        _Move_unchecked(_Whereptr + 1, _Mylast, _Whereptr);
-        _Alty_traits::destroy(_Getal(), _Unfancy(_Mylast - 1));
-        --_Mylast;
-        return iterator(_Whereptr, ::std:: addressof(_My_data));
-    }
-
-    inline iterator erase(const_iterator _First, const_iterator _Last) noexcept(
-        is_nothrow_move_assignable_v<value_type>)  {
-        const pointer _Firstptr = _First._Ptr;
-        const pointer _Lastptr  = _Last._Ptr;
-        auto& _My_data          = _Mypair._Myval2;
-        pointer& _Mylast        = _My_data._Mylast;
-
-
-        do { if (_First._Getcont() == ::std:: addressof(_My_data) && _Last._Getcont() == ::std:: addressof(_My_data) && _Firstptr >= _My_data._Myfirst && _Lastptr >= _Firstptr && _Mylast >= _Lastptr) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1435, 0, "%s", "vector erase iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector erase iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1435, 0); } while (false); } ; } while (false);
-#line 1436 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 1437 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        if (_Firstptr != _Lastptr) { 
-            _Orphan_range(_Firstptr, _Mylast);
-
-            const pointer _Newlast = _Move_unchecked(_Lastptr, _Mylast, _Firstptr);
-            _Destroy(_Newlast, _Mylast);
-            _Mylast = _Newlast;
-        }
-
-        return iterator(_Firstptr, ::std:: addressof(_My_data));
-    }
-
-    inline void clear() noexcept { 
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-
-        _My_data._Orphan_all();
-        _Destroy(_Myfirst, _Mylast);
-        _Mylast = _Myfirst;
-    }
-
-    inline void swap(vector& _Right) noexcept  {
-        if (this != ::std:: addressof(_Right)) {
-            _Pocs(_Getal(), _Right._Getal());
-            _Mypair._Myval2._Swap_val(_Right._Mypair._Myval2);
-        }
-    }
-
-    [[nodiscard]] inline _Ty* data() noexcept {
-        return _Unfancy_maybe_null(_Mypair._Myval2._Myfirst);
-    }
-
-    [[nodiscard]] inline const _Ty* data() const noexcept {
-        return _Unfancy_maybe_null(_Mypair._Myval2._Myfirst);
-    }
-
-    [[nodiscard]] inline iterator begin() noexcept {
-        auto& _My_data = _Mypair._Myval2;
-        return iterator(_My_data._Myfirst, ::std:: addressof(_My_data));
-    }
-
-    [[nodiscard]] inline const_iterator begin() const noexcept {
-        auto& _My_data = _Mypair._Myval2;
-        return const_iterator(_My_data._Myfirst, ::std:: addressof(_My_data));
-    }
-
-    [[nodiscard]] inline iterator end() noexcept {
-        auto& _My_data = _Mypair._Myval2;
-        return iterator(_My_data._Mylast, ::std:: addressof(_My_data));
-    }
-
-    [[nodiscard]] inline const_iterator end() const noexcept {
-        auto& _My_data = _Mypair._Myval2;
-        return const_iterator(_My_data._Mylast, ::std:: addressof(_My_data));
-    }
-
-    [[nodiscard]] inline reverse_iterator rbegin() noexcept {
-        return reverse_iterator(end());
-    }
-
-    [[nodiscard]] inline const_reverse_iterator rbegin() const noexcept {
-        return const_reverse_iterator(end());
-    }
-
-    [[nodiscard]] inline reverse_iterator rend() noexcept {
-        return reverse_iterator(begin());
-    }
-
-    [[nodiscard]] inline const_reverse_iterator rend() const noexcept {
-        return const_reverse_iterator(begin());
-    }
-
-    [[nodiscard]] inline const_iterator cbegin() const noexcept {
-        return begin();
-    }
-
-    [[nodiscard]] inline const_iterator cend() const noexcept {
-        return end();
-    }
-
-    [[nodiscard]] inline const_reverse_iterator crbegin() const noexcept {
-        return rbegin();
-    }
-
-    [[nodiscard]] inline const_reverse_iterator crend() const noexcept {
-        return rend();
-    }
-
-    [[nodiscard]] inline pointer _Unchecked_begin() noexcept {
-        return _Mypair._Myval2._Myfirst;
-    }
-
-    [[nodiscard]] inline const_pointer _Unchecked_begin() const noexcept {
-        return _Mypair._Myval2._Myfirst;
-    }
-
-    [[nodiscard]] inline pointer _Unchecked_end() noexcept {
-        return _Mypair._Myval2._Mylast;
-    }
-
-    [[nodiscard]] inline const_pointer _Unchecked_end() const noexcept {
-        return _Mypair._Myval2._Mylast;
-    }
-
-    [[nodiscard]] inline bool empty() const noexcept {
-        auto& _My_data = _Mypair._Myval2;
-        return _My_data._Myfirst == _My_data._Mylast;
-    }
-
-    [[nodiscard]] inline size_type size() const noexcept {
-        auto& _My_data = _Mypair._Myval2;
-        return static_cast<size_type>(_My_data._Mylast - _My_data._Myfirst);
-    }
-
-    [[nodiscard]] inline size_type max_size() const noexcept {
-        return (::std:: min)(
-            static_cast<size_type>((numeric_limits<difference_type>::max)()), _Alty_traits::max_size(_Getal()));
-    }
-
-    [[nodiscard]] inline size_type capacity() const noexcept {
-        auto& _My_data = _Mypair._Myval2;
-        return static_cast<size_type>(_My_data._Myend - _My_data._Myfirst);
-    }
-
-    [[nodiscard]] inline _Ty& operator[](const size_type _Pos) noexcept  {
-        auto& _My_data = _Mypair._Myval2;
-
-        do { if (_Pos < static_cast<size_type>(_My_data._Mylast - _My_data._Myfirst)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1566, 0, "%s", "vector subscript out of range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector subscript out of range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1566, 0); } while (false); } ; } while (false);
-#line 1567 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 1568 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return _My_data._Myfirst[_Pos];
-    }
-
-    [[nodiscard]] inline const _Ty& operator[](const size_type _Pos) const noexcept  {
-        auto& _My_data = _Mypair._Myval2;
-
-        do { if (_Pos < static_cast<size_type>(_My_data._Mylast - _My_data._Myfirst)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1576, 0, "%s", "vector subscript out of range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector subscript out of range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1576, 0); } while (false); } ; } while (false);
-#line 1577 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 1578 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return _My_data._Myfirst[_Pos];
-    }
-
-    [[nodiscard]] inline _Ty& at(const size_type _Pos) {
-        auto& _My_data = _Mypair._Myval2;
-        if (static_cast<size_type>(_My_data._Mylast - _My_data._Myfirst) <= _Pos) {
-            _Xrange();
-        }
-
-        return _My_data._Myfirst[_Pos];
-    }
-
-    [[nodiscard]] inline const _Ty& at(const size_type _Pos) const {
-        auto& _My_data = _Mypair._Myval2;
-        if (static_cast<size_type>(_My_data._Mylast - _My_data._Myfirst) <= _Pos) {
-            _Xrange();
-        }
-
-        return _My_data._Myfirst[_Pos];
-    }
-
-    [[nodiscard]] inline _Ty& front() noexcept  {
-        auto& _My_data = _Mypair._Myval2;
-
-        do { if (_My_data._Myfirst != _My_data._Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1603, 0, "%s", "front() called on empty vector")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"front() called on empty vector\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1603, 0); } while (false); } ; } while (false);
-#line 1605 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return *_My_data._Myfirst;
-    }
-
-    [[nodiscard]] inline const _Ty& front() const noexcept  {
-        auto& _My_data = _Mypair._Myval2;
-
-        do { if (_My_data._Myfirst != _My_data._Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1612, 0, "%s", "front() called on empty vector")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"front() called on empty vector\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1612, 0); } while (false); } ; } while (false);
-#line 1614 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return *_My_data._Myfirst;
-    }
-
-    [[nodiscard]] inline _Ty& back() noexcept  {
-        auto& _My_data = _Mypair._Myval2;
-
-        do { if (_My_data._Myfirst != _My_data._Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1621, 0, "%s", "back() called on empty vector")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"back() called on empty vector\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1621, 0); } while (false); } ; } while (false);
-#line 1623 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return _My_data._Mylast[-1];
-    }
-
-    [[nodiscard]] inline const _Ty& back() const noexcept  {
-        auto& _My_data = _Mypair._Myval2;
-
-        do { if (_My_data._Myfirst != _My_data._Mylast) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1630, 0, "%s", "back() called on empty vector")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"back() called on empty vector\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 1630, 0); } while (false); } ; } while (false);
-#line 1632 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return _My_data._Mylast[-1];
-    }
-
-    [[nodiscard]] inline allocator_type get_allocator() const noexcept {
-        return static_cast<allocator_type>(_Getal());
-    }
-
-private:
-    inline pointer _Ufill(pointer _Dest, const size_type _Count, const _Ty& _Val) {
-        
-        return _Uninitialized_fill_n(_Dest, _Count, _Val, _Getal());
-    }
-
-    inline pointer _Ufill(pointer _Dest, const size_type _Count, _Value_init_tag) {
-        
-        return _Uninitialized_value_construct_n(_Dest, _Count, _Getal());
-    }
-
-    template <class _Iter>
-    inline pointer _Ucopy(_Iter _First, _Iter _Last, pointer _Dest) {
-        
-        return _Uninitialized_copy(_First, _Last, _Dest, _Getal());
-    }
-
-    inline pointer _Umove(pointer _First, pointer _Last, pointer _Dest) {
-        
-        return _Uninitialized_move(_First, _Last, _Dest, _Getal());
-    }
-
-    inline void _Umove_if_noexcept1(pointer _First, pointer _Last, pointer _Dest, true_type) {
-        
-        _Uninitialized_move(_First, _Last, _Dest, _Getal());
-    }
-
-    inline void _Umove_if_noexcept1(pointer _First, pointer _Last, pointer _Dest, false_type) {
-        
-        _Uninitialized_copy(_First, _Last, _Dest, _Getal());
-    }
-
-    inline void _Umove_if_noexcept(pointer _First, pointer _Last, pointer _Dest) {
-        
-        _Umove_if_noexcept1(_First, _Last, _Dest,
-            bool_constant<disjunction_v<is_nothrow_move_constructible<_Ty>, negation<is_copy_constructible<_Ty>>>>{});
-    }
-
-    inline void _Destroy(pointer _First, pointer _Last) {
-        
-        _Destroy_range(_First, _Last, _Getal());
-    }
-
-    inline size_type _Calculate_growth(const size_type _Newsize) const {
-        
-        const size_type _Oldcapacity = capacity();
-        const auto _Max              = max_size();
-
-        if (_Oldcapacity > _Max - _Oldcapacity / 2) {
-            return _Max; 
-        }
-
-        const size_type _Geometric = _Oldcapacity + _Oldcapacity / 2;
-
-        if (_Geometric < _Newsize) {
-            return _Newsize; 
-        }
-
-        return _Geometric; 
-    }
-
-    inline void _Buy_raw(const size_type _Newcapacity) {
-        
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-        pointer& _Myend   = _My_data._Myend;
-
-        ; 
-        ;
-
-        const auto _Newvec = _Getal().allocate(_Newcapacity);
-        _Myfirst           = _Newvec;
-        _Mylast            = _Newvec;
-        _Myend             = _Newvec + _Newcapacity;
-    }
-
-    inline void _Buy_nonzero(const size_type _Newcapacity) {
-        
-
-
-
-
-
-
-
-
-
-        if (_Newcapacity > max_size()) {
-            _Xlength();
-        }
-
-        _Buy_raw(_Newcapacity);
-    }
-
-    inline void _Change_array(
-        const pointer _Newvec, const size_type _Newsize, const size_type _Newcapacity) {
-        
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-        pointer& _Myend   = _My_data._Myend;
-
-        _My_data._Orphan_all();
-
-        if (_Myfirst) { 
-            _Destroy(_Myfirst, _Mylast);
-            _Getal().deallocate(_Myfirst, static_cast<size_type>(_Myend - _Myfirst));
-        }
-
-        _Myfirst = _Newvec;
-        _Mylast  = _Newvec + _Newsize;
-        _Myend   = _Newvec + _Newcapacity;
-    }
-
-    inline void _Tidy() noexcept { 
-        auto& _My_data    = _Mypair._Myval2;
-        pointer& _Myfirst = _My_data._Myfirst;
-        pointer& _Mylast  = _My_data._Mylast;
-        pointer& _Myend   = _My_data._Myend;
-
-        _My_data._Orphan_all();
-
-        if (_Myfirst) { 
-            _Destroy(_Myfirst, _Mylast);
-            _Getal().deallocate(_Myfirst, static_cast<size_type>(_Myend - _Myfirst));
-
-            _Myfirst = nullptr;
-            _Mylast  = nullptr;
-            _Myend   = nullptr;
-        }
-    }
-
-    [[noreturn]] static void _Xlength() {
-        _Xlength_error("vector too long");
-    }
-
-    [[noreturn]] static void _Xrange() {
-        _Xout_of_range("invalid vector subscript");
-    }
-
-
-    inline void _Orphan_range_unlocked(pointer _First, pointer _Last) const {
-        _Iterator_base12** _Pnext = &_Mypair._Myval2._Myproxy->_Myfirstiter;
-        while (*_Pnext) {
-            const auto _Pnextptr = static_cast<const_iterator&>(**_Pnext)._Ptr;
-            if (_Pnextptr < _First || _Last < _Pnextptr) { 
-                const auto _Temp = *_Pnext; 
-                _Pnext           = &_Temp->_Mynextiter;
-            } else { 
-                const auto _Temp = *_Pnext; 
-                _Temp->_Myproxy  = nullptr;
-                *_Pnext          = _Temp->_Mynextiter;
-            }
-        }
-    }
-
-    void _Orphan_range_locked(pointer _First, pointer _Last) const {
-        _Lockit _Lock(3);
-        _Orphan_range_unlocked(_First, _Last);
-    }
-
-    inline void _Orphan_range(pointer _First, pointer _Last) const {
-        
-
-
-
-
-
-        {
-            _Orphan_range_locked(_First, _Last);
-        }
-    }
-
-
-#line 1816 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-    [[nodiscard]] inline _Alty& _Getal() noexcept {
-        return _Mypair._Get_first();
-    }
-
-    [[nodiscard]] inline const _Alty& _Getal() const noexcept {
-        return _Mypair._Get_first();
-    }
-
-    [[nodiscard]] inline iterator _Make_iterator(const pointer _Ptr) noexcept {
-        return iterator(_Ptr, ::std:: addressof(_Mypair._Myval2));
-    }
-
-    [[nodiscard]] inline iterator _Make_iterator_offset(const size_type _Offset) noexcept {
-        
-        auto& _My_data = _Mypair._Myval2;
-        return iterator(_My_data._Myfirst + _Offset, ::std:: addressof(_My_data));
-    }
-
-    _Compressed_pair<_Alty, _Scary_val> _Mypair;
-};
-
-
-
-
-
-#line 1843 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-template <class _Alloc>
-class vector<bool, _Alloc>;
-
-using _Vbase         = unsigned int; 
-constexpr int _VBITS = 8 * sizeof(_Vbase); 
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] inline bool operator==(const vector<_Ty, _Alloc>& _Left, const vector<_Ty, _Alloc>& _Right) {
-    if (_Left.size() != _Right.size()) {
-        return false;
-    }
-
-    if constexpr (is_same_v<_Ty, bool>) {
-        return ::std:: equal(
-            _Left._Myvec._Unchecked_begin(), _Left._Myvec._Unchecked_end(), _Right._Myvec._Unchecked_begin());
-    } else {
-        return ::std:: equal(_Left._Unchecked_begin(), _Left._Unchecked_end(), _Right._Unchecked_begin());
-    }
-}
-
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] bool operator!=(const vector<_Ty, _Alloc>& _Left, const vector<_Ty, _Alloc>& _Right) {
-    return !(_Left == _Right);
-}
-#line 1870 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-template <class _Ret>
-struct _Vbase_compare_three_way {
-    [[nodiscard]] constexpr _Ret operator()(const _Vbase _Left, const _Vbase _Right) const noexcept {
-        const _Vbase _Differing_bits = _Left ^ _Right;
-
-        if (_Differing_bits == 0) { 
-
-
-
-            return 0;
-#line 1897 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        }
-
-        const int _Bit_index = _Countr_zero(_Differing_bits); 
-        ; 
-
-        const _Vbase _Mask = _Vbase{1} << _Bit_index; 
-
-        
-
-
-
-        return (_Left & _Mask) == 0 ? -1 : 1;
-#line 1910 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] inline bool operator<(const vector<_Ty, _Alloc>& _Left, const vector<_Ty, _Alloc>& _Right) {
-    if constexpr (is_same_v<_Ty, bool>) {
-        
-        auto _First = _Left._Myvec._Unchecked_begin();
-        auto _Other = _Right._Myvec._Unchecked_begin();
-
-        const auto _Last = _First + (::std:: min)(_Left._Myvec.size(), _Right._Myvec.size());
-
-        for (; _First != _Last; ++_First, (void) ++_Other) {
-            using _Comp = _Vbase_compare_three_way<signed char>;
-            const auto _Result = _Comp{}(*_First, *_Other);
-
-            if (_Result < 0) {
-                return true;
-            } else if (_Result > 0) {
-                return false;
-            }
-        }
-
-        return _Left.size() < _Right.size();
-    } else {
-        return ::std:: lexicographical_compare(
-            _Left._Unchecked_begin(), _Left._Unchecked_end(), _Right._Unchecked_begin(), _Right._Unchecked_end());
-    }
-}
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] inline bool operator>(const vector<_Ty, _Alloc>& _Left, const vector<_Ty, _Alloc>& _Right) {
-    return _Right < _Left;
-}
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] inline bool operator<=(const vector<_Ty, _Alloc>& _Left, const vector<_Ty, _Alloc>& _Right) {
-    return !(_Right < _Left);
-}
-
-template <class _Ty, class _Alloc>
-[[nodiscard]] inline bool operator>=(const vector<_Ty, _Alloc>& _Left, const vector<_Ty, _Alloc>& _Right) {
-    return !(_Left < _Right);
-}
-#line 1981 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-template <class _Ty, class _Alloc>
-inline void swap(vector<_Ty, _Alloc>& _Left, vector<_Ty, _Alloc>& _Right) noexcept  {
-    _Left.swap(_Right);
-}
-
-
-
-
-
-
-
-
-
-
-
-#line 1998 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-
-template <class _Alloc0>
-struct _Wrap_alloc { 
-    using _Alloc = _Alloc0;
-};
-
-
-template <class _Alvbase_wrapped>
-class _Vb_iter_base : public _Iterator_base {
-    
-public:
-    using _Alvbase         = typename _Alvbase_wrapped::_Alloc;
-    using _Size_type       = typename allocator_traits<_Alvbase>::size_type;
-    using _Difference_type = typename allocator_traits<_Alvbase>::difference_type;
-    using _Mycont          = vector<bool, _Rebind_alloc_t<_Alvbase, bool>>;
-
-    inline _Vb_iter_base() = default;
-
-    inline _Vb_iter_base(const _Vbase* _Ptr, _Size_type _Off, const _Container_base* _Mypvbool) noexcept
-        : _Myptr(_Ptr), _Myoff(_Off) {
-        this->_Adopt(_Mypvbool);
-    }
-
-    
-    inline _Vb_iter_base& operator=(const _Vb_iter_base&) noexcept = default;
-
-    inline void _Advance(_Size_type _Off) noexcept {
-        _Myoff += _Off;
-        _Myptr += _Myoff / _VBITS;
-        _Myoff %= _VBITS;
-    }
-
-
-    inline _Difference_type _Total_off(const _Mycont* _Cont) const noexcept {
-        return static_cast<_Difference_type>(_VBITS * (_Myptr - _Cont->_Myvec.data()) + _Myoff);
-    }
-#line 2036 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-    const _Vbase* _Myptr = nullptr;
-    _Size_type _Myoff    = 0;
-};
-
-
-template <class _Alvbase_wrapped>
-class _Vb_reference : public _Vb_iter_base<_Alvbase_wrapped> {
-    
-    using _Mybase          = _Vb_iter_base<_Alvbase_wrapped>;
-    using _Mycont          = typename _Mybase::_Mycont;
-    using _Difference_type = typename _Mybase::_Difference_type;
-
-    
-    inline _Vb_reference() = default;
-
-public:
-    inline _Vb_reference(const _Vb_reference&) = default;
-
-    inline _Vb_reference(const _Mybase& _Right) noexcept
-        : _Mybase(_Right._Myptr, _Right._Myoff, _Right._Getcont()) {}
-
-    inline _Vb_reference& operator=(const _Vb_reference& _Right) noexcept {
-        return *this = static_cast<bool>(_Right);
-    }
-
-    inline _Vb_reference& operator=(bool _Val) noexcept {
-        if (_Val) {
-            *const_cast<_Vbase*>(_Getptr()) |= _Mask();
-        } else {
-            *const_cast<_Vbase*>(_Getptr()) &= ~_Mask();
-        }
-
-        return *this;
-    }
-
-    inline void flip() noexcept {
-        *const_cast<_Vbase*>(_Getptr()) ^= _Mask();
-    }
-
-    inline operator bool() const noexcept {
-        return (*_Getptr() & _Mask()) != 0;
-    }
-
-    inline const _Vbase* _Getptr() const noexcept {
-
-        const auto _Cont = static_cast<const _Mycont*>(this->_Getcont());
-        do { if (_Cont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2083, 0, "%s", "cannot dereference value-initialized vector<bool> iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference value-initialized vector<bool> iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2083, 0); } while (false); } ; } while (false);
-        do { if (this->_Total_off(_Cont) <= static_cast<_Difference_type>(_Cont->_Mysize)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2085, 0, "%s", "vector<bool> iterator not dereferenceable")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> iterator not dereferenceable\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2085, 0); } while (false); } ; } while (false);
-#line 2086 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 2087 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return this->_Myptr;
-    }
-
-    friend inline void swap(_Vb_reference _Left, _Vb_reference _Right) noexcept {
-        bool _Val = _Left; 
-        _Left     = _Right;
-        _Right    = _Val;
-    }
-
-protected:
-    inline _Vbase _Mask() const noexcept {
-        return static_cast<_Vbase>(1) << this->_Myoff;
-    }
-};
-
-
-template <class _Alvbase_wrapped>
-class _Vb_const_iterator : public _Vb_iter_base<_Alvbase_wrapped> {
-private:
-    using _Mybase = _Vb_iter_base<_Alvbase_wrapped>;
-
-public:
-    using _Mycont          = typename _Mybase::_Mycont;
-    using _Difference_type = typename _Mybase::_Difference_type;
-    using _Size_type       = typename _Mybase::_Size_type;
-    using _Reft            = _Vb_reference<_Alvbase_wrapped>;
-    using const_reference  = bool;
-
-    using iterator_category = random_access_iterator_tag;
-    using value_type        = bool;
-    using difference_type   = typename _Mybase::_Difference_type;
-    using pointer           = const_reference*;
-    using reference         = const_reference;
-
-    inline _Vb_const_iterator() = default;
-
-    inline _Vb_const_iterator(const _Vbase* _Ptr, const _Container_base* _Mypvbool) noexcept
-        : _Mybase(_Ptr, 0, _Mypvbool) {}
-
-    
-    inline _Vb_const_iterator& operator=(const _Vb_const_iterator&) noexcept = default;
-
-    [[nodiscard]] inline const_reference operator*() const noexcept {
-
-        const auto _Cont = static_cast<const _Mycont*>(this->_Getcont());
-        do { if (_Cont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2133, 0, "%s", "cannot dereference value-initialized vector<bool> iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference value-initialized vector<bool> iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2133, 0); } while (false); } ; } while (false);
-        do { if (this->_Total_off(_Cont) < static_cast<_Difference_type>(_Cont->_Mysize)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2135, 0, "%s", "vector<bool> iterator not dereferenceable")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> iterator not dereferenceable\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2135, 0); } while (false); } ; } while (false);
-#line 2136 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 2137 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return _Reft(*this);
-    }
-
-    inline _Vb_const_iterator& operator++() noexcept {
-        _Inc();
-        return *this;
-    }
-
-    inline _Vb_const_iterator operator++(int) noexcept {
-        _Vb_const_iterator _Tmp = *this;
-        _Inc();
-        return _Tmp;
-    }
-
-    inline _Vb_const_iterator& operator--() noexcept {
-        _Dec();
-        return *this;
-    }
-
-    inline _Vb_const_iterator operator--(int) noexcept {
-        _Vb_const_iterator _Tmp = *this;
-        _Dec();
-        return _Tmp;
-    }
-
-    inline _Vb_const_iterator& operator+=(const difference_type _Off) noexcept {
-
-        if (_Off != 0) {
-            const auto _Cont = static_cast<const _Mycont*>(this->_Getcont());
-            do { if (_Cont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2167, 0, "%s", "cannot seek value-initialized vector<bool> iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek value-initialized vector<bool> iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2167, 0); } while (false); } ; } while (false);
-            const auto _Start_offset = this->_Total_off(_Cont);
-            if (_Off < 0) {
-                do { if (-_Start_offset <= _Off) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2170, 0, "%s", "cannot seek vector<bool> iterator before begin")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek vector<bool> iterator before begin\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2170, 0); } while (false); } ; } while (false);
-            } else if (0 < _Off) {
-                do { if (_Off <= static_cast<_Difference_type>(_Cont->_Mysize - _Start_offset)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2173, 0, "%s", "cannot seek vector<bool> iterator after end")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot seek vector<bool> iterator after end\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2173, 0); } while (false); } ; } while (false);
-#line 2174 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-            }
-        }
-#line 2177 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        if (_Off < 0 && this->_Myoff < 0 - static_cast<_Size_type>(_Off)) { 
-            this->_Myoff += static_cast<_Size_type>(_Off);
-            this->_Myptr -= 1 + (static_cast<_Size_type>(-1) - this->_Myoff) / _VBITS;
-            this->_Myoff %= _VBITS;
-        } else { 
-            this->_Myoff += static_cast<_Size_type>(_Off);
-            this->_Myptr += this->_Myoff / _VBITS;
-            this->_Myoff %= _VBITS;
-        }
-        return *this;
-    }
-
-    [[nodiscard]] inline _Vb_const_iterator operator+(const difference_type _Off) const noexcept {
-        _Vb_const_iterator _Tmp = *this;
-        _Tmp += _Off; 
-        return _Tmp;
-    }
-
-    inline _Vb_const_iterator& operator-=(const difference_type _Off) noexcept {
-        return *this += -_Off;
-    }
-
-    [[nodiscard]] inline _Vb_const_iterator operator-(const difference_type _Off) const noexcept {
-        _Vb_const_iterator _Tmp = *this;
-        _Tmp -= _Off; 
-        return _Tmp;
-    }
-
-    [[nodiscard]] inline difference_type operator-(const _Vb_const_iterator& _Right) const noexcept {
-        _Compat(_Right);
-        return static_cast<difference_type>(_VBITS * (this->_Myptr - _Right._Myptr))
-             + static_cast<difference_type>(this->_Myoff) - static_cast<difference_type>(_Right._Myoff);
-    }
-
-    [[nodiscard]] inline const_reference operator[](const difference_type _Off) const noexcept {
-        return *(*this + _Off);
-    }
-
-    [[nodiscard]] inline bool operator==(const _Vb_const_iterator& _Right) const noexcept {
-        _Compat(_Right);
-        return this->_Myptr == _Right._Myptr && this->_Myoff == _Right._Myoff;
-    }
-
-
-
-
-
-
-
-
-
-#line 2230 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    [[nodiscard]] bool operator!=(const _Vb_const_iterator& _Right) const noexcept {
-        return !(*this == _Right);
-    }
-
-    [[nodiscard]] bool operator<(const _Vb_const_iterator& _Right) const noexcept {
-        _Compat(_Right);
-        return this->_Myptr < _Right._Myptr || (this->_Myptr == _Right._Myptr && this->_Myoff < _Right._Myoff);
-    }
-
-    [[nodiscard]] bool operator>(const _Vb_const_iterator& _Right) const noexcept {
-        return _Right < *this;
-    }
-
-    [[nodiscard]] bool operator<=(const _Vb_const_iterator& _Right) const noexcept {
-        return !(_Right < *this);
-    }
-
-    [[nodiscard]] bool operator>=(const _Vb_const_iterator& _Right) const noexcept {
-        return !(*this < _Right);
-    }
-#line 2251 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-    inline void _Compat(const _Vb_const_iterator& _Right) const noexcept {
-        
-
-
-#line 2257 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        do { if (this->_Getcont() == _Right._Getcont()) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2257, 0, "%s", "vector<bool> iterators incompatible")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> iterators incompatible\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2257, 0); } while (false); } ; } while (false);
-#line 2259 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-
-
-    using _Prevent_inheriting_unwrap = _Vb_const_iterator;
-
-    friend inline void _Verify_range(
-        const _Vb_const_iterator& _First, const _Vb_const_iterator& _Last) noexcept {
-        
-        do { if (_First <= _Last) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2267, 0, "%s", "vector<bool> iterator range transposed")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> iterator range transposed\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2267, 0); } while (false); } ; } while (false);
-    }
-#line 2270 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-    inline void _Dec() noexcept { 
-
-        const auto _Cont = static_cast<const _Mycont*>(this->_Getcont());
-        do { if (_Cont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2274, 0, "%s", "cannot decrement value-initialized vector<bool> iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot decrement value-initialized vector<bool> iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2274, 0); } while (false); } ; } while (false);
-        do { if (this->_Total_off(_Cont) > 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2275, 0, "%s", "cannot decrement vector<bool> begin iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot decrement vector<bool> begin iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2275, 0); } while (false); } ; } while (false);
-#line 2277 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        if (this->_Myoff != 0) {
-            --this->_Myoff;
-        } else { 
-            this->_Myoff = _VBITS - 1;
-            --this->_Myptr;
-        }
-    }
-
-    inline void _Inc() noexcept { 
-
-        const auto _Cont = static_cast<const _Mycont*>(this->_Getcont());
-        do { if (_Cont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2289, 0, "%s", "cannot increment value-initialized vector<bool> iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot increment value-initialized vector<bool> iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2289, 0); } while (false); } ; } while (false);
-        do { if (this->_Total_off(_Cont) < static_cast<_Difference_type>(_Cont->_Mysize)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2291, 0, "%s", "cannot increment vector<bool> end iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot increment vector<bool> end iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2291, 0); } while (false); } ; } while (false);
-#line 2292 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 2293 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        if (this->_Myoff < _VBITS - 1) {
-            ++this->_Myoff;
-        } else { 
-            this->_Myoff = 0;
-            ++this->_Myptr;
-        }
-    }
-};
-
-template <class _Alvbase_wrapped>
-[[nodiscard]] inline _Vb_const_iterator<_Alvbase_wrapped> operator+(
-    typename _Vb_const_iterator<_Alvbase_wrapped>::difference_type _Off,
-    _Vb_const_iterator<_Alvbase_wrapped> _Right) noexcept {
-    return _Right += _Off;
-}
-
-
-template <class _Alvbase_wrapped>
-class _Vb_iterator : public _Vb_const_iterator<_Alvbase_wrapped> {
-public:
-    using _Mybase          = _Vb_const_iterator<_Alvbase_wrapped>;
-    using _Mycont          = typename _Mybase::_Mycont;
-    using _Difference_type = typename _Mybase::_Difference_type;
-
-    using _Reft           = _Vb_reference<_Alvbase_wrapped>;
-    using const_reference = bool;
-
-    using iterator_category = random_access_iterator_tag;
-    using value_type        = bool;
-    using difference_type   = typename _Mybase::difference_type;
-    using pointer           = _Reft*;
-    using reference         = _Reft;
-
-    using _Mybase::_Mybase;
-
-    [[nodiscard]] inline reference operator*() const noexcept {
-
-        const auto _Cont = static_cast<const _Mycont*>(this->_Getcont());
-        do { if (_Cont) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2332, 0, "%s", "cannot dereference value-initialized vector<bool> iterator")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"cannot dereference value-initialized vector<bool> iterator\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2332, 0); } while (false); } ; } while (false);
-        do { if (this->_Total_off(_Cont) < static_cast<_Difference_type>(_Cont->_Mysize)) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2334, 0, "%s", "vector<bool> iterator not dereferenceable")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> iterator not dereferenceable\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2334, 0); } while (false); } ; } while (false);
-#line 2335 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 2336 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return _Reft(*this);
-    }
-
-    
-    inline _Vb_iterator& operator=(const _Vb_iterator&) noexcept = default;
-
-    inline _Vb_iterator& operator++() noexcept {
-        _Mybase::operator++();
-        return *this;
-    }
-
-    inline _Vb_iterator operator++(int) noexcept {
-        _Vb_iterator _Tmp = *this;
-        _Mybase::operator++();
-        return _Tmp;
-    }
-
-    inline _Vb_iterator& operator--() noexcept {
-        _Mybase::operator--();
-        return *this;
-    }
-
-    inline _Vb_iterator operator--(int) noexcept {
-        _Vb_iterator _Tmp = *this;
-        _Mybase::operator--();
-        return _Tmp;
-    }
-
-    inline _Vb_iterator& operator+=(const difference_type _Off) noexcept {
-        _Mybase::operator+=(_Off);
-        return *this;
-    }
-
-    [[nodiscard]] inline _Vb_iterator operator+(const difference_type _Off) const noexcept {
-        _Vb_iterator _Tmp = *this;
-        _Tmp += _Off; 
-        return _Tmp;
-    }
-
-    inline _Vb_iterator& operator-=(const difference_type _Off) noexcept {
-        _Mybase::operator-=(_Off);
-        return *this;
-    }
-
-    using _Mybase::operator-;
-
-    [[nodiscard]] inline _Vb_iterator operator-(const difference_type _Off) const noexcept {
-        _Vb_iterator _Tmp = *this;
-        _Tmp -= _Off; 
-        return _Tmp;
-    }
-
-    [[nodiscard]] inline reference operator[](const difference_type _Off) const noexcept {
-        return *(*this + _Off);
-    }
-
-    using _Prevent_inheriting_unwrap = _Vb_iterator;
-};
-
-template <class _Alvbase_wrapped>
-[[nodiscard]] inline _Vb_iterator<_Alvbase_wrapped> operator+(
-    typename _Vb_iterator<_Alvbase_wrapped>::difference_type _Off, _Vb_iterator<_Alvbase_wrapped> _Right) noexcept {
-    return _Right += _Off;
-}
-
-
-template <class _Alloc>
-class _Vb_val : public _Container_base {
-public:
-    using _Alvbase         = _Rebind_alloc_t<_Alloc, _Vbase>;
-    using _Alvbase_traits  = allocator_traits<_Alvbase>;
-    using _Vectype         = vector<_Vbase, _Alvbase>;
-    using _Alvbase_wrapped = _Wrap_alloc<_Alvbase>;
-    using size_type        = typename _Alvbase_traits::size_type;
-
-    inline _Vb_val() noexcept(is_nothrow_default_constructible_v<_Vectype>) : _Myvec(), _Mysize(0) {
-        this->_Alloc_proxy(static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(_Getal()));
-    }
-
-    inline _Vb_val(const _Alloc& _Al) noexcept(is_nothrow_constructible_v<_Vectype, _Alvbase>)
-        : _Myvec(static_cast<_Alvbase>(_Al)), _Mysize(0) {
-        this->_Alloc_proxy(static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(_Getal()));
-    }
-
-    inline _Vb_val(size_type _Count, const bool& _Val)
-        : _Myvec(_Nw(_Count), static_cast<_Vbase>(_Val ? -1 : 0)), _Mysize(0) {
-        this->_Alloc_proxy(static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(_Getal()));
-    }
-
-    inline _Vb_val(size_type _Count, const bool& _Val, const _Alloc& _Al)
-        : _Myvec(_Nw(_Count), static_cast<_Vbase>(_Val ? -1 : 0), static_cast<_Alvbase>(_Al)), _Mysize(0) {
-        this->_Alloc_proxy(static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(_Getal()));
-    }
-
-    inline _Vb_val(const _Vb_val& _Right) : _Myvec(_Right._Myvec), _Mysize(_Right._Mysize) {
-        this->_Alloc_proxy(static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(_Getal()));
-    }
-
-    inline _Vb_val(const _Vb_val& _Right, const _Alloc& _Al)
-        : _Myvec(_Right._Myvec, static_cast<_Alvbase>(_Al)), _Mysize(_Right._Mysize) {
-        this->_Alloc_proxy(static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(_Getal()));
-    }
-
-    inline _Vb_val(_Vb_val&& _Right) noexcept(is_nothrow_move_constructible_v<_Vectype>)
-        : _Myvec(::std:: move(_Right._Myvec)), _Mysize(::std:: exchange(_Right._Mysize, size_type{0})) {
-        this->_Alloc_proxy(static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(_Getal()));
-    }
-
-    inline _Vb_val(_Vb_val&& _Right, const _Alloc& _Al) noexcept(
-        is_nothrow_constructible_v<_Vectype, _Vectype, _Alvbase>)
-        : _Myvec(::std:: move(_Right._Myvec), static_cast<_Alvbase>(_Al)), _Mysize(_Right._Mysize) {
-        if (_Right._Myvec.empty()) {
-            
-            _Right._Mysize = 0;
-        }
-
-        this->_Alloc_proxy(static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(_Getal()));
-    }
-
-    inline ~_Vb_val() noexcept {
-
-        this->_Orphan_all();
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Alvbase, _Container_proxy>>(this->_Getal());
-        _Delete_plain_internal(_Alproxy, ::std:: exchange(this->_Myproxy, nullptr));
-#line 2462 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-
-    inline _Alvbase& _Getal() noexcept {
-        return _Myvec._Getal();
-    }
-
-    inline const _Alvbase& _Getal() const noexcept {
-        return _Myvec._Getal();
-    }
-
-    static inline size_type _Nw(size_type _Count) noexcept {
-        return (_Count + _VBITS - 1) / _VBITS;
-    }
-
-    _Vectype _Myvec; 
-    size_type _Mysize; 
-};
-
-
-template <class _Alloc>
-class vector<bool, _Alloc> : public _Vb_val<_Alloc> {
-public:
-    static_assert(!0 || is_same_v<bool, typename _Alloc::value_type>,
-        "vector<bool, Allocator>" " requires that Allocator's value_type match " "bool" " (See N4659 26.2.1 [container.requirements.general]/16 allocator_type)" " Either fix the allocator value_type or define _ENFORCE_MATCHING_ALLOCATORS=0" " to suppress this diagnostic.");
-
-    using _Mybase          = _Vb_val<_Alloc>;
-    using _Alvbase_wrapped = typename _Mybase::_Alvbase_wrapped;
-    using _Alvbase         = typename _Mybase::_Alvbase;
-    using _Alvbase_traits  = typename _Mybase::_Alvbase_traits;
-
-    using size_type       = typename _Alvbase_traits::size_type;
-    using difference_type = typename _Alvbase_traits::difference_type;
-    using allocator_type  = _Alloc;
-
-    using reference       = _Vb_reference<_Alvbase_wrapped>;
-    using const_reference = bool;
-    using value_type      = bool;
-
-    using _Reft          = reference;
-    using iterator       = _Vb_iterator<_Alvbase_wrapped>;
-    using const_iterator = _Vb_const_iterator<_Alvbase_wrapped>;
-
-    using pointer                = iterator;
-    using const_pointer          = const_iterator;
-    using reverse_iterator       = ::std:: reverse_iterator<iterator>;
-    using const_reverse_iterator = ::std:: reverse_iterator<const_iterator>;
-
-    static const int _VBITS = ::std:: _VBITS;
-    enum { _EEN_VBITS = _VBITS }; 
-
-    inline vector() noexcept(is_nothrow_default_constructible_v<_Mybase>) 
-        : _Mybase() {}
-
-    inline explicit vector(const _Alloc& _Al) noexcept(
-        is_nothrow_constructible_v<_Mybase, const _Alloc&>) 
-        : _Mybase(_Al) {}
-
-    inline explicit vector(__declspec(guard(overflow)) size_type _Count, const _Alloc& _Al = _Alloc())
-        : _Mybase(_Count, false, _Al) {
-        _Trim(_Count);
-    }
-
-    inline vector(__declspec(guard(overflow)) size_type _Count, const bool& _Val, const _Alloc& _Al = _Alloc())
-        : _Mybase(_Count, _Val, _Al) {
-        _Trim(_Count);
-    }
-
-    inline vector(const vector& _Right) : _Mybase(_Right) {}
-
-    inline vector(const vector& _Right, const _Alloc& _Al) : _Mybase(_Right, _Al) {}
-
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    inline vector(_Iter _First, _Iter _Last, const _Alloc& _Al = _Alloc()) : _Mybase(_Al) {
-        _BConstruct(_First, _Last);
-    }
-
-    template <class _Iter>
-    inline void _BConstruct(_Iter _First, _Iter _Last) {
-        insert(begin(), _First, _Last);
-    }
-
-    inline vector(vector&& _Right) noexcept(is_nothrow_move_constructible_v<_Mybase>) 
-        : _Mybase(::std:: move(_Right)) {
-        this->_Swap_proxy_and_iterators(_Right);
-    }
-
-    inline vector(vector&& _Right, const _Alloc& _Al) noexcept(
-        is_nothrow_constructible_v<_Mybase, _Mybase, const _Alloc&>)
-        : _Mybase(::std:: move(_Right), _Al) {
-        if constexpr (!_Alvbase_traits::is_always_equal::value) {
-            if (this->_Getal() != _Right._Getal()) {
-                return;
-            }
-        }
-
-        this->_Swap_proxy_and_iterators(_Right);
-    }
-
-private:
-
-    inline void _Move_assign(vector& _Right, _Equal_allocators) noexcept {
-        this->_Myvec  = ::std:: move(_Right._Myvec);
-        this->_Mysize = ::std:: exchange(_Right._Mysize, size_type{0});
-        this->_Swap_proxy_and_iterators(_Right);
-    }
-
-    inline void _Move_assign(vector& _Right, _Propagate_allocators) noexcept {
-        using _Alproxy_type = _Rebind_alloc_t<_Alvbase, _Container_proxy>;
-        if (this->_Getal() != _Right._Getal()) { 
-            
-            _Alproxy_type _Oldal(this->_Getal());
-            _Alproxy_type _Right_proxy_al(_Right._Getal());
-            _Container_proxy_ptr<_Alvbase> _Proxy(_Right_proxy_al, _Leave_proxy_unbound{});
-            this->_Myvec  = ::std:: move(_Right._Myvec);
-            this->_Mysize = ::std:: exchange(_Right._Mysize, size_type{0});
-            _Proxy._Bind(_Oldal, this);
-            this->_Swap_proxy_and_iterators(_Right);
-            return;
-        }
-
-        this->_Myvec  = ::std:: move(_Right._Myvec);
-        this->_Mysize = ::std:: exchange(_Right._Mysize, size_type{0});
-        this->_Swap_proxy_and_iterators(_Right);
-    }
-
-    inline void _Move_assign(vector& _Right, _No_propagate_allocators) {
-        this->_Myvec  = ::std:: move(_Right._Myvec);
-        this->_Mysize = _Right._Mysize;
-        if (_Right._Myvec.empty()) {
-            
-            _Right._Mysize = 0;
-        }
-
-        if (this->_Getal() == _Right._Getal()) {
-            this->_Swap_proxy_and_iterators(_Right);
-        }
-    }
-#line 2600 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-public:
-    inline vector& operator=(vector&& _Right) noexcept(is_nothrow_move_assignable_v<_Mybase>) {
-        if (this != ::std:: addressof(_Right)) {
-
-
-
-#line 2608 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-            this->_Orphan_all();
-            _Move_assign(_Right, _Choose_pocma<_Alvbase>{});
-#line 2611 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        }
-        return *this;
-    }
-
-    template <class... _Valty>
-    inline decltype(auto) emplace_back(_Valty&&... _Val) {
-        bool _Tmp(::std:: forward<_Valty>(_Val)...);
-        push_back(_Tmp);
-
-
-
-#line 2623 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-    }
-
-    template <class... _Valty>
-    inline iterator emplace(const_iterator _Where, _Valty&&... _Val) {
-        bool _Tmp(::std:: forward<_Valty>(_Val)...);
-        return insert(_Where, _Tmp);
-    }
-
-    inline vector(initializer_list<bool> _Ilist, const _Alloc& _Al = allocator_type())
-        : _Mybase(0, false, _Al) {
-        insert(begin(), _Ilist.begin(), _Ilist.end());
-    }
-
-    inline vector& operator=(initializer_list<bool> _Ilist) {
-        assign(_Ilist.begin(), _Ilist.end());
-        return *this;
-    }
-
-    inline void assign(initializer_list<bool> _Ilist) {
-        assign(_Ilist.begin(), _Ilist.end());
-    }
-
-    inline iterator insert(const_iterator _Where, initializer_list<bool> _Ilist) {
-        return insert(_Where, _Ilist.begin(), _Ilist.end());
-    }
-
-    inline ~vector() noexcept {}
-
-private:
-
-    inline void _Copy_assign(const vector& _Right, false_type) {
-        this->_Myvec  = _Right._Myvec;
-        this->_Mysize = _Right._Mysize;
-    }
-
-    inline void _Copy_assign(const vector& _Right, true_type) {
-        if (this->_Getal() == _Right._Getal()) {
-            _Copy_assign(_Right, false_type{});
-        } else {
-            
-            using _Alproxy_type = _Rebind_alloc_t<_Alvbase, _Container_proxy>;
-            _Alproxy_type _Oldal(this->_Getal());
-            _Alproxy_type _Right_proxy_al(_Right._Getal());
-            _Container_proxy_ptr<_Alvbase> _Proxy(_Right_proxy_al, _Leave_proxy_unbound{});
-            this->_Myvec  = _Right._Myvec;
-            this->_Mysize = _Right._Mysize;
-            _Proxy._Bind(_Oldal, this);
-        }
-    }
-#line 2673 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-public:
-    inline vector& operator=(const vector& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-
-
-
-#line 2681 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-            this->_Orphan_all();
-            _Copy_assign(_Right, _Choose_pocca<_Alvbase>{});
-#line 2684 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        }
-
-        return *this;
-    }
-
-    inline void reserve(__declspec(guard(overflow)) size_type _Count) {
-        this->_Myvec.reserve(this->_Nw(_Count));
-    }
-
-    [[nodiscard]] inline size_type capacity() const noexcept {
-        return this->_Myvec.capacity() * _VBITS;
-    }
-
-    [[nodiscard]] inline iterator begin() noexcept {
-        return iterator(this->_Myvec.data(), this);
-    }
-
-    [[nodiscard]] inline const_iterator begin() const noexcept {
-        return const_iterator(this->_Myvec.data(), this);
-    }
-
-    [[nodiscard]] inline iterator end() noexcept {
-        return begin() + static_cast<difference_type>(this->_Mysize);
-    }
-
-    [[nodiscard]] inline const_iterator end() const noexcept {
-        return begin() + static_cast<difference_type>(this->_Mysize);
-    }
-
-    [[nodiscard]] inline const_iterator cbegin() const noexcept {
-        return begin();
-    }
-
-    [[nodiscard]] inline const_iterator cend() const noexcept {
-        return end();
-    }
-
-    [[nodiscard]] inline const_reverse_iterator crbegin() const noexcept {
-        return rbegin();
-    }
-
-    [[nodiscard]] inline const_reverse_iterator crend() const noexcept {
-        return rend();
-    }
-
-    [[nodiscard]] inline iterator _Unchecked_begin() noexcept {
-        return iterator(this->_Myvec.data(), this);
-    }
-
-    [[nodiscard]] inline const_iterator _Unchecked_begin() const noexcept {
-        return const_iterator(this->_Myvec.data(), this);
-    }
-
-    [[nodiscard]] inline iterator _Unchecked_end() noexcept {
-        return _Unchecked_begin() + static_cast<difference_type>(this->_Mysize);
-    }
-
-    [[nodiscard]] inline const_iterator _Unchecked_end() const noexcept {
-        return _Unchecked_begin() + static_cast<difference_type>(this->_Mysize);
-    }
-
-    inline void shrink_to_fit() {
-        if (this->_Myvec.capacity() != this->_Myvec.size()) {
-            this->_Orphan_all();
-            this->_Myvec.shrink_to_fit();
-        }
-    }
-
-    inline iterator _Make_iter(const_iterator _Where) noexcept {
-        iterator _Tmp = begin();
-        if (0 < this->_Mysize) {
-            _Tmp += _Where - begin();
-        }
-
-        return _Tmp;
-    }
-
-    [[nodiscard]] inline reverse_iterator rbegin() noexcept {
-        return reverse_iterator(end());
-    }
-
-    [[nodiscard]] inline const_reverse_iterator rbegin() const noexcept {
-        return const_reverse_iterator(end());
-    }
-
-    [[nodiscard]] inline reverse_iterator rend() noexcept {
-        return reverse_iterator(begin());
-    }
-
-    [[nodiscard]] inline const_reverse_iterator rend() const noexcept {
-        return const_reverse_iterator(begin());
-    }
-
-    inline void resize(__declspec(guard(overflow)) size_type _Newsize, bool _Val = false) {
-        if (size() < _Newsize) {
-            _Insert_n(end(), _Newsize - size(), _Val);
-        } else if (_Newsize < size()) {
-            erase(begin() + static_cast<difference_type>(_Newsize), end());
-        }
-    }
-
-    [[nodiscard]] inline size_type size() const noexcept {
-        return this->_Mysize;
-    }
-
-    [[nodiscard]] inline size_type max_size() const noexcept {
-        constexpr auto _Diff_max  = static_cast<size_type>((numeric_limits<difference_type>::max)());
-        const size_type _Ints_max = this->_Myvec.max_size();
-        if (_Ints_max > _Diff_max / _VBITS) { 
-            return _Diff_max;
-        }
-
-        
-        return _Ints_max * _VBITS;
-    }
-
-    [[nodiscard]] inline bool empty() const noexcept {
-        return size() == 0;
-    }
-
-    [[nodiscard]] inline allocator_type get_allocator() const noexcept {
-        return static_cast<allocator_type>(this->_Myvec.get_allocator());
-    }
-
-    [[nodiscard]] inline const_reference at(size_type _Off) const {
-        if (size() <= _Off) {
-            _Xran();
-        }
-
-        return (*this)[_Off];
-    }
-
-    [[nodiscard]] inline reference at(size_type _Off) {
-        if (size() <= _Off) {
-            _Xran();
-        }
-
-        return (*this)[_Off];
-    }
-
-    [[nodiscard]] inline const_reference operator[](size_type _Off) const noexcept  {
-
-        do { if (_Off < this->_Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2826, 0, "%s", "vector<bool> subscript out of range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> subscript out of range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2826, 0); } while (false); } ; } while (false);
-#line 2828 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        const_iterator _It = begin();
-        _It._Advance(_Off);
-        return *_It;
-    }
-
-    [[nodiscard]] inline reference operator[](size_type _Off) noexcept  {
-
-        do { if (_Off < this->_Mysize) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2836, 0, "%s", "vector<bool> subscript out of range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> subscript out of range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2836, 0); } while (false); } ; } while (false);
-#line 2838 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        iterator _It = begin();
-        _It._Advance(_Off);
-        return *_It;
-    }
-
-    [[nodiscard]] inline reference front() noexcept  {
-
-        do { if (this->_Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2846, 0, "%s", "front() called on empty vector<bool>")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"front() called on empty vector<bool>\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2846, 0); } while (false); } ; } while (false);
-#line 2848 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return *begin();
-    }
-
-    [[nodiscard]] inline const_reference front() const noexcept  {
-
-        do { if (this->_Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2854, 0, "%s", "front() called on empty vector<bool>")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"front() called on empty vector<bool>\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2854, 0); } while (false); } ; } while (false);
-#line 2856 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return *begin();
-    }
-
-    [[nodiscard]] inline reference back() noexcept  {
-
-        do { if (this->_Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2862, 0, "%s", "back() called on empty vector<bool>")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"back() called on empty vector<bool>\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2862, 0); } while (false); } ; } while (false);
-#line 2864 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return *(end() - 1);
-    }
-
-    [[nodiscard]] inline const_reference back() const noexcept  {
-
-        do { if (this->_Mysize != 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2870, 0, "%s", "back() called on empty vector<bool>")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"back() called on empty vector<bool>\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2870, 0); } while (false); } ; } while (false);
-#line 2872 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        return *(end() - 1);
-    }
-
-    inline void push_back(const bool& _Val) {
-        insert(end(), _Val);
-    }
-
-    inline void pop_back() noexcept  {
-        erase(end() - 1);
-    }
-
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    inline void assign(_Iter _First, _Iter _Last) {
-        clear();
-        insert(begin(), _First, _Last);
-    }
-
-    inline void assign(__declspec(guard(overflow)) size_type _Count, const bool& _Val) {
-        clear();
-        _Insert_n(begin(), _Count, _Val);
-    }
-
-    inline iterator insert(const_iterator _Where, const bool& _Val) {
-        return _Insert_n(_Where, static_cast<size_type>(1), _Val);
-    }
-
-    inline iterator insert(
-        const_iterator _Where, __declspec(guard(overflow)) size_type _Count, const bool& _Val) {
-        return _Insert_n(_Where, _Count, _Val);
-    }
-
-    template <class _Iter, enable_if_t<_Is_iterator_v<_Iter>, int> = 0>
-    inline iterator insert(const_iterator _Where, _Iter _First, _Iter _Last) {
-        difference_type _Off = _Where - begin();
-        _Insert(_Where, _First, _Last, _Iter_cat_t<_Iter>{});
-        return begin() + _Off;
-    }
-
-    template <class _Iter>
-    inline void _Insert(const_iterator _Where, _Iter _First, _Iter _Last, input_iterator_tag) {
-        difference_type _Off = _Where - begin();
-
-        for (; _First != _Last; ++_First, (void) ++_Off) {
-            insert(begin() + _Off, *_First);
-        }
-    }
-
-    template <class _Iter>
-    inline void _Insert(const_iterator _Where, _Iter _First, _Iter _Last, forward_iterator_tag) {
-        _Adl_verify_range(_First, _Last);
-        auto _Count    = _Convert_size<size_type>(static_cast<size_t>(::std:: distance(_First, _Last)));
-        size_type _Off = _Insert_x(_Where, _Count);
-        _Copy_unchecked(_Get_unwrapped(_First), _Get_unwrapped(_Last), begin() + static_cast<difference_type>(_Off));
-    }
-
-    inline iterator erase(const_iterator _Where_arg) noexcept  {
-        iterator _Where      = _Make_iter(_Where_arg);
-        difference_type _Off = _Where - begin();
-
-
-        do { if (end() > _Where) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2933, 0, "%s", "vector<bool> erase iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> erase iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2933, 0); } while (false); } ; } while (false);
-        ::std:: copy(_Next_iter(_Where), end(), _Where);
-        _Orphan_range(static_cast<size_type>(_Off), this->_Mysize);
-
-
-
-#line 2940 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        _Trim(this->_Mysize - 1);
-        return begin() + _Off;
-    }
-
-    inline iterator erase(const_iterator _First_arg, const_iterator _Last_arg) noexcept
-     {
-        iterator _First      = _Make_iter(_First_arg);
-        iterator _Last       = _Make_iter(_Last_arg);
-        difference_type _Off = _First - begin();
-
-        if (_First != _Last) { 
-
-            do { if (_Last >= _First && end() >= _Last) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2953, 0, "%s", "vector<bool> erase iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> erase iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 2953, 0); } while (false); } ; } while (false);
-            iterator _Next      = ::std:: copy(_Last, end(), _First);
-            const auto _Newsize = static_cast<size_type>(_Next - begin());
-            _Orphan_range(_Newsize, this->_Mysize);
-            _Trim(_Newsize);
-
-
-
-
-#line 2963 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        }
-        return begin() + _Off;
-    }
-
-    inline void clear() noexcept {
-        this->_Orphan_all();
-        this->_Myvec.clear();
-        this->_Mysize = 0;
-    }
-
-    inline void flip() noexcept { 
-        for (auto& _Elem : this->_Myvec) {
-            _Elem = ~_Elem;
-        }
-
-        _Trim(this->_Mysize);
-    }
-
-    inline void swap(vector& _Right) noexcept  {
-        if (this != ::std:: addressof(_Right)) {
-            this->_Swap_proxy_and_iterators(_Right);
-            this->_Myvec.swap(_Right._Myvec);
-            ::std:: swap(this->_Mysize, _Right._Mysize);
-        }
-    }
-
-    static inline void swap(reference _Left, reference _Right) noexcept {
-        bool _Val = _Left; 
-        _Left     = _Right;
-        _Right    = _Val;
-    }
-
-    friend hash<vector<bool, _Alloc>>;
-
-    inline iterator _Insert_n(const_iterator _Where, size_type _Count, const bool& _Val) {
-        size_type _Off     = _Insert_x(_Where, _Count);
-        const auto _Result = begin() + static_cast<difference_type>(_Off);
-        ::std:: fill(_Result, _Result + static_cast<difference_type>(_Count), _Val);
-        return _Result;
-    }
-
-    inline size_type _Insert_x(const_iterator _Where, size_type _Count) {
-        difference_type _Off = _Where - begin();
-
-
-        do { if (end() >= _Where) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 3008, 0, "%s", "vector<bool> insert iterator outside range")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"vector<bool> insert iterator outside range\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector", 3008, 0); } while (false); } ; } while (false);
-        bool _Realloc = capacity() - size() < _Count;
-#line 3011 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-        if (_Count != 0) {
-            if (max_size() - size() < _Count) {
-                _Xlen(); 
-            }
-
-            
-            this->_Myvec.resize(this->_Nw(size() + _Count), 0);
-            if (empty()) {
-                this->_Mysize += _Count;
-            } else { 
-                iterator _Oldend = end();
-                this->_Mysize += _Count;
-                ::std:: copy_backward(begin() + _Off, _Oldend, end());
-            }
-
-
-            _Orphan_range(static_cast<size_type>(_Realloc ? 0 : _Off), this->_Mysize);
-#line 3030 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-        }
-
-        return static_cast<size_type>(_Off);
-    }
-
-
-    inline void _Orphan_range_unlocked(size_type _Offlo, size_type _Offhi) const {
-        const auto _Base = this->_Myvec.data();
-
-        _Iterator_base12** _Pnext = &this->_Myproxy->_Myfirstiter;
-        while (*_Pnext) { 
-            const auto& _Pnextiter = static_cast<const_iterator&>(**_Pnext);
-            const auto _Temp       = *_Pnext; 
-            if (!_Pnextiter._Myptr) { 
-                _Temp->_Myproxy = nullptr;
-                *_Pnext         = _Temp->_Mynextiter;
-                continue;
-            }
-            const auto _Off = static_cast<size_type>(_VBITS * (_Pnextiter._Myptr - _Base)) + _Pnextiter._Myoff;
-            if (_Off < _Offlo || _Offhi < _Off) {
-                _Pnext = &_Temp->_Mynextiter;
-            } else { 
-                _Temp->_Myproxy = nullptr;
-                *_Pnext         = _Temp->_Mynextiter;
-            }
-        }
-    }
-
-    void _Orphan_range_locked(size_type _Offlo, size_type _Offhi) const {
-        _Lockit _Lock(3);
-        _Orphan_range_unlocked(_Offlo, _Offhi);
-    }
-
-    inline void _Orphan_range(size_type _Offlo, size_type _Offhi) const {
-
-
-
-
-
-        {
-            _Orphan_range_locked(_Offlo, _Offhi);
-        }
-    }
-#line 3074 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-    inline void _Trim(size_type _Size) {
-        if (max_size() < _Size) {
-            _Xlen(); 
-        }
-
-        const size_type _Words = this->_Nw(_Size);
-        if (_Words < this->_Myvec.size()) {
-            this->_Myvec.erase(this->_Myvec.begin() + static_cast<difference_type>(_Words), this->_Myvec.end());
-        }
-
-        this->_Mysize = _Size;
-        _Size %= _VBITS;
-        if (0 < _Size) {
-            this->_Myvec[_Words - 1] &= (static_cast<_Vbase>(1) << _Size) - 1;
-        }
-    }
-
-    [[noreturn]] void _Xlen() const {
-        _Xlength_error("vector<bool> too long");
-    }
-
-    [[noreturn]] void _Xran() const {
-        _Xout_of_range("invalid vector<bool> subscript");
-    }
-};
-
-
-template <class _Alloc>
-struct hash<vector<bool, _Alloc>> {
-     typedef vector<bool, _Alloc> argument_type;
-     typedef size_t result_type;
-
-    [[nodiscard]] size_t operator()(const vector<bool, _Alloc>& _Keyval) const noexcept {
-        return _Hash_array_representation(_Keyval._Myvec.data(), _Keyval._Myvec.size());
-    }
-};
-
-
-
-
-
-
-#line 3118 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-
-
-template <class _Alloc, bool _RequiresMutable>
- constexpr bool _Is_vb_iterator<_Vb_iterator<_Alloc>, _RequiresMutable> = true;
-
-template <class _Alloc>
- constexpr bool _Is_vb_iterator<_Vb_const_iterator<_Alloc>, false> = true;
-
-template <class _FwdIt, class _Ty>
-inline void _Fill_vbool(_FwdIt _First, _FwdIt _Last, const _Ty& _Val) {
-    
-    if (_First == _Last) {
-        return;
-    }
-
-    _Vbase* _VbFirst      = const_cast<_Vbase*>(_First._Myptr);
-    _Vbase* const _VbLast = const_cast<_Vbase*>(_Last._Myptr);
-
-    const auto _FirstSourceMask = static_cast<_Vbase>(-1) << _First._Myoff;
-    const auto _FirstDestMask   = ~_FirstSourceMask;
-    const auto _FillVal         = static_cast<_Vbase>(_Val ? -1 : 0);
-
-    if (_VbFirst == _VbLast) {
-        
-        const auto _LastSourceMask = static_cast<_Vbase>(-1) >> (_VBITS - _Last._Myoff);
-        const auto _LastDestMask   = ~_LastSourceMask;
-        const auto _SourceMask     = _FirstSourceMask & _LastSourceMask;
-        const auto _DestMask       = _FirstDestMask | _LastDestMask;
-        *_VbFirst                  = (*_VbFirst & _DestMask) | (_FillVal & _SourceMask);
-        return;
-    }
-
-    *_VbFirst = (*_VbFirst & _FirstDestMask) | (_FillVal & _FirstSourceMask);
-    ++_VbFirst;
-
-
-
-
-
-
-
-
-    {
-        const auto _VbFirst_ch = reinterpret_cast<const char*>(_VbFirst);
-        const auto _VbLast_ch  = reinterpret_cast<const char*>(_VbLast);
-        const auto _Count_ch   = static_cast<size_t>(_VbLast_ch - _VbFirst_ch);
-        const auto _ValChar    = static_cast<unsigned char>(_Val ? -1 : 0);
-        :: memset(_VbFirst, _ValChar, _Count_ch);
-        _VbFirst = _VbLast;
-    }
-
-    if (_Last._Myoff != 0) {
-        const auto _LastSourceMask = static_cast<_Vbase>(-1) >> (_VBITS - _Last._Myoff);
-        const auto _LastDestMask   = ~_LastSourceMask;
-        *_VbFirst                  = (*_VbFirst & _LastDestMask) | (_FillVal & _LastSourceMask);
-    }
-}
-}
-
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 3182 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#line 3183 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vector"
-#pragma external_header(pop)
-#line 17 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xbit_ops.h"
-
-
-
-
-
-#pragma once
-
-
-
-
-
-
-
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-namespace std {
-
-[[nodiscard]] inline unsigned long _Floor_of_log_2(size_t _Value) noexcept { 
-    _Value |= size_t{1}; 
-    unsigned long _Result;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    _BitScanReverse(&_Result, _Value);
-#line 45 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xbit_ops.h"
-#line 46 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xbit_ops.h"
-
-    return _Result;
-}
-
-[[nodiscard]] inline unsigned long _Ceiling_of_log_2(const size_t _Value) noexcept { 
-                                                                                  
-    return 1 + _Floor_of_log_2(_Value - 1);
-}
-
-[[nodiscard]] inline uint32_t _Bit_scan_reverse(const uint32_t _Value) noexcept {
-    unsigned long _Index; 
-
-    if (_BitScanReverse(&_Index, _Value)) {
-        return _Index + 1;
-    }
-
-    return 0;
-}
-
-[[nodiscard]] inline uint32_t _Bit_scan_reverse(const uint64_t _Value) noexcept {
-    unsigned long _Index; 
-
-
-
-
-
-
-    uint32_t _Ui32 = static_cast<uint32_t>(_Value >> 32);
-
-    if (_BitScanReverse(&_Index, _Ui32)) {
-        return _Index + 1 + 32;
-    }
-
-    _Ui32 = static_cast<uint32_t>(_Value);
-
-    if (_BitScanReverse(&_Index, _Ui32)) {
-        return _Index + 1;
-    }
-#line 85 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xbit_ops.h"
-
-    return 0;
-}
-
-}
-
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 96 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xbit_ops.h"
-#line 97 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xbit_ops.h"
-#pragma external_header(pop)
-#line 18 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-
-
-
-
-#line 23 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-namespace stdext {
-    using ::std:: basic_string;
-    using ::std:: less;
-    using ::std:: size_t;
-
-    
-    template <class _Kty>
-    [[nodiscard]] size_t hash_value(const _Kty& _Keyval) noexcept {
-        if constexpr (::std:: is_pointer_v<_Kty> || ::std:: is_null_pointer_v<_Kty>) {
-            return reinterpret_cast<size_t>(_Keyval) ^ 0xdeadbeefu;
-        } else {
-            return static_cast<size_t>(_Keyval) ^ 0xdeadbeefu;
-        }
-    }
-
-    template <class _Elem, class _Traits, class _Alloc>
-    [[nodiscard]] size_t hash_value(const basic_string<_Elem, _Traits, _Alloc>& _Str) noexcept {
-        return ::std:: _Hash_array_representation(_Str.c_str(), _Str.size());
-    }
-
-    [[nodiscard]] inline size_t hash_value(  const char* _Str) noexcept {
-        return ::std:: _Hash_array_representation(_Str, :: strlen(_Str));
-    }
-
-    [[nodiscard]] inline size_t hash_value(  const wchar_t* _Str) noexcept {
-        return ::std:: _Hash_array_representation(_Str, :: wcslen(_Str));
-    }
-
-    
-    template <class _Kty, class _Pr = less<_Kty>>
-    class hash_compare { 
-    public:
-        enum { 
-            bucket_size = 1 
-        };
-
-        hash_compare() = default;
-        hash_compare(const _Pr& _Pred) noexcept(::std:: is_nothrow_copy_constructible_v<_Pr>) : comp(_Pred) {}
-
-        [[nodiscard]] size_t operator()(const _Kty& _Keyval) const noexcept(noexcept(hash_value(_Keyval))) {
-            long _Quot   = static_cast<long>(hash_value(_Keyval) & 2147483647L); 
-            ldiv_t _Qrem = :: ldiv(_Quot, 127773);
-
-            _Qrem.rem = 16807 * _Qrem.rem - 2836 * _Qrem.quot;
-            if (_Qrem.rem < 0) {
-                _Qrem.rem += 2147483647L;
-            }
-
-            return static_cast<size_t>(_Qrem.rem);
-        }
-
-        [[nodiscard]] bool operator()(const _Kty& _Keyval1, const _Kty& _Keyval2) const
-            noexcept(noexcept(comp(_Keyval1, _Keyval2))) {
-            
-            return comp(_Keyval1, _Keyval2);
-        }
-
-        _Pr comp{}; 
-    };
-} 
-
-namespace std {
-using stdext::hash_compare; 
-
-template <class _Kty, class _Hasher, class _Keyeq, class = void>
-struct _Uhash_choose_transparency {
-    
-    template <class>
-    using _Deduce_key = const _Kty&;
-};
-
-
-
-
-
-
-
-
-
-#line 111 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-
-template <class _Hasher, class _Kty>
- constexpr bool _Nothrow_hash = noexcept(
-    static_cast<size_t>(::std:: declval<const _Hasher&>()(::std:: declval<const _Kty&>())));
-
-
-template <class _Kty, class _Hasher, class _Keyeq>
-class _Uhash_compare
-    : public _Uhash_choose_transparency<_Kty, _Hasher, _Keyeq> { 
-public:
-    enum { 
-        bucket_size = 1 
-    };
-
-    _Uhash_compare() noexcept(
-        conjunction_v<is_nothrow_default_constructible<_Hasher>, is_nothrow_default_constructible<_Keyeq>>)
-        : _Mypair(_Zero_then_variadic_args_t{}, _Zero_then_variadic_args_t{}, 0.0f) {}
-
-    explicit _Uhash_compare(const _Hasher& _Hasharg) noexcept(
-        conjunction_v<is_nothrow_copy_constructible<_Hasher>, is_nothrow_default_constructible<_Keyeq>>)
-        : _Mypair(_One_then_variadic_args_t{}, _Hasharg, _Zero_then_variadic_args_t{}, 0.0f) {}
-
-    explicit _Uhash_compare(const _Hasher& _Hasharg, const _Keyeq& _Keyeqarg) noexcept(
-        conjunction_v<is_nothrow_copy_constructible<_Hasher>, is_nothrow_copy_constructible<_Keyeq>>)
-        : _Mypair(_One_then_variadic_args_t{}, _Hasharg, _One_then_variadic_args_t{}, _Keyeqarg, 0.0f) {}
-
-    template <class _Keyty>
-    [[nodiscard]] size_t operator()(const _Keyty& _Keyval) const noexcept(_Nothrow_hash<_Hasher, _Keyty>) {
-        
-        return static_cast<size_t>(_Mypair._Get_first()(_Keyval));
-    }
-
-    template <class _Keyty1, class _Keyty2>
-    [[nodiscard]] bool operator()(const _Keyty1& _Keyval1, const _Keyty2& _Keyval2) const
-        noexcept(_Nothrow_compare<_Keyeq, _Keyty1, _Keyty2>) {
-        
-        return !static_cast<bool>(_Mypair._Myval2._Get_first()(_Keyval1, _Keyval2));
-    }
-
-    [[nodiscard]] float& _Get_max_bucket_size() noexcept {
-        return _Mypair._Myval2._Myval2;
-    }
-
-    [[nodiscard]] const float& _Get_max_bucket_size() const noexcept {
-        return _Mypair._Myval2._Myval2;
-    }
-
-    void swap(_Uhash_compare& _Rhs) noexcept(
-        conjunction_v<_Is_nothrow_swappable<_Hasher>, _Is_nothrow_swappable<_Keyeq>>) {
-        _Swap_adl(_Mypair._Get_first(), _Rhs._Mypair._Get_first());
-        auto& _Lsecond = _Mypair._Myval2;
-        auto& _Rsecond = _Rhs._Mypair._Myval2;
-        _Swap_adl(_Lsecond._Get_first(), _Rsecond._Get_first());
-        ::std:: swap(_Lsecond._Myval2, _Rsecond._Myval2);
-    }
-
-    _Compressed_pair<_Hasher, _Compressed_pair<_Keyeq, float>> _Mypair;
-};
-
-
-template <class _Iter, class _Val>
-struct _Reinterpret_move_iter {
-    _Iter _Base;
-
-    using iterator_category = input_iterator_tag;
-    using value_type        = typename iterator_traits<_Iter>::value_type;
-    using difference_type   = typename iterator_traits<_Iter>::difference_type;
-    using reference         = _Val&&;
-    
-
-    reference operator*() const {
-        return static_cast<reference>(reinterpret_cast<_Val&>(*_Base));
-    }
-
-    _Reinterpret_move_iter& operator++() {
-        ++_Base;
-        return *this;
-    }
-
-    
-
-
-    [[nodiscard]]
-#line 195 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-    friend bool operator==(const _Reinterpret_move_iter& _Lhs, const _Reinterpret_move_iter& _Rhs) {
-        return _Lhs._Base == _Rhs._Base;
-    }
-
-
-
-    [[nodiscard]]
-#line 203 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-    friend bool operator!=(const _Reinterpret_move_iter& _Lhs, const _Reinterpret_move_iter& _Rhs) {
-        return _Lhs._Base != _Rhs._Base;
-    }
-#line 207 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-};
-
-
-template <class _Alnode>
-struct _List_head_construct_ptr {
-    using value_type = typename _Alnode::value_type;
-    static_assert(_Is_specialization_v<value_type, _List_node>, "_List_head_construct_ptr allocator not rebound");
-    using _Alnode_traits = allocator_traits<_Alnode>;
-    using pointer        = typename _Alnode_traits::pointer;
-    _Alnode& _Al;
-    pointer _Newhead;
-
-    explicit _List_head_construct_ptr(_Alnode& _Al_) : _Al(_Al_), _Newhead(value_type::_Buyheadnode(_Al)) {}
-
-    template <class _Val_types>
-    _List_head_construct_ptr(_Alnode& _Al_, _List_val<_Val_types>& _Mycont)
-        : _Al(_Al_), _Newhead(value_type::_Buyheadnode(_Al)) {
-        _Mycont._Myhead = _Newhead;
-    }
-
-    _List_head_construct_ptr(const _List_head_construct_ptr&) = delete;
-    _List_head_construct_ptr& operator=(const _List_head_construct_ptr&) = delete;
-
-    [[nodiscard]] pointer _Release() noexcept {
-        return ::std:: exchange(_Newhead, nullptr);
-    }
-
-    ~_List_head_construct_ptr() {
-        if (_Newhead) {
-            value_type::_Freenode0(_Al, _Newhead);
-        }
-    }
-};
-
-template <class _Nodeptr>
-struct _Hash_find_last_result {
-    _Nodeptr _Insert_before;
-    _Nodeptr _Duplicate;
-};
-
-template <class _Aliter>
-struct _Hash_vec {
-    
-    using _Aliter_traits    = allocator_traits<_Aliter>;
-    using value_type        = typename _Aliter::value_type;
-    using size_type         = typename _Aliter_traits::size_type;
-    using difference_type   = typename _Aliter_traits::difference_type;
-    using pointer           = typename _Aliter_traits::pointer;
-    using _Aliter_scary_val = _Vector_val<conditional_t<_Is_simple_alloc_v<_Aliter>, _Simple_types<value_type>,
-        _Vec_iter_types<value_type, size_type, difference_type, pointer, typename _Aliter_traits::const_pointer,
-            value_type&, const value_type&>>>;
-
-    _Hash_vec() : _Mypair(_Zero_then_variadic_args_t{}) {
-        _Mypair._Myval2._Alloc_proxy(static_cast<_Rebind_alloc_t<_Aliter, _Container_proxy>>(_Mypair._Get_first()));
-    }
-
-    template <class _Any_alloc, enable_if_t<!is_same_v<_Remove_cvref_t<_Any_alloc>, _Hash_vec>, int> = 0>
-    explicit _Hash_vec(_Any_alloc&& _Al) noexcept
-        : _Mypair(_One_then_variadic_args_t{}, ::std:: forward<_Any_alloc>(_Al)) { 
-        _Mypair._Myval2._Alloc_proxy(static_cast<_Rebind_alloc_t<_Aliter, _Container_proxy>>(_Mypair._Get_first()));
-    }
-
-    _Hash_vec(const _Hash_vec&) = delete;
-    _Hash_vec& operator=(const _Hash_vec&) = delete;
-
-    [[nodiscard]] size_type size() const noexcept {
-        return static_cast<size_type>(_Mypair._Myval2._Mylast - _Mypair._Myval2._Myfirst);
-    }
-
-    [[nodiscard]] size_type max_size() const noexcept {
-        return (::std:: min)(static_cast<size_type>((numeric_limits<difference_type>::max)()),
-            _Aliter_traits::max_size(_Mypair._Get_first()));
-    }
-
-    void _Assign_grow(const size_type _Cells, const value_type _Val) {
-        
-        const auto _Oldsize = size();
-        ;
-        auto& _Alvec = _Mypair._Get_first();
-        if (_Oldsize < _Cells) {
-            const auto _Newvec = _Alvec.allocate(_Cells); 
-            
-            if (_Oldsize != 0) {
-                _Destroy_range(_Mypair._Myval2._Myfirst, _Mypair._Myval2._Mylast);
-                _Alvec.deallocate(_Mypair._Myval2._Myfirst, _Oldsize);
-            }
-
-            _Mypair._Myval2._Myfirst = _Newvec;
-            const auto _Newend       = _Newvec + _Cells;
-            _Mypair._Myval2._Mylast  = _Newend;
-            _Mypair._Myval2._Myend   = _Newend;
-            ::std:: uninitialized_fill(_Newvec, _Newend, _Val);
-        } else {
-            ::std:: fill(_Mypair._Myval2._Myfirst, _Mypair._Myval2._Mylast, _Val);
-        }
-    }
-
-    void _Tidy() noexcept {
-        _Destroy_range(_Mypair._Myval2._Myfirst, _Mypair._Myval2._Mylast);
-        _Mypair._Get_first().deallocate(_Mypair._Myval2._Myfirst, size());
-        _Mypair._Myval2._Myfirst = nullptr;
-        _Mypair._Myval2._Mylast  = nullptr;
-        _Mypair._Myval2._Myend   = nullptr;
-    }
-
-    ~_Hash_vec() {
-        _Tidy();
-
-        auto&& _Alproxy = static_cast<_Rebind_alloc_t<_Aliter, _Container_proxy>>(_Mypair._Get_first());
-        _Delete_plain_internal(_Alproxy, ::std:: exchange(_Mypair._Myval2._Myproxy, nullptr));
-#line 318 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-    }
-
-    _Compressed_pair<_Aliter, _Aliter_scary_val> _Mypair;
-};
-
-
-template <class _Traits>
-class _Hash { 
-protected:
-    using _Mylist             = list<typename _Traits::value_type, typename _Traits::allocator_type>;
-    using _Alnode             = typename _Mylist::_Alnode;
-    using _Alnode_traits      = typename _Mylist::_Alnode_traits;
-    using _Node               = typename _Mylist::_Node;
-    using _Nodeptr            = typename _Mylist::_Nodeptr;
-    using _Mutable_value_type = typename _Traits::_Mutable_value_type;
-
-    using _Key_compare   = typename _Traits::key_compare;
-    using _Value_compare = typename _Traits::value_compare;
-
-public:
-    using key_type = typename _Traits::key_type;
-
-    using value_type      = typename _Mylist::value_type;
-    using allocator_type  = typename _Mylist::allocator_type;
-    using size_type       = typename _Mylist::size_type;
-    using difference_type = typename _Mylist::difference_type;
-    using pointer         = typename _Mylist::pointer;
-    using const_pointer   = typename _Mylist::const_pointer;
-    using reference       = value_type&;
-    using const_reference = const value_type&;
-
-    using iterator =
-        conditional_t<is_same_v<key_type, value_type>, typename _Mylist::const_iterator, typename _Mylist::iterator>;
-    using const_iterator = typename _Mylist::const_iterator;
-
-    using _Unchecked_iterator       = conditional_t<is_same_v<key_type, value_type>,
-        typename _Mylist::_Unchecked_const_iterator, typename _Mylist::_Unchecked_iterator>;
-    using _Unchecked_const_iterator = typename _Mylist::_Unchecked_const_iterator;
-
-    using _Aliter = _Rebind_alloc_t<_Alnode, _Unchecked_iterator>;
-
-    static constexpr size_type _Bucket_size = _Key_compare::bucket_size;
-    static constexpr size_type _Min_buckets = 8; 
-    static constexpr bool _Multi            = _Traits::_Multi;
-
-    template <class _TraitsT>
-    friend bool _Hash_equal(const _Hash<_TraitsT>& _Left, const _Hash<_TraitsT>& _Right);
-
-protected:
-    _Hash(const _Key_compare& _Parg, const allocator_type& _Al)
-        : _Traitsobj(_Parg), _List(_Al), _Vec(_Al), _Mask(_Min_buckets - 1), _Maxidx(_Min_buckets) {
-        
-        _Max_bucket_size() = _Bucket_size;
-        _Vec._Assign_grow(_Min_buckets * 2, _List._Unchecked_end());
-
-
-
-    }
-
-    template <class _Any_alloc>
-    _Hash(const _Hash& _Right, const _Any_alloc& _Al)
-        : _Traitsobj(_Right._Traitsobj), _List(static_cast<allocator_type>(_Al)), _Vec(_Al), _Mask(_Right._Mask),
-          _Maxidx(_Right._Maxidx) {
-        
-        _Vec._Assign_grow(_Right._Vec.size(), _List._Unchecked_end());
-        insert(_Right._Unchecked_begin(), _Right._Unchecked_end());
-
-
-
-
-    }
-
-    _Hash(_Hash&& _Right)
-        : _Traitsobj(_Right._Traitsobj), _List(_Move_allocator_tag{}, _Right._List._Getal()),
-          _Vec(::std:: move(_Right._Vec._Mypair._Get_first())) {
-        _Vec._Assign_grow(_Min_buckets * 2, _Unchecked_end());
-        _List._Swap_val(_Right._List);
-        _Vec._Mypair._Myval2._Swap_val(_Right._Vec._Mypair._Myval2);
-        _Mask   = ::std:: exchange(_Right._Mask, _Min_buckets - 1);
-        _Maxidx = ::std:: exchange(_Right._Maxidx, _Min_buckets);
-
-
-
-
-    }
-
-private:
-    void _Move_construct_equal_alloc(_Hash& _Right) {
-        _Vec._Assign_grow(_Min_buckets * 2, _Unchecked_end());
-        _List._Swap_val(_Right._List);
-        _Vec._Mypair._Myval2._Swap_val(_Right._Vec._Mypair._Myval2);
-        _Mask   = ::std:: exchange(_Right._Mask, _Min_buckets - 1);
-        _Maxidx = ::std:: exchange(_Right._Maxidx, _Min_buckets);
-    }
-
-public:
-    _Hash(_Hash&& _Right, const allocator_type& _Al) : _Traitsobj(_Right._Traitsobj), _List(_Al), _Vec(_Al) {
-        
-        if constexpr (_Alnode_traits::is_always_equal::value) {
-            _Move_construct_equal_alloc(_Right);
-        } else if (_List._Getal() == _Right._List._Getal()) {
-            _Move_construct_equal_alloc(_Right);
-        } else {
-            _Maxidx            = _Min_buckets;
-            const auto _Myhead = _List._Mypair._Myval2._Myhead;
-            for (auto& _Val : _Right._List) {
-                _List._Emplace(_Myhead, reinterpret_cast<_Mutable_value_type&&>(_Val));
-            }
-            _Reinsert_with_invalid_vec();
-            _Right.clear();
-        }
-
-
-
-
-
-    }
-
-private:
-    void _Swap_val(_Hash& _Right) noexcept { 
-        _List._Swap_val(_Right._List);
-        _Vec._Mypair._Myval2._Swap_val(_Right._Vec._Mypair._Myval2);
-        ::std:: swap(_Mask, _Right._Mask);
-        ::std:: swap(_Maxidx, _Right._Maxidx);
-    }
-
-    struct _Min_buckets_construct_ptr {
-        using pointer = typename allocator_traits<_Aliter>::pointer;
-        _Aliter& _Al;
-        pointer _Base;
-        _Min_buckets_construct_ptr(_Aliter& _Al_) : _Al(_Al_), _Base(_Al.allocate(_Min_buckets * 2)) {}
-        _Min_buckets_construct_ptr(const _Min_buckets_construct_ptr&) = delete;
-        [[nodiscard]] pointer _Release(_Unchecked_iterator _Newend) noexcept {
-            ::std:: uninitialized_fill(_Base, _Base + _Min_buckets * 2, _Newend);
-            return ::std:: exchange(_Base, nullptr);
-        }
-        ~_Min_buckets_construct_ptr() {
-            if (_Base) {
-                _Al.deallocate(_Base, _Min_buckets * 2);
-            }
-        }
-    };
-
-    void _Pocma_both(_Hash& _Right) {
-        _Pocma(_List._Getal(), _Right._List._Getal());
-        _Pocma(_Vec._Mypair._Get_first(), _Right._Vec._Mypair._Get_first());
-    }
-
-    struct [[nodiscard]] _Clear_guard {
-        _Hash* _Target;
-
-        explicit _Clear_guard(_Hash* const _Target_) : _Target(_Target_) {}
-
-        _Clear_guard(const _Clear_guard&) = delete;
-        _Clear_guard& operator=(const _Clear_guard&) = delete;
-
-        ~_Clear_guard() {
-            if (_Target) {
-                _Target->clear();
-            }
-        }
-    };
-
-    void _Move_assign(_Hash& _Right, _Equal_allocators) {
-        clear();
-        _Traitsobj = _Right._Traitsobj;
-        _Pocma_both(_Right);
-        _Swap_val(_Right);
-    }
-
-    void _Move_assign(_Hash& _Right, _Propagate_allocators) {
-        if (_Getal() == _Right._Getal()) {
-            _Move_assign(_Right, _Equal_allocators{});
-        } else {
-            
-            auto&& _Alproxy       = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Getal());
-            auto&& _Right_alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Right._Getal());
-            _Container_proxy_ptr<_Alnode> _List_proxy(_Right_alproxy, _Leave_proxy_unbound{});
-            _Container_proxy_ptr<_Alnode> _Vec_proxy(_Right_alproxy, _Leave_proxy_unbound{});
-            _List_head_construct_ptr<_Alnode> _Newhead(_Right._Getal());
-            _Min_buckets_construct_ptr _Buckets(_Right._Vec._Mypair._Get_first());
-
-            
-            
-            _Traitsobj = _Right._Traitsobj;
-
-            
-
-            
-            _List._Tidy();
-            _Vec._Tidy();
-            _Pocma_both(_Right);
-
-            
-            auto& _List_data       = _List._Mypair._Myval2;
-            auto& _Right_list_data = _Right._List._Mypair._Myval2;
-            _List_data._Myhead     = ::std:: exchange(_Right_list_data._Myhead, _Newhead._Release());
-            _List_data._Mysize     = ::std:: exchange(_Right_list_data._Mysize, size_type{0});
-            _List_proxy._Bind(_Alproxy, ::std:: addressof(_List_data));
-            _List_data._Swap_proxy_and_iterators(_Right_list_data);
-
-            
-            auto& _Vec_data       = _Vec._Mypair._Myval2;
-            auto& _Right_vec_data = _Right._Vec._Mypair._Myval2;
-
-            const auto _Newfirst = _Buckets._Release(_Right._Unchecked_end());
-            const auto _Newlast  = _Newfirst + _Min_buckets * 2;
-
-            _Vec_data._Myfirst = ::std:: exchange(_Right_vec_data._Myfirst, _Newfirst);
-            _Vec_data._Mylast  = ::std:: exchange(_Right_vec_data._Mylast, _Newlast);
-            _Vec_data._Myend   = ::std:: exchange(_Right_vec_data._Myend, _Newlast);
-            _Vec_proxy._Bind(_Alproxy, ::std:: addressof(_Vec_data));
-            _Vec_data._Swap_proxy_and_iterators(_Right_vec_data);
-
-            
-            _Mask   = ::std:: exchange(_Right._Mask, _Min_buckets - 1);
-            _Maxidx = ::std:: exchange(_Right._Maxidx, _Min_buckets);
-        }
-    }
-
-    void _Move_assign(_Hash& _Right, _No_propagate_allocators) {
-        if (_Getal() == _Right._Getal()) {
-            _Move_assign(_Right, _Equal_allocators{});
-            return;
-        }
-
-        _Clear_guard _Guard{this};
-        _Traitsobj     = _Right._Traitsobj;
-        using _Adapter = _Reinterpret_move_iter<typename _Mylist::_Unchecked_iterator, _Mutable_value_type>;
-        _List.template _Assign_cast<_Mutable_value_type&>(
-            _Adapter{_Right._List._Unchecked_begin()}, _Adapter{_Right._List._Unchecked_end()});
-        _Reinsert_with_invalid_vec();
-        _Guard._Target = nullptr;
-    }
-
-public:
-    _Hash& operator=(_Hash&& _Right) { 
-        if (this != ::std:: addressof(_Right)) {
-            _Move_assign(_Right, _Choose_pocma<_Alnode>{});
-
-
-
-
-
-        }
-
-        return *this;
-    }
-
-    template <class... _Valtys>
-    conditional_t<_Multi, iterator, pair<iterator, bool>> emplace(_Valtys&&... _Vals) {
-        
-        using _In_place_key_extractor = typename _Traits::template _In_place_key_extractor<_Remove_cvref_t<_Valtys>...>;
-        if constexpr (_Multi) {
-            _Check_max_size();
-            _List_node_emplace_op2<_Alnode> _Newnode(_List._Getal(), ::std:: forward<_Valtys>(_Vals)...);
-            const auto& _Keyval = _Traits::_Kfn(_Newnode._Ptr->_Myval);
-            const auto _Hashval = _Traitsobj(_Keyval);
-            if (_Check_rehash_required_1()) {
-                _Rehash_for_1();
-            }
-
-            const auto _Target = _Find_last(_Keyval, _Hashval);
-            return _List._Make_iter(_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release()));
-        } else if constexpr (_In_place_key_extractor::_Extractable) {
-            const auto& _Keyval = _In_place_key_extractor::_Extract(_Vals...);
-            const auto _Hashval = _Traitsobj(_Keyval);
-            auto _Target        = _Find_last(_Keyval, _Hashval);
-            if (_Target._Duplicate) {
-                return {_List._Make_iter(_Target._Duplicate), false};
-            }
-
-            _Check_max_size();
-            
-            _List_node_emplace_op2<_Alnode> _Newnode(_List._Getal(), ::std:: forward<_Valtys>(_Vals)...);
-            if (_Check_rehash_required_1()) {
-                _Rehash_for_1();
-                _Target = _Find_last(_Traits::_Kfn(_Newnode._Ptr->_Myval), _Hashval);
-            }
-
-            return {
-                _List._Make_iter(_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release())), true};
-        } else {
-            _List_node_emplace_op2<_Alnode> _Newnode(_List._Getal(), ::std:: forward<_Valtys>(_Vals)...);
-            const auto& _Keyval = _Traits::_Kfn(_Newnode._Ptr->_Myval);
-            const auto _Hashval = _Traitsobj(_Keyval);
-            auto _Target        = _Find_last(_Keyval, _Hashval);
-            if (_Target._Duplicate) {
-                return {_List._Make_iter(_Target._Duplicate), false};
-            }
-
-            _Check_max_size();
-            if (_Check_rehash_required_1()) {
-                _Rehash_for_1();
-                _Target = _Find_last(_Traits::_Kfn(_Newnode._Ptr->_Myval), _Hashval);
-            }
-
-            return {
-                _List._Make_iter(_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release())), true};
-        }
-    }
-
-    template <class... _Valtys>
-    iterator emplace_hint(const_iterator _Hint, _Valtys&&... _Vals) { 
-        using _In_place_key_extractor = typename _Traits::template _In_place_key_extractor<_Remove_cvref_t<_Valtys>...>;
-        if constexpr (_Multi) {
-            _Check_max_size();
-            _List_node_emplace_op2<_Alnode> _Newnode(_List._Getal(), ::std:: forward<_Valtys>(_Vals)...);
-            const auto& _Keyval = _Traits::_Kfn(_Newnode._Ptr->_Myval);
-            const auto _Hashval = _Traitsobj(_Keyval);
-            if (_Check_rehash_required_1()) {
-                _Rehash_for_1();
-            }
-
-            const auto _Target = _Find_hint(_Hint._Ptr, _Keyval, _Hashval);
-            return _List._Make_iter(_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release()));
-        } else if constexpr (_In_place_key_extractor::_Extractable) {
-            const auto& _Keyval = _In_place_key_extractor::_Extract(_Vals...);
-            const auto _Hashval = _Traitsobj(_Keyval);
-            auto _Target        = _Find_hint(_Hint._Ptr, _Keyval, _Hashval);
-            if (_Target._Duplicate) {
-                return _List._Make_iter(_Target._Duplicate);
-            }
-
-            _Check_max_size();
-            
-            _List_node_emplace_op2<_Alnode> _Newnode(_List._Getal(), ::std:: forward<_Valtys>(_Vals)...);
-            if (_Check_rehash_required_1()) {
-                _Rehash_for_1();
-                _Target = _Find_hint(_Hint._Ptr, _Traits::_Kfn(_Newnode._Ptr->_Myval), _Hashval);
-            }
-
-            return _List._Make_iter(_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release()));
-        } else {
-            _List_node_emplace_op2<_Alnode> _Newnode(_List._Getal(), ::std:: forward<_Valtys>(_Vals)...);
-            const auto& _Keyval = _Traits::_Kfn(_Newnode._Ptr->_Myval);
-            const auto _Hashval = _Traitsobj(_Keyval);
-            auto _Target        = _Find_hint(_Hint._Ptr, _Keyval, _Hashval);
-            if (_Target._Duplicate) {
-                return _List._Make_iter(_Target._Duplicate);
-            }
-
-            _Check_max_size();
-            if (_Check_rehash_required_1()) {
-                _Rehash_for_1();
-                _Target = _Find_hint(_Hint._Ptr, _Traits::_Kfn(_Newnode._Ptr->_Myval), _Hashval);
-            }
-
-            return _List._Make_iter(_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release()));
-        }
-    }
-
-protected:
-    template <class _Keyty, class... _Mappedty>
-    pair<_Nodeptr, bool> _Try_emplace(_Keyty&& _Keyval_arg, _Mappedty&&... _Mapval) {
-        const auto& _Keyval = _Keyval_arg;
-        const auto _Hashval = _Traitsobj(_Keyval);
-        auto _Target        = _Find_last(_Keyval, _Hashval);
-        if (_Target._Duplicate) {
-            return {_Target._Duplicate, false};
-        }
-
-        _Check_max_size();
-        _List_node_emplace_op2<_Alnode> _Newnode(_List._Getal(), piecewise_construct,
-            ::std:: forward_as_tuple(::std:: forward<_Keyty>(_Keyval_arg)),
-            ::std:: forward_as_tuple(::std:: forward<_Mappedty>(_Mapval)...));
-        if (_Check_rehash_required_1()) {
-            _Rehash_for_1();
-            _Target = _Find_last(_Traits::_Kfn(_Newnode._Ptr->_Myval), _Hashval);
-        }
-
-        return {_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release()), true};
-    }
-
-    template <class _Keyty, class... _Mappedty>
-    _Nodeptr _Try_emplace_hint(const _Nodeptr _Hint, _Keyty&& _Keyval_arg, _Mappedty&&... _Mapval) {
-        const auto& _Keyval = _Keyval_arg;
-        const auto _Hashval = _Traitsobj(_Keyval);
-        auto _Target        = _Find_hint(_Hint, _Keyval, _Hashval);
-        if (_Target._Duplicate) {
-            return _Target._Duplicate;
-        }
-
-        _Check_max_size();
-        
-        _List_node_emplace_op2<_Alnode> _Newnode(_List._Getal(), piecewise_construct,
-            ::std:: forward_as_tuple(::std:: forward<_Keyty>(_Keyval_arg)),
-            ::std:: forward_as_tuple(::std:: forward<_Mappedty>(_Mapval)...));
-        if (_Check_rehash_required_1()) {
-            _Rehash_for_1();
-            _Target = _Find_hint(_Hint, _Traits::_Kfn(_Newnode._Ptr->_Myval), _Hashval);
-        }
-
-        return _Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release());
-    }
-
-private:
-    void _Pocca_both(const _Hash& _Right) {
-        _Pocca(_List._Getal(), _Right._List._Getal());
-        _Pocca(_Vec._Mypair._Get_first(), _Right._Vec._Mypair._Get_first());
-    }
-
-    void _Copy_assign(const _Hash& _Right, false_type) {
-        _Clear_guard _Guard{this};
-        _Traitsobj = _Right._Traitsobj;
-        _Pocca_both(_Right);
-        _List.template _Assign_cast<_Mutable_value_type&>(
-            _Right._List._Unchecked_begin(), _Right._List._Unchecked_end());
-        _Reinsert_with_invalid_vec();
-        _Guard._Target = nullptr;
-    }
-
-    void _Copy_assign(const _Hash& _Right, true_type) {
-        auto& _Al             = _Getal();
-        const auto& _Right_al = _Right._Getal();
-        if (_Al == _Right_al) {
-            _Copy_assign(_Right, false_type{});
-            return;
-        }
-
-        auto&& _Alproxy       = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Al);
-        auto&& _Right_alproxy = static_cast<_Rebind_alloc_t<_Alnode, _Container_proxy>>(_Right_al);
-        _Container_proxy_ptr<_Alnode> _Vec_proxy(_Right_alproxy, _Leave_proxy_unbound{});
-        _List._Reload_sentinel_and_proxy(_Right._List);
-        _Vec._Tidy();
-        _Pocca_both(_Right);
-        _Vec_proxy._Bind(_Alproxy, ::std:: addressof(_Vec._Mypair._Myval2));
-
-        _Clear_guard _Guard{this};
-        _Traitsobj = _Right._Traitsobj;
-        _List.template _Assign_cast<_Mutable_value_type&>(
-            _Right._List._Unchecked_begin(), _Right._List._Unchecked_end());
-        _Reinsert_with_invalid_vec();
-        _Guard._Target = nullptr;
-    }
-
-public:
-    _Hash& operator=(const _Hash& _Right) {
-        if (this != ::std:: addressof(_Right)) {
-            _Copy_assign(_Right, _Choose_pocca<_Alnode>{});
-
-
-
-
-        }
-
-        return *this;
-    }
-
-    [[nodiscard]] iterator begin() noexcept {
-        return _List.begin();
-    }
-
-    [[nodiscard]] const_iterator begin() const noexcept {
-        return _List.begin();
-    }
-
-    [[nodiscard]] iterator end() noexcept {
-        return _List.end();
-    }
-
-    [[nodiscard]] const_iterator end() const noexcept {
-        return _List.end();
-    }
-
-    _Unchecked_iterator _Unchecked_begin() noexcept {
-        return _List._Unchecked_begin();
-    }
-
-    _Unchecked_const_iterator _Unchecked_begin() const noexcept {
-        return _List._Unchecked_begin();
-    }
-
-    _Unchecked_iterator _Unchecked_end() noexcept {
-        return _List._Unchecked_end();
-    }
-
-    _Unchecked_const_iterator _Unchecked_end() const noexcept {
-        return _List._Unchecked_end();
-    }
-
-    [[nodiscard]] const_iterator cbegin() const noexcept {
-        return begin();
-    }
-
-    [[nodiscard]] const_iterator cend() const noexcept {
-        return end();
-    }
-
-    [[nodiscard]] size_type size() const noexcept {
-        return _List.size();
-    }
-
-    [[nodiscard]] size_type max_size() const noexcept {
-        return _List.max_size();
-    }
-
-    [[nodiscard]] bool empty() const noexcept {
-        return _List.empty();
-    }
-
-    [[nodiscard]] allocator_type get_allocator() const noexcept {
-        return static_cast<allocator_type>(_List.get_allocator());
-    }
-
-    using local_iterator       = iterator;
-    using const_local_iterator = const_iterator;
-
-    [[nodiscard]] size_type bucket_count() const noexcept {
-        return _Maxidx;
-    }
-
-    [[nodiscard]] size_type max_bucket_count() const noexcept {
-        return _Vec.max_size() >> 1;
-    }
-
-    [[nodiscard]] size_type bucket(const key_type& _Keyval) const
-        noexcept(_Nothrow_hash<_Traits, key_type>)  {
-        return _Traitsobj(_Keyval) & _Mask;
-    }
-
-    [[nodiscard]] size_type bucket_size(size_type _Bucket) const noexcept  {
-        _Unchecked_iterator _Bucket_lo = _Vec._Mypair._Myval2._Myfirst[_Bucket << 1];
-        if (_Bucket_lo == _Unchecked_end()) {
-            return 0;
-        }
-
-        return static_cast<size_type>(::std:: distance(_Bucket_lo, _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1])) + 1;
-    }
-
-    [[nodiscard]] local_iterator begin(size_type _Bucket) noexcept  {
-        return _List._Make_iter(_Vec._Mypair._Myval2._Myfirst[_Bucket << 1]._Ptr);
-    }
-
-    [[nodiscard]] const_local_iterator begin(size_type _Bucket) const noexcept  {
-        return _List._Make_const_iter(_Vec._Mypair._Myval2._Myfirst[_Bucket << 1]._Ptr);
-    }
-
-    [[nodiscard]] local_iterator end(size_type _Bucket) noexcept  {
-        _Nodeptr _Bucket_hi = _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1]._Ptr;
-        if (_Bucket_hi != _List._Mypair._Myval2._Myhead) {
-            _Bucket_hi = _Bucket_hi->_Next;
-        }
-
-        return _List._Make_iter(_Bucket_hi);
-    }
-
-    [[nodiscard]] const_local_iterator end(size_type _Bucket) const noexcept  {
-        _Nodeptr _Bucket_hi = _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1]._Ptr;
-        if (_Bucket_hi != _List._Mypair._Myval2._Myhead) {
-            _Bucket_hi = _Bucket_hi->_Next;
-        }
-
-        return _List._Make_const_iter(_Bucket_hi);
-    }
-
-    [[nodiscard]] const_local_iterator cbegin(size_type _Bucket) const noexcept  {
-        return _List._Make_const_iter(_Vec._Mypair._Myval2._Myfirst[_Bucket << 1]._Ptr);
-    }
-
-    [[nodiscard]] const_local_iterator cend(size_type _Bucket) const noexcept  {
-        _Nodeptr _Bucket_hi = _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1]._Ptr;
-        if (_Bucket_hi != _List._Mypair._Myval2._Myhead) {
-            _Bucket_hi = _Bucket_hi->_Next;
-        }
-
-        return _List._Make_const_iter(_Bucket_hi);
-    }
-
-    [[nodiscard]] float load_factor() const noexcept {
-        return static_cast<float>(size()) / static_cast<float>(bucket_count());
-    }
-
-    [[nodiscard]] float max_load_factor() const noexcept {
-        return _Max_bucket_size();
-    }
-
-    void max_load_factor(float _Newmax) noexcept  {
-        do { if (!(:: isnan)(_Newmax) && _Newmax > 0) { } else { do { (void) ((1 != _CrtDbgReport(2, "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash", 896, 0, "%s", "invalid hash load factor")) || (__debugbreak(), 0)); ::_invalid_parameter(L"\"invalid hash load factor\"", __LPREFIX( __FUNCTION__), L"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash", 896, 0); } while (false); } ; } while (false);
-        _Max_bucket_size() = _Newmax;
-    }
-
-    void rehash(size_type _Buckets) { 
-        
-        _Buckets = (::std:: max)(_Min_load_factor_buckets(_List.size()), _Buckets);
-        if (_Buckets <= _Maxidx) { 
-            return;
-        }
-
-        _Forced_rehash(_Buckets);
-    }
-
-    void reserve(size_type _Maxcount) { 
-        rehash(static_cast<size_type>(static_cast<float>(_Maxcount) / max_load_factor() + 0.5F));
-    }
-
-    conditional_t<_Multi, iterator, pair<iterator, bool>> insert(const value_type& _Val) {
-        return emplace(_Val);
-    }
-
-    conditional_t<_Multi, iterator, pair<iterator, bool>> insert(value_type&& _Val) {
-        return emplace(::std:: move(_Val));
-    }
-
-    iterator insert(const_iterator _Hint, const value_type& _Val) {
-        return emplace_hint(_Hint, _Val);
-    }
-
-    iterator insert(const_iterator _Hint, value_type&& _Val) {
-        return emplace_hint(_Hint, ::std:: move(_Val));
-    }
-
-    template <class _Iter>
-    void insert(_Iter _First, _Iter _Last) {
-        _Adl_verify_range(_First, _Last);
-        auto _UFirst      = _Get_unwrapped(_First);
-        const auto _ULast = _Get_unwrapped(_Last);
-        for (; _UFirst != _ULast; ++_UFirst) {
-            emplace(*_UFirst);
-        }
-    }
-
-    void insert(initializer_list<value_type> _Ilist) {
-        insert(_Ilist.begin(), _Ilist.end());
-    }
-
-private:
-    _Nodeptr _Unchecked_erase(_Nodeptr _Plist) noexcept(_Nothrow_hash<_Traits, key_type>) {
-        size_type _Bucket = bucket(_Traits::_Kfn(_Plist->_Myval));
-        _Erase_bucket(_Plist, _Bucket);
-        return _List._Unchecked_erase(_Plist);
-    }
-
-    struct _Range_eraser {
-        _Range_eraser(const _Range_eraser&) = delete;
-        _Range_eraser& operator=(const _Range_eraser&) = delete;
-
-
-        
-        
-        _Range_eraser(_Mylist& _List_, const _Nodeptr _First_) noexcept
-            : _List(_List_), _First(_First_), _Next(_First_) {}
-
-        void _Bump_erased() noexcept {
-            _Next = _Next->_Next;
-        }
-
-        ~_Range_eraser() noexcept {
-            _List._Unchecked_erase(_First, _Next);
-        }
-
-        _Mylist& _List;
-        const _Nodeptr _First;
-        _Nodeptr _Next;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 993 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-    };
-
-    _Nodeptr _Unchecked_erase(_Nodeptr _First, const _Nodeptr _Last) noexcept(_Nothrow_hash<_Traits, key_type>) {
-        if (_First == _Last) {
-            return _Last;
-        }
-
-        const auto _End           = _List._Mypair._Myval2._Myhead;
-        const auto _Bucket_bounds = _Vec._Mypair._Myval2._Myfirst;
-        _Range_eraser _Eraser{_List, _First};
-        {
-            
-            const auto _Predecessor = _First->_Prev;
-            const size_type _Bucket = bucket(_Traits::_Kfn(_Eraser._Next->_Myval)); 
-            
-            _Nodeptr& _Bucket_lo   = _Bucket_bounds[_Bucket << 1]._Ptr;
-            _Nodeptr& _Bucket_hi   = _Bucket_bounds[(_Bucket << 1) + 1]._Ptr;
-            const bool _Update_lo  = _Bucket_lo == _Eraser._Next;
-            const _Nodeptr _Old_hi = _Bucket_hi;
-            for (;;) { 
-                const bool _At_bucket_back = _Eraser._Next == _Old_hi;
-                _Eraser._Bump_erased();
-                if (_At_bucket_back) {
-                    break;
-                }
-
-                if (_Eraser._Next == _Last) {
-                    if (_Update_lo) {
-                        
-                        _Bucket_lo = _Eraser._Next;
-                    }
-
-                    return _Last;
-                }
-            }
-
-            if (_Update_lo) {
-                
-                _Bucket_lo = _End;
-                _Bucket_hi = _End;
-            } else {
-                _Bucket_hi = _Predecessor;
-            }
-        }
-
-        
-        while (_Eraser._Next != _Last) {
-            const size_type _Bucket = bucket(_Traits::_Kfn(_Eraser._Next->_Myval)); 
-            
-            _Nodeptr& _Bucket_lo   = _Bucket_bounds[_Bucket << 1]._Ptr;
-            _Nodeptr& _Bucket_hi   = _Bucket_bounds[(_Bucket << 1) + 1]._Ptr;
-            const _Nodeptr _Old_hi = _Bucket_hi;
-            for (;;) { 
-                const bool _At_bucket_back = _Eraser._Next == _Old_hi;
-                _Eraser._Bump_erased();
-                if (_At_bucket_back) {
-                    break;
-                }
-
-                if (_Eraser._Next == _Last) {
-                    
-                    _Bucket_lo = _Eraser._Next;
-                    return _Last;
-                }
-            }
-
-            
-            _Bucket_lo = _End;
-            _Bucket_hi = _End;
-        }
-
-        return _Last;
-    }
-
-public:
-    template <class _Iter = iterator, enable_if_t<!is_same_v<_Iter, const_iterator>, int> = 0>
-    iterator erase(iterator _Plist) noexcept(_Nothrow_hash<_Traits, key_type>)  {
-        return _List._Make_iter(_Unchecked_erase(_Plist._Ptr));
-    }
-
-    iterator erase(const_iterator _Plist) noexcept(_Nothrow_hash<_Traits, key_type>)  {
-        return _List._Make_iter(_Unchecked_erase(_Plist._Ptr));
-    }
-
-    iterator erase(const_iterator _First, const_iterator _Last) noexcept(
-        _Nothrow_hash<_Traits, key_type>)  {
-        return _List._Make_iter(_Unchecked_erase(_First._Ptr, _Last._Ptr));
-    }
-
-    size_type erase(const key_type& _Keyval) noexcept(
-        _Nothrow_hash<_Traits, key_type> 
-        && (!_Multi || _Nothrow_compare<_Traits, key_type, key_type>) )  {
-        const size_t _Hashval = _Traitsobj(_Keyval);
-        if constexpr (_Multi) {
-            const auto _Where = _Equal_range(_Keyval, _Hashval);
-            _Unchecked_erase(_Where._First._Ptr, _Where._Last._Ptr);
-            return _Where._Distance;
-        } else {
-            const auto _Target = _Find_last(_Keyval, _Hashval)._Duplicate;
-            if (_Target) {
-                _Erase_bucket(_Target, _Hashval & _Mask);
-                _List._Unchecked_erase(_Target);
-                return 1;
-            }
-
-            return 0;
-        }
-    }
-
-    void clear() noexcept {
-        
-        
-        
-        
-        
-        
-        
-        const auto _Oldsize = _List._Mypair._Myval2._Mysize;
-        if (_Oldsize == 0) {
-            return;
-        }
-
-        if constexpr (_Nothrow_hash<_Traits, key_type>) {
-            
-            
-            
-            if (bucket_count() / 8 > _Oldsize) {
-                const auto _Head = _List._Mypair._Myval2._Myhead;
-                _Unchecked_erase(_Head->_Next, _Head);
-                return;
-            }
-        }
-
-        
-        _List.clear();
-        ::std:: fill(_Vec._Mypair._Myval2._Myfirst, _Vec._Mypair._Myval2._Mylast, _Unchecked_end());
-    }
-
-private:
-    template <class _Keyty>
-    [[nodiscard]] _Nodeptr _Find_first(const _Keyty& _Keyval, const size_t _Hashval) const {
-        
-        const size_type _Bucket = _Hashval & _Mask;
-        _Nodeptr _Where         = _Vec._Mypair._Myval2._Myfirst[_Bucket << 1]._Ptr;
-        const _Nodeptr _End     = _List._Mypair._Myval2._Myhead;
-        if (_Where == _End) {
-            return _End;
-        }
-
-        const _Nodeptr _Bucket_hi = _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1]._Ptr;
-        for (;;) {
-            if (!_Traitsobj(_Traits::_Kfn(_Where->_Myval), _Keyval)) {
-                if constexpr (!_Traits::_Standard) {
-                    if (_Traitsobj(_Keyval, _Traits::_Kfn(_Where->_Myval))) {
-                        return _End;
-                    }
-                }
-
-                return _Where;
-            }
-
-            if (_Where == _Bucket_hi) {
-                return _End;
-            }
-
-            _Where = _Where->_Next;
-        }
-    }
-
-    template <class _Keyty>
-    _Nodeptr _Find(const _Keyty& _Keyval, const size_t _Hashval) const {
-        if constexpr (_Traits::_Multi) {
-            return _Find_first(_Keyval, _Hashval);
-        } else {
-            
-            auto _Target = _Find_last(_Keyval, _Hashval)._Duplicate;
-            if (_Target) {
-                return _Target;
-            }
-
-            return _List._Mypair._Myval2._Myhead;
-        }
-    }
-
-public:
-    template <class _Keyty = void>
-    [[nodiscard]] iterator find(typename _Traits::template _Deduce_key<_Keyty> _Keyval) {
-        return _List._Make_iter(_Find(_Keyval, _Traitsobj(_Keyval)));
-    }
-
-    template <class _Keyty = void>
-    [[nodiscard]] const_iterator find(typename _Traits::template _Deduce_key<_Keyty> _Keyval) const {
-        return _List._Make_const_iter(_Find(_Keyval, _Traitsobj(_Keyval)));
-    }
-
-
-
-
-
-
-#line 1194 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-
-    template <class _Keyty = void>
-    [[nodiscard]] size_type count(typename _Traits::template _Deduce_key<_Keyty> _Keyval) const {
-        const size_t _Hashval = _Traitsobj(_Keyval);
-        if constexpr (_Multi) {
-            return _Equal_range(_Keyval, _Hashval)._Distance;
-        } else {
-            return static_cast<bool>(_Find_last(_Keyval, _Hashval)._Duplicate);
-        }
-    }
-
-    [[deprecated( "warning STL4022: " "The hash_meow and unordered_meow containers' non-Standard lower_bound() member was provided for interface " "compatibility with the ordered associative containers, and doesn't match the semantics of the " "hash_meow or unordered_meow containers. Please use the find() member instead. You can define " "_SILENCE_STDEXT_HASH_LOWER_BOUND_DEPRECATION_WARNING to suppress this deprecation.")]] [[nodiscard]] iterator lower_bound(const key_type& _Keyval) {
-        return _List._Make_iter(_Find(_Keyval, _Traitsobj(_Keyval)));
-    }
-
-    [[deprecated( "warning STL4022: " "The hash_meow and unordered_meow containers' non-Standard lower_bound() member was provided for interface " "compatibility with the ordered associative containers, and doesn't match the semantics of the " "hash_meow or unordered_meow containers. Please use the find() member instead. You can define " "_SILENCE_STDEXT_HASH_LOWER_BOUND_DEPRECATION_WARNING to suppress this deprecation.")]] [[nodiscard]] const_iterator lower_bound(const key_type& _Keyval) const {
-        return _List._Make_const_iter(_Find(_Keyval, _Traitsobj(_Keyval)));
-    }
-
-    [[deprecated( "warning STL4023: " "The hash_meow and unordered_meow containers' non-Standard upper_bound() member was provided for interface " "compatibility with the ordered associative containers, and doesn't match the semantics of the " "hash_meow or unordered_meow containers. Please use the second iterator returned by the " "equal_range() member instead. You can define " "_SILENCE_STDEXT_HASH_UPPER_BOUND_DEPRECATION_WARNING to suppress this deprecation.")]] [[nodiscard]] iterator upper_bound(const key_type& _Keyval) {
-        auto _Target = _Find_last(_Keyval, _Traitsobj(_Keyval))._Duplicate;
-        if (_Target) {
-            _Target = _Target->_Next;
-        } else {
-            _Target = _List._Mypair._Myval2._Myhead;
-        }
-
-        return _List._Make_iter(_Target);
-    }
-
-    [[deprecated( "warning STL4023: " "The hash_meow and unordered_meow containers' non-Standard upper_bound() member was provided for interface " "compatibility with the ordered associative containers, and doesn't match the semantics of the " "hash_meow or unordered_meow containers. Please use the second iterator returned by the " "equal_range() member instead. You can define " "_SILENCE_STDEXT_HASH_UPPER_BOUND_DEPRECATION_WARNING to suppress this deprecation.")]] [[nodiscard]] const_iterator upper_bound(const key_type& _Keyval) const {
-        auto _Target = _Find_last(_Keyval, _Traitsobj(_Keyval))._Duplicate;
-        if (_Target) {
-            _Target = _Target->_Next;
-        } else {
-            _Target = _List._Mypair._Myval2._Myhead;
-        }
-
-        return _List._Make_const_iter(_Target);
-    }
-
-private:
-    struct _Equal_range_result {
-        _Unchecked_const_iterator _First;
-        _Unchecked_const_iterator _Last;
-        size_type _Distance;
-    };
-
-    template <class _Keyty>
-    [[nodiscard]] _Equal_range_result _Equal_range(const _Keyty& _Keyval, const size_t _Hashval) const
-        noexcept(_Nothrow_compare<_Traits, key_type, _Keyty>&& _Nothrow_compare<_Traits, _Keyty, key_type>) {
-        const size_type _Bucket              = _Hashval & _Mask;
-        _Unchecked_const_iterator _Where     = _Vec._Mypair._Myval2._Myfirst[_Bucket << 1];
-        const _Unchecked_const_iterator _End = _Unchecked_end();
-        if (_Where == _End) {
-            return {_End, _End, 0};
-        }
-
-        const _Unchecked_const_iterator _Bucket_hi = _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1];
-        for (; _Traitsobj(_Traits::_Kfn(*_Where), _Keyval); ++_Where) {
-            if (_Where == _Bucket_hi) {
-                return {_End, _End, 0};
-            }
-        }
-
-        if constexpr (!_Traits::_Standard) {
-            if (_Traitsobj(_Keyval, _Traits::_Kfn(*_Where))) {
-                return {_End, _End, 0};
-            }
-        }
-
-        const _Unchecked_const_iterator _First = _Where;
-        if constexpr (_Multi) {
-            size_type _Distance = 0;
-            for (;;) {
-                ++_Distance;
-
-                const bool _At_bucket_end = _Where == _Bucket_hi;
-                ++_Where;
-                if (_At_bucket_end) {
-                    break;
-                }
-
-                if (_Traitsobj(_Keyval, _Traits::_Kfn(*_Where))) {
-                    break;
-                }
-            }
-
-            return {_First, _Where, _Distance};
-        } else {
-            ++_Where; 
-            return {_First, _Where, 1};
-        }
-    }
-
-public:
-    template <class _Keyty = void>
-    [[nodiscard]] pair<iterator, iterator> equal_range(typename _Traits::template _Deduce_key<_Keyty> _Keyval) {
-        const auto _Result = _Equal_range(_Keyval, _Traitsobj(_Keyval));
-        return {_List._Make_iter(_Result._First._Ptr), _List._Make_iter(_Result._Last._Ptr)};
-    }
-
-    template <class _Keyty = void>
-    [[nodiscard]] pair<const_iterator, const_iterator> equal_range(
-        typename _Traits::template _Deduce_key<_Keyty> _Keyval) const {
-        const auto _Result = _Equal_range(_Keyval, _Traitsobj(_Keyval));
-        return {_List._Make_const_iter(_Result._First._Ptr), _List._Make_const_iter(_Result._Last._Ptr)};
-    }
-
-    void swap(_Hash& _Right) noexcept(noexcept(_Traitsobj.swap(_Right._Traitsobj)))  {
-        if (this != ::std:: addressof(_Right)) {
-            _Traitsobj.swap(_Right._Traitsobj);
-            _Pocs(_List._Getal(), _Right._List._Getal());
-            _Pocs(_Vec._Mypair._Get_first(), _Right._Vec._Mypair._Get_first());
-            _Swap_val(_Right);
-        }
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1500 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-
-protected:
-    template <class _Keyty>
-    [[nodiscard]] _Hash_find_last_result<_Nodeptr> _Find_last(const _Keyty& _Keyval, const size_t _Hashval) const {
-        
-        const size_type _Bucket = _Hashval & _Mask;
-        _Nodeptr _Where         = _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1]._Ptr;
-        const _Nodeptr _End     = _List._Mypair._Myval2._Myhead;
-        if (_Where == _End) {
-            return {_End, _Nodeptr{}};
-        }
-
-        const _Nodeptr _Bucket_lo = _Vec._Mypair._Myval2._Myfirst[_Bucket << 1]._Ptr;
-        for (;;) {
-            
-            if (!_Traitsobj(_Keyval, _Traits::_Kfn(_Where->_Myval))) {
-                if constexpr (!_Traits::_Standard) {
-                    if (_Traitsobj(_Traits::_Kfn(_Where->_Myval), _Keyval)) {
-                        return {_Where->_Next, _Nodeptr{}};
-                    }
-                }
-
-                return {_Where->_Next, _Where};
-            }
-
-            if (_Where == _Bucket_lo) {
-                return {_Where, _Nodeptr{}};
-            }
-
-            _Where = _Where->_Prev;
-        }
-    }
-
-    template <class _Keyty>
-    [[nodiscard]] _Hash_find_last_result<_Nodeptr> _Find_hint(
-        const _Nodeptr _Hint, const _Keyty& _Keyval, const size_t _Hashval) const {
-        
-        
-        if (_Hint != _List._Mypair._Myval2._Myhead && !_Traitsobj(_Traits::_Kfn(_Hint->_Myval), _Keyval)) {
-            if constexpr (!_Traits::_Standard) {
-                if (_Traitsobj(_Keyval, _Traits::_Kfn(_Hint->_Myval))) {
-                    return _Find_last(_Keyval, _Hashval);
-                }
-            }
-
-            return {_Hint->_Next, _Hint};
-        }
-
-        return _Find_last(_Keyval, _Hashval);
-    }
-
-    _Nodeptr _Insert_new_node_before(
-        const size_t _Hashval, const _Nodeptr _Insert_before, const _Nodeptr _Newnode) noexcept {
-        const _Nodeptr _Insert_after = _Insert_before->_Prev;
-        ++_List._Mypair._Myval2._Mysize;
-        _Construct_in_place(_Newnode->_Next, _Insert_before);
-        _Construct_in_place(_Newnode->_Prev, _Insert_after);
-        _Insert_after->_Next  = _Newnode;
-        _Insert_before->_Prev = _Newnode;
-
-        const auto _Head                = _List._Mypair._Myval2._Myhead;
-        const auto _Bucket_array        = _Vec._Mypair._Myval2._Myfirst;
-        const size_type _Bucket         = _Hashval & _Mask;
-        _Unchecked_iterator& _Bucket_lo = _Bucket_array[_Bucket << 1];
-        _Unchecked_iterator& _Bucket_hi = _Bucket_array[(_Bucket << 1) + 1];
-        if (_Bucket_lo._Ptr == _Head) {
-            
-            _Bucket_lo._Ptr = _Newnode;
-            _Bucket_hi._Ptr = _Newnode;
-        } else if (_Bucket_lo._Ptr == _Insert_before) {
-            
-            _Bucket_lo._Ptr = _Newnode;
-        } else if (_Bucket_hi._Ptr == _Insert_after) {
-            
-            _Bucket_hi._Ptr = _Newnode;
-        }
-
-
-
-
-        return _Newnode;
-    }
-
-    void _Check_max_size() const {
-        const size_type _Oldsize = _List._Mypair._Myval2._Mysize;
-        if (_Oldsize == _List.max_size()) {
-            _Xlength_error("unordered_map/set too long");
-        }
-    }
-
-    bool _Check_rehash_required_1() const noexcept {
-        const size_type _Oldsize = _List._Mypair._Myval2._Mysize;
-        const auto _Newsize      = _Oldsize + 1;
-        return max_load_factor() < static_cast<float>(_Newsize) / static_cast<float>(bucket_count());
-    }
-
-    void _Rehash_for_1() {
-        const auto _Oldsize = _List._Mypair._Myval2._Mysize;
-        const auto _Newsize = _Oldsize + 1;
-        _Forced_rehash(_Desired_grow_bucket_count(_Newsize));
-    }
-
-    void _Erase_bucket(_Nodeptr _Plist, size_type _Bucket) noexcept {
-        
-        _Nodeptr& _Bucket_lo = _Vec._Mypair._Myval2._Myfirst[_Bucket << 1]._Ptr;
-        _Nodeptr& _Bucket_hi = _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1]._Ptr;
-        if (_Bucket_hi == _Plist) {
-            if (_Bucket_lo == _Plist) { 
-                const auto _End = _List._Mypair._Myval2._Myhead;
-
-                _Bucket_lo = _End;
-                _Bucket_hi = _End;
-            } else {
-                _Bucket_hi = _Plist->_Prev; 
-            }
-        } else if (_Bucket_lo == _Plist) {
-            _Bucket_lo = _Plist->_Next; 
-        }
-    }
-
-    [[nodiscard]] size_type _Min_load_factor_buckets(const size_type _For_size) const noexcept {
-        
-        return static_cast<size_type>(:: ceilf(static_cast<float>(_For_size) / max_load_factor()));
-    }
-
-    [[nodiscard]] size_type _Desired_grow_bucket_count(const size_type _For_size) const noexcept {
-        const size_type _Old_buckets = bucket_count();
-        const size_type _Req_buckets = (::std:: max)(_Min_buckets, _Min_load_factor_buckets(_For_size));
-        if (_Old_buckets >= _Req_buckets) {
-            
-            return _Old_buckets;
-        }
-
-        if (_Old_buckets < 512 && _Old_buckets * 8 >= _Req_buckets) {
-            
-            return _Old_buckets * 8;
-        }
-
-        
-        return _Req_buckets;
-    }
-
-    void _Reinsert_with_invalid_vec() { 
-        _Forced_rehash(_Desired_grow_bucket_count(_List.size()));
-    }
-
-    void _Forced_rehash(size_type _Buckets) {
-        
-        
-        
-
-        
-        
-        const unsigned long _Max_storage_buckets_log2 = _Floor_of_log_2(static_cast<size_t>(_Vec.max_size() >> 1));
-        const auto _Max_storage_buckets               = static_cast<size_type>(1) << _Max_storage_buckets_log2;
-        if (_Buckets > _Max_storage_buckets) {
-            _Xlength_error("invalid hash bucket count");
-        }
-
-        
-        
-        
-        
-        _Buckets                       = static_cast<size_type>(1) << _Ceiling_of_log_2(static_cast<size_t>(_Buckets));
-        const _Unchecked_iterator _End = _Unchecked_end();
-
-        _Vec._Assign_grow(_Buckets << 1, _End);
-        _Mask   = _Buckets - 1;
-        _Maxidx = _Buckets;
-
-        _Clear_guard _Guard{this};
-
-        _Unchecked_iterator _Inserted = _Unchecked_begin();
-
-        
-        for (_Unchecked_iterator _Next_inserted = _Inserted; _Inserted != _End; _Inserted = _Next_inserted) {
-            ++_Next_inserted;
-
-            auto& _Inserted_key     = _Traits::_Kfn(*_Inserted);
-            const size_type _Bucket = bucket(_Inserted_key);
-
-            
-            
-            _Unchecked_iterator& _Bucket_lo = _Vec._Mypair._Myval2._Myfirst[_Bucket << 1];
-            _Unchecked_iterator& _Bucket_hi = _Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1];
-
-            if (_Bucket_lo == _End) {
-                
-                _Bucket_lo = _Inserted;
-                _Bucket_hi = _Inserted;
-                continue;
-            }
-
-            
-            _Unchecked_const_iterator _Insert_before = _Bucket_hi;
-            if (!_Traitsobj(_Inserted_key, _Traits::_Kfn(*_Insert_before))) {
-                
-                
-                ++_Insert_before;
-                if (_Insert_before != _Inserted) { 
-                    _Mylist::_Scary_val::_Unchecked_splice(_Insert_before._Ptr, _Inserted._Ptr, _Next_inserted._Ptr);
-                }
-
-                _Bucket_hi = _Inserted;
-                continue;
-            }
-
-            
-            
-            for (;;) {
-                if (_Bucket_lo == _Insert_before) {
-                    
-                    
-                    
-                    
-                    _Mylist::_Scary_val::_Unchecked_splice(_Insert_before._Ptr, _Inserted._Ptr, _Next_inserted._Ptr);
-                    _Bucket_lo = _Inserted;
-                    break;
-                }
-
-                if (!_Traitsobj(_Inserted_key, _Traits::_Kfn(*--_Insert_before))) {
-                    
-                    ++_Insert_before;
-                    
-                    
-                    _Mylist::_Scary_val::_Unchecked_splice(_Insert_before._Ptr, _Inserted._Ptr, _Next_inserted._Ptr);
-                    break;
-                }
-            }
-        }
-
-        _Guard._Target = nullptr;
-
-
-
-
-    }
-
-    float& _Max_bucket_size() noexcept {
-        return _Traitsobj._Get_max_bucket_size();
-    }
-
-    const float& _Max_bucket_size() const noexcept {
-        return _Traitsobj._Get_max_bucket_size();
-    }
-
-    _Alnode& _Getal() noexcept {
-        return _List._Getal();
-    }
-
-    const _Alnode& _Getal() const noexcept {
-        return _List._Getal();
-    }
-
-    struct _Multi_equal_check_result {
-        bool _Equal_possible = false;
-        _Unchecked_const_iterator _Subsequent_first{}; 
-    };
-
-    [[nodiscard]] _Multi_equal_check_result _Multi_equal_check_equal_range(
-        const _Hash& _Right, _Unchecked_const_iterator _First1) const {
-        
-        
-        auto& _Keyval = _Traits::_Kfn(*_First1);
-        
-        const size_t _Hashval   = _Right._Traitsobj(_Keyval);
-        const size_type _Bucket = _Hashval & _Right._Mask;
-        auto _First2            = _Right._Vec._Mypair._Myval2._Myfirst[_Bucket << 1];
-        if (_First2 == _Right._Unchecked_end()) {
-            
-            return {};
-        }
-
-        const auto _Bucket_hi = _Right._Vec._Mypair._Myval2._Myfirst[(_Bucket << 1) + 1];
-        for (; _Right._Traitsobj(_Traits::_Kfn(*_First2), _Keyval); ++_First2) {
-            
-            if (_First2 == _Bucket_hi) {
-                return {};
-            }
-        }
-
-        _Unchecked_const_iterator _Left_stop_at;
-        if constexpr (_Traits::_Standard) {
-            _Left_stop_at = _Unchecked_end();
-        } else {
-            
-            if (_Right._Traitsobj(_Keyval, _Traits::_Kfn(*_First2))) {
-                return {};
-            }
-
-            const size_t _LHashval   = _Traitsobj(_Keyval);
-            const size_type _LBucket = _LHashval & _Mask;
-            const auto _LBucket_hi   = _Vec._Mypair._Myval2._Myfirst[(_LBucket << 1) + 1];
-            _Left_stop_at            = _LBucket_hi;
-            ++_Left_stop_at;
-        }
-
-        
-        while (*_First1 == *_First2) {
-            
-            bool _Right_range_end = _First2 == _Bucket_hi;
-            ++_First2;
-            if (!_Right_range_end) {
-                _Right_range_end = _Right._Traitsobj(_Keyval, _Traits::_Kfn(*_First2));
-            }
-
-            
-            ++_First1;
-            const bool _Left_range_end = _First1 == _Left_stop_at || _Traitsobj(_Keyval, _Traits::_Kfn(*_First1));
-
-            if (_Left_range_end && _Right_range_end) {
-                
-                return {true, _First1};
-            }
-
-            if (_Left_range_end || _Right_range_end) {
-                
-                return {};
-            }
-        }
-
-        
-        auto _Last1 = _First1;
-        auto _Last2 = _First2;
-        for (;;) {
-            bool _Right_range_end = _Last2 == _Bucket_hi;
-            ++_Last2;
-            if (!_Right_range_end) {
-                _Right_range_end = _Right._Traitsobj(_Keyval, _Traits::_Kfn(*_Last2));
-            }
-
-            ++_Last1;
-            const bool _Left_range_end = _Last1 == _Left_stop_at || _Traitsobj(_Keyval, _Traits::_Kfn(*_Last1));
-
-            if (_Left_range_end && _Right_range_end) {
-                
-                return {_Check_match_counts(_First1, _Last1, _First2, _Last2, equal_to<>{}), _Last1};
-            }
-
-            if (_Left_range_end || _Right_range_end) {
-                
-                return {};
-            }
-        }
-    }
-
-    template <bool _Multi2 = _Traits::_Multi, enable_if_t<_Multi2, int> = 0>
-    [[nodiscard]] bool _Multi_equal(const _Hash& _Right) const {
-        static_assert(_Traits::_Multi, "This function only works with multi containers");
-        ;
-        const auto _Last1 = _Unchecked_end();
-        auto _First1      = _Unchecked_begin();
-        while (_First1 != _Last1) {
-            const auto _Result = _Multi_equal_check_equal_range(_Right, _First1);
-            if (!_Result._Equal_possible) {
-                return false;
-            }
-
-            _First1 = _Result._Subsequent_first;
-        }
-
-        return true;
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    _Traits _Traitsobj; 
-    _Mylist _List; 
-    _Hash_vec<_Aliter> _Vec; 
-                             
-                             
-    size_type _Mask; 
-    size_type _Maxidx; 
-};
-
-
-
-
-
-#line 1945 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-
-template <class _Traits>
-[[nodiscard]] bool _Hash_equal(const _Hash<_Traits>& _Left, const _Hash<_Traits>& _Right) {
-    if (_Left.size() != _Right.size()) {
-        return false;
-    }
-
-    if constexpr (_Traits::_Multi) {
-        return _Left._Multi_equal(_Right);
-    } else {
-        for (const auto& _LVal : _Left) {
-            
-            const auto& _Keyval = _Traits::_Kfn(_LVal);
-            const auto _Next2   = _Right._Find_last(_Keyval, _Right._Traitsobj(_Keyval))._Duplicate;
-            if (!(static_cast<bool>(_Next2) && _Traits::_Nonkfn(_LVal) == _Traits::_Nonkfn(_Next2->_Myval))) {
-                return false;
-            }
-        }
-    }
-
-    return true;
-}
-}
-
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 1974 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-#line 1975 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\xhash"
-#pragma external_header(pop)
-#line 12 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-
-
-#line 16 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-namespace std {
-
-template <class _Kty, 
-    class _Ty, 
-    class _Tr, 
-    class _Alloc, 
-    bool _Mfl> 
-class _Umap_traits : public _Tr { 
-public:
-    using key_type            = _Kty;
-    using value_type          = pair<const _Kty, _Ty>;
-    using _Mutable_value_type = pair<_Kty, _Ty>;
-    using key_compare         = _Tr;
-    using allocator_type      = _Alloc;
-
-
-
-#line 42 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-    static constexpr bool _Multi    = _Mfl;
-    static constexpr bool _Standard = true;
-
-    template <class... _Args>
-    using _In_place_key_extractor = _In_place_key_extract_map<_Kty, _Args...>;
-
-    _Umap_traits() = default;
-
-    explicit _Umap_traits(const _Tr& _Traits) noexcept(is_nothrow_copy_constructible_v<_Tr>) : _Tr(_Traits) {}
-
-    using value_compare = void; 
-
-    template <class _Ty1, class _Ty2>
-    static const _Kty& _Kfn(const pair<_Ty1, _Ty2>& _Val) noexcept { 
-        return _Val.first;
-    }
-
-    template <class _Ty1, class _Ty2>
-    static const _Ty2& _Nonkfn(const pair<_Ty1, _Ty2>& _Val) noexcept { 
-        return _Val.second;
-    }
-};
-
-
-template <class _Kty, class _Ty, class _Hasher = hash<_Kty>, class _Keyeq = equal_to<_Kty>,
-    class _Alloc = allocator<pair<const _Kty, _Ty>>>
-class unordered_map : public _Hash<_Umap_traits<_Kty, _Ty, _Uhash_compare<_Kty, _Hasher, _Keyeq>, _Alloc, false>> {
-    
-public:
-    static_assert(!0 || is_same_v<pair<const _Kty, _Ty>, typename _Alloc::value_type>,
-        "unordered_map<Key, Value, Hasher, Eq, Allocator>" " requires that Allocator's value_type match " "pair<const Key, Value>" " (See N4659 26.2.1 [container.requirements.general]/16 allocator_type)" " Either fix the allocator value_type or define _ENFORCE_MATCHING_ALLOCATORS=0" " to suppress this diagnostic.");
-
-private:
-    using _Mytraits      = _Uhash_compare<_Kty, _Hasher, _Keyeq>;
-    using _Mybase        = _Hash<_Umap_traits<_Kty, _Ty, _Mytraits, _Alloc, false>>;
-    using _Alnode        = typename _Mybase::_Alnode;
-    using _Alnode_traits = typename _Mybase::_Alnode_traits;
-    using _Nodeptr       = typename _Mybase::_Nodeptr;
-    using _Key_compare   = typename _Mybase::_Key_compare;
-
-public:
-    using hasher      = _Hasher;
-    using key_type    = _Kty;
-    using mapped_type = _Ty;
-    using key_equal   = _Keyeq;
-
-    using value_type      = pair<const _Kty, _Ty>;
-    using allocator_type  = typename _Mybase::allocator_type;
-    using size_type       = typename _Mybase::size_type;
-    using difference_type = typename _Mybase::difference_type;
-    using pointer         = typename _Mybase::pointer;
-    using const_pointer   = typename _Mybase::const_pointer;
-    using reference       = value_type&;
-    using const_reference = const value_type&;
-    using iterator        = typename _Mybase::iterator;
-    using const_iterator  = typename _Mybase::const_iterator;
-
-    using local_iterator       = typename _Mybase::iterator;
-    using const_local_iterator = typename _Mybase::const_iterator;
-
-
-
-#line 106 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-    unordered_map() : _Mybase(_Key_compare(), allocator_type()) {}
-
-    explicit unordered_map(const allocator_type& _Al) : _Mybase(_Key_compare(), _Al) {}
-
-    unordered_map(const unordered_map& _Right)
-        : _Mybase(_Right, _Alnode_traits::select_on_container_copy_construction(_Right._Getal())) {}
-
-    unordered_map(const unordered_map& _Right, const allocator_type& _Al) : _Mybase(_Right, _Al) {}
-
-    explicit unordered_map(size_type _Buckets) : _Mybase(_Key_compare(), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_map(size_type _Buckets, const allocator_type& _Al) : _Mybase(_Key_compare(), _Al) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_map(size_type _Buckets, const hasher& _Hasharg) : _Mybase(_Key_compare(_Hasharg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_map(size_type _Buckets, const hasher& _Hasharg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg), _Al) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_map(size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_map(size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), _Al) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    template <class _Iter>
-    unordered_map(_Iter _First, _Iter _Last) : _Mybase(_Key_compare(), allocator_type()) {
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_map(_Iter _First, _Iter _Last, const allocator_type& _Al) : _Mybase(_Key_compare(), _Al) {
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_map(_Iter _First, _Iter _Last, size_type _Buckets) : _Mybase(_Key_compare(), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_map(_Iter _First, _Iter _Last, size_type _Buckets, const allocator_type& _Al)
-        : _Mybase(_Key_compare(), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_map(_Iter _First, _Iter _Last, size_type _Buckets, const hasher& _Hasharg)
-        : _Mybase(_Key_compare(_Hasharg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_map(_Iter _First, _Iter _Last, size_type _Buckets, const hasher& _Hasharg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_map(_Iter _First, _Iter _Last, size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_map(_Iter _First, _Iter _Last, size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg,
-        const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    unordered_map& operator=(const unordered_map& _Right) {
-        _Mybase::operator=(_Right);
-        return *this;
-    }
-
-    unordered_map(unordered_map&& _Right) : _Mybase(::std:: move(_Right)) {}
-
-    unordered_map(unordered_map&& _Right, const allocator_type& _Al) : _Mybase(::std:: move(_Right), _Al) {}
-
-    unordered_map& operator=(unordered_map&& _Right) noexcept(_Alnode_traits::is_always_equal::value&&
-            is_nothrow_move_assignable_v<_Hasher>&& is_nothrow_move_assignable_v<_Keyeq>) {
-        _Mybase::operator=(::std:: move(_Right));
-        return *this;
-    }
-
-    mapped_type& operator[](key_type&& _Keyval) {
-        return this->_Try_emplace(::std:: move(_Keyval)).first->_Myval.second;
-    }
-
-    void swap(unordered_map& _Right) noexcept(noexcept(_Mybase::swap(_Right))) {
-        _Mybase::swap(_Right);
-    }
-
-    using _Mybase::insert;
-
-    template <class _Valty, enable_if_t<is_constructible_v<value_type, _Valty>, int> = 0>
-    pair<iterator, bool> insert(_Valty&& _Val) {
-        return this->emplace(::std:: forward<_Valty>(_Val));
-    }
-
-    template <class _Valty, enable_if_t<is_constructible_v<value_type, _Valty>, int> = 0>
-    iterator insert(const_iterator _Where, _Valty&& _Val) {
-        return this->emplace_hint(_Where, ::std:: forward<_Valty>(_Val));
-    }
-
-    template <class... _Mappedty>
-    pair<iterator, bool> try_emplace(const key_type& _Keyval, _Mappedty&&... _Mapval) {
-        const auto _Result = this->_Try_emplace(_Keyval, ::std:: forward<_Mappedty>(_Mapval)...);
-        return {this->_List._Make_iter(_Result.first), _Result.second};
-    }
-
-    template <class... _Mappedty>
-    pair<iterator, bool> try_emplace(key_type&& _Keyval, _Mappedty&&... _Mapval) {
-        const auto _Result = this->_Try_emplace(::std:: move(_Keyval), ::std:: forward<_Mappedty>(_Mapval)...);
-        return {this->_List._Make_iter(_Result.first), _Result.second};
-    }
-
-    template <class... _Mappedty>
-    iterator try_emplace(const const_iterator _Hint, const key_type& _Keyval, _Mappedty&&... _Mapval) {
-        return this->_List._Make_iter(
-            this->_Try_emplace_hint(_Hint._Ptr, _Keyval, ::std:: forward<_Mappedty>(_Mapval)...));
-    }
-
-    template <class... _Mappedty>
-    iterator try_emplace(const const_iterator _Hint, key_type&& _Keyval, _Mappedty&&... _Mapval) {
-        return this->_List._Make_iter(
-            this->_Try_emplace_hint(_Hint._Ptr, ::std:: move(_Keyval), ::std:: forward<_Mappedty>(_Mapval)...));
-    }
-
-private:
-    template <class _Keyty, class _Mappedty>
-    pair<iterator, bool> _Insert_or_assign(_Keyty&& _Keyval_arg, _Mappedty&& _Mapval) {
-        const auto& _Keyval   = _Keyval_arg;
-        const size_t _Hashval = this->_Traitsobj(_Keyval);
-        auto _Target          = this->_Find_last(_Keyval, _Hashval);
-        if (_Target._Duplicate) {
-            _Target._Duplicate->_Myval.second = ::std:: forward<_Mappedty>(_Mapval);
-            return {this->_List._Make_iter(_Target._Duplicate), false};
-        }
-
-        this->_Check_max_size();
-        
-        _List_node_emplace_op2<_Alnode> _Newnode(
-            this->_Getal(), ::std:: forward<_Keyty>(_Keyval_arg), ::std:: forward<_Mappedty>(_Mapval));
-        if (this->_Check_rehash_required_1()) {
-            this->_Rehash_for_1();
-            _Target = this->_Find_last(_Newnode._Ptr->_Myval.first, _Hashval);
-        }
-
-        return {this->_List._Make_iter(
-                    this->_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release())),
-            true};
-    }
-
-    template <class _Keyty, class _Mappedty>
-    iterator _Insert_or_assign(const _Nodeptr _Hint, _Keyty&& _Keyval_arg, _Mappedty&& _Mapval) {
-        const auto& _Keyval   = _Keyval_arg;
-        const size_t _Hashval = this->_Traitsobj(_Keyval);
-        auto _Target          = this->_Find_hint(_Hint, _Keyval, _Hashval);
-        if (_Target._Duplicate) {
-            _Target._Duplicate->_Myval.second = ::std:: forward<_Mappedty>(_Mapval);
-            return this->_List._Make_iter(_Target._Duplicate);
-        }
-
-        this->_Check_max_size();
-        
-        _List_node_emplace_op2<_Alnode> _Newnode(
-            this->_Getal(), ::std:: forward<_Keyty>(_Keyval_arg), ::std:: forward<_Mappedty>(_Mapval));
-        if (this->_Check_rehash_required_1()) {
-            this->_Rehash_for_1();
-            _Target = this->_Find_hint(_Hint, _Newnode._Ptr->_Myval.first, _Hashval);
-        }
-
-        return this->_List._Make_iter(
-            this->_Insert_new_node_before(_Hashval, _Target._Insert_before, _Newnode._Release()));
-    }
-
-public:
-    template <class _Mappedty>
-    pair<iterator, bool> insert_or_assign(const key_type& _Keyval, _Mappedty&& _Mapval) {
-        return _Insert_or_assign(_Keyval, ::std:: forward<_Mappedty>(_Mapval));
-    }
-
-    template <class _Mappedty>
-    pair<iterator, bool> insert_or_assign(key_type&& _Keyval, _Mappedty&& _Mapval) {
-        return _Insert_or_assign(::std:: move(_Keyval), ::std:: forward<_Mappedty>(_Mapval));
-    }
-
-    template <class _Mappedty>
-    iterator insert_or_assign(const_iterator _Hint, const key_type& _Keyval, _Mappedty&& _Mapval) {
-        return _Insert_or_assign(_Hint._Ptr, _Keyval, ::std:: forward<_Mappedty>(_Mapval));
-    }
-
-    template <class _Mappedty>
-    iterator insert_or_assign(const_iterator _Hint, key_type&& _Keyval, _Mappedty&& _Mapval) {
-        return _Insert_or_assign(_Hint._Ptr, ::std:: move(_Keyval), ::std:: forward<_Mappedty>(_Mapval));
-    }
-
-    unordered_map(initializer_list<value_type> _Ilist) : _Mybase(_Key_compare(), allocator_type()) {
-        insert(_Ilist);
-    }
-
-    unordered_map(initializer_list<value_type> _Ilist, const allocator_type& _Al) : _Mybase(_Key_compare(), _Al) {
-        insert(_Ilist);
-    }
-
-    unordered_map(initializer_list<value_type> _Ilist, size_type _Buckets) : _Mybase(_Key_compare(), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_map(initializer_list<value_type> _Ilist, size_type _Buckets, const allocator_type& _Al)
-        : _Mybase(_Key_compare(), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_map(initializer_list<value_type> _Ilist, size_type _Buckets, const hasher& _Hasharg)
-        : _Mybase(_Key_compare(_Hasharg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_map(
-        initializer_list<value_type> _Ilist, size_type _Buckets, const hasher& _Hasharg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_map(
-        initializer_list<value_type> _Ilist, size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_map(initializer_list<value_type> _Ilist, size_type _Buckets, const hasher& _Hasharg,
-        const _Keyeq& _Keyeqarg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_map& operator=(initializer_list<value_type> _Ilist) {
-        _Mybase::clear();
-        insert(_Ilist);
-        return *this;
-    }
-
-    [[nodiscard]] hasher hash_function() const {
-        return _Mybase::_Traitsobj._Mypair._Get_first();
-    }
-
-    [[nodiscard]] key_equal key_eq() const {
-        return _Mybase::_Traitsobj._Mypair._Myval2._Get_first();
-    }
-
-    mapped_type& operator[](const key_type& _Keyval) {
-        return this->_Try_emplace(_Keyval).first->_Myval.second;
-    }
-
-    [[nodiscard]] mapped_type& at(const key_type& _Keyval) {
-        const auto _Target = this->_Find_last(_Keyval, this->_Traitsobj(_Keyval));
-        if (_Target._Duplicate) {
-            return _Target._Duplicate->_Myval.second;
-        }
-
-        _Xout_of_range("invalid unordered_map<K, T> key");
-    }
-
-    [[nodiscard]] const mapped_type& at(const key_type& _Keyval) const {
-        const auto _Target = this->_Find_last(_Keyval, this->_Traitsobj(_Keyval));
-        if (_Target._Duplicate) {
-            return _Target._Duplicate->_Myval.second;
-        }
-
-        _Xout_of_range("invalid unordered_map<K, T> key");
-    }
-
-    using _Mybase::_Unchecked_begin;
-    using _Mybase::_Unchecked_end;
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 450 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-template <class _Kty, class _Ty, class _Hasher, class _Keyeq, class _Alloc>
-void swap(unordered_map<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Left,
-    unordered_map<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Right) noexcept(noexcept(_Left.swap(_Right))) {
-    _Left.swap(_Right);
-}
-
-
-
-
-
-
-
-#line 464 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-template <class _Kty, class _Ty, class _Hasher, class _Keyeq, class _Alloc>
-[[nodiscard]] bool operator==(const unordered_map<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Left,
-    const unordered_map<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Right) {
-    return _Hash_equal(_Left, _Right);
-}
-
-
-template <class _Kty, class _Ty, class _Hasher, class _Keyeq, class _Alloc>
-[[nodiscard]] bool operator!=(const unordered_map<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Left,
-    const unordered_map<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Right) {
-    return !(_Left == _Right);
-}
-#line 478 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-
-template <class _Kty, class _Ty, class _Hasher = hash<_Kty>, class _Keyeq = equal_to<_Kty>,
-    class _Alloc = allocator<pair<const _Kty, _Ty>>>
-class unordered_multimap : public _Hash<_Umap_traits<_Kty, _Ty, _Uhash_compare<_Kty, _Hasher, _Keyeq>, _Alloc, true>> {
-    
-public:
-    static_assert(!0 || is_same_v<pair<const _Kty, _Ty>, typename _Alloc::value_type>,
-        "unordered_multimap<Key, Value, Hasher, Eq, Allocator>" " requires that Allocator's value_type match " "pair<const Key, Value>" " (See N4659 26.2.1 [container.requirements.general]/16 allocator_type)" " Either fix the allocator value_type or define _ENFORCE_MATCHING_ALLOCATORS=0" " to suppress this diagnostic.");
-#line 488 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-private:
-    using _Mytraits      = _Uhash_compare<_Kty, _Hasher, _Keyeq>;
-    using _Mybase        = _Hash<_Umap_traits<_Kty, _Ty, _Mytraits, _Alloc, true>>;
-    using _Alnode        = typename _Mybase::_Alnode;
-    using _Alnode_traits = typename _Mybase::_Alnode_traits;
-    using _Key_compare   = typename _Mybase::_Key_compare;
-
-public:
-    using hasher      = _Hasher;
-    using key_type    = _Kty;
-    using mapped_type = _Ty;
-    using key_equal   = _Keyeq;
-
-    using value_type      = pair<const _Kty, _Ty>;
-    using allocator_type  = typename _Mybase::allocator_type;
-    using size_type       = typename _Mybase::size_type;
-    using difference_type = typename _Mybase::difference_type;
-    using pointer         = typename _Mybase::pointer;
-    using const_pointer   = typename _Mybase::const_pointer;
-    using reference       = value_type&;
-    using const_reference = const value_type&;
-    using iterator        = typename _Mybase::iterator;
-    using const_iterator  = typename _Mybase::const_iterator;
-
-    using local_iterator       = typename _Mybase::iterator;
-    using const_local_iterator = typename _Mybase::const_iterator;
-
-    unordered_multimap() : _Mybase(_Key_compare(), allocator_type()) {} 
-
-    explicit unordered_multimap(const allocator_type& _Al)
-        : _Mybase(_Key_compare(), _Al) {} 
-
-    unordered_multimap(const unordered_multimap& _Right)
-        : _Mybase(_Right, _Alnode_traits::select_on_container_copy_construction(_Right._Getal())) {}
-
-    unordered_multimap(const unordered_multimap& _Right, const allocator_type& _Al) : _Mybase(_Right, _Al) {}
-
-    explicit unordered_multimap(size_type _Buckets) : _Mybase(_Key_compare(), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_multimap(size_type _Buckets, const allocator_type& _Al) : _Mybase(_Key_compare(), _Al) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_multimap(size_type _Buckets, const hasher& _Hasharg) : _Mybase(_Key_compare(_Hasharg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_multimap(size_type _Buckets, const hasher& _Hasharg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg), _Al) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_multimap(size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    unordered_multimap(size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), _Al) {
-        _Mybase::rehash(_Buckets);
-    }
-
-    template <class _Iter>
-    unordered_multimap(_Iter _First, _Iter _Last) : _Mybase(_Key_compare(), allocator_type()) {
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_multimap(_Iter _First, _Iter _Last, const allocator_type& _Al) : _Mybase(_Key_compare(), _Al) {
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_multimap(_Iter _First, _Iter _Last, size_type _Buckets) : _Mybase(_Key_compare(), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_multimap(_Iter _First, _Iter _Last, size_type _Buckets, const allocator_type& _Al)
-        : _Mybase(_Key_compare(), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_multimap(_Iter _First, _Iter _Last, size_type _Buckets, const hasher& _Hasharg)
-        : _Mybase(_Key_compare(_Hasharg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_multimap(_Iter _First, _Iter _Last, size_type _Buckets, const hasher& _Hasharg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_multimap(_Iter _First, _Iter _Last, size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    template <class _Iter>
-    unordered_multimap(_Iter _First, _Iter _Last, size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg,
-        const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_First, _Last);
-    }
-
-    unordered_multimap& operator=(const unordered_multimap& _Right) {
-        _Mybase::operator=(_Right);
-        return *this;
-    }
-
-    unordered_multimap(unordered_multimap&& _Right) : _Mybase(::std:: move(_Right)) {}
-
-    unordered_multimap(unordered_multimap&& _Right, const allocator_type& _Al) : _Mybase(::std:: move(_Right), _Al) {}
-
-    unordered_multimap& operator=(unordered_multimap&& _Right) noexcept(_Alnode_traits::is_always_equal::value&&
-            is_nothrow_move_assignable_v<_Hasher>&& is_nothrow_move_assignable_v<_Keyeq>) {
-        _Mybase::operator=(::std:: move(_Right));
-        return *this;
-    }
-
-    void swap(unordered_multimap& _Right) noexcept(noexcept(_Mybase::swap(_Right))) {
-        _Mybase::swap(_Right);
-    }
-
-    using _Mybase::insert;
-
-    template <class _Valty, enable_if_t<is_constructible_v<value_type, _Valty>, int> = 0>
-    iterator insert(_Valty&& _Val) {
-        return this->emplace(::std:: forward<_Valty>(_Val));
-    }
-
-    template <class _Valty, enable_if_t<is_constructible_v<value_type, _Valty>, int> = 0>
-    iterator insert(const_iterator _Where, _Valty&& _Val) {
-        return this->emplace_hint(_Where, ::std:: forward<_Valty>(_Val));
-    }
-
-    unordered_multimap(initializer_list<value_type> _Ilist) : _Mybase(_Key_compare(), allocator_type()) {
-        insert(_Ilist);
-    }
-
-    unordered_multimap(initializer_list<value_type> _Ilist, const allocator_type& _Al) : _Mybase(_Key_compare(), _Al) {
-        insert(_Ilist);
-    }
-
-    unordered_multimap(initializer_list<value_type> _Ilist, size_type _Buckets)
-        : _Mybase(_Key_compare(), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_multimap(initializer_list<value_type> _Ilist, size_type _Buckets, const allocator_type& _Al)
-        : _Mybase(_Key_compare(), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_multimap(initializer_list<value_type> _Ilist, size_type _Buckets, const hasher& _Hasharg)
-        : _Mybase(_Key_compare(_Hasharg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_multimap(
-        initializer_list<value_type> _Ilist, size_type _Buckets, const hasher& _Hasharg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_multimap(
-        initializer_list<value_type> _Ilist, size_type _Buckets, const hasher& _Hasharg, const _Keyeq& _Keyeqarg)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), allocator_type()) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_multimap(initializer_list<value_type> _Ilist, size_type _Buckets, const hasher& _Hasharg,
-        const _Keyeq& _Keyeqarg, const allocator_type& _Al)
-        : _Mybase(_Key_compare(_Hasharg, _Keyeqarg), _Al) {
-        _Mybase::rehash(_Buckets);
-        insert(_Ilist);
-    }
-
-    unordered_multimap& operator=(initializer_list<value_type> _Ilist) {
-        _Mybase::clear();
-        insert(_Ilist);
-        return *this;
-    }
-
-    [[nodiscard]] hasher hash_function() const {
-        return _Mybase::_Traitsobj._Mypair._Get_first();
-    }
-
-    [[nodiscard]] key_equal key_eq() const {
-        return _Mybase::_Traitsobj._Mypair._Myval2._Get_first();
-    }
-
-    using _Mybase::_Unchecked_begin;
-    using _Mybase::_Unchecked_end;
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 742 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-template <class _Kty, class _Ty, class _Hasher, class _Keyeq, class _Alloc>
-void swap(unordered_multimap<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Left,
-    unordered_multimap<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Right) noexcept(noexcept(_Left.swap(_Right))) {
-    _Left.swap(_Right);
-}
-
-
-
-
-
-
-
-#line 756 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-template <class _Kty, class _Ty, class _Hasher, class _Keyeq, class _Alloc>
-[[nodiscard]] bool operator==(const unordered_multimap<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Left,
-    const unordered_multimap<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Right) {
-    return _Hash_equal(_Left, _Right);
-}
-
-
-template <class _Kty, class _Ty, class _Hasher, class _Keyeq, class _Alloc>
-[[nodiscard]] bool operator!=(const unordered_multimap<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Left,
-    const unordered_multimap<_Kty, _Ty, _Hasher, _Keyeq, _Alloc>& _Right) {
-    return !(_Left == _Right);
-}
-#line 770 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-
-namespace [[deprecated( "warning STL4002: " "The non-Standard std::tr1 namespace and TR1-only machinery are deprecated and will be REMOVED. You can " "define _SILENCE_TR1_NAMESPACE_DEPRECATION_WARNING to acknowledge that you have received this warning.")]] tr1 {
-    using ::std:: unordered_map;
-    using ::std:: unordered_multimap;
-} 
-#line 777 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-
-
-
-
-
-
-
-
-
-
-#line 788 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-}
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 794 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-#line 795 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\unordered_map"
-#pragma external_header(pop)
-#line 5 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\LuaTable.h"
-#pragma once
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cassert"
-
-
-
-
-
-
-
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-
-
-
-
-
-
-
-
-#line 11 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-
-
-__pragma(pack(push, 8)) extern "C" {
-
-
-
-
-
-
-
-
-
-
-
-    __declspec(dllimport) void __cdecl _wassert(
-          wchar_t const* _Message,
-          wchar_t const* _File,
-            unsigned       _Line
-        );
-
-    
-
-
-
-
-#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-
-
-} __pragma(pack(pop))
-#pragma external_header(pop)
-#line 10 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cassert"
-#pragma external_header(pop)
-#line 3 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\LuaTable.h"
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\string"
-
-
-
-
-
-#pragma once
-
-
-
-
-
-
-
-
-
-
-#pragma pack(push, 8)
-#pragma warning(push, 3)
-#pragma warning(disable : 4180 4412 4455 4494 4514 4574 4582 4583 4587 4588 4619 4623 4625 4626 4643 4648 4702 4793 4820 4988 5026 5027 5045 6294  4984 5053 )
-
-
-
-
-namespace std {
-
-template <class _Elem, class _Traits, class _Alloc>
-basic_istream<_Elem, _Traits>& getline(basic_istream<_Elem, _Traits>&& _Istr,
-    basic_string<_Elem, _Traits, _Alloc>& _Str,
-    const _Elem _Delim) { 
-    using _Myis = basic_istream<_Elem, _Traits>;
-
-    typename _Myis::iostate _State = _Myis::goodbit;
-    bool _Changed                  = false;
-    const typename _Myis::sentry _Ok(_Istr, true);
-
-    if (_Ok) { 
-        try {
-        _Str.erase();
-        const typename _Traits::int_type _Metadelim = _Traits::to_int_type(_Delim);
-        typename _Traits::int_type _Meta            = _Istr.rdbuf()->sgetc();
-
-        for (;; _Meta = _Istr.rdbuf()->snextc()) {
-            if (_Traits::eq_int_type(_Traits::eof(), _Meta)) { 
-                _State |= _Myis::eofbit;
-                break;
-            } else if (_Traits::eq_int_type(_Meta, _Metadelim)) { 
-                _Changed = true;
-                _Istr.rdbuf()->sbumpc();
-                break;
-            } else if (_Str.max_size() <= _Str.size()) { 
-                _State |= _Myis::failbit;
-                break;
-            } else { 
-                _Str += _Traits::to_char_type(_Meta);
-                _Changed = true;
-            }
-        }
-        } catch (...) { (_Istr) .setstate(_Myis::badbit, true); }
-    }
-
-    if (!_Changed) {
-        _State |= _Myis::failbit;
-    }
-
-    _Istr.setstate(_State);
-    return _Istr;
-}
-
-template <class _Elem, class _Traits, class _Alloc>
-basic_istream<_Elem, _Traits>& getline(basic_istream<_Elem, _Traits>&& _Istr,
-    basic_string<_Elem, _Traits, _Alloc>& _Str) { 
-    return getline(_Istr, _Str, _Istr.widen('\n'));
-}
-
-template <class _Elem, class _Traits, class _Alloc>
-basic_istream<_Elem, _Traits>& getline(basic_istream<_Elem, _Traits>& _Istr, basic_string<_Elem, _Traits, _Alloc>& _Str,
-    const _Elem _Delim) { 
-    return getline(::std:: move(_Istr), _Str, _Delim);
-}
-
-template <class _Elem, class _Traits, class _Alloc>
-basic_istream<_Elem, _Traits>& getline(basic_istream<_Elem, _Traits>& _Istr,
-    basic_string<_Elem, _Traits, _Alloc>& _Str) { 
-    return getline(::std:: move(_Istr), _Str, _Istr.widen('\n'));
-}
-
-
-inline int stoi(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref  = (*_errno()); 
-    const char* _Ptr = _Str.c_str();
-    char* _Eptr;
-    _Errno_ref      = 0;
-    const long _Ans = :: strtol(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stoi argument");
-    }
-
-    if (_Errno_ref == 34 || _Ans < (-2147483647 - 1) || 2147483647 < _Ans) {
-        _Xout_of_range("stoi argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return static_cast<int>(_Ans);
-}
-
-inline long stol(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref  = (*_errno()); 
-    const char* _Ptr = _Str.c_str();
-    char* _Eptr;
-    _Errno_ref      = 0;
-    const long _Ans = :: strtol(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stol argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stol argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline unsigned long stoul(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref  = (*_errno()); 
-    const char* _Ptr = _Str.c_str();
-    char* _Eptr;
-    _Errno_ref               = 0;
-    const unsigned long _Ans = :: strtoul(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stoul argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stoul argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline long long stoll(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref  = (*_errno()); 
-    const char* _Ptr = _Str.c_str();
-    char* _Eptr;
-    _Errno_ref           = 0;
-    const long long _Ans = :: strtoll(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stoll argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stoll argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline unsigned long long stoull(const string& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref  = (*_errno()); 
-    const char* _Ptr = _Str.c_str();
-    char* _Eptr;
-    _Errno_ref                    = 0;
-    const unsigned long long _Ans = :: strtoull(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stoull argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stoull argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline float stof(const string& _Str, size_t* _Idx = nullptr) { 
-    int& _Errno_ref  = (*_errno()); 
-    const char* _Ptr = _Str.c_str();
-    char* _Eptr;
-    _Errno_ref       = 0;
-    const float _Ans = :: strtof(_Ptr, &_Eptr);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stof argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stof argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline double stod(const string& _Str, size_t* _Idx = nullptr) { 
-    int& _Errno_ref  = (*_errno()); 
-    const char* _Ptr = _Str.c_str();
-    char* _Eptr;
-    _Errno_ref        = 0;
-    const double _Ans = :: strtod(_Ptr, &_Eptr);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stod argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stod argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline long double stold(const string& _Str, size_t* _Idx = nullptr) { 
-    int& _Errno_ref  = (*_errno()); 
-    const char* _Ptr = _Str.c_str();
-    char* _Eptr;
-    _Errno_ref             = 0;
-    const long double _Ans = :: strtold(_Ptr, &_Eptr);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stold argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stold argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-
-inline int stoi(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref     = (*_errno()); 
-    const wchar_t* _Ptr = _Str.c_str();
-    wchar_t* _Eptr;
-    _Errno_ref      = 0;
-    const long _Ans = :: wcstol(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stoi argument");
-    }
-
-    if (_Errno_ref == 34 || _Ans < (-2147483647 - 1) || 2147483647 < _Ans) {
-        _Xout_of_range("stoi argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return static_cast<int>(_Ans);
-}
-
-inline long stol(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref     = (*_errno()); 
-    const wchar_t* _Ptr = _Str.c_str();
-    wchar_t* _Eptr;
-    _Errno_ref      = 0;
-    const long _Ans = :: wcstol(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stol argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stol argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline unsigned long stoul(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref     = (*_errno()); 
-    const wchar_t* _Ptr = _Str.c_str();
-    wchar_t* _Eptr;
-    _Errno_ref               = 0;
-    const unsigned long _Ans = :: wcstoul(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stoul argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stoul argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline long long stoll(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref     = (*_errno()); 
-    const wchar_t* _Ptr = _Str.c_str();
-    wchar_t* _Eptr;
-    _Errno_ref           = 0;
-    const long long _Ans = :: wcstoll(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stoll argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stoll argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline unsigned long long stoull(const wstring& _Str, size_t* _Idx = nullptr, int _Base = 10) {
-    
-    int& _Errno_ref     = (*_errno()); 
-    const wchar_t* _Ptr = _Str.c_str();
-    wchar_t* _Eptr;
-    _Errno_ref                    = 0;
-    const unsigned long long _Ans = :: wcstoull(_Ptr, &_Eptr, _Base);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stoull argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stoull argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline float stof(const wstring& _Str, size_t* _Idx = nullptr) { 
-    int& _Errno_ref     = (*_errno()); 
-    const wchar_t* _Ptr = _Str.c_str();
-    wchar_t* _Eptr;
-    _Errno_ref       = 0;
-    const float _Ans = :: wcstof(_Ptr, &_Eptr);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stof argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stof argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline double stod(const wstring& _Str, size_t* _Idx = nullptr) { 
-    int& _Errno_ref     = (*_errno()); 
-    const wchar_t* _Ptr = _Str.c_str();
-    wchar_t* _Eptr;
-    _Errno_ref        = 0;
-    const double _Ans = :: wcstod(_Ptr, &_Eptr);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stod argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stod argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-inline long double stold(const wstring& _Str, size_t* _Idx = nullptr) { 
-    int& _Errno_ref     = (*_errno()); 
-    const wchar_t* _Ptr = _Str.c_str();
-    wchar_t* _Eptr;
-    _Errno_ref             = 0;
-    const long double _Ans = :: wcstold(_Ptr, &_Eptr);
-
-    if (_Ptr == _Eptr) {
-        _Xinvalid_argument("invalid stold argument");
-    }
-
-    if (_Errno_ref == 34) {
-        _Xout_of_range("stold argument out of range");
-    }
-
-    if (_Idx) {
-        *_Idx = static_cast<size_t>(_Eptr - _Ptr);
-    }
-
-    return _Ans;
-}
-
-
-template <class _Elem, class _UTy>
-_Elem* _UIntegral_to_buff(_Elem* _RNext, _UTy _UVal) { 
-    static_assert(is_unsigned_v<_UTy>, "_UTy must be unsigned");
-
-
-
-
-
-    constexpr bool _Big_uty = sizeof(_UTy) > 4;
-    if constexpr (_Big_uty) { 
-        while (_UVal > 0xFFFFFFFFU) {
-            auto _UVal_chunk = static_cast<unsigned long>(_UVal % 1000000000);
-            _UVal /= 1000000000;
-
-            for (int _Idx = 0; _Idx != 9; ++_Idx) {
-                *--_RNext = static_cast<_Elem>('0' + _UVal_chunk % 10);
-                _UVal_chunk /= 10;
-            }
-        }
-    }
-
-    auto _UVal_trunc = static_cast<unsigned long>(_UVal);
-#line 475 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\string"
-
-    do {
-        *--_RNext = static_cast<_Elem>('0' + _UVal_trunc % 10);
-        _UVal_trunc /= 10;
-    } while (_UVal_trunc != 0);
-    return _RNext;
-}
-
-template <class _Elem, class _Ty>
-basic_string<_Elem> _Integral_to_string(const _Ty _Val) { 
-    static_assert(is_integral_v<_Ty>, "_Ty must be integral");
-    using _UTy = make_unsigned_t<_Ty>;
-    _Elem _Buff[21]; 
-    _Elem* const _Buff_end = ::std:: end(_Buff);
-    _Elem* _RNext          = _Buff_end;
-    const auto _UVal       = static_cast<_UTy>(_Val);
-    if (_Val < 0) {
-        _RNext    = _UIntegral_to_buff(_RNext, 0 - _UVal);
-        *--_RNext = '-';
-    } else {
-        _RNext = _UIntegral_to_buff(_RNext, _UVal);
-    }
-
-    return basic_string<_Elem>(_RNext, _Buff_end);
-}
-
-
-template <class _Elem, class _Ty>
-basic_string<_Elem> _UIntegral_to_string(const _Ty _Val) { 
-    static_assert(is_integral_v<_Ty>, "_Ty must be integral");
-    static_assert(is_unsigned_v<_Ty>, "_Ty must be unsigned");
-    _Elem _Buff[21]; 
-    _Elem* const _Buff_end = ::std:: end(_Buff);
-    _Elem* const _RNext    = _UIntegral_to_buff(_Buff_end, _Val);
-    return basic_string<_Elem>(_RNext, _Buff_end);
-}
-
-
-[[nodiscard]] inline string to_string(int _Val) { 
-    return _Integral_to_string<char>(_Val);
-}
-
-[[nodiscard]] inline string to_string(unsigned int _Val) { 
-    return _UIntegral_to_string<char>(_Val);
-}
-
-[[nodiscard]] inline string to_string(long _Val) { 
-    return _Integral_to_string<char>(_Val);
-}
-
-[[nodiscard]] inline string to_string(unsigned long _Val) { 
-    return _UIntegral_to_string<char>(_Val);
-}
-
-[[nodiscard]] inline string to_string(long long _Val) { 
-    return _Integral_to_string<char>(_Val);
-}
-
-[[nodiscard]] inline string to_string(unsigned long long _Val) { 
-    return _UIntegral_to_string<char>(_Val);
-}
-
-[[nodiscard]] inline string to_string(double _Val) { 
-    const auto _Len = static_cast<size_t>(:: _scprintf("%f", _Val));
-    string _Str(_Len, '\0');
-    :: sprintf_s(&_Str[0], _Len + 1, "%f", _Val);
-    return _Str;
-}
-
-[[nodiscard]] inline string to_string(float _Val) { 
-    return ::std:: to_string(static_cast<double>(_Val));
-}
-
-[[nodiscard]] inline string to_string(long double _Val) { 
-    return ::std:: to_string(static_cast<double>(_Val));
-}
-
-
-[[nodiscard]] inline wstring to_wstring(int _Val) { 
-    return _Integral_to_string<wchar_t>(_Val);
-}
-
-[[nodiscard]] inline wstring to_wstring(unsigned int _Val) { 
-    return _UIntegral_to_string<wchar_t>(_Val);
-}
-
-[[nodiscard]] inline wstring to_wstring(long _Val) { 
-    return _Integral_to_string<wchar_t>(_Val);
-}
-
-[[nodiscard]] inline wstring to_wstring(unsigned long _Val) { 
-    return _UIntegral_to_string<wchar_t>(_Val);
-}
-
-[[nodiscard]] inline wstring to_wstring(long long _Val) { 
-    return _Integral_to_string<wchar_t>(_Val);
-}
-
-[[nodiscard]] inline wstring to_wstring(unsigned long long _Val) { 
-    return _UIntegral_to_string<wchar_t>(_Val);
-}
-
-[[nodiscard]] inline wstring to_wstring(double _Val) { 
-    const auto _Len = static_cast<size_t>(:: _scwprintf(L"%f", _Val));
-    wstring _Str(_Len, L'\0');
-    :: swprintf_s(&_Str[0], _Len + 1, L"%f", _Val);
-    return _Str;
-}
-
-[[nodiscard]] inline wstring to_wstring(float _Val) { 
-    return ::std:: to_wstring(static_cast<double>(_Val));
-}
-
-[[nodiscard]] inline wstring to_wstring(long double _Val) { 
-    return ::std:: to_wstring(static_cast<double>(_Val));
-}
-}
-
-
-
-#pragma warning(pop)
-#pragma pack(pop)
-#line 598 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\string"
-#line 599 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\string"
-#pragma external_header(pop)
-#line 5 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\LuaTable.h"
-
-
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\LuaData.h"
-#pragma once
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cassert"
-
-
-
-
-
-
-
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-
-
-
-
-
-
-
-
-#line 11 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-
-
-__pragma(pack(push, 8)) extern "C" {
-
-
-
-
-
-
-
-
-
-
-
-    __declspec(dllimport) void __cdecl _wassert(
-          wchar_t const* _Message,
-          wchar_t const* _File,
-            unsigned       _Line
-        );
-
-    
-
-
-
-
-#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\assert.h"
-
-
-
-} __pragma(pack(pop))
-#pragma external_header(pop)
-#line 10 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\cassert"
-#pragma external_header(pop)
-#line 3 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\LuaData.h"
-
-
-extern "C"{
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
-
-
-
-
-
-
-
-
-
-
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\stdarg.h"
-
-
-
-
-
-
-
-#pragma once
-
-
-
-
-#pragma warning(push)
-#pragma warning(disable:   4514 4820 )
-
-__pragma(pack(push, 8)) extern "C" {
-
-
-
-
-
-
-
-
-
-
-} __pragma(pack(pop))
-
-#pragma warning(pop) 
-#pragma external_header(pop)
-#line 13 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
-
-
-
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 53 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-#line 59 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-#line 65 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-#line 71 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 130 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-#line 132 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 146 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-#line 153 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-#line 159 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 210 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-#line 217 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 237 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 251 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-#line 253 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 281 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-#line 285 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 312 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-#line 314 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 374 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 442 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 457 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 476 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 521 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-#line 531 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 561 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-#line 567 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 584 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-#line 586 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-#line 597 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 616 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 630 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 648 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-#line 658 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 672 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-#line 675 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-#line 677 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-#line 684 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 714 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 738 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 786 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
-
-#line 17 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct lua_State lua_State;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef double lua_Number;
-
-
-
-typedef long long lua_Integer;
-
-
-typedef unsigned long long lua_Unsigned;
-
-
-typedef ptrdiff_t lua_KContext;
-
-
-
-
-
-typedef int (*lua_CFunction) (lua_State *L);
-
-
-
-
-typedef int (*lua_KFunction) (lua_State *L, int status, lua_KContext ctx);
-
-
-
-
-
-typedef const char * (*lua_Reader) (lua_State *L, void *ud, size_t *sz);
-
-typedef int (*lua_Writer) (lua_State *L, const void *p, size_t sz, void *ud);
-
-
-
-
-
-typedef void * (*lua_Alloc) (void *ud, void *ptr, size_t osize, size_t nsize);
-
-
-
-
-
-typedef void (*lua_WarnFunction) (void *ud, const char *msg, int tocont);
-
-
-
-
-
-
-
-
-
-#line 142 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
-
-
-
-
-
-extern const char lua_ident[];
-
-
-
-
-
-extern lua_State *(lua_newstate) (lua_Alloc f, void *ud);
-extern void       (lua_close) (lua_State *L);
-extern lua_State *(lua_newthread) (lua_State *L);
-extern int        (lua_resetthread) (lua_State *L);
-
-extern lua_CFunction (lua_atpanic) (lua_State *L, lua_CFunction panicf);
-
-
-extern lua_Number (lua_version) (lua_State *L);
-
-
-
-
-
-extern int   (lua_absindex) (lua_State *L, int idx);
-extern int   (lua_gettop) (lua_State *L);
-extern void  (lua_settop) (lua_State *L, int idx);
-extern void  (lua_pushvalue) (lua_State *L, int idx);
-extern void  (lua_rotate) (lua_State *L, int idx, int n);
-extern void  (lua_copy) (lua_State *L, int fromidx, int toidx);
-extern int   (lua_checkstack) (lua_State *L, int n);
-
-extern void  (lua_xmove) (lua_State *from, lua_State *to, int n);
-
-
-
-
-
-
-extern int             (lua_isnumber) (lua_State *L, int idx);
-extern int             (lua_isstring) (lua_State *L, int idx);
-extern int             (lua_iscfunction) (lua_State *L, int idx);
-extern int             (lua_isinteger) (lua_State *L, int idx);
-extern int             (lua_isuserdata) (lua_State *L, int idx);
-extern int             (lua_type) (lua_State *L, int idx);
-extern const char     *(lua_typename) (lua_State *L, int tp);
-
-extern lua_Number      (lua_tonumberx) (lua_State *L, int idx, int *isnum);
-extern lua_Integer     (lua_tointegerx) (lua_State *L, int idx, int *isnum);
-extern int             (lua_toboolean) (lua_State *L, int idx);
-extern const char     *(lua_tolstring) (lua_State *L, int idx, size_t *len);
-extern lua_Unsigned    (lua_rawlen) (lua_State *L, int idx);
-extern lua_CFunction   (lua_tocfunction) (lua_State *L, int idx);
-extern void	       *(lua_touserdata) (lua_State *L, int idx);
-extern lua_State      *(lua_tothread) (lua_State *L, int idx);
-extern const void     *(lua_topointer) (lua_State *L, int idx);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-extern void  (lua_arith) (lua_State *L, int op);
-
-
-
-
-
-extern int   (lua_rawequal) (lua_State *L, int idx1, int idx2);
-extern int   (lua_compare) (lua_State *L, int idx1, int idx2, int op);
-
-
-
-
-
-extern void        (lua_pushnil) (lua_State *L);
-extern void        (lua_pushnumber) (lua_State *L, lua_Number n);
-extern void        (lua_pushinteger) (lua_State *L, lua_Integer n);
-extern const char *(lua_pushlstring) (lua_State *L, const char *s, size_t len);
-extern const char *(lua_pushstring) (lua_State *L, const char *s);
-extern const char *(lua_pushvfstring) (lua_State *L, const char *fmt,
-                                                      va_list argp);
-extern const char *(lua_pushfstring) (lua_State *L, const char *fmt, ...);
-extern void  (lua_pushcclosure) (lua_State *L, lua_CFunction fn, int n);
-extern void  (lua_pushboolean) (lua_State *L, int b);
-extern void  (lua_pushlightuserdata) (lua_State *L, void *p);
-extern int   (lua_pushthread) (lua_State *L);
-
-
-
-
-
-extern int (lua_getglobal) (lua_State *L, const char *name);
-extern int (lua_gettable) (lua_State *L, int idx);
-extern int (lua_getfield) (lua_State *L, int idx, const char *k);
-extern int (lua_geti) (lua_State *L, int idx, lua_Integer n);
-extern int (lua_rawget) (lua_State *L, int idx);
-extern int (lua_rawgeti) (lua_State *L, int idx, lua_Integer n);
-extern int (lua_rawgetp) (lua_State *L, int idx, const void *p);
-
-extern void  (lua_createtable) (lua_State *L, int narr, int nrec);
-extern void *(lua_newuserdatauv) (lua_State *L, size_t sz, int nuvalue);
-extern int   (lua_getmetatable) (lua_State *L, int objindex);
-extern int  (lua_getiuservalue) (lua_State *L, int idx, int n);
-
-
-
-
-
-extern void  (lua_setglobal) (lua_State *L, const char *name);
-extern void  (lua_settable) (lua_State *L, int idx);
-extern void  (lua_setfield) (lua_State *L, int idx, const char *k);
-extern void  (lua_seti) (lua_State *L, int idx, lua_Integer n);
-extern void  (lua_rawset) (lua_State *L, int idx);
-extern void  (lua_rawseti) (lua_State *L, int idx, lua_Integer n);
-extern void  (lua_rawsetp) (lua_State *L, int idx, const void *p);
-extern int   (lua_setmetatable) (lua_State *L, int objindex);
-extern int   (lua_setiuservalue) (lua_State *L, int idx, int n);
-
-
-
-
-
-extern void  (lua_callk) (lua_State *L, int nargs, int nresults,
-                           lua_KContext ctx, lua_KFunction k);
-
-
-extern int   (lua_pcallk) (lua_State *L, int nargs, int nresults, int errfunc,
-                            lua_KContext ctx, lua_KFunction k);
-
-
-extern int   (lua_load) (lua_State *L, lua_Reader reader, void *dt,
-                          const char *chunkname, const char *mode);
-
-extern int (lua_dump) (lua_State *L, lua_Writer writer, void *data, int strip);
-
-
-
-
-
-extern int  (lua_yieldk)     (lua_State *L, int nresults, lua_KContext ctx,
-                               lua_KFunction k);
-extern int  (lua_resume)     (lua_State *L, lua_State *from, int narg,
-                               int *nres);
-extern int  (lua_status)     (lua_State *L);
-extern int (lua_isyieldable) (lua_State *L);
-
-
-
-
-
-
-
-extern void (lua_setwarnf) (lua_State *L, lua_WarnFunction f, void *ud);
-extern void (lua_warning)  (lua_State *L, const char *msg, int tocont);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-extern int (lua_gc) (lua_State *L, int what, ...);
-
-
-
-
-
-
-extern int   (lua_error) (lua_State *L);
-
-extern int   (lua_next) (lua_State *L, int idx);
-
-extern void  (lua_concat) (lua_State *L, int n);
-extern void  (lua_len)    (lua_State *L, int idx);
-
-extern size_t   (lua_stringtonumber) (lua_State *L, const char *s);
-
-extern lua_Alloc (lua_getallocf) (lua_State *L, void **ud);
-extern void      (lua_setallocf) (lua_State *L, lua_Alloc f, void *ud);
-
-extern void (lua_toclose) (lua_State *L, int idx);
-extern void (lua_closeslot) (lua_State *L, int idx);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 411 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct lua_Debug lua_Debug;  
-
-
-
-typedef void (*lua_Hook) (lua_State *L, lua_Debug *ar);
-
-
-extern int (lua_getstack) (lua_State *L, int level, lua_Debug *ar);
-extern int (lua_getinfo) (lua_State *L, const char *what, lua_Debug *ar);
-extern const char *(lua_getlocal) (lua_State *L, const lua_Debug *ar, int n);
-extern const char *(lua_setlocal) (lua_State *L, const lua_Debug *ar, int n);
-extern const char *(lua_getupvalue) (lua_State *L, int funcindex, int n);
-extern const char *(lua_setupvalue) (lua_State *L, int funcindex, int n);
-
-extern void *(lua_upvalueid) (lua_State *L, int fidx, int n);
-extern void  (lua_upvaluejoin) (lua_State *L, int fidx1, int n1,
-                                               int fidx2, int n2);
-
-extern void (lua_sethook) (lua_State *L, lua_Hook func, int mask, int count);
-extern lua_Hook (lua_gethook) (lua_State *L);
-extern int (lua_gethookmask) (lua_State *L);
-extern int (lua_gethookcount) (lua_State *L);
-
-extern int (lua_setcstacklimit) (lua_State *L, unsigned int limit);
-
-struct lua_Debug {
-  int event;
-  const char *name;	
-  const char *namewhat;	
-  const char *what;	
-  const char *source;	
-  size_t srclen;	
-  int currentline;	
-  int linedefined;	
-  int lastlinedefined;	
-  unsigned char nups;	
-  unsigned char nparams;
-  char isvararg;        
-  char istailcall;	
-  unsigned short ftransfer;   
-  unsigned short ntransfer;   
-  char short_src[60]; 
-  
-  struct CallInfo *i_ci;  
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 519 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
-#line 7 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\LuaData.h"
-}
-
-
-
-enum class LuaType:uint8_t
-{
-    Number=0,
-    Bool,
-    String,
-    Table
-};
-
-struct LuaData
-{
-    LuaType type;
-    void* data;
-    LuaData(lua_State* L,int index);
-};
-#line 8 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\LuaTable.h"
-extern "C"{
-
-}
-
-class L_Int{};
-class L_Double{};
-class L_String{};
-class L_Table{};
-
-class LuaTable
-{
-private:
-    unsigned int Hash(std::string str) const
-    {
-        return std::hash<std::string>()(str);
-    }
-    unsigned int Hash(int i) const
-    {
-        return std::hash<int>()(i);
-    }
-    unsigned int CalculateKeyHash(lua_State* L,int index) const
-    {
-        switch (lua_type(L,index))
-        {
-        case 3:
-            return Hash(lua_tointegerx(L,(index),0));
-        case 4:
-            return Hash(lua_tolstring(L, (index), 0));
-        default:(void)( (!!(false)) || (_wassert(L"false", L"D:\\Project\\Project\\C++\\CppReadyLua\\App\\LuaTable.h", (unsigned)(36)), 0) );return 0;
-        }
-    }
-    int PositiveIndex(lua_State* L,int index) const;
-public:
-    LuaTable(lua_State* L,int index);
-    
-    double GetValue(const char* key) const;
-    double operator()(const char* key,L_Double) const;
-    const LuaTable& operator()(const char*key,L_Table) const;
-    const LuaTable& GetTable(const char* key) const;
-private:
-    std::shared_ptr<std::unordered_map<unsigned int,LuaData*>> table;
-    
-};
-#line 7 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-
-
-extern "C"{
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lobject.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 27 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-typedef size_t lu_mem;
-typedef ptrdiff_t l_mem;
-
-
-
-#line 33 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-typedef unsigned char lu_byte;
-typedef signed char ls_byte;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef double l_uacNumber;
-typedef long long l_uacInt;
-
-
-
-
-
-
-
-
-
-#line 95 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-#line 101 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-#line 105 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-#line 112 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-#line 120 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 141 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-#line 150 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-#line 160 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-#line 164 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-#line 166 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-#line 174 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-#line 176 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-#line 178 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-typedef unsigned int l_uint32;
-
-
-#line 191 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-typedef l_uint32 Instruction;
-
-
-
-
-
-
-
-
-
-
-
-#line 205 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-#line 216 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-#line 227 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-#line 233 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-#line 244 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-#line 254 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-#line 262 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-#line 271 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-#line 275 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-#line 279 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-#line 283 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-#line 287 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-#line 291 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-#line 302 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-#line 307 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 324 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-#line 330 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 344 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 359 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-
-
-
-
-
-#line 366 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-
-#line 368 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-#line 16 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lobject.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef union Value {
-  struct GCObject *gc;    
-  void *p;         
-  lua_CFunction f; 
-  lua_Integer i;   
-  lua_Number n;    
-} Value;
-
-
-
-
-
-
-
-
-
-typedef struct TValue {
-  Value value_; lu_byte tt_;
-} TValue;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef union StackValue {
-  TValue val;
-  struct {
-    Value value_; lu_byte tt_;
-    unsigned short delta;
-  } tbclist;
-} StackValue;
-
-
-
-typedef StackValue *StkId;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct GCObject {
-  struct GCObject *next; lu_byte tt; lu_byte marked;
-} GCObject;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct TString {
-  struct GCObject *next; lu_byte tt; lu_byte marked;
-  lu_byte extra;  
-  lu_byte shrlen;  
-  unsigned int hash;
-  union {
-    size_t lnglen;  
-    struct TString *hnext;  
-  } u;
-  char contents[1];
-} TString;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef union UValue {
-  TValue uv;
-  lua_Number n; double u; void *s; lua_Integer i; long l;  
-} UValue;
-
-
-
-
-
-
-typedef struct Udata {
-  struct GCObject *next; lu_byte tt; lu_byte marked;
-  unsigned short nuvalue;  
-  size_t len;  
-  struct Table *metatable;
-  GCObject *gclist;
-  UValue uv[1];  
-} Udata;
-
-
-
-
-
-
-
-
-
-
-
-typedef struct Udata0 {
-  struct GCObject *next; lu_byte tt; lu_byte marked;
-  unsigned short nuvalue;  
-  size_t len;  
-  struct Table *metatable;
-  union {lua_Number n; double u; void *s; lua_Integer i; long l;} bindata;
-} Udata0;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct Upvaldesc {
-  TString *name;  
-  lu_byte instack;  
-  lu_byte idx;  
-  lu_byte kind;  
-} Upvaldesc;
-
-
-
-
-
-
-typedef struct LocVar {
-  TString *varname;
-  int startpc;  
-  int endpc;    
-} LocVar;
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct AbsLineInfo {
-  int pc;
-  int line;
-} AbsLineInfo;
-
-
-
-
-typedef struct Proto {
-  struct GCObject *next; lu_byte tt; lu_byte marked;
-  lu_byte numparams;  
-  lu_byte is_vararg;
-  lu_byte maxstacksize;  
-  int sizeupvalues;  
-  int sizek;  
-  int sizecode;
-  int sizelineinfo;
-  int sizep;  
-  int sizelocvars;
-  int sizeabslineinfo;  
-  int linedefined;  
-  int lastlinedefined;  
-  TValue *k;  
-  Instruction *code;  
-  struct Proto **p;  
-  Upvaldesc *upvalues;  
-  ls_byte *lineinfo;  
-  AbsLineInfo *abslineinfo;  
-  LocVar *locvars;  
-  TString  *source;  
-  GCObject *gclist;
-} Proto;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct UpVal {
-  struct GCObject *next; lu_byte tt; lu_byte marked;
-  lu_byte tbc;  
-  TValue *v;  
-  union {
-    struct {  
-      struct UpVal *next;  
-      struct UpVal **previous;
-    } open;
-    TValue value;  
-  } u;
-} UpVal;
-
-
-
-
-
-
-typedef struct CClosure {
-  struct GCObject *next; lu_byte tt; lu_byte marked; lu_byte nupvalues; GCObject *gclist;
-  lua_CFunction f;
-  TValue upvalue[1];  
-} CClosure;
-
-
-typedef struct LClosure {
-  struct GCObject *next; lu_byte tt; lu_byte marked; lu_byte nupvalues; GCObject *gclist;
-  struct Proto *p;
-  UpVal *upvals[1];  
-} LClosure;
-
-
-typedef union Closure {
-  CClosure c;
-  LClosure l;
-} Closure;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef union Node {
-  struct NodeKey {
-    Value value_; lu_byte tt_;  
-    lu_byte key_tt;  
-    int next;  
-    Value key_val;  
-  } u;
-  TValue i_val;  
-} Node;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct Table {
-  struct GCObject *next; lu_byte tt; lu_byte marked;
-  lu_byte flags;  
-  lu_byte lsizenode;  
-  unsigned int alimit;  
-  TValue *array;  
-  Node *node;
-  Node *lastfree;  
-  struct Table *metatable;
-  GCObject *gclist;
-} Table;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-extern int luaO_utf8esc (char *buff, unsigned long x);
-extern int luaO_ceillog2 (unsigned int x);
-extern int luaO_rawarith (lua_State *L, int op, const TValue *p1,
-                             const TValue *p2, TValue *res);
-extern void luaO_arith (lua_State *L, int op, const TValue *p1,
-                           const TValue *p2, StkId res);
-extern size_t luaO_str2num (const char *s, TValue *o);
-extern int luaO_hexavalue (int c);
-extern void luaO_tostring (lua_State *L, TValue *obj);
-extern const char *luaO_pushvfstring (lua_State *L, const char *fmt,
-                                                       va_list argp);
-extern const char *luaO_pushfstring (lua_State *L, const char *fmt, ...);
-extern void luaO_chunkid (char *out, const char *source, size_t srclen);
-
-
-#line 800 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lobject.h"
-
-#line 11 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lualib.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-extern int (luaopen_base) (lua_State *L);
-
-
-extern int (luaopen_coroutine) (lua_State *L);
-
-
-extern int (luaopen_table) (lua_State *L);
-
-
-extern int (luaopen_io) (lua_State *L);
-
-
-extern int (luaopen_os) (lua_State *L);
-
-
-extern int (luaopen_string) (lua_State *L);
-
-
-extern int (luaopen_utf8) (lua_State *L);
-
-
-extern int (luaopen_math) (lua_State *L);
-
-
-extern int (luaopen_debug) (lua_State *L);
-
-
-extern int (luaopen_package) (lua_State *L);
-
-
-
-extern void (luaL_openlibs) (lua_State *L);
-
-
-#line 53 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lualib.h"
-#line 13 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct luaL_Buffer luaL_Buffer;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct luaL_Reg {
-  const char *name;
-  lua_CFunction func;
-} luaL_Reg;
-
-
-
-
-extern void (luaL_checkversion_) (lua_State *L, lua_Number ver, size_t sz);
-
-
-
-extern int (luaL_getmetafield) (lua_State *L, int obj, const char *e);
-extern int (luaL_callmeta) (lua_State *L, int obj, const char *e);
-extern const char *(luaL_tolstring) (lua_State *L, int idx, size_t *len);
-extern int (luaL_argerror) (lua_State *L, int arg, const char *extramsg);
-extern int (luaL_typeerror) (lua_State *L, int arg, const char *tname);
-extern const char *(luaL_checklstring) (lua_State *L, int arg,
-                                                          size_t *l);
-extern const char *(luaL_optlstring) (lua_State *L, int arg,
-                                          const char *def, size_t *l);
-extern lua_Number (luaL_checknumber) (lua_State *L, int arg);
-extern lua_Number (luaL_optnumber) (lua_State *L, int arg, lua_Number def);
-
-extern lua_Integer (luaL_checkinteger) (lua_State *L, int arg);
-extern lua_Integer (luaL_optinteger) (lua_State *L, int arg,
-                                          lua_Integer def);
-
-extern void (luaL_checkstack) (lua_State *L, int sz, const char *msg);
-extern void (luaL_checktype) (lua_State *L, int arg, int t);
-extern void (luaL_checkany) (lua_State *L, int arg);
-
-extern int   (luaL_newmetatable) (lua_State *L, const char *tname);
-extern void  (luaL_setmetatable) (lua_State *L, const char *tname);
-extern void *(luaL_testudata) (lua_State *L, int ud, const char *tname);
-extern void *(luaL_checkudata) (lua_State *L, int ud, const char *tname);
-
-extern void (luaL_where) (lua_State *L, int lvl);
-extern int (luaL_error) (lua_State *L, const char *fmt, ...);
-
-extern int (luaL_checkoption) (lua_State *L, int arg, const char *def,
-                                   const char *const lst[]);
-
-extern int (luaL_fileresult) (lua_State *L, int stat, const char *fname);
-extern int (luaL_execresult) (lua_State *L, int stat);
-
-
-
-
-
-
-extern int (luaL_ref) (lua_State *L, int t);
-extern void (luaL_unref) (lua_State *L, int t, int ref);
-
-extern int (luaL_loadfilex) (lua_State *L, const char *filename,
-                                               const char *mode);
-
-
-
-extern int (luaL_loadbufferx) (lua_State *L, const char *buff, size_t sz,
-                                   const char *name, const char *mode);
-extern int (luaL_loadstring) (lua_State *L, const char *s);
-
-extern lua_State *(luaL_newstate) (void);
-
-extern lua_Integer (luaL_len) (lua_State *L, int idx);
-
-extern void (luaL_addgsub) (luaL_Buffer *b, const char *s,
-                                     const char *p, const char *r);
-extern const char *(luaL_gsub) (lua_State *L, const char *s,
-                                    const char *p, const char *r);
-
-extern void (luaL_setfuncs) (lua_State *L, const luaL_Reg *l, int nup);
-
-extern int (luaL_getsubtable) (lua_State *L, int idx, const char *fname);
-
-extern void (luaL_traceback) (lua_State *L, lua_State *L1,
-                                  const char *msg, int level);
-
-extern void (luaL_requiref) (lua_State *L, const char *modname,
-                                 lua_CFunction openf, int glb);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 182 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
-
-
-
-
-
-
-
-
-
-struct luaL_Buffer {
-  char *b;  
-  size_t size;  
-  size_t n;  
-  lua_State *L;
-  union {
-    lua_Number n; double u; void *s; lua_Integer i; long l;  
-    char b[((int)(16 * sizeof(void*) * sizeof(lua_Number)))];  
-  } init;
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-extern void (luaL_buffinit) (lua_State *L, luaL_Buffer *B);
-extern char *(luaL_prepbuffsize) (luaL_Buffer *B, size_t sz);
-extern void (luaL_addlstring) (luaL_Buffer *B, const char *s, size_t l);
-extern void (luaL_addstring) (luaL_Buffer *B, const char *s);
-extern void (luaL_addvalue) (luaL_Buffer *B);
-extern void (luaL_pushresult) (luaL_Buffer *B);
-extern void (luaL_pushresultsize) (luaL_Buffer *B, size_t sz);
-extern char *(luaL_buffinitsize) (lua_State *L, luaL_Buffer *B, size_t sz);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-typedef struct luaL_Stream {
-  FILE *f;  
-  lua_CFunction closef;  
-} luaL_Stream;
-
-
-
-
-
-
-
-
-
-
-
-
-#line 262 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
-
-
-
-
-#line 267 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
-
-
-
-
-
-#line 273 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 295 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
-
-
-
-
-#line 300 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
-
-
-#line 14 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-}
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\iostream"
-
-
-
-
-
-#pragma once
-
-
-
-
-
+#line 12 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\iostream"
 
 #pragma pack(push, 8)
 #pragma warning(push, 3)
@@ -80786,231 +64761,20 @@ private:
 #line 74 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\iostream"
 #line 75 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\iostream"
 #pragma external_header(pop)
-#line 17 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-using namespace std;
-
-
-
-#line 22 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp"
-
-template<typename T>
-ostream& error(ostream& os,T info)
-{
-    return os<<info<<endl;   
-}
-template<typename T,typename ...Args>
-ostream& error(ostream& os,T info,Args ...args)
-{
-    os<<info<<",";
-    return error(os,args...);
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-class LuaReader
-{
-    bool IsLuaTypeTABLE(lua_State* L,int index){return 5==lua_type(L,index);}
-    bool IsLuaTypeNUMBER(lua_State* L,int index){return 3==lua_type(L,index);}
-    bool IsLuaTypeSTRING(lua_State* L,int index){return 4==lua_type(L,index);}
-    bool IsLuaTypeBOOLEAN(lua_State* L,int index){return 1==lua_type(L,index);}
-private:
-    
-    void LuaPushElement(lua_State* L,int e)
-    {
-        lua_pushinteger(L,e);
-    }
-    void LuaPushElement(lua_State* L,const char* e)
-    {
-        lua_pushstring(L,e);
-    }
-    
-    lua_Integer LuaToInt(lua_State* L,int index)
-    {
-        (void)( (!!(IsLuaTypeNUMBER(L,index))) || (_wassert(L"IsLuaTypeNUMBER(L,index)", L"D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp", (unsigned)(99)), 0) );
-        return lua_tointegerx(L,(index),0);
-    }
-    const char* LuaToString(lua_State* L,int index)
-    {
-        (void)( (!!(IsLuaTypeSTRING(L,index))) || (_wassert(L"IsLuaTypeSTRING(L,index)", L"D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp", (unsigned)(104)), 0) );
-        return  lua_tolstring(L, (index), 0);
-    }
-    int LuaToBool(lua_State* L,int index)
-    {
-        (void)( (!!(IsLuaTypeBOOLEAN(L,index))) || (_wassert(L"IsLuaTypeBOOLEAN(L,index)", L"D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp", (unsigned)(109)), 0) );
-        return lua_toboolean(L,index);
-    }
-    
-public:
-    using Int=int;
-    using String=const char*;
-    using Bool=bool;
-    private:template<typename T,typename ...Args>Int GetIntFromTableHelper(T key,Args... args){ LuaPushElement(L,key); if(!IsLuaTypeTABLE(L,-2)) error(cout,"lua_gettable error:not a table"); lua_gettable(L,-2); Int value=GetIntFromTableHelper(args...); lua_settop(L, -(1)-1); return value;}template<typename T>Int GetIntFromTableHelper(T key){ LuaPushElement(L,key); if(!IsLuaTypeTABLE(L,-2)) error(cout,"lua_gettable error:not a table"); lua_gettable(L,-2); Int value=(Int)LuaToInt(L,-1); lua_settop(L, -(1)-1); return value;}public:template<typename T,typename ...Args>Int GetIntFromTable(T key,Args... args){ lua_getglobal(L,m_TableName); if(!IsLuaTypeTABLE(L,-1)){ error(cout,"Error table name"); } return GetIntFromTableHelper(key,args...);}
-    private:template<typename T,typename ...Args>String GetStringFromTableHelper(T key,Args... args){ LuaPushElement(L,key); if(!IsLuaTypeTABLE(L,-2)) error(cout,"lua_gettable error:not a table"); lua_gettable(L,-2); String value=GetStringFromTableHelper(args...); lua_settop(L, -(1)-1); return value;}template<typename T>String GetStringFromTableHelper(T key){ LuaPushElement(L,key); if(!IsLuaTypeTABLE(L,-2)) error(cout,"lua_gettable error:not a table"); lua_gettable(L,-2); String value=(String)LuaToString(L,-1); lua_settop(L, -(1)-1); return value;}public:template<typename T,typename ...Args>String GetStringFromTable(T key,Args... args){ lua_getglobal(L,m_TableName); if(!IsLuaTypeTABLE(L,-1)){ error(cout,"Error table name"); } return GetStringFromTableHelper(key,args...);}
-    private:template<typename T,typename ...Args>Bool GetBoolFromTableHelper(T key,Args... args){ LuaPushElement(L,key); if(!IsLuaTypeTABLE(L,-2)) error(cout,"lua_gettable error:not a table"); lua_gettable(L,-2); Bool value=GetBoolFromTableHelper(args...); lua_settop(L, -(1)-1); return value;}template<typename T>Bool GetBoolFromTableHelper(T key){ LuaPushElement(L,key); if(!IsLuaTypeTABLE(L,-2)) error(cout,"lua_gettable error:not a table"); lua_gettable(L,-2); Bool value=(Bool)LuaToBool(L,-1); lua_settop(L, -(1)-1); return value;}public:template<typename T,typename ...Args>Bool GetBoolFromTable(T key,Args... args){ lua_getglobal(L,m_TableName); if(!IsLuaTypeTABLE(L,-1)){ error(cout,"Error table name"); } return GetBoolFromTableHelper(key,args...);}
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-
-
-
-
-    
-public:
-    inline LuaReader(const char* tableName)
-        :L(luaL_newstate()),m_TableName(tableName)
-    {
-        luaL_openlibs(L);
-        std::fstream f;
-        f.open(m_RequirePath);
-
-        (void)( (!!(f.is_open())) || (_wassert(L"f.is_open()", L"D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp", (unsigned)(166)), 0) );
-
-        f.seekg(0,std::ios::end);
-        std::string str;
-        str.resize(f.tellg());
-        f.seekg(3,std::ios::beg);
-        f.read(&str[0],str.size());
-        f.close();
-
-        (void)( (!!(!(luaL_loadstring(L, str.c_str()) || lua_pcallk(L, (0), ((-1)), (0), 0, 0)))) || (_wassert(L"!luaL_dostring(L,str.c_str())", L"D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp", (unsigned)(175)), 0) );
-
-    }
-    ~LuaReader()
-    {
-        lua_close(L);
-    }
-
-private:
-    lua_State* L;
-    const char* m_RequirePath="Require.lua";
-    const char* m_TableName;
-};
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#line 229 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\App.cpp"
 
 int main(int argc, char* argv[])
 {
-    lua_State* L=luaL_newstate();luaL_openlibs(L);std::fstream f;f.open("Require.lua");(void)( (!!(f.is_open())) || (_wassert(L"f.is_open()", L"D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp", (unsigned)(231)), 0) );f.seekg(0,std::ios::end);std::string str;str.resize(f.tellg());f.seekg(3,std::ios::beg);f.read(&str[0],str.size());f.close();(void)( (!!(!(luaL_loadstring(L, str.c_str()) || lua_pcallk(L, (0), ((-1)), (0), 0, 0)))) || (_wassert(L"!luaL_dostring(L,str.c_str())", L"D:\\Project\\Project\\C++\\CppReadyLua\\App\\App.cpp", (unsigned)(231)), 0) );lua_getglobal(L,"T");int i=lua_gettop(L);lua_pushnil(L);
-
-    lua_getglobal(L,"T");
-    LuaTable table(L,-1);
-    lua_settop(L, -(1)-1);
     
     
     
-    cout<<table("a",L_Table())("b",L_Double())<<endl; 
-
+    
+    
+    
+    
+    
+    
+    std::cout<<1<<std::endl;
     
     return 0;
 }

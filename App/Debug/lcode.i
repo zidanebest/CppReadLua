@@ -1,4 +1,4 @@
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-#line 21 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
+#line 21 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
 
 
@@ -36,11 +36,9 @@
 
 
 
-#line 29 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
+#line 29 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
-#line 31 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
-
-
+#line 31 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
 
 
@@ -48,17 +46,19 @@
 
 
 
-#line 41 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
 
-#line 43 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
 
-#line 45 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
+#line 41 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
-#line 11 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 43 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
+
+#line 45 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
+
+#line 11 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -72,7 +72,7 @@
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4038,7 +4038,72 @@ __pragma(pack(pop))
 
 #line 369 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vcruntime.h"
 #pragma external_header(pop)
-#line 11 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 11 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+    
+
+
+        
+    #line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 27 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+    
+#line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+#line 47 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+        
+    #line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        
+    #line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 72 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8))
 
@@ -4048,76 +4113,74 @@ __pragma(pack(push, 8))
 
 
 
-
-
     
 
-#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
         
     
 
-#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 92 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 93 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
 
     
-#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 99 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
 
-#line 41 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
         
     
 
-#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 52 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
+#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
 
 
-#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
+#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
     
-#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+    
+#line 153 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4135,26 +4198,26 @@ __pragma(pack(push, 8))
 
 
         
-    #line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 171 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 182 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 184 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 125 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4179,30 +4242,13 @@ __pragma(pack(push, 8))
 
 
 
-#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 156 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     typedef _Bool __crt_bool;
-#line 158 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-    
-#line 170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
+#line 221 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4218,19 +4264,46 @@ __pragma(pack(push, 8))
 
 
     
-
-#line 192 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
         
-    #line 194 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+            
+        #line 241 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    #line 242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 243 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     
-#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+#line 265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+        
+    #line 267 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+#line 276 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
  
@@ -4242,11 +4315,11 @@ __pragma(pack(push, 8))
 
   
 
-#line 215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 288 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
    
-  #line 217 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
- #line 218 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+  #line 290 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+ #line 291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 292 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4255,6 +4328,12 @@ __pragma(pack(push, 8))
 
 
     
+
+
+
+
+
+
 
 
 
@@ -4267,20 +4346,20 @@ __pragma(pack(push, 8))
 
 
         
-    #line 240 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 241 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 320 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
-#line 245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
         
     
 
-#line 252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 331 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4304,7 +4383,7 @@ __pragma(pack(push, 8))
                 unsigned int,
                 uintptr_t
         );
-#line 277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 __declspec(dllimport) void __cdecl _invalid_parameter_noinfo(void);
 __declspec(dllimport) __declspec(noreturn) void __cdecl _invalid_parameter_noinfo_noreturn(void);
@@ -4335,8 +4414,8 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 308 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4349,14 +4428,14 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
+    
+
+
+#line 405 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-
-
-
-
-#line 329 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 409 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
@@ -4365,8 +4444,8 @@ __declspec(dllimport) void __cdecl _invoke_watson(
         
 
 
-    #line 338 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 419 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4384,34 +4463,20 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
         
-    #line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 358 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
 
 
         
-    #line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 366 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 370 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 450 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4425,26 +4490,40 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-
-
-#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
+#line 464 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
 
-    
-#line 407 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
 
 
 
-#line 411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+#line 480 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
 
 
     
+#line 487 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
-#line 416 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 417 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+#line 491 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+#line 496 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
@@ -4454,19 +4533,19 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
             
-        #line 427 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    #line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+        #line 507 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    #line 508 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 509 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 513 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
 
 
-#line 439 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 519 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
@@ -4476,8 +4555,8 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-    #line 449 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 450 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 529 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 530 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
@@ -4486,7 +4565,7 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 459 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 539 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
     
         
@@ -4496,27 +4575,19 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 549 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
     
         
               
         
 
-#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 556 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
 
 
 
-#line 481 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-    
-        
-    
-
-
-
-#line 489 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 561 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
     
         
@@ -4524,12 +4595,20 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 569 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+    
+        
+    
+
+
+
+#line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 578 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
-#line 502 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4569,28 +4648,265 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 542 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 622 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 626 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
 
 
         typedef __time64_t time_t;
-    #line 553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 554 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 633 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 634 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
     
-#line 559 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 639 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     typedef size_t rsize_t;
-#line 563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 643 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 798 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+    #line 813 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 814 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4751,23 +5067,8 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 724 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
 
-    #line 739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 740 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
 
 
 
@@ -4844,7 +5145,6 @@ typedef _Mbstatet mbstate_t;
 
 
 
-    
 
 
 
@@ -5591,258 +5891,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1815 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 1865 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
         
         
@@ -6032,15 +6081,20 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 2005 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    #line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 2007 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
+#line 2055 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    #line 2056 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 2057 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 __pragma(pack(pop))
+
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8))
 
@@ -6054,9 +6108,9 @@ __pragma(pack(push, 8))
 
 
             
-        #line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
-    #line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
-#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+        #line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
+    #line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
+#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -6081,11 +6135,11 @@ __pragma(pack(push, 8))
             
         
 
-#line 55 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
     
 
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
-#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
+#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -6242,7 +6296,7 @@ __pragma(pack(push, 8))
 
 
 
-#line 216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 220 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -6257,7 +6311,7 @@ __pragma(pack(push, 8))
 __declspec(dllimport) unsigned int __cdecl _clearfp(void);
 
 #pragma warning(push)
-#pragma warning(disable: 4141)
+#pragma warning(disable: 4141) 
 
  
 __declspec(dllimport) unsigned int __cdecl _controlfp(
@@ -6294,7 +6348,7 @@ __declspec(dllimport) void __cdecl _fpreset(void);
           unsigned int* _SSE2Status
         );
 
-#line 268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
@@ -6313,7 +6367,7 @@ __declspec(dllimport) unsigned int __cdecl _control87(
           unsigned int* _X86ControlWord,
           unsigned int* _Sse2ControlWord
         );
-#line 287 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
  
@@ -6425,14 +6479,16 @@ __declspec(dllimport) int __cdecl __fpe_flt_rounds(void);
 
     
 
-#line 399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+#line 403 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 
 
 
 __pragma(pack(pop))
-#line 404 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\float.h"
+
+#pragma warning(pop) 
+#line 410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\float.h"
 #pragma external_header(pop)
-#line 14 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 14 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
 #pragma external_header(push)
 #line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\limits.h"
 
@@ -6514,9 +6570,9 @@ __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 15 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 15 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\math.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\math.h"
 
 
 
@@ -6528,7 +6584,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -6542,13 +6598,11 @@ __pragma(pack(pop))
 
 
 
-__pragma(pack(push, 8))
-
 #pragma warning(push)
-#pragma warning(disable:4738) 
-#pragma warning(disable:4820) 
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
+__pragma(pack(push, 8))
 
 
     
@@ -6575,9 +6629,9 @@ __pragma(pack(push, 8))
         
             
             
-        #line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
-    #line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
-#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+        #line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
+    #line 47 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -6588,10 +6642,10 @@ __pragma(pack(push, 8))
 
 
 
-#line 61 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
     typedef float  float_t;
     typedef double double_t;
-#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -6611,12 +6665,12 @@ __pragma(pack(push, 8))
         extern double const _HUGE;
     
 
-#line 84 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
-#line 85 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 82 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
     
-#line 89 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -6988,7 +7042,7 @@ extern const long double _LZero_C, _LXbig_C;
 
 
 
-#line 461 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 459 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -7115,7 +7169,7 @@ extern const long double _LZero_C, _LXbig_C;
 
           __declspec(dllimport) int  __cdecl _set_SSE2_enable(  int _Flag);
 
-    #line 588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 586 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
     
 
@@ -7128,12 +7182,12 @@ extern const long double _LZero_C, _LXbig_C;
 
 
 
-#line 601 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 599 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
 
-#line 606 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 604 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -7148,7 +7202,7 @@ extern const long double _LZero_C, _LXbig_C;
 
 
 
-#line 621 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 619 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
           __inline float __cdecl acosf(  float _X)
         {
@@ -7190,27 +7244,27 @@ extern const long double _LZero_C, _LXbig_C;
             return (float)exp(_X);
         }
 
-    #line 663 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 661 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
     
 
 
 
-#line 669 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 667 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
           __inline float __cdecl fabsf(  float _X)
         {
             return (float)fabs(_X);
         }
 
-    #line 676 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 674 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
     
 
 
 
 
-#line 683 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 681 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
           __inline float __cdecl floorf(  float _X)
         {
@@ -7222,7 +7276,7 @@ extern const long double _LZero_C, _LXbig_C;
             return (float)fmod(_X, _Y);
         }
 
-    #line 695 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
       __inline float __cdecl frexpf(  float _X,   int *_Y)
     {
@@ -7251,7 +7305,7 @@ extern const long double _LZero_C, _LXbig_C;
 
 
 
-#line 724 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 722 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
           __inline float __cdecl log10f(  float _X)
         {
@@ -7301,7 +7355,7 @@ extern const long double _LZero_C, _LXbig_C;
             return (float)tanh(_X);
         }
 
-    #line 774 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 772 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
       __declspec(dllimport) long double __cdecl acoshl(  long double _X);
 
@@ -7487,9 +7541,9 @@ extern const long double _LZero_C, _LXbig_C;
 
     
         
-    #line 960 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 958 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
-#line 962 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 960 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 
 
@@ -7507,7 +7561,7 @@ extern const long double _LZero_C, _LXbig_C;
             extern double HUGE;
         
 
-#line 980 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+#line 978 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_j0" ". See online help for details."))   __declspec(dllimport) double __cdecl j0(  double _X);
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_j1" ". See online help for details."))   __declspec(dllimport) double __cdecl j1(  double _X);
@@ -7515,25 +7569,24 @@ extern const long double _LZero_C, _LXbig_C;
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_y0" ". See online help for details."))   __declspec(dllimport) double __cdecl y0(  double _X);
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_y1" ". See online help for details."))   __declspec(dllimport) double __cdecl y1(  double _X);
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_yn" ". See online help for details."))   __declspec(dllimport) double __cdecl yn(  int _X,   double _Y);
-    #line 988 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+    #line 986 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
-#line 990 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
-
-
-#pragma warning(pop)
+#line 988 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 
 __pragma(pack(pop))
-#line 996 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_math.h"
+
+#pragma warning(pop) 
+#line 993 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_math.h"
 #pragma external_header(pop)
-#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\math.h"
+#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\math.h"
 
 
 
 
 #pragma external_header(pop)
-#line 16 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 16 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -7547,7 +7600,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_malloc.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_malloc.h"
 
 
 
@@ -7558,6 +7611,10 @@ __pragma(pack(pop))
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -7598,7 +7655,7 @@ __pragma(pack(push, 8))
 
 
 
-#line 52 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_malloc.h"
+#line 56 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_malloc.h"
 
      
 __declspec(dllimport) __declspec(allocator) __declspec(restrict)
@@ -7771,15 +7828,17 @@ void* __cdecl _aligned_recalloc(
 
 
 
-#line 225 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_malloc.h"
+#line 229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_malloc.h"
 
 
 
 __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
 
 
 
@@ -7794,7 +7853,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
 
@@ -7806,6 +7865,10 @@ __pragma(pack(pop))
 
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -7831,7 +7894,7 @@ __pragma(pack(push, 8))
     __declspec(dllimport) errno_t __cdecl _set_errno(  int _Value);
     __declspec(dllimport) errno_t __cdecl _get_errno(  int* _Value);
 
-#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 42 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
 
@@ -7840,10 +7903,10 @@ __pragma(pack(push, 8))
 
 
         
-    #line 47 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+    #line 51 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
-#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 54 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 __declspec(dllimport) extern unsigned long  __cdecl __threadid(void);
 
@@ -7852,9 +7915,15 @@ __declspec(dllimport) extern uintptr_t __cdecl __threadhandle(void);
 
 
 __pragma(pack(pop))
-#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+
+#pragma warning(pop) 
+#line 65 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 #pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8))
 
@@ -7883,7 +7952,7 @@ __pragma(pack(push, 8))
                                                          void*   _Context
         );
 
-#line 44 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 48 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
 
 
 
@@ -8024,7 +8093,7 @@ __declspec(dllimport) void* __cdecl _lsearch(
 
 
 
-#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
 
 
 
@@ -8048,15 +8117,17 @@ __declspec(dllimport) void* __cdecl _lsearch(
                                    _CoreCrtNonSecureSearchSortCompareFunction _CompareFunction
         );
 
-#line 209 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_search.h"
+#line 213 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_search.h"
 
 
 
 __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
 
 
@@ -8067,6 +8138,10 @@ __pragma(pack(pop))
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -8114,10 +8189,10 @@ __pragma(pack(push, 8))
         );
 
     
-#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      __declspec(dllimport) wchar_t* __cdecl _itow( int _Value,   wchar_t *_Buffer,  int _Radix);
-#line 70 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 74 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      
     
@@ -8129,10 +8204,10 @@ __pragma(pack(push, 8))
         );
 
     
-#line 86 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      __declspec(dllimport) wchar_t* __cdecl _ltow( long _Value,   wchar_t *_Buffer,  int _Radix);
-#line 93 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 97 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
     
     __declspec(dllimport) errno_t __cdecl _ultow_s(
@@ -8143,10 +8218,10 @@ __pragma(pack(push, 8))
         );
 
     
-#line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      __declspec(dllimport) wchar_t* __cdecl _ultow( unsigned long _Value,   wchar_t *_Buffer,  int _Radix);
-#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
      
     __declspec(dllimport) double __cdecl wcstod(
@@ -8386,14 +8461,10 @@ __pragma(pack(push, 8))
         );
 
     
-#line 361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
  __declspec(dllimport) void __cdecl _wmakepath(  wchar_t *_Buffer,  wchar_t const* _Drive,  wchar_t const* _Dir,  wchar_t const* _Filename,  wchar_t const* _Ext);
-#line 373 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
-#pragma warning(pop)
+#line 374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
     __declspec(dllimport) void __cdecl _wperror(
           wchar_t const* _ErrorMessage
@@ -8421,7 +8492,7 @@ __pragma(pack(push, 8))
         );
 
     
-#line 404 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 404 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
         
         
@@ -8450,7 +8521,7 @@ __pragma(pack(push, 8))
             );
 
         
-#line 438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
          
         __declspec(dllimport) int __cdecl _wputenv(
@@ -8471,22 +8542,28 @@ __pragma(pack(push, 8))
             );
 
         
-#line 463 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 463 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
          __declspec(dllimport) void __cdecl _wsearchenv( wchar_t const* _Filename,  wchar_t const* _VarName,   wchar_t *_ResultPath);
-#line 470 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 470 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
         __declspec(dllimport) int __cdecl _wsystem(
               wchar_t const* _Command
             );
 
-#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdlib.h"
+#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdlib.h"
 
 
 
 __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 16 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 16 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -8495,7 +8572,7 @@ __pragma(pack(push, 8))
 
 
     
-#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -8528,7 +8605,7 @@ __declspec(dllimport) void __cdecl _swab(
     __declspec(dllimport) __declspec(noreturn) void __cdecl _Exit(  int _Code);
     __declspec(dllimport) __declspec(noreturn) void __cdecl quick_exit(  int _Code);
     __declspec(dllimport) __declspec(noreturn) void __cdecl abort(void);
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -8548,12 +8625,12 @@ __declspec(dllimport) unsigned int __cdecl _set_abort_behavior(
     
 
 
-#line 78 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 82 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
     
     
-#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 87 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -8613,7 +8690,7 @@ __declspec(dllimport) unsigned int __cdecl _set_abort_behavior(
 
     int       __cdecl atexit(void (__cdecl*)(void));
     _onexit_t __cdecl _onexit(  _onexit_t _Func);
-#line 143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 int __cdecl at_quick_exit(void (__cdecl*)(void));
 
@@ -8656,7 +8733,7 @@ int __cdecl at_quick_exit(void (__cdecl*)(void));
         );
 
     __declspec(dllimport) _invalid_parameter_handler __cdecl _get_thread_local_invalid_parameter_handler(void);
-#line 186 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -8669,7 +8746,7 @@ int __cdecl at_quick_exit(void (__cdecl*)(void));
 
 
 
-#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -8704,7 +8781,7 @@ int __cdecl at_quick_exit(void (__cdecl*)(void));
     
 
     __declspec(dllimport) void __cdecl perror(  char const* _ErrMsg);
-#line 234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -8723,7 +8800,7 @@ int __cdecl at_quick_exit(void (__cdecl*)(void));
     
     
     
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 257 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
 __declspec(dllimport) errno_t __cdecl _get_pgmptr (  char**    _Value);
@@ -8775,8 +8852,8 @@ typedef struct _lldiv_t
 
 
 
-#pragma warning (push)
-#pragma warning (disable:6540)
+#pragma warning(push)
+#pragma warning(disable: 6540)
 
 unsigned int __cdecl _rotl(
       unsigned int _Value,
@@ -8810,7 +8887,7 @@ unsigned __int64 __cdecl _rotr64(
       int              _Shift
     );
 
-#pragma warning (pop)
+#pragma warning(pop)
 
 
 
@@ -8823,7 +8900,7 @@ __declspec(dllimport) void __cdecl srand(  unsigned int _Seed);
 
 
 
-#line 353 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -8880,7 +8957,7 @@ __declspec(dllimport) void __cdecl srand(  unsigned int _Seed);
 
 
 
-#line 410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 414 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 typedef struct
 {
@@ -9101,14 +9178,10 @@ __declspec(dllimport) errno_t __cdecl _itoa_s(
     );
 
 
-#line 636 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 640 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
  __declspec(dllimport) char* __cdecl _itoa( int _Value,   char *_Buffer,  int _Radix);
-#line 646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
-#pragma warning(pop)
+#line 647 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
 
@@ -9120,10 +9193,10 @@ __declspec(dllimport) errno_t __cdecl _ltoa_s(
     );
 
 
-#line 663 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 663 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) char* __cdecl _ltoa( long _Value,   char *_Buffer,  int _Radix);
-#line 670 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 670 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
 
@@ -9135,13 +9208,10 @@ __declspec(dllimport) errno_t __cdecl _ultoa_s(
     );
 
 
-#line 686 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 686 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28726) 
  __declspec(dllimport) char* __cdecl _ultoa( unsigned long _Value,   char *_Buffer,  int _Radix);
-#line 695 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
-#pragma warning(pop)
+#line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
 
@@ -9200,7 +9270,7 @@ __declspec(dllimport) errno_t __cdecl _ecvt_s(
     );
 
 
-#line 761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 758 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
   
 __declspec(dllimport) char* __cdecl _ecvt(
@@ -9222,7 +9292,7 @@ __declspec(dllimport) errno_t __cdecl _fcvt_s(
     );
 
 
-#line 790 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 787 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  
   
@@ -9242,7 +9312,7 @@ __declspec(dllimport) errno_t __cdecl _gcvt_s(
     );
 
 
-#line 815 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 812 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) char* __cdecl _gcvt(
@@ -9263,22 +9333,22 @@ __declspec(dllimport) char* __cdecl _gcvt(
 
     
 
-#line 836 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 833 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
         
-    #line 838 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+    #line 835 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
 
 
         
-    #line 844 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+    #line 841 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
      
     __declspec(dllimport) int __cdecl ___mb_cur_max_func(void);
 
      
     __declspec(dllimport) int __cdecl ___mb_cur_max_l_func(_locale_t _Locale);
-#line 851 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 848 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -9348,10 +9418,10 @@ __declspec(dllimport) errno_t __cdecl mbstowcs_s(
     );
 
 
-#line 926 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 923 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) size_t __cdecl mbstowcs( wchar_t *_Dest,  char const* _Source,  size_t _MaxCount);
-#line 933 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 930 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) errno_t __cdecl _mbstowcs_s_l(
@@ -9364,10 +9434,10 @@ __declspec(dllimport) errno_t __cdecl _mbstowcs_s_l(
     );
 
 
-#line 952 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 949 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) size_t __cdecl _mbstowcs_l(  wchar_t *_Dest,   char const* _Source,   size_t _MaxCount,   _locale_t _Locale);
-#line 961 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 958 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -9395,7 +9465,7 @@ __declspec(dllimport) int __cdecl _wctomb_l(
                                                               wchar_t _WCh
         );
 
-#line 989 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 986 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wctomb_s_l(
@@ -9415,10 +9485,10 @@ __declspec(dllimport) errno_t __cdecl wcstombs_s(
     );
 
 
-#line 1014 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1011 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) size_t __cdecl wcstombs( char *_Dest,  wchar_t const* _Source,  size_t _MaxCount);
-#line 1021 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1018 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcstombs_s_l(
@@ -9431,10 +9501,10 @@ __declspec(dllimport) errno_t __cdecl _wcstombs_s_l(
     );
 
 
-#line 1040 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1037 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
  __declspec(dllimport) size_t __cdecl _wcstombs_l(  char *_Dest,   wchar_t const* _Source,   size_t _MaxCount,   _locale_t _Locale);
-#line 1049 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1046 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -9476,14 +9546,10 @@ __declspec(dllimport) errno_t __cdecl _makepath_s(
     );
 
 
-#line 1097 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1094 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
  __declspec(dllimport) void __cdecl _makepath(  char *_Buffer,  char const* _Drive,  char const* _Dir,  char const* _Filename,  char const* _Ext);
-#line 1109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
-#pragma warning(pop)
+#line 1103 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 __declspec(dllimport) void __cdecl _splitpath(
@@ -9520,7 +9586,7 @@ __declspec(dllimport) errno_t __cdecl getenv_s(
                                 char const* _VarName
     );
 
-#line 1147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -9537,14 +9603,14 @@ __declspec(dllimport) wchar_t*** __cdecl __p___wargv(void);
     
     
     
-#line 1164 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 __declspec(dllimport) char***    __cdecl __p__environ (void);
 __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
 
     
-#line 1171 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1164 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -9554,7 +9620,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
     
     
-#line 1181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1174 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -9570,12 +9636,12 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
         );
 
     
-#line 1201 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1194 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
 
 
-#line 1206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
     __declspec(dllimport) errno_t __cdecl _dupenv_s(
@@ -9586,7 +9652,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
     
 
-#line 1217 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1210 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     __declspec(dllimport) int __cdecl system(
           char const* _Command
@@ -9594,8 +9660,8 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
     
     
-    #pragma warning (push)
-    #pragma warning (disable:6540)
+    #pragma warning(push)
+    #pragma warning(disable: 6540)
 
      
     __declspec(dllimport) int __cdecl _putenv(
@@ -9608,7 +9674,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
           char const* _Value
         );
 
-    #pragma warning (pop)
+    #pragma warning(pop)
 
     __declspec(dllimport) errno_t __cdecl _searchenv_s(
                                 char const* _Filename,
@@ -9618,10 +9684,10 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
         );
 
     
-#line 1253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1246 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
      __declspec(dllimport) void __cdecl _searchenv( char const* _Filename,  char const* _VarName,   char *_Buffer);
-#line 1260 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
     __declspec(deprecated("This function or variable has been superceded by newer library " "or operating system functionality. Consider using " "SetErrorMode" " " "instead. See online help for details."))
@@ -9640,7 +9706,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
           unsigned long _Duration
         );
 
-#line 1279 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
@@ -9653,7 +9719,7 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
     
         
         
-    #line 1292 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+    #line 1285 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
     
     
@@ -9724,16 +9790,18 @@ __declspec(dllimport) wchar_t*** __cdecl __p__wenviron(void);
 
     _onexit_t __cdecl onexit(  _onexit_t _Func);
 
-#line 1363 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
+#line 1356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
 
 
 
 __pragma(pack(pop))
-#line 1368 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdlib.h"
-#pragma external_header(pop)
-#line 17 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#pragma warning(pop) 
+#line 1363 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdlib.h"
+#pragma external_header(pop)
+#line 17 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
+
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
@@ -9777,11 +9845,11 @@ __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 13 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 13 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -9833,25 +9901,25 @@ __pragma(pack(pop))
 
 
 
-#line 53 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 53 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 59 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 59 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 65 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 65 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 71 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 71 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -9910,9 +9978,9 @@ __pragma(pack(pop))
 
 
 
-#line 130 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 130 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 132 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 132 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -9926,20 +9994,20 @@ __pragma(pack(pop))
 
 
 
-#line 146 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 146 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
 
-#line 153 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 153 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 159 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 159 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -9990,14 +10058,14 @@ __pragma(pack(pop))
 
 
 
-#line 210 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 210 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
 
-#line 217 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 217 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10017,7 +10085,7 @@ __pragma(pack(pop))
 
 
 
-#line 237 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 237 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10031,9 +10099,9 @@ __pragma(pack(pop))
 
 
 
-#line 251 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 251 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 253 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 253 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10061,11 +10129,11 @@ __pragma(pack(pop))
 
 
 
-#line 281 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 281 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
-#line 285 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 285 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10091,9 +10159,9 @@ __pragma(pack(pop))
 
 
 
-#line 312 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 312 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 314 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 314 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10153,7 +10221,7 @@ __pragma(pack(pop))
 
 
 
-#line 374 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 374 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10221,7 +10289,7 @@ __pragma(pack(pop))
 
 
 
-#line 442 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 442 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10236,7 +10304,7 @@ __pragma(pack(pop))
 
 
 
-#line 457 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 457 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10255,7 +10323,7 @@ __pragma(pack(pop))
 
 
 
-#line 476 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 476 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10300,7 +10368,7 @@ __pragma(pack(pop))
 
 
 
-#line 521 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 521 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10310,7 +10378,7 @@ __pragma(pack(pop))
 
 
 
-#line 531 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 531 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10340,13 +10408,13 @@ __pragma(pack(pop))
 
 
 
-#line 561 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 561 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 567 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 567 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10363,9 +10431,9 @@ __pragma(pack(pop))
 
 
 
-#line 584 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 584 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 586 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 586 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10376,7 +10444,7 @@ __pragma(pack(pop))
 
 
 
-#line 597 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 597 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10395,7 +10463,7 @@ __pragma(pack(pop))
 
 
 
-#line 616 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 616 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10409,7 +10477,7 @@ __pragma(pack(pop))
 
 
 
-#line 630 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 630 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10426,7 +10494,7 @@ __pragma(pack(pop))
 
 
 
-#line 648 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 648 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10436,7 +10504,7 @@ __pragma(pack(pop))
 
 
 
-#line 658 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 658 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10450,19 +10518,19 @@ __pragma(pack(pop))
 
 
 
-#line 672 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 672 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
-#line 675 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 675 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 677 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 677 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
 
-#line 684 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 684 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10492,7 +10560,7 @@ __pragma(pack(pop))
 
 
 
-#line 714 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 714 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10516,7 +10584,7 @@ __pragma(pack(pop))
 
 
 
-#line 738 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 738 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -10564,9 +10632,9 @@ __pragma(pack(pop))
 
 
 
-#line 786 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 786 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 17 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 17 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
@@ -10691,7 +10759,7 @@ typedef void (*lua_WarnFunction) (void *ud, const char *msg, int tocont);
 
 
 
-#line 142 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 142 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
@@ -10960,7 +11028,7 @@ extern void (lua_closeslot) (lua_State *L, int idx);
 
 
 
-#line 411 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 411 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
@@ -11068,20 +11136,10 @@ struct lua_Debug {
 
 
 
-#line 519 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
-#line 19 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 519 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
+#line 19 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.h"
-
-
-
-
-
-
-
-
-
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llex.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.h"
 
 
 
@@ -11091,11 +11149,19 @@ struct lua_Debug {
 
 
 
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llex.h"
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lobject.h"
 
 
+
+
+
+
+
+
+
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lobject.h"
 
 
 
@@ -11108,9 +11174,9 @@ struct lua_Debug {
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
 
 
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11134,13 +11200,15 @@ struct lua_Debug {
 
 
 
-#line 27 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+
+
+#line 27 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 typedef size_t lu_mem;
 typedef ptrdiff_t l_mem;
 
 
 
-#line 33 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 33 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11202,24 +11270,24 @@ typedef long long l_uacInt;
 
 
 
-#line 95 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 95 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
 
 
-#line 101 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 101 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
-#line 105 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 105 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
 
 
 
-#line 112 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 112 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11227,7 +11295,7 @@ typedef long long l_uacInt;
 
 
 
-#line 120 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 120 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11248,7 +11316,7 @@ typedef long long l_uacInt;
 
 
 
-#line 141 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 141 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11257,7 +11325,7 @@ typedef long long l_uacInt;
 
 
 
-#line 150 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 150 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11267,13 +11335,13 @@ typedef long long l_uacInt;
 
 
 
-#line 160 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 160 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
-#line 164 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 164 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
-#line 166 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 166 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11281,11 +11349,11 @@ typedef long long l_uacInt;
 
 
 
-#line 174 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 174 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
-#line 176 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 176 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
-#line 178 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 178 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11298,7 +11366,7 @@ typedef long long l_uacInt;
 typedef unsigned int l_uint32;
 
 
-#line 191 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 191 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 typedef l_uint32 Instruction;
 
@@ -11312,7 +11380,7 @@ typedef l_uint32 Instruction;
 
 
 
-#line 205 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 205 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11323,7 +11391,7 @@ typedef l_uint32 Instruction;
 
 
 
-#line 216 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 216 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11334,13 +11402,13 @@ typedef l_uint32 Instruction;
 
 
 
-#line 227 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 227 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
 
 
-#line 233 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 233 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11351,7 +11419,7 @@ typedef l_uint32 Instruction;
 
 
 
-#line 244 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 244 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11361,7 +11429,7 @@ typedef l_uint32 Instruction;
 
 
 
-#line 254 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 254 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11369,7 +11437,7 @@ typedef l_uint32 Instruction;
 
 
 
-#line 262 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 262 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11378,27 +11446,27 @@ typedef l_uint32 Instruction;
 
 
 
-#line 271 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 271 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
-#line 275 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 275 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
-#line 279 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 279 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
-#line 283 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 283 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
-#line 287 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 287 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
-#line 291 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 291 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11409,12 +11477,12 @@ typedef l_uint32 Instruction;
 
 
 
-#line 302 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 302 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
 
-#line 307 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 307 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11431,13 +11499,13 @@ typedef l_uint32 Instruction;
 
 
 
-#line 324 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 324 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
 
 
-#line 330 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 330 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11451,7 +11519,7 @@ typedef l_uint32 Instruction;
 
 
 
-#line 344 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 344 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
@@ -11466,17 +11534,17 @@ typedef l_uint32 Instruction;
 
 
 
-#line 359 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 359 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
 
 
 
 
 
-#line 366 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
+#line 366 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
 
-#line 368 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llimits.h"
-#line 16 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lobject.h"
+#line 368 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llimits.h"
+#line 16 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lobject.h"
 
 
 
@@ -12260,12 +12328,10 @@ extern const char *luaO_pushfstring (lua_State *L, const char *fmt, ...);
 extern void luaO_chunkid (char *out, const char *source, size_t srclen);
 
 
-#line 800 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lobject.h"
+#line 800 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lobject.h"
 
-#line 13 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llex.h"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lzio.h"
-
-
+#line 13 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llex.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lzio.h"
 
 
 
@@ -12276,7 +12342,9 @@ extern void luaO_chunkid (char *out, const char *source, size_t srclen);
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lmem.h"
+
+
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lmem.h"
 
 
 
@@ -12368,9 +12436,9 @@ extern void *luaM_shrinkvector_ (lua_State *L, void *block, int *nelem,
                                     int final_n, int size_elem);
 extern void *luaM_malloc_ (lua_State *L, size_t size, int tag);
 
-#line 93 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lmem.h"
+#line 93 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lmem.h"
 
-#line 14 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lzio.h"
+#line 14 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lzio.h"
 
 
 
@@ -12423,8 +12491,8 @@ struct Zio {
 
 extern int luaZ_fill (ZIO *z);
 
-#line 67 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lzio.h"
-#line 14 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llex.h"
+#line 67 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lzio.h"
+#line 14 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llex.h"
 
 
 
@@ -12436,7 +12504,7 @@ extern int luaZ_fill (ZIO *z);
 
 
 
-#line 26 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llex.h"
+#line 26 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llex.h"
 
 
 
@@ -12502,10 +12570,10 @@ extern void __declspec(noreturn) luaX_syntaxerror (LexState *ls, const char *s);
 extern const char *luaX_token2str (LexState *ls, int token);
 
 
-#line 92 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\llex.h"
-#line 11 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.h"
+#line 92 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\llex.h"
+#line 11 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.h"
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lopcodes.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lopcodes.h"
 
 
 
@@ -12580,7 +12648,7 @@ enum OpMode {iABC, iABx, iAsBx, iAx, isJ};
 
 
 
-#line 76 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lopcodes.h"
+#line 76 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lopcodes.h"
 
 
 
@@ -12589,13 +12657,13 @@ enum OpMode {iABC, iABx, iAsBx, iAx, isJ};
 
 
 
-#line 85 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lopcodes.h"
+#line 85 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lopcodes.h"
 
 
 
 
 
-#line 91 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lopcodes.h"
+#line 91 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lopcodes.h"
 
 
 
@@ -12681,7 +12749,7 @@ enum OpMode {iABC, iABx, iAsBx, iAx, isJ};
 
 
 
-#line 177 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lopcodes.h"
+#line 177 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lopcodes.h"
 
 
 
@@ -12910,9 +12978,9 @@ extern const lu_byte luaP_opmodes[((int)(OP_EXTRAARG) + 1)];
 
 
 
-#line 406 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lopcodes.h"
-#line 13 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.h"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lparser.h"
+#line 406 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lopcodes.h"
+#line 13 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lparser.h"
 
 
 
@@ -13083,8 +13151,8 @@ extern LClosure *luaY_parser (lua_State *L, ZIO *z, Mbuffer *buff,
                                  Dyndata *dyd, const char *name, int firstchar);
 
 
-#line 172 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lparser.h"
-#line 14 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.h"
+#line 172 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lparser.h"
+#line 14 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.h"
 
 
 
@@ -13175,9 +13243,9 @@ extern void luaK_finish (FuncState *fs);
 extern void __declspec(noreturn) luaK_semerror (LexState *ls, const char *msg);
 
 
-#line 105 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.h"
-#line 21 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ldebug.h"
+#line 105 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.h"
+#line 21 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ldebug.h"
 
 
 
@@ -13188,7 +13256,7 @@ extern void __declspec(noreturn) luaK_semerror (LexState *ls, const char *msg);
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lstate.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lstate.h"
 
 
 
@@ -13201,7 +13269,7 @@ extern void __declspec(noreturn) luaK_semerror (LexState *ls, const char *msg);
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltm.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltm.h"
 
 
 
@@ -13304,8 +13372,8 @@ extern void luaT_getvarargs (lua_State *L, struct CallInfo *ci,
                                               StkId where, int wanted);
 
 
-#line 104 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltm.h"
-#line 14 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lstate.h"
+#line 104 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltm.h"
+#line 14 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lstate.h"
 
 
 
@@ -13418,7 +13486,7 @@ struct lua_longjmp;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\signal.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\signal.h"
 
 
 
@@ -13430,6 +13498,10 @@ struct lua_longjmp;
 
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -13477,18 +13549,20 @@ __declspec(dllimport) void** __cdecl __pxcptinfoptrs(void);
 
 
     __declspec(dllimport) _crt_signal_t __cdecl signal(  int _Signal,   _crt_signal_t _Function);
-#line 60 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\signal.h"
+#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\signal.h"
 
 __declspec(dllimport) int __cdecl raise(  int _Signal);
 
 
 
 __pragma(pack(pop))
-#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\signal.h"
-#pragma external_header(pop)
-#line 126 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lstate.h"
 
-#line 128 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lstate.h"
+#pragma warning(pop) 
+#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\signal.h"
+#pragma external_header(pop)
+#line 126 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lstate.h"
+
+#line 128 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lstate.h"
 
 
 
@@ -13580,7 +13654,7 @@ typedef struct CallInfo {
 
 
 
-#line 220 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lstate.h"
+#line 220 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lstate.h"
 
 
 
@@ -13764,11 +13838,9 @@ extern void luaE_warnerror (lua_State *L, const char *where);
 extern int luaE_resetthread (lua_State *L, int status);
 
 
-#line 404 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lstate.h"
+#line 404 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lstate.h"
 
-#line 12 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ldebug.h"
-
-
+#line 12 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ldebug.h"
 
 
 
@@ -13791,7 +13863,9 @@ extern int luaE_resetthread (lua_State *L, int status);
 
 
 
-#line 37 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ldebug.h"
+
+
+#line 37 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ldebug.h"
 
 
 extern int luaG_getfuncline (const Proto *f, int pc);
@@ -13818,9 +13892,9 @@ extern void __declspec(noreturn) luaG_errormsg (lua_State *L);
 extern int luaG_traceexec (lua_State *L, const Instruction *pc);
 
 
-#line 64 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ldebug.h"
-#line 22 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ldo.h"
+#line 64 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ldebug.h"
+#line 22 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ldo.h"
 
 
 
@@ -13898,10 +13972,10 @@ extern void luaD_inctop (lua_State *L);
 extern void __declspec(noreturn) luaD_throw (lua_State *L, int errcode);
 extern int luaD_rawrunprotected (lua_State *L, Pfunc f, void *ud);
 
-#line 79 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ldo.h"
+#line 79 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ldo.h"
 
-#line 23 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lgc.h"
+#line 23 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lgc.h"
 
 
 
@@ -14100,14 +14174,14 @@ extern void luaC_checkfinalizer (lua_State *L, GCObject *o, Table *mt);
 extern void luaC_changemode (lua_State *L, int newmode);
 
 
-#line 200 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lgc.h"
-#line 24 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 200 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lgc.h"
+#line 24 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
 
 
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lstring.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lstring.h"
 
 
 
@@ -14164,9 +14238,9 @@ extern TString *luaS_new (lua_State *L, const char *str);
 extern TString *luaS_createlngstrobj (lua_State *L, size_t l);
 
 
-#line 58 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lstring.h"
-#line 30 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltable.h"
+#line 58 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lstring.h"
+#line 30 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltable.h"
 
 
 
@@ -14229,15 +14303,12 @@ extern unsigned int luaH_realasize (const Table *t);
 
 
 
-#line 64 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltable.h"
+#line 64 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltable.h"
 
 
-#line 67 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltable.h"
-#line 31 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lvm.h"
-
-
-
+#line 67 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltable.h"
+#line 31 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lvm.h"
 
 
 
@@ -14254,14 +14325,17 @@ extern unsigned int luaH_realasize (const Table *t);
 
 
 
-#line 21 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lvm.h"
+
+
+
+#line 21 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lvm.h"
 
 
 
 
 
 
-#line 28 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lvm.h"
+#line 28 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lvm.h"
 
 
 
@@ -14271,7 +14345,7 @@ extern unsigned int luaH_realasize (const Table *t);
 
 
 
-#line 38 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lvm.h"
+#line 38 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lvm.h"
 
 
 
@@ -14370,8 +14444,8 @@ extern lua_Number luaV_modf (lua_State *L, lua_Number x, lua_Number y);
 extern lua_Integer luaV_shiftl (lua_Integer x, lua_Integer y);
 extern void luaV_objlen (lua_State *L, StkId ra, const TValue *rb);
 
-#line 137 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lvm.h"
-#line 32 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 137 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lvm.h"
+#line 32 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
 
 
 
@@ -14674,14 +14748,14 @@ static void savelineinfo (FuncState *fs, Proto *f, int line) {
   int pc = fs->pc - 1;  
   if (abs(linedif) >= 0x80 || fs->iwthabs++ >= 128) {
     ((f->abslineinfo)=((AbsLineInfo *)(luaM_growaux_(fs->ls->L,f->abslineinfo,fs->nabslineinfo,&(f->sizeabslineinfo),sizeof(AbsLineInfo), ((((size_t)((2147483647))) <= ((size_t)(~(size_t)0))/sizeof(AbsLineInfo)) ? (2147483647) : ((unsigned int)(((((size_t)(~(size_t)0))/sizeof(AbsLineInfo)))))),"lines"))));
-#line 335 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 335 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
     f->abslineinfo[fs->nabslineinfo].pc = pc;
     f->abslineinfo[fs->nabslineinfo++].line = line;
     linedif = (-0x80);  
     fs->iwthabs = 1;  
   }
   ((f->lineinfo)=((ls_byte *)(luaM_growaux_(fs->ls->L,f->lineinfo,pc,&(f->sizelineinfo),sizeof(ls_byte), ((((size_t)((2147483647))) <= ((size_t)(~(size_t)0))/sizeof(ls_byte)) ? (2147483647) : ((unsigned int)(((((size_t)(~(size_t)0))/sizeof(ls_byte)))))),"opcodes"))));
-#line 342 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 342 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
   f->lineinfo[pc] = linedif;
   fs->previousline = line;  
 }
@@ -14726,7 +14800,7 @@ int luaK_code (FuncState *fs, Instruction i) {
   Proto *f = fs->f;
   
   ((f->code)=((Instruction *)(luaM_growaux_(fs->ls->L,f->code,fs->pc,&(f->sizecode),sizeof(Instruction), ((((size_t)((2147483647))) <= ((size_t)(~(size_t)0))/sizeof(Instruction)) ? (2147483647) : ((unsigned int)(((((size_t)(~(size_t)0))/sizeof(Instruction)))))),"opcodes"))));
-#line 387 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 387 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
   f->code[fs->pc++] = i;
   savelineinfo(fs, f, fs->ls->lastline);
   return fs->pc - 1;  
@@ -14740,7 +14814,7 @@ int luaK_code (FuncState *fs, Instruction i) {
 int luaK_codeABCk (FuncState *fs, OpCode o, int a, int b, int c, int k) {
   ((void)0);
   ((void)0);
-#line 401 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 401 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
   return luaK_code(fs, ((((Instruction)(o))<<0) | (((Instruction)(a))<<(0 + 7)) | (((Instruction)(b))<<(((0 + 7) + 8) + 1)) | (((Instruction)(c))<<((((0 + 7) + 8) + 1) + 8)) | (((Instruction)(k))<<((0 + 7) + 8))));
 }
 
@@ -14956,7 +15030,7 @@ static int luaK_numberK (FuncState *fs, lua_Number r) {
     { TValue *io=(&kv); ((io)->value_).n=(k); ((io)->tt_=(((3) | ((1) << 4)))); };
     
     ((void)0);
-#line 617 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 617 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
     return addk(fs, &kv, &o);
   }
 }
@@ -15444,7 +15518,7 @@ void luaK_self (FuncState *fs, expdesc *e, expdesc *key) {
 static void negatecondition (FuncState *fs, expdesc *e) {
   Instruction *pc = getjumpcontrol(fs, e->u.info);
   ((void)0);
-#line 1105 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 1105 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
   ((*pc) = (((*pc)&(~((~((~(Instruction)0)<<(1)))<<(((0 + 7) + 8))))) | ((((Instruction)((((((int)((((*pc)>>(((0 + 7) + 8))) & ((~((~(Instruction)0)<<(1)))<<(0))))))) ^ 1)))<<((0 + 7) + 8))&((~((~(Instruction)0)<<(1)))<<(((0 + 7) + 8))))));
 }
 
@@ -15622,7 +15696,7 @@ void luaK_indexed (FuncState *fs, expdesc *t, expdesc *k) {
   if (k->k == VKSTR)
     str2K(fs, k);
   ((void)0);
-#line 1283 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lcode.c"
+#line 1283 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lcode.c"
   if (t->k == VUPVAL && !isKstr(fs, k))  
     luaK_exp2anyreg(fs, t);  
   if (t->k == VUPVAL) {

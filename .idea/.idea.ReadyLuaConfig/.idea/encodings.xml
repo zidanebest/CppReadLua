@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$USER_HOME$/AppData/Local/JetBrains/Rider2021.3/log/SolutionBuilder/JetBrainsLog.ReSharperBuild_2022_04_15_03_28_18_0563.log" charset="GBK" />
+  </component>
 </project>

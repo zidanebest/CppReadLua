@@ -1,4 +1,4 @@
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
 
 
@@ -28,7 +28,7 @@
 
 
 
-#line 21 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
+#line 21 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
 
 
@@ -36,11 +36,9 @@
 
 
 
-#line 29 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
+#line 29 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
-#line 31 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
-
-
+#line 31 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
 
 
@@ -48,13 +46,15 @@
 
 
 
-#line 41 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
 
-#line 43 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
 
-#line 45 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lprefix.h"
+#line 41 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
 
-#line 11 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 43 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
+
+#line 45 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lprefix.h"
+
+#line 11 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 
 
 #pragma external_header(push)
@@ -4094,9 +4094,9 @@ __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 14 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
 
@@ -4109,7 +4109,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4119,6 +4119,71 @@ __pragma(pack(pop))
 
 #pragma once
 
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+        
+    #line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 27 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+    
+#line 32 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+#line 47 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+        
+    #line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+
+        
+    #line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 72 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -4129,76 +4194,74 @@ __pragma(pack(push, 8))
 
 
 
-
-
     
 
-#line 25 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
         
     
 
-#line 29 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 92 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 93 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
 
     
-#line 36 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 99 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
 
-#line 41 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
         
     
 
-#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 46 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 52 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-    
-
-
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-#line 64 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    
-#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
+#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
 
 
-#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
+#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
     
-#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    
+#line 142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+    
+#line 153 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4216,26 +4279,26 @@ __pragma(pack(push, 8))
 
 
         
-    #line 108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 171 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 113 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 182 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 184 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 125 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
-#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4260,30 +4323,13 @@ __pragma(pack(push, 8))
 
 
 
-#line 152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 156 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     typedef _Bool __crt_bool;
-#line 158 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-    
-#line 170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
+#line 221 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4299,19 +4345,46 @@ __pragma(pack(push, 8))
 
 
     
-
-#line 192 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
         
-    #line 194 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+            
+        #line 241 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    #line 242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 243 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
     
-#line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+#line 265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+        
+    #line 267 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 268 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+#line 272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+#line 276 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
  
@@ -4323,11 +4396,11 @@ __pragma(pack(push, 8))
 
   
 
-#line 215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 288 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
    
-  #line 217 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
- #line 218 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+  #line 290 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+ #line 291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 292 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4336,6 +4409,12 @@ __pragma(pack(push, 8))
 
 
     
+
+
+
+
+
+
 
 
 
@@ -4348,20 +4427,20 @@ __pragma(pack(push, 8))
 
 
         
-    #line 240 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 241 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 320 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
-#line 245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
         
     
 
-#line 252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 331 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4385,7 +4464,7 @@ __pragma(pack(push, 8))
                 unsigned int,
                 uintptr_t
         );
-#line 277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 __declspec(dllimport) void __cdecl _invalid_parameter_noinfo(void);
 __declspec(dllimport) __declspec(noreturn) void __cdecl _invalid_parameter_noinfo_noreturn(void);
@@ -4416,8 +4495,8 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 308 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4430,14 +4509,14 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
+    
+
+
+#line 405 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-
-
-
-
-#line 329 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 409 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
@@ -4446,8 +4525,8 @@ __declspec(dllimport) void __cdecl _invoke_watson(
         
 
 
-    #line 338 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 419 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4465,34 +4544,20 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
         
-    #line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 358 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
 
 
         
-    #line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 366 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 370 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 450 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4506,26 +4571,40 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-
-
-#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
+#line 464 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
 
-    
-#line 407 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
 
 
 
-#line 411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+#line 480 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
 
 
     
+#line 487 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
-#line 416 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 417 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+
+
+#line 491 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+    
+
+#line 496 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
@@ -4535,19 +4614,19 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
             
-        #line 427 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    #line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+        #line 507 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    #line 508 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 509 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 513 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
 
 
-#line 439 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 519 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
@@ -4557,8 +4636,8 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-    #line 449 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 450 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 529 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 530 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
@@ -4567,7 +4646,7 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 459 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 539 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
     
         
@@ -4577,27 +4656,19 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 549 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
     
         
               
         
 
-#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 556 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
     
 
 
 
-#line 481 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-    
-        
-    
-
-
-
-#line 489 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 561 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
     
         
@@ -4605,12 +4676,20 @@ __declspec(dllimport) void __cdecl _invoke_watson(
 
 
 
-#line 497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 569 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+    
+        
+    
+
+
+
+#line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 578 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
-#line 502 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
@@ -4650,28 +4729,265 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 542 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 622 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
-#line 546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 626 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     
 
 
         typedef __time64_t time_t;
-    #line 553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 554 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+    #line 633 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 634 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
 
     
-#line 559 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 639 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 
     typedef size_t rsize_t;
-#line 563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 643 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#line 798 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+    #line 813 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 814 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4832,23 +5148,8 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 724 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
 
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
 
-    #line 739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 740 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
 
 
 
@@ -4925,7 +5226,6 @@ typedef _Mbstatet mbstate_t;
 
 
 
-    
 
 
 
@@ -5672,258 +5972,7 @@ typedef _Mbstatet mbstate_t;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#line 1815 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
+#line 1865 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
         
         
@@ -6113,15 +6162,20 @@ typedef _Mbstatet mbstate_t;
 
 
 
-#line 2005 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-    #line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-#line 2007 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt.h"
-
-
+#line 2055 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+    #line 2056 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
+#line 2057 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt.h"
 
 __pragma(pack(pop))
+
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8))
 
@@ -6146,7 +6200,7 @@ __pragma(pack(push, 8))
     __declspec(dllimport) errno_t __cdecl _set_errno(  int _Value);
     __declspec(dllimport) errno_t __cdecl _get_errno(  int* _Value);
 
-#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 42 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
 
@@ -6155,10 +6209,10 @@ __pragma(pack(push, 8))
 
 
         
-    #line 47 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+    #line 51 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 
-#line 50 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+#line 54 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 
 __declspec(dllimport) extern unsigned long  __cdecl __threadid(void);
 
@@ -6167,11 +6221,13 @@ __declspec(dllimport) extern uintptr_t __cdecl __threadhandle(void);
 
 
 __pragma(pack(pop))
-#line 59 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stddef.h"
+
+#pragma warning(pop) 
+#line 65 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stddef.h"
 #pragma external_header(pop)
-#line 15 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 15 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 
@@ -6185,7 +6241,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -6200,7 +6256,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
@@ -6212,7 +6268,7 @@ __pragma(pack(pop))
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 
 
 
@@ -6224,6 +6280,10 @@ __pragma(pack(pop))
 
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -6242,7 +6302,7 @@ __pragma(pack(push, 8))
 
     __declspec(dllimport) errno_t __cdecl _set_doserrno(  unsigned long _Value);
     __declspec(dllimport) errno_t __cdecl _get_doserrno(  unsigned long * _Value);
-#line 31 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+#line 35 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 
 
 
@@ -6290,7 +6350,7 @@ __pragma(pack(push, 8))
     
     
     
-#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 
 
 
@@ -6338,14 +6398,16 @@ __pragma(pack(push, 8))
     
     
     
-#line 127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+#line 131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 
 
 
 __pragma(pack(pop))
-#line 132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\errno.h"
+
+#pragma warning(pop) 
+#line 138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\errno.h"
 #pragma external_header(pop)
-#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 12 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
 #pragma external_header(push)
 #line 1 "C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\include\\vcruntime_string.h"
 
@@ -6454,13 +6516,17 @@ __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 13 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8))
 
 
     
-#line 19 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 23 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
@@ -6500,7 +6566,6 @@ __pragma(pack(push, 8))
             
             return 22;
         }
-#pragma warning(suppress:4996) 
         memcpy(_Destination, _Source, _SourceSize);
         return 0;
     }
@@ -6522,18 +6587,23 @@ __pragma(pack(push, 8))
         { int _Expr_val=!!(_Source != ((void *)0)); if (!(_Expr_val)) { (*_errno()) = 22; _invalid_parameter_noinfo(); return 22; } };
         { int _Expr_val=!!(_DestinationSize >= _SourceSize); if (!(_Expr_val)) { (*_errno()) = 34; _invalid_parameter_noinfo(); return 34; } };
 
-#pragma warning(suppress:4996) 
         memmove(_Destination, _Source, _SourceSize);
         return 0;
     }
 
-#line 86 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memcpy_s.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memcpy_s.h"
 
 
 
+
+#pragma warning(pop) 
 __pragma(pack(pop))
 #pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 
@@ -6574,7 +6644,7 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 
 
 
-#line 56 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 60 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
     
 
@@ -6589,9 +6659,9 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 
 
 
-#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
-#line 73 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -6612,7 +6682,7 @@ __declspec(dllimport) int __cdecl _memicmp_l(
                                  size_t      _Size
         );
 
-#line 94 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
 
 
@@ -6629,17 +6699,19 @@ __declspec(dllimport) int __cdecl _memicmp_l(
 
 
 
-#line 111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
 
 
 
 __pragma(pack(pop))
 
-#line 117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_memory.h"
+#line 121 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_memory.h"
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -6651,6 +6723,10 @@ __pragma(pack(pop))
 #pragma once
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 
@@ -6703,7 +6779,7 @@ __pragma(pack(push, 8))
             wchar_t**      _Context
         );
 
-#line 65 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 69 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -6715,7 +6791,7 @@ __pragma(pack(push, 8))
 
 
 
-#line 77 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 81 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) __declspec(allocator) wchar_t* __cdecl _wcsdup(
@@ -6724,22 +6800,17 @@ __declspec(dllimport) __declspec(allocator) wchar_t* __cdecl _wcsdup(
 
 
 
-#line 86 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 90 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
 
-#line 94 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
-
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
      __declspec(dllimport) wchar_t* __cdecl wcscat( wchar_t *_Destination,  wchar_t const* _Source);
-#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
-#pragma warning(pop)
-#line 107 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
+#line 106 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) int __cdecl wcscmp(
@@ -6748,14 +6819,10 @@ __declspec(dllimport) int __cdecl wcscmp(
     );
 
 
-#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
  __declspec(dllimport) wchar_t* __cdecl wcscpy( wchar_t *_Destination,  wchar_t const* _Source);
-#line 128 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
-#pragma warning(pop)
+#line 124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) size_t __cdecl wcscspn(
@@ -6770,9 +6837,9 @@ __declspec(dllimport) size_t __cdecl wcslen(
 
  
 
-#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
-#line 150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 __declspec(dllimport) size_t __cdecl wcsnlen(
       wchar_t const* _Source,
                             size_t         _MaxCount
@@ -6782,9 +6849,9 @@ __declspec(dllimport) size_t __cdecl wcsnlen(
 
      
     
-#line 162 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
     
-#line 166 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
     static __inline size_t __cdecl wcsnlen_s(
           wchar_t const* _Source,
                                 size_t         _MaxCount
@@ -6793,13 +6860,13 @@ __declspec(dllimport) size_t __cdecl wcsnlen(
         return (_Source == 0) ? 0 : wcsnlen(_Source, _MaxCount);
     }
 
-#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
-#line 182 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 177 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl wcsncat(  wchar_t *_Destination,   wchar_t const* _Source,   size_t _Count);
-#line 190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 185 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) int __cdecl wcsncmp(
@@ -6809,10 +6876,10 @@ __declspec(dllimport) int __cdecl wcsncmp(
     );
 
 
-#line 204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 199 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl wcsncpy(    wchar_t *_Destination,   wchar_t const* _Source,   size_t _Count);
-#line 212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 207 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 __declspec(dllimport) wchar_t * __cdecl wcspbrk(
@@ -6837,16 +6904,13 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
 
     
 
-#line 237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
         
 
 
 
-    #line 242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+    #line 237 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
-    #pragma warning(push)
-    #pragma warning(disable: 4141 4996) 
-    #pragma warning(disable: 28719 28726 28727) 
       
     static __inline wchar_t* __cdecl _wcstok(
           wchar_t*       const _String,
@@ -6858,7 +6922,7 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
 
     
 
-#line 258 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 250 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
     
 
@@ -6869,11 +6933,9 @@ __declspec(dllimport) wchar_t* __cdecl wcstok(
 
 
 
-#line 269 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
-    #pragma warning(pop)
-
-#line 273 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
@@ -6891,7 +6953,7 @@ __declspec(dllimport) errno_t __cdecl _wcserror_s(
     );
 
 
-#line 294 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 284 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
  
@@ -6907,7 +6969,7 @@ __declspec(dllimport) wchar_t* __cdecl __wcserror(
     );
 
 
-#line 313 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 303 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
   __declspec(dllimport) int __cdecl _wcsicmp(
       wchar_t const* _String1,
@@ -6941,10 +7003,10 @@ __declspec(dllimport) wchar_t* __cdecl __wcserror(
     );
 
 
-#line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcsnset(  wchar_t *_String,   wchar_t _Value,   size_t _MaxCount);
-#line 359 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 __declspec(dllimport) wchar_t* __cdecl _wcsrev(
       wchar_t* _String
@@ -6957,10 +7019,10 @@ __declspec(dllimport) wchar_t* __cdecl _wcsrev(
     );
 
 
-#line 375 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcsset(  wchar_t *_String,   wchar_t _Value);
-#line 382 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 372 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) errno_t __cdecl _wcslwr_s(
       wchar_t* _String,
@@ -6968,10 +7030,10 @@ __declspec(dllimport) wchar_t* __cdecl _wcsrev(
     );
 
 
-#line 392 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 382 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcslwr( wchar_t *_String);
-#line 397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcslwr_s_l(
@@ -6981,10 +7043,10 @@ __declspec(dllimport) errno_t __cdecl _wcslwr_s_l(
     );
 
 
-#line 410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcslwr_l(  wchar_t *_String,   _locale_t _Locale);
-#line 417 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 407 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcsupr_s(
@@ -6993,10 +7055,10 @@ __declspec(dllimport) errno_t __cdecl _wcsupr_s(
     );
 
 
-#line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcsupr( wchar_t *_String);
-#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wcsupr_s_l(
@@ -7006,10 +7068,10 @@ __declspec(dllimport) errno_t __cdecl _wcsupr_s_l(
     );
 
 
-#line 446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 436 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  __declspec(dllimport) wchar_t* __cdecl _wcsupr_l(  wchar_t *_String,   _locale_t _Locale);
-#line 453 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 443 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
  
 
@@ -7134,7 +7196,7 @@ __declspec(dllimport) int __cdecl _wcsnicoll_l(
     
 
 
-#line 578 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
       __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_wcsdup" ". See online help for details."))
     __declspec(dllimport) wchar_t* __cdecl wcsdup(
@@ -7143,7 +7205,7 @@ __declspec(dllimport) int __cdecl _wcsnicoll_l(
 
     
 
-#line 587 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
     
     
@@ -7200,17 +7262,23 @@ __declspec(dllimport) int __cdecl _wcsnicoll_l(
           wchar_t const* _String2
         );
 
-#line 644 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 634 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
 
 
 
 __pragma(pack(pop))
 
-#line 650 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstring.h"
+#line 640 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstring.h"
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 15 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -7264,7 +7332,7 @@ __pragma(pack(push, 8))
             char**      _Context
         );
 
-#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 __declspec(dllimport) void* __cdecl _memccpy(
       void*       _Dst,
@@ -7274,18 +7342,14 @@ __declspec(dllimport) void* __cdecl _memccpy(
     );
 
 
-#line 84 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 88 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
       char* __cdecl strcat( char *_Destination,  char const* _Source);
-#line 95 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
-#pragma warning(pop)
+#line 96 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
-#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 98 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 int __cdecl strcmp(
@@ -7313,14 +7377,10 @@ __declspec(dllimport) int __cdecl _strcoll_l(
     );
 
 
-#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28719) 
-#pragma warning(disable: 28726) 
   char* __cdecl strcpy( char *_Destination,  char const* _Source);
-#line 138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
-#pragma warning(pop)
+#line 135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) size_t __cdecl strcspn(
@@ -7331,7 +7391,7 @@ __declspec(dllimport) size_t __cdecl strcspn(
 
 
 
-#line 150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) __declspec(allocator) char* __cdecl _strdup(
@@ -7340,7 +7400,7 @@ __declspec(dllimport) __declspec(allocator) char* __cdecl _strdup(
 
 
 
-#line 159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
  
@@ -7357,7 +7417,7 @@ __declspec(dllimport) errno_t __cdecl _strerror_s(
     );
 
 
-#line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
   
@@ -7366,7 +7426,7 @@ __declspec(dllimport) char* __cdecl strerror(
     );
 
 
-#line 191 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 187 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) int __cdecl _stricmp(
@@ -7406,10 +7466,10 @@ __declspec(dllimport) errno_t __cdecl _strlwr_s(
     );
 
 
-#line 233 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strlwr( char *_String);
-#line 238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strlwr_s_l(
@@ -7419,16 +7479,16 @@ __declspec(dllimport) errno_t __cdecl _strlwr_s_l(
     );
 
 
-#line 251 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strlwr_l(  char *_String,   _locale_t _Locale);
-#line 258 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
-#line 265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl strncat(  char *_Destination,   char const* _Source,   size_t _Count);
-#line 273 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 269 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) int __cdecl strncmp(
@@ -7488,16 +7548,16 @@ __declspec(dllimport) size_t __cdecl __strncnt(
     );
 
 
-#line 337 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 333 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl strncpy(    char *_Destination,   char const* _Source,   size_t _Count);
-#line 345 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 
-#line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
-#line 355 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 351 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 __declspec(dllimport) size_t __cdecl strnlen(
       char const* _String,
                             size_t      _MaxCount
@@ -7507,9 +7567,9 @@ __declspec(dllimport) size_t __cdecl strnlen(
 
      
     
-#line 367 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 363 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
     
-#line 371 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 367 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
     static __inline size_t __cdecl strnlen_s(
           char const* _String,
                                 size_t      _MaxCount
@@ -7518,7 +7578,7 @@ __declspec(dllimport) size_t __cdecl strnlen(
         return _String == 0 ? 0 : strnlen(_String, _MaxCount);
     }
 
-#line 380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 376 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strnset_s(
@@ -7529,10 +7589,10 @@ __declspec(dllimport) errno_t __cdecl _strnset_s(
     );
 
 
-#line 395 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strnset(  char *_Destination,   int _Value,   size_t _Count);
-#line 403 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) char * __cdecl strpbrk(
@@ -7552,10 +7612,10 @@ __declspec(dllimport) errno_t __cdecl _strset_s(
     );
 
 
-#line 426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
   char* __cdecl _strset( char *_Destination,  int _Value);
-#line 432 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 __declspec(dllimport) size_t __cdecl strspn(
@@ -7576,10 +7636,10 @@ __declspec(dllimport) errno_t __cdecl _strupr_s(
     );
 
 
-#line 455 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 451 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strupr( char *_String);
-#line 460 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 456 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strupr_s_l(
@@ -7589,10 +7649,10 @@ __declspec(dllimport) errno_t __cdecl _strupr_s_l(
     );
 
 
-#line 473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  __declspec(dllimport) char* __cdecl _strupr_l(  char *_String,   _locale_t _Locale);
-#line 480 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 476 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
  
 
@@ -7701,18 +7761,19 @@ __declspec(dllimport) size_t __cdecl _strxfrm_l(
           char* _String
         );
 
-#line 589 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#line 585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 
 
 
 __pragma(pack(pop))
 
-#line 595 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
-#line 596 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\string.h"
+#pragma warning(pop) 
+#line 592 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
+#line 593 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\string.h"
 #pragma external_header(pop)
-#line 16 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 16 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
@@ -7756,11 +7817,11 @@ __pragma(pack(pop))
 
 #pragma warning(pop) 
 #pragma external_header(pop)
-#line 13 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 13 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -7812,25 +7873,25 @@ __pragma(pack(pop))
 
 
 
-#line 53 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 53 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 59 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 59 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 65 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 65 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 71 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 71 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -7889,9 +7950,9 @@ __pragma(pack(pop))
 
 
 
-#line 130 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 130 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 132 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 132 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -7905,20 +7966,20 @@ __pragma(pack(pop))
 
 
 
-#line 146 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 146 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
 
-#line 153 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 153 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 159 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 159 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -7969,14 +8030,14 @@ __pragma(pack(pop))
 
 
 
-#line 210 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 210 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
 
-#line 217 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 217 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -7996,7 +8057,7 @@ __pragma(pack(pop))
 
 
 
-#line 237 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 237 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8010,9 +8071,9 @@ __pragma(pack(pop))
 
 
 
-#line 251 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 251 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 253 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 253 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8040,11 +8101,11 @@ __pragma(pack(pop))
 
 
 
-#line 281 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 281 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
-#line 285 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 285 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8070,9 +8131,9 @@ __pragma(pack(pop))
 
 
 
-#line 312 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 312 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 314 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 314 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8132,7 +8193,7 @@ __pragma(pack(pop))
 
 
 
-#line 374 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 374 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8200,7 +8261,7 @@ __pragma(pack(pop))
 
 
 
-#line 442 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 442 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8215,7 +8276,7 @@ __pragma(pack(pop))
 
 
 
-#line 457 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 457 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8234,7 +8295,7 @@ __pragma(pack(pop))
 
 
 
-#line 476 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 476 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8279,7 +8340,7 @@ __pragma(pack(pop))
 
 
 
-#line 521 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 521 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8289,7 +8350,7 @@ __pragma(pack(pop))
 
 
 
-#line 531 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 531 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8319,13 +8380,13 @@ __pragma(pack(pop))
 
 
 
-#line 561 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 561 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
-#line 567 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 567 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8342,9 +8403,9 @@ __pragma(pack(pop))
 
 
 
-#line 584 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 584 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 586 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 586 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8355,7 +8416,7 @@ __pragma(pack(pop))
 
 
 
-#line 597 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 597 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8374,7 +8435,7 @@ __pragma(pack(pop))
 
 
 
-#line 616 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 616 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8388,7 +8449,7 @@ __pragma(pack(pop))
 
 
 
-#line 630 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 630 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8405,7 +8466,7 @@ __pragma(pack(pop))
 
 
 
-#line 648 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 648 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8415,7 +8476,7 @@ __pragma(pack(pop))
 
 
 
-#line 658 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 658 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8429,19 +8490,19 @@ __pragma(pack(pop))
 
 
 
-#line 672 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 672 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
-#line 675 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 675 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 677 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 677 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
 
 
 
-#line 684 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 684 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8471,7 +8532,7 @@ __pragma(pack(pop))
 
 
 
-#line 714 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 714 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8495,7 +8556,7 @@ __pragma(pack(pop))
 
 
 
-#line 738 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 738 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
 
 
@@ -8543,9 +8604,9 @@ __pragma(pack(pop))
 
 
 
-#line 786 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\luaconf.h"
+#line 786 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\luaconf.h"
 
-#line 17 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 17 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
@@ -8670,7 +8731,7 @@ typedef void (*lua_WarnFunction) (void *ud, const char *msg, int tocont);
 
 
 
-#line 142 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 142 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
@@ -8939,7 +9000,7 @@ extern void (lua_closeslot) (lua_State *L, int idx);
 
 
 
-#line 411 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
+#line 411 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
 
 
 
@@ -9047,10 +9108,10 @@ struct lua_Debug {
 
 
 
-#line 519 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lua.h"
-#line 18 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 519 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lua.h"
+#line 18 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
 
 
 
@@ -9064,7 +9125,35 @@ struct lua_Debug {
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
+
+
+
+
+
+
+
+#pragma once
+
+
+
+
+#pragma external_header(push)
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
+
+
+
+
+
+
+
+
+
+#pragma once
+
+
+#pragma external_header(push)
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
@@ -9076,46 +9165,22 @@ struct lua_Debug {
 
 
 
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-
-
-
-
-
-
-
-
-#pragma once
-
-
-#pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
-
-
-
-
-
-
-
-#pragma once
-
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
 
 
 
-#line 17 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 21 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
-#line 22 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 26 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
     
-#line 24 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 28 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
     
@@ -9124,8 +9189,8 @@ __pragma(pack(push, 8))
 
 
 
-#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
-#line 34 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 37 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
+#line 38 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
@@ -9149,12 +9214,12 @@ __pragma(pack(push, 8))
 
 
 
-#line 58 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
-#line 63 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
     
 
@@ -9162,15 +9227,15 @@ __pragma(pack(push, 8))
 
 
 
-#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
-#line 72 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 75 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
+#line 76 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
 
 
 
-#line 79 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 83 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
     
@@ -9192,11 +9257,12 @@ __pragma(pack(push, 8))
         static unsigned __int64 _OptionsStorage;
         return &_OptionsStorage;
     }
-#line 101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
 
 
 
-#line 105 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_stdio_config.h"
+#line 109 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_stdio_config.h"
+
 
 
 
@@ -9217,11 +9283,16 @@ __pragma(pack(push, 8))
 
 
 __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8))
-
 
 
 
@@ -9234,7 +9305,7 @@ __pragma(pack(push, 8))
     {
         void* _Placeholder;
     } FILE;
-#line 30 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 33 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
@@ -9301,7 +9372,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         );
 
     
-#line 100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 103 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __declspec(dllimport) wint_t __cdecl putwc(
@@ -9379,7 +9450,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
               wchar_t const* _Mode
             );
 
-    #line 178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     __declspec(dllimport) int __cdecl _wremove(
           wchar_t const* _FileName
@@ -9404,10 +9475,10 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         );
 
     
-#line 206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 209 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      __declspec(dllimport)  wchar_t* __cdecl _wtmpnam(  wchar_t *_Buffer);
-#line 212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -9448,7 +9519,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
 
 
-#line 253 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -9500,11 +9571,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 305 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 308 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vfwprintf(
@@ -9514,11 +9585,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 322 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 323 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_s_l(
@@ -9529,11 +9600,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 334 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 337 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf_s((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 338 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 341 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -9545,13 +9616,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 350 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 353 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwprintf_s_l(_Stream, _Format, ((void *)0), _ArgList);
         }
-    #line 354 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 356 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 359 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_p_l(
@@ -9562,11 +9633,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 367 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 370 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwprintf_p((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 371 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwprintf_p(
@@ -9576,11 +9647,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 381 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 385 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_l(
@@ -9590,11 +9661,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 395 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 398 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vwprintf(
@@ -9603,11 +9674,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 408 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
     }
-    #line 412 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 415 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_s_l(
@@ -9617,11 +9688,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 425 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_s_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -9632,13 +9703,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 440 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwprintf_s_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
         }
-    #line 441 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 444 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 443 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_p_l(
@@ -9648,11 +9719,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 453 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 456 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 457 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 460 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwprintf_p(
@@ -9661,11 +9732,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 466 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 469 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwprintf_p_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
     }
-    #line 470 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_l(
@@ -9675,7 +9746,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 480 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 483 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9684,7 +9755,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 489 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 492 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl fwprintf(
@@ -9693,7 +9764,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 501 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9702,7 +9773,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 507 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 510 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_s_l(
@@ -9712,7 +9783,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 517 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 520 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9721,7 +9792,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 526 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 529 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -9732,7 +9803,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 537 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 540 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -9741,9 +9812,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 549 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 548 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 551 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_p_l(
@@ -9753,7 +9824,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 558 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 561 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9762,7 +9833,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 567 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 570 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwprintf_p(
@@ -9771,7 +9842,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 576 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 579 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9780,7 +9851,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_l(
@@ -9789,7 +9860,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 594 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 597 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9798,7 +9869,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 606 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl wprintf(
@@ -9806,7 +9877,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 611 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 614 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9815,7 +9886,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 620 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 623 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_s_l(
@@ -9824,7 +9895,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 629 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 632 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9833,7 +9904,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 638 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 641 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -9843,7 +9914,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 651 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -9852,9 +9923,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 657 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 660 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 659 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 662 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_p_l(
@@ -9863,7 +9934,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 668 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 671 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9872,7 +9943,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 677 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 680 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wprintf_p(
@@ -9880,7 +9951,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 685 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 688 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -9889,7 +9960,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 694 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 697 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
     
@@ -9915,13 +9986,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 720 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwscanf(
             (*__local_stdio_scanf_options ()),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 726 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 729 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vfwscanf(
@@ -9931,11 +10002,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 736 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 740 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 743 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vfwscanf_s_l(
@@ -9946,13 +10017,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 751 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 754 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vfwscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 757 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 760 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -9964,13 +10035,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 769 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 772 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwscanf_s_l(_Stream, _Format, ((void *)0), _ArgList);
         }
-    #line 773 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 776 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 775 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 778 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     __inline int __cdecl _vwscanf_l(
             wchar_t const* const _Format,
@@ -9979,11 +10050,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 784 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 787 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 788 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 791 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl vwscanf(
@@ -9992,11 +10063,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 797 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 800 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_l((__acrt_iob_func(0)), _Format, ((void *)0), _ArgList);
     }
-    #line 801 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 804 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _vwscanf_s_l(
@@ -10006,11 +10077,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 811 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 814 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vfwscanf_s_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 815 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 818 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -10021,13 +10092,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 826 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 829 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vfwscanf_s_l((__acrt_iob_func(0)), _Format, ((void *)0), _ArgList);
         }
-    #line 830 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 833 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 832 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 835 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     __inline int __cdecl _fwscanf_l(
@@ -10037,7 +10108,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 842 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 845 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10046,7 +10117,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 851 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 854 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
       
     __inline int __cdecl fwscanf(
@@ -10055,7 +10126,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 860 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 863 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10064,7 +10135,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 869 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 872 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _fwscanf_s_l(
@@ -10074,7 +10145,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 879 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10083,7 +10154,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 888 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -10094,7 +10165,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 899 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 902 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -10103,9 +10174,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 908 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 911 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 910 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 913 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     __inline int __cdecl _wscanf_l(
@@ -10114,7 +10185,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 919 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 922 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10123,7 +10194,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 928 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 931 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
       
     __inline int __cdecl wscanf(
@@ -10131,7 +10202,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 936 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 939 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10140,7 +10211,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 945 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
     __inline int __cdecl _wscanf_s_l(
@@ -10149,7 +10220,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 954 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 957 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10158,7 +10229,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 963 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 966 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -10168,7 +10239,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 973 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 976 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -10177,9 +10248,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 982 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 985 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 984 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 987 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
 
@@ -10195,7 +10266,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
     
 
-#line 1000 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1003 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10253,7 +10324,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1058 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1061 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()) | (1ULL << 0),
@@ -10261,10 +10332,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-    #pragma warning(push)
-    #pragma warning(disable: 4793)
+    #line 1069 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10278,7 +10346,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vsnwprintf_s(
             (*__local_stdio_printf_options()),
@@ -10286,7 +10354,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1091 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1091 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10299,16 +10367,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vsnwprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1108 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      __inline   int __cdecl _snwprintf(    wchar_t *_Buffer,   size_t _BufferCount,     wchar_t const* _Format, ...);  __inline   int __cdecl _vsnwprintf(    wchar_t *_Buffer,   size_t _BufferCount,     wchar_t const* _Format, va_list _Args);
-#line 1117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-    #pragma warning(pop)
+#line 1117 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10320,17 +10386,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1131 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1129 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vsnwprintf_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
-        #pragma warning(pop)
     }
-    #line 1138 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1133 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1142 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10343,7 +10406,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1160 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()),
@@ -10351,7 +10414,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10363,11 +10426,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1180 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1184 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10380,14 +10443,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1197 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1192 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
     }
-    #line 1204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1196 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10399,11 +10459,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1216 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_l(_Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1220 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10414,11 +10474,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1231 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1223 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_l(_Buffer, (size_t)-1, _Format, ((void *)0), _ArgList);
     }
-    #line 1235 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1227 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10430,11 +10490,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1239 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_c_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1251 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1243 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10447,7 +10507,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1264 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_s(
             (*__local_stdio_printf_options()),
@@ -10455,7 +10515,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1264 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -10468,16 +10528,16 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 1285 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1277 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vswprintf_s_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
         }
-    #line 1289 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1281 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1283 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1299 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10490,7 +10550,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1304 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_p(
             (*__local_stdio_printf_options()),
@@ -10498,7 +10558,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1320 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1312 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10510,11 +10570,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1332 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1324 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswprintf_p_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1336 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1328 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10525,7 +10585,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -10533,7 +10593,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1355 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1347 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10543,11 +10603,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1365 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vscwprintf_l(_Format, ((void *)0), _ArgList);
     }
-    #line 1369 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10558,7 +10618,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1372 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int const _Result = __stdio_common_vswprintf_p(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -10566,7 +10626,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1388 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1380 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10576,11 +10636,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1398 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1390 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vscwprintf_p_l(_Format, ((void *)0), _ArgList);
     }
-    #line 1402 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1394 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10591,7 +10651,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1413 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1405 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10600,7 +10660,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1422 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1414 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10612,7 +10672,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1434 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10621,7 +10681,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1443 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1435 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10631,7 +10691,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1453 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10640,7 +10700,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1462 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1454 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10651,7 +10711,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1465 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10660,20 +10720,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1482 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-    #pragma warning(push)
-    
-    
-    #pragma warning(disable:4793 4996)
+    #line 1474 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      __inline   int __cdecl __swprintf_l(   wchar_t *_Buffer,     wchar_t const* _Format,   _locale_t _Locale, ...);  __inline   int __cdecl __vswprintf_l(   wchar_t *_Buffer,     wchar_t const* _Format,   _locale_t _Locale, va_list _Args);
-#line 1496 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1483 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      __inline   int __cdecl _swprintf(   wchar_t *_Buffer,     wchar_t const* _Format, ...);  __inline   int __cdecl _vswprintf(   wchar_t *_Buffer,     wchar_t const* _Format, va_list _Args);
-#line 1503 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-    #pragma warning(pop)
+#line 1490 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10685,7 +10738,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1517 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1502 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10694,7 +10747,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1526 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1511 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -10706,7 +10759,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 1538 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1523 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -10715,12 +10768,12 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1547 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1532 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1549 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1534 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1556 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1541 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10732,7 +10785,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1568 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1553 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10741,7 +10794,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1562 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10752,7 +10805,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1588 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1573 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10761,7 +10814,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1597 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10773,7 +10826,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1609 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1594 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10782,7 +10835,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1618 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10793,7 +10846,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1629 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1614 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10802,7 +10855,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1638 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1623 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10814,21 +10867,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1650 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1635 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Locale)) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnwprintf_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1664 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10839,21 +10889,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1675 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1657 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Format)) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnwprintf_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1689 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1668 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10866,7 +10913,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1702 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1681 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10875,7 +10922,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1711 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1690 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -10887,7 +10934,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1702 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10896,10 +10943,10 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1732 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1711 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1740 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1719 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     __inline int __cdecl _scwprintf_l(
@@ -10908,7 +10955,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1749 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1728 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10917,7 +10964,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1758 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1737 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10926,7 +10973,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1767 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1746 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10935,7 +10982,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1776 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1755 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10945,7 +10992,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1786 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1765 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10954,7 +11001,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1795 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1774 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -10963,7 +11010,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 1804 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1783 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -10972,12 +11019,14 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1813 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1792 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
     
+        
+        
         #pragma warning(push)
-        #pragma warning(disable: 4141 4412 4793 4996 6054)
+        #pragma warning(disable: 4141 6054)
 
         
 
@@ -11033,17 +11082,15 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
 
 
 
-
-
         #pragma warning(pop)
-    #line 1877 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1856 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
 
 
 
-#line 1884 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1863 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 
     
@@ -11071,13 +11118,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1918 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1897 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -11088,11 +11135,11 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1929 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1908 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return _vswscanf_l(_Buffer, _Format, ((void *)0), _ArgList);
     }
-    #line 1933 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -11104,13 +11151,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1945 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1924 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 1951 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1930 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -11123,16 +11170,16 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             )
     
 
-#line 1964 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1943 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             return _vswscanf_s_l(_Buffer, _Format, ((void *)0), _ArgList);
         }
-    #line 1968 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1947 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 1970 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1949 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
-#line 1978 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1957 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -11145,13 +11192,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 1991 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1970 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, _BufferCount, _Format, _Locale, _ArgList);
     }
-    #line 1997 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1976 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -11164,13 +11211,13 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         )
     
 
-#line 2010 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 1989 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         return __stdio_common_vswscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, _BufferCount, _Format, _Locale, _ArgList);
     }
-    #line 2016 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 1995 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -11181,7 +11228,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2027 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -11190,7 +11237,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2036 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2015 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
       
@@ -11200,7 +11247,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2046 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2025 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -11209,7 +11256,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2055 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2034 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -11220,7 +11267,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2045 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -11229,7 +11276,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2054 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
@@ -11241,7 +11288,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ...)
     
 
-#line 2087 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -11250,9 +11297,9 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 2096 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
-    #line 2098 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2077 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -11264,21 +11311,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2110 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2089 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Locale)) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnwscanf_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
      
@@ -11289,21 +11333,18 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2111 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Format)) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnwscanf_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2149 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2122 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -11315,7 +11356,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -11324,7 +11365,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
      
     
@@ -11335,7 +11376,7 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ...)
     
 
-#line 2181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+#line 2154 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -11344,18 +11385,22 @@ __declspec(dllimport) FILE* __cdecl __acrt_iob_func(unsigned _Ix);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2190 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
+    #line 2163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
     
 
 
-#line 2195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wstdio.h"
-
-
+#line 2168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wstdio.h"
 
 __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8))
 
@@ -11390,7 +11435,7 @@ __pragma(pack(push, 8))
 
 
     
-#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 53 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -11408,7 +11453,7 @@ __pragma(pack(push, 8))
 
     
     
-#line 67 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 71 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 typedef __int64 fpos_t;
@@ -11439,10 +11484,11 @@ typedef __int64 fpos_t;
             );
 
         
+         
         __declspec(dllimport) errno_t __cdecl fopen_s(
               FILE**      _Stream,
-                                 char const* _FileName,
-                                 char const* _Mode
+                                     char const* _FileName,
+                                     char const* _Mode
             );
 
         
@@ -11481,7 +11527,7 @@ typedef __int64 fpos_t;
                                rsize_t _Size
             );
 
-    #line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) void __cdecl clearerr(
           FILE* _Stream
@@ -11654,7 +11700,7 @@ typedef __int64 fpos_t;
     __declspec(dllimport) int __cdecl _getmaxstdio(void);
 
     
-#line 314 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __declspec(dllimport) int __cdecl _getw(
@@ -11679,7 +11725,7 @@ typedef __int64 fpos_t;
               char const* _Mode
             );
 
-    #line 339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 344 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -11726,7 +11772,7 @@ typedef __int64 fpos_t;
               char const* _FileName
             );
 
-    #line 386 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) void __cdecl rewind(
           FILE* _Stream
@@ -11758,7 +11804,7 @@ typedef __int64 fpos_t;
     
 
 
-#line 418 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __declspec(dllimport) __declspec(allocator) char* __cdecl _tempnam(
@@ -11768,19 +11814,16 @@ typedef __int64 fpos_t;
 
     
 
-#line 428 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 433 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
       
     __declspec(dllimport) FILE* __cdecl tmpfile(void);
 
     
-#line 437 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 442 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-#pragma warning(push)
-#pragma warning(disable: 28726) 
  __declspec(dllimport)  char* __cdecl tmpnam(  char *_Buffer);
-#line 445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
-#pragma warning(pop)
+#line 448 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -11918,7 +11961,7 @@ typedef __int64 fpos_t;
 
 
 
-#line 584 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 586 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -11928,14 +11971,14 @@ typedef __int64 fpos_t;
 
 
         
-    #line 594 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 596 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
     
     
 
-#line 601 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     
@@ -11976,11 +12019,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 642 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 644 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vfprintf(
@@ -11990,11 +12033,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 656 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 658 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 660 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 662 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_s_l(
@@ -12005,11 +12048,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 671 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 673 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf_s((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 675 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 677 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12021,13 +12064,13 @@ typedef __int64 fpos_t;
             )
     
 
-#line 687 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 689 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vfprintf_s_l(_Stream, _Format, ((void *)0), _ArgList);
         }
-    #line 691 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 693 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 695 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_p_l(
@@ -12038,11 +12081,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 704 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 706 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfprintf_p((*__local_stdio_printf_options()), _Stream, _Format, _Locale, _ArgList);
     }
-    #line 708 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 710 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfprintf_p(
@@ -12052,11 +12095,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 718 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 720 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 722 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 724 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_l(
@@ -12066,11 +12109,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 732 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 734 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 736 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 738 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vprintf(
@@ -12079,11 +12122,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 745 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 747 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
     }
-    #line 749 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 751 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_s_l(
@@ -12093,11 +12136,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 759 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_s_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 763 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 765 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12108,13 +12151,13 @@ typedef __int64 fpos_t;
             )
     
 
-#line 774 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 776 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vfprintf_s_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
         }
-    #line 778 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 780 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 780 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 782 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_p_l(
@@ -12124,11 +12167,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 790 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 792 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l((__acrt_iob_func(1)), _Format, _Locale, _ArgList);
     }
-    #line 794 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 796 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vprintf_p(
@@ -12137,11 +12180,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 803 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 805 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfprintf_p_l((__acrt_iob_func(1)), _Format, ((void *)0), _ArgList);
     }
-    #line 807 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 809 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_l(
@@ -12151,7 +12194,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 817 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 819 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12160,7 +12203,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 826 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 828 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl fprintf(
@@ -12169,7 +12212,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 835 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 837 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12178,7 +12221,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 844 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 846 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     __declspec(dllimport) int __cdecl _set_printf_count_output(
           int _Value
@@ -12194,7 +12237,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 860 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 862 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12203,7 +12246,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 869 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 871 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12214,7 +12257,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 880 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -12223,9 +12266,9 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 889 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 893 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_p_l(
@@ -12235,7 +12278,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 901 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 903 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12244,7 +12287,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 910 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fprintf_p(
@@ -12253,7 +12296,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 919 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 921 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12262,7 +12305,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 928 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 930 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_l(
@@ -12271,7 +12314,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 937 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 939 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12280,7 +12323,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 946 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl printf(
@@ -12288,7 +12331,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 954 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 956 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12297,7 +12340,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 963 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 965 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_s_l(
@@ -12306,7 +12349,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 972 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 974 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12315,7 +12358,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 981 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 983 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12325,7 +12368,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 991 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 993 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -12334,9 +12377,9 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1000 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1002 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1002 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1004 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_p_l(
@@ -12345,7 +12388,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1011 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1013 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12354,7 +12397,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1020 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1022 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _printf_p(
@@ -12362,7 +12405,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1028 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1030 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12371,7 +12414,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1037 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1039 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
     
@@ -12396,13 +12439,13 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1062 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1064 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfscanf(
             (*__local_stdio_scanf_options ()),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 1068 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1070 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vfscanf(
@@ -12412,11 +12455,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1078 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1080 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l(_Stream, _Format, ((void *)0), _ArgList);
     }
-    #line 1082 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1084 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vfscanf_s_l(
@@ -12427,13 +12470,13 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1093 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1095 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vfscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Stream, _Format, _Locale, _ArgList);
     }
-    #line 1099 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
     
@@ -12446,13 +12489,13 @@ typedef __int64 fpos_t;
             )
     
 
-#line 1112 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1114 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vfscanf_s_l(_Stream, _Format, ((void *)0), _ArgList);
         }
-    #line 1116 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1120 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscanf_l(
@@ -12462,11 +12505,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1128 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 1132 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vscanf(
@@ -12475,11 +12518,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1143 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfscanf_l((__acrt_iob_func(0)), _Format, ((void *)0), _ArgList);
     }
-    #line 1145 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1147 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscanf_s_l(
@@ -12489,11 +12532,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1157 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vfscanf_s_l((__acrt_iob_func(0)), _Format, _Locale, _ArgList);
     }
-    #line 1159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1161 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12504,13 +12547,13 @@ typedef __int64 fpos_t;
             )
     
 
-#line 1170 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vfscanf_s_l((__acrt_iob_func(0)), _Format, ((void *)0), _ArgList);
         }
-    #line 1174 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1176 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1178 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _fscanf_l(
@@ -12520,7 +12563,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1186 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1188 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12529,7 +12572,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1197 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
       
     __inline int __cdecl fscanf(
@@ -12538,7 +12581,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12547,7 +12590,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1213 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _fscanf_s_l(
@@ -12557,7 +12600,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1223 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1225 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12566,7 +12609,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1232 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1234 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12577,7 +12620,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 1243 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1245 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -12586,9 +12629,9 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1254 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _scanf_l(
@@ -12597,7 +12640,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1263 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1265 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12606,7 +12649,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1272 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1274 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
       
     __inline int __cdecl scanf(
@@ -12614,7 +12657,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1280 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1282 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12623,7 +12666,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1289 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1291 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scanf_s_l(
@@ -12632,7 +12675,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1298 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1300 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -12641,7 +12684,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1307 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12651,7 +12694,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 1317 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1319 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -12660,9 +12703,9 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1328 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1328 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1330 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -12723,7 +12766,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1389 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1391 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 0),
@@ -12731,7 +12774,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1399 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -12743,14 +12786,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1409 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1411 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vsnprintf_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
-        #pragma warning(pop)
     }
-    #line 1416 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1415 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12761,7 +12801,7 @@ typedef __int64 fpos_t;
 
 
 
-#line 1427 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1426 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -12773,7 +12813,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1439 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1438 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -12781,7 +12821,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1447 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1446 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
      
@@ -12793,14 +12833,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1459 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1458 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vsnprintf_l(_Buffer, (size_t)-1, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
     }
-    #line 1466 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1462 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
      
@@ -12811,14 +12848,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1477 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         return _vsnprintf_l(_Buffer, (size_t)-1, _Format, ((void *)0), _ArgList);
-        #pragma warning(pop)
     }
-    #line 1484 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1477 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -12831,7 +12865,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1497 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1490 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_s(
             (*__local_stdio_printf_options()),
@@ -12839,7 +12873,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1505 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1498 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12853,16 +12887,16 @@ typedef __int64 fpos_t;
             )
     
 
-#line 1519 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1512 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vsprintf_s_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
         }
-    #line 1523 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1516 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         
-#line 1531 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1524 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1533 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1526 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -12875,7 +12909,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1546 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1539 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_p(
             (*__local_stdio_printf_options()),
@@ -12883,7 +12917,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1554 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1547 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -12895,11 +12929,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1566 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1559 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vsprintf_p_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1570 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -12913,7 +12947,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1584 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsnprintf_s(
             (*__local_stdio_printf_options()),
@@ -12921,7 +12955,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1592 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1585 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -12934,14 +12968,14 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1605 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1598 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1609 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1602 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
-#line 1618 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1611 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -12956,16 +12990,16 @@ typedef __int64 fpos_t;
             )
     
 
-#line 1633 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1626 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vsnprintf_s_l(_Buffer, _BufferCount, _MaxCount, _Format, ((void *)0), _ArgList);
         }
-    #line 1637 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1630 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         
-#line 1646 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1639 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1648 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1641 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscprintf_l(
@@ -12975,7 +13009,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1658 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1651 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -12983,7 +13017,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1666 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1659 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _vscprintf(
@@ -12992,11 +13026,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1675 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1668 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vscprintf_l(_Format, ((void *)0), _ArgList);
     }
-    #line 1679 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1672 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vscprintf_p_l(
@@ -13006,7 +13040,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1689 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1682 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf_p(
             (*__local_stdio_printf_options()) | (1ULL << 1),
@@ -13014,7 +13048,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1697 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1690 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _vscprintf_p(
@@ -13023,11 +13057,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1706 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1699 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vscprintf_p_l(_Format, ((void *)0), _ArgList);
     }
-    #line 1710 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1703 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vsnprintf_c_l(
@@ -13039,7 +13073,7 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1722 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1715 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int const _Result = __stdio_common_vsprintf(
             (*__local_stdio_printf_options()),
@@ -13047,7 +13081,7 @@ typedef __int64 fpos_t;
 
         return _Result < 0 ? -1 : _Result;
     }
-    #line 1730 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1723 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13059,11 +13093,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 1742 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1735 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vsnprintf_c_l(_Buffer, _BufferCount, _Format, ((void *)0), _ArgList);
     }
-    #line 1746 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1739 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
      
@@ -13074,21 +13108,18 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1757 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1750 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Locale)) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsprintf_l(_Buffer, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1771 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1761 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13098,29 +13129,21 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1781 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1771 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Format)) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsprintf_l(_Buffer, _Format, ((void *)0), _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1795 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1782 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #pragma warning(push)
-    #pragma warning(disable: 4996)
-    #pragma warning(disable: 28719) 
-    #pragma warning(disable: 28726) 
        int __cdecl sprintf(  char *_Buffer,  char const* _Format, ...);    int __cdecl vsprintf(  char *_Buffer,  char const* _Format, va_list _Args);
-#line 1806 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
-    #pragma warning(pop)
+#line 1789 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13132,7 +13155,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1819 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1801 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13141,7 +13164,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1828 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1810 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -13154,7 +13177,7 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 1841 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1823 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
@@ -13163,12 +13186,12 @@ typedef __int64 fpos_t;
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 1850 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1832 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 1852 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1834 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
-#line 1859 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1841 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13180,7 +13203,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1871 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1853 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13189,7 +13212,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1880 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1862 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13200,7 +13223,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1891 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1873 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13209,7 +13232,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1900 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1882 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
      
@@ -13221,21 +13244,18 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1912 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1894 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Locale)) + ((sizeof(_Locale) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
 
-        #pragma warning(push)
-        #pragma warning(disable: 4996) 
         _Result = _vsnprintf_l(_Buffer, _BufferCount, _Format, _Locale, _ArgList);
-        #pragma warning(pop)
 
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1926 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1905 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -13246,7 +13266,7 @@ typedef __int64 fpos_t;
 
 
 
-#line 1937 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1916 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13257,17 +13277,16 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1948 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1927 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Format)) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
-    #pragma warning(suppress:28719)    
         _Result = vsnprintf(_Buffer, _BufferCount, _Format, _ArgList);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1958 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1936 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13278,20 +13297,19 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 1969 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1947 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
         ((void)(_ArgList = (va_list)(&(_Format)) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
-    #pragma warning(suppress:28719)    
         _Result = _vsnprintf(_Buffer, _BufferCount, _Format, _ArgList);
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 1979 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1956 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         int __cdecl _snprintf(    char *_Buffer,   size_t _BufferCount,     char const* _Format, ...);     int __cdecl _vsnprintf(    char *_Buffer,   size_t _BufferCount,     char const* _Format, va_list _Args);
-#line 1988 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1965 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13303,7 +13321,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2000 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1977 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13312,7 +13330,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2009 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 1986 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13323,7 +13341,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2020 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 1997 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13332,7 +13350,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2029 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2006 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13345,7 +13363,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2042 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2019 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13354,7 +13372,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2051 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2028 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     
@@ -13366,7 +13384,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2063 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2040 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13375,10 +13393,10 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2072 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2049 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
-#line 2080 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2057 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scprintf_l(
@@ -13387,7 +13405,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2089 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2066 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13396,7 +13414,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2098 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2075 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _scprintf(
@@ -13404,7 +13422,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2106 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2083 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13413,7 +13431,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2115 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2092 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _scprintf_p_l(
@@ -13422,7 +13440,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2124 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2101 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13431,7 +13449,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2133 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2110 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _scprintf_p(
@@ -13439,7 +13457,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2141 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2118 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13448,7 +13466,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2127 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     
@@ -13473,13 +13491,13 @@ typedef __int64 fpos_t;
         )
     
 
-#line 2175 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2152 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vsscanf(
             (*__local_stdio_scanf_options ()),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 2181 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2158 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl vsscanf(
@@ -13489,11 +13507,11 @@ typedef __int64 fpos_t;
         )
     
 
-#line 2191 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2168 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return _vsscanf_l(_Buffer, _Format, ((void *)0), _ArgList);
     }
-    #line 2195 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2172 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _vsscanf_s_l(
@@ -13504,18 +13522,18 @@ typedef __int64 fpos_t;
         )
     
 
-#line 2206 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2183 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         return __stdio_common_vsscanf(
             (*__local_stdio_scanf_options ()) | (1ULL << 0),
             _Buffer, (size_t)-1, _Format, _Locale, _ArgList);
     }
-    #line 2212 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2189 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
         #pragma warning(push)
-        #pragma warning(disable:6530)
+        #pragma warning(disable: 6530) 
 
         
         __inline int __cdecl vsscanf_s(
@@ -13525,18 +13543,18 @@ typedef __int64 fpos_t;
             )
     
 
-#line 2227 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             return _vsscanf_s_l(_Buffer, _Format, ((void *)0), _ArgList);
         }
-    #line 2231 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2208 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         
-#line 2238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2215 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         #pragma warning(pop)
 
-    #line 2242 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2219 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _sscanf_l(
@@ -13546,7 +13564,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2252 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2229 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13555,7 +13573,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2261 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2238 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
       
     __inline int __cdecl sscanf(
@@ -13564,7 +13582,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2270 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2247 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13573,7 +13591,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2279 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2256 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _sscanf_s_l(
@@ -13583,7 +13601,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2289 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2266 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13592,7 +13610,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2298 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2275 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
 
@@ -13603,26 +13621,23 @@ typedef __int64 fpos_t;
             ...)
     
 
-#line 2309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2286 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
         {
             int _Result;
             va_list _ArgList;
             ((void)(_ArgList = (va_list)(&(_Format)) + ((sizeof(_Format) + sizeof(int) - 1) & ~(sizeof(int) - 1))));
 
-            #pragma warning(push)
-            #pragma warning(disable: 4996) 
             _Result = vsscanf_s(_Buffer, _Format, _ArgList);
-            #pragma warning(pop)
 
             ((void)(_ArgList = (va_list)0));
             return _Result;
         }
-    #line 2323 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2297 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
-    #line 2325 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2299 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     #pragma warning(push)
-    #pragma warning(disable:6530)
+    #pragma warning(disable: 6530) 
 
      
     __inline int __cdecl _snscanf_l(
@@ -13633,7 +13648,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2339 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2313 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13646,7 +13661,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2352 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2326 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
      
     __inline int __cdecl _snscanf(
@@ -13656,7 +13671,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2362 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2336 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13669,7 +13684,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2375 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2349 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
     
@@ -13681,7 +13696,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2387 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13694,7 +13709,7 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2400 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2374 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     
     __inline int __cdecl _snscanf_s(
@@ -13704,7 +13719,7 @@ typedef __int64 fpos_t;
         ...)
     
 
-#line 2410 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2384 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
     {
         int _Result;
         va_list _ArgList;
@@ -13717,13 +13732,13 @@ typedef __int64 fpos_t;
         ((void)(_ArgList = (va_list)0));
         return _Result;
     }
-    #line 2423 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2397 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
     #pragma warning(pop)
 
     
 
-#line 2429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2403 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
@@ -13739,7 +13754,7 @@ typedef __int64 fpos_t;
         
 
 
-#line 2445 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2419 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_tempnam" ". See online help for details."))
         __declspec(dllimport) char* __cdecl tempnam(
@@ -13749,7 +13764,7 @@ typedef __int64 fpos_t;
 
         
 
-#line 2455 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+#line 2429 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
          __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_fcloseall" ". See online help for details.")) __declspec(dllimport) int   __cdecl fcloseall(void);
               __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_fdopen" ". See online help for details."))    __declspec(dllimport) FILE* __cdecl fdopen(  int _FileHandle,   char const* _Format);
@@ -13761,15 +13776,17 @@ typedef __int64 fpos_t;
          __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_putw" ". See online help for details."))      __declspec(dllimport) int   __cdecl putw(  int _Ch,   FILE* _Stream);
               __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_rmtmp" ". See online help for details."))     __declspec(dllimport) int   __cdecl rmtmp(void);
 
-    #line 2467 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
-#line 2468 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+    #line 2441 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
+#line 2442 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 
 
 
 __pragma(pack(pop))
-#line 2473 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\stdio.h"
+
+#pragma warning(pop) 
+#line 2449 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\stdio.h"
 #pragma external_header(pop)
-#line 14 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
+#line 14 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
 
 
 
@@ -13933,11 +13950,11 @@ extern void (luaL_requiref) (lua_State *L, const char *modname,
 
 
 
-#line 178 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
+#line 178 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
   
-#line 180 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
+#line 180 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
 
-#line 182 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
+#line 182 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
 
 
 
@@ -14017,23 +14034,18 @@ typedef struct luaL_Stream {
 
 
 
-#line 262 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
+#line 262 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
 
 
 
 
-#line 267 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
-
-
-
-
-
-#line 273 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
+#line 267 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
 
 
 
 
 
+#line 273 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
 
 
 
@@ -14050,16 +14062,21 @@ typedef struct luaL_Stream {
 
 
 
-#line 295 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
 
 
 
 
-#line 300 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lauxlib.h"
+
+#line 295 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
 
 
-#line 20 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
-#line 1 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lualib.h"
+
+
+#line 300 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lauxlib.h"
+
+
+#line 20 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
+#line 1 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lualib.h"
 
 
 
@@ -14111,8 +14128,8 @@ extern int (luaopen_package) (lua_State *L);
 extern void (luaL_openlibs) (lua_State *L);
 
 
-#line 53 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\lualib.h"
-#line 21 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 53 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\lualib.h"
+#line 21 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 
 
 
@@ -14167,7 +14184,7 @@ static int tinsert (lua_State *L) {
       pos = luaL_checkinteger(L, 2);  
       
       ((void)(((lua_Unsigned)pos - 1u < (lua_Unsigned)e) || luaL_argerror(L, (2), ("position out of bounds"))));
-#line 76 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 76 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
       for (i = e; i > pos; i--) {  
         lua_geti(L, 1, i - 1);
         lua_seti(L, 1, i);  
@@ -14189,7 +14206,7 @@ static int tremove (lua_State *L) {
   if (pos != size)  
     
     ((void)(((lua_Unsigned)pos - 1u <= (lua_Unsigned)size) || luaL_argerror(L, (1), ("position out of bounds"))));
-#line 98 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 98 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
   lua_geti(L, 1, pos);  
   for ( ; pos < size; pos++) {
     lua_geti(L, 1, pos + 1);
@@ -14217,10 +14234,10 @@ static int tmove (lua_State *L) {
   if (e >= f) {  
     lua_Integer n, i;
     ((void)((f > 0 || e < 9223372036854775807i64 + f) || luaL_argerror(L, (3), ("too many elements to move"))));
-#line 126 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 126 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
     n = e - f + 1;  
     ((void)((t <= 9223372036854775807i64 - n + 1) || luaL_argerror(L, (4), ("destination wrap around"))));
-#line 129 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 129 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
     if (t > e || t <= f || (tt != 1 && !lua_compare(L, 1, tt, 0))) {
       for (i = 0; i < n; i++) {
         lua_geti(L, 1, f + i);
@@ -14293,7 +14310,7 @@ static int tunpack (lua_State *L) {
   if (i > e) return 0;  
   n = (lua_Unsigned)e - i;  
   if ((n >= (unsigned int)2147483647 || !lua_checkstack(L, (int)(++n))))
-#line 202 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 202 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
     return luaL_error(L, "too many results to unpack");
   for (; i < e; i++) {  
     lua_geti(L, 1, i);
@@ -14328,7 +14345,7 @@ typedef unsigned int IdxT;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
@@ -14342,7 +14359,7 @@ typedef unsigned int IdxT;
 
 
 #pragma external_header(push)
-#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 1 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 
 
@@ -14353,6 +14370,10 @@ typedef unsigned int IdxT;
 
 #pragma once
 
+
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
 
 
 __pragma(pack(push, 8))
@@ -14399,7 +14420,7 @@ __declspec(dllimport) errno_t __cdecl _wasctime_s(
     );
 
 
-#line 62 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 66 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
  
 
@@ -14434,7 +14455,7 @@ __declspec(dllimport) errno_t __cdecl _wctime32_s(
     );
 
 
-#line 100 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 104 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
  
  
@@ -14450,7 +14471,7 @@ __declspec(dllimport) errno_t __cdecl _wctime64_s(
                                                        __time64_t const* _Time);
 
 
-#line 119 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 123 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wstrdate_s(
@@ -14459,10 +14480,10 @@ __declspec(dllimport) errno_t __cdecl _wstrdate_s(
     );
 
 
-#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
  __declspec(dllimport)  wchar_t* __cdecl _wstrdate( wchar_t *_Buffer);
-#line 135 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 139 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 
 __declspec(dllimport) errno_t __cdecl _wstrtime_s(
@@ -14471,10 +14492,10 @@ __declspec(dllimport) errno_t __cdecl _wstrtime_s(
     );
 
 
-#line 146 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 150 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
  __declspec(dllimport)  wchar_t* __cdecl _wstrtime( wchar_t *_Buffer);
-#line 151 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
+#line 155 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 
 
@@ -14483,9 +14504,6 @@ __declspec(dllimport) errno_t __cdecl _wstrtime_s(
 
 
 
-
-    #pragma warning(push)
-    #pragma warning(disable: 4996)
 
     
 
@@ -14525,16 +14543,18 @@ __declspec(dllimport) errno_t __cdecl _wstrtime_s(
             return _wctime64_s(_Buffer, _SizeInWords, _Time);
         }
 
-    #line 202 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
-
-    #pragma warning(pop)
-#line 205 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\corecrt_wtime.h"
-
-
+    #line 203 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
+#line 204 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\corecrt_wtime.h"
 
 __pragma(pack(pop))
+
+#pragma warning(pop) 
 #pragma external_header(pop)
-#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 14 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
+
+#pragma warning(push)
+#pragma warning(disable: 4324  4514 4574 4710 4793 4820 4995 4996 28719 28726 28727 )
+
 
 __pragma(pack(push, 8))
 
@@ -14565,7 +14585,7 @@ struct _timespec64
         time_t tv_sec;  
         long   tv_nsec; 
     };
-#line 45 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 49 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
@@ -14650,10 +14670,10 @@ __declspec(dllimport) char* __cdecl asctime(
                                             size_t           _SizeInBytes,
                                                          struct tm const* _Tm
         );
-#line 130 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 134 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
-#line 136 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 140 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  
 __declspec(dllimport) clock_t __cdecl clock(void);
@@ -14673,7 +14693,7 @@ __declspec(dllimport) errno_t __cdecl _ctime32_s(
     );
 
 
-#line 159 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 163 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  
  
@@ -14690,7 +14710,7 @@ __declspec(dllimport) errno_t __cdecl _ctime64_s(
     );
 
 
-#line 179 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 183 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  
 __declspec(dllimport) double __cdecl _difftime32(
@@ -14798,10 +14818,10 @@ __declspec(dllimport) errno_t __cdecl _strdate_s(
     );
 
 
-#line 289 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 293 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  __declspec(dllimport)  char* __cdecl _strdate( char *_Buffer);
-#line 294 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 298 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 __declspec(dllimport) errno_t __cdecl _strtime_s(
@@ -14810,10 +14830,10 @@ __declspec(dllimport) errno_t __cdecl _strtime_s(
     );
 
 
-#line 305 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 309 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
  __declspec(dllimport) char* __cdecl _strtime( char *_Buffer);
-#line 310 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 314 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 __declspec(dllimport) __time32_t __cdecl _time32(
       __time32_t* _Time
@@ -14860,7 +14880,7 @@ __declspec(dllimport) int __cdecl _timespec64_get(
           unsigned   _Milliseconds
         );
 
-#line 357 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 361 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
@@ -14872,15 +14892,6 @@ __declspec(dllimport) int __cdecl _timespec64_get(
 
 
     
-
-
-
-
-
-
-
-
-
 
 
 
@@ -14984,10 +14995,7 @@ __declspec(dllimport) int __cdecl _timespec64_get(
               time_t const* const _Time
             )
         {
-            #pragma warning(push)
-            #pragma warning(disable: 4996)
             return _ctime64(_Time);
-            #pragma warning(pop)
         }
 
          
@@ -15003,10 +15011,7 @@ __declspec(dllimport) int __cdecl _timespec64_get(
         static __inline struct tm* __cdecl gmtime(
               time_t const* const _Time)
         {
-            #pragma warning(push)
-            #pragma warning(disable: 4996)
             return _gmtime64(_Time);
-            #pragma warning(pop)
         }
 
         
@@ -15014,10 +15019,7 @@ __declspec(dllimport) int __cdecl _timespec64_get(
               time_t const* const _Time
             )
         {
-            #pragma warning(push)
-            #pragma warning(disable: 4996)
             return _localtime64(_Time);
-            #pragma warning(pop)
         }
 
          
@@ -15080,11 +15082,11 @@ __declspec(dllimport) int __cdecl _timespec64_get(
             {
                 return _localtime64_s(_Tm, _Time);
             }
-        #line 577 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+        #line 563 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
-    #line 579 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+    #line 565 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
-#line 581 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 567 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
@@ -15099,16 +15101,18 @@ __declspec(dllimport) int __cdecl _timespec64_get(
 
     
         __declspec(deprecated("The POSIX name for this item is deprecated. Instead, use the ISO C " "and C++ conformant name: " "_tzset" ". See online help for details.")) __declspec(dllimport) void __cdecl tzset(void);
-    #line 596 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+    #line 582 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
-#line 598 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+#line 584 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 
 
 
 __pragma(pack(pop))
-#line 603 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.17763.0\\ucrt\\time.h"
+
+#pragma warning(pop) 
+#line 591 "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt\\time.h"
 #pragma external_header(pop)
-#line 236 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 236 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 
 
 
@@ -15131,7 +15135,7 @@ static unsigned int l_randomizePivot (void) {
   return rnd;
 }
 
-#line 259 "D:\\Project\\Project\\C++\\CppReadyLua\\App\\src\\ltablib.c"
+#line 259 "D:\\CodeField\\C++\\新建文件夹\\CppReadyLua\\App\\src\\ltablib.c"
 
 
 

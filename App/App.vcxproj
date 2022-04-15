@@ -95,7 +95,7 @@
       <ConformanceMode>true</ConformanceMode>
       <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
       <AdditionalIncludeDirectories></AdditionalIncludeDirectories>
-      <PreprocessToFile>true</PreprocessToFile>
+      <PreprocessToFile>false</PreprocessToFile>
       <PreprocessSuppressLineNumbers>false</PreprocessSuppressLineNumbers>
     </ClCompile>
     <Link>
@@ -158,8 +158,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="App.cpp" />
+    <ClCompile Include="LuaContext.cpp" />
     <ClCompile Include="LuaData.cpp" />
     <ClCompile Include="LuaTable.cpp" />
+    <ClCompile Include="LuaType.cpp" />
     <ClCompile Include="src\lapi.c" />
     <ClCompile Include="src\lauxlib.c" />
     <ClCompile Include="src\lbaselib.c" />
@@ -201,8 +203,11 @@
     <Content Include="Test.lua" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LuaContext.h" />
     <ClInclude Include="LuaData.h" />
+    <ClInclude Include="LuaLog.h" />
     <ClInclude Include="LuaTable.h" />
+    <ClInclude Include="LuaType.h" />
     <ClInclude Include="src\lapi.h" />
     <ClInclude Include="src\lauxlib.h" />
     <ClInclude Include="src\lcode.h" />

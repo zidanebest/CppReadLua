@@ -1,26 +1,29 @@
-﻿#include "LuaTable.h"
-#include "LuaData.h"
+﻿#include "LuaData.h"
+#include "LuaTable.h"
+#include <cassert>
+
+
+
 
 LuaData::LuaData(lua_State* L, int index)
-    :data(nullptr)
 {
     switch (lua_type(L,index))
     {
     case LUA_TNUMBER:
-        data=new double(lua_tonumber(L,index));
-        type=LuaType::Number;
+        data.reset(new double(lua_tonumber(L,index)));
+        type=LuaType::LuaNumber;
         break;
     case LUA_TBOOLEAN:
-        data=new bool(lua_toboolean(L,index));
-        type=LuaType::Bool;
+        data.reset(new bool(lua_toboolean(L,index)));
+        type=LuaType::LuaBool;
         break;
     case LUA_TSTRING:
-        data=new const char*(lua_tostring(L,index));
-        type=LuaType::String;
+        data.reset(new const char*(lua_tostring(L,index)));
+        type=LuaType::LuaString;
         break;
     case LUA_TTABLE:
-        data=new LuaTable(L,index);
-        type=LuaType::Table;
+        data.reset(new LuaTable(L,index));
+        type=LuaType::LuaTable;
         break;
     default:assert(false);
     }
