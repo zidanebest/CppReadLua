@@ -5,38 +5,44 @@ using namespace std;
 
 int main(int argc, char* argv[])
 {
-    cout<<"----------------------Table1--------------------------"<<endl;
-    LuaTable table("Test");
-    cout<<table.GetString("LuaFilterParaments","Type")<<endl;
-    cout<<table.GetNumber("100","RangeAngle")<<endl;
+    cout<<"-----------------Create Table--------------------"<<endl;
+    LuaTable table1("Test","LuaFilterParaments");
+    LuaTable table2("Test",100); //构造的时候，访问数字键，输入数字
+    LuaTable table3=table1.GetTable("100");//Get时，访问数字键，输入字符串
+    cout<<"------------------Read Table---------------------"<<endl;
+    double num=table2.GetNumber("RangeAngle");
+    cout<<num<<endl;
 
-    
-    cout<<"----------TraverseRecursive----------"<<endl;
-    table.TraverseTableRecursive([](std::string key,const LuaData& value)->bool
+    bool b=table2.GetBool("200");
+    cout<<b<<endl;
+
+    const char* str=table1.GetString("Type");
+    cout<<str<<endl;
+
+    table3=table3.GetTable("RangeAngle");
+    cout<<table3.GetString("LuaFilter")<<endl;
+
+    LuaData d=table3.GetData("200");
+    cout<<d<<endl;
+
+    cout<<"--------------------LuaData Opt---------------------"<<endl;
+    cout<<"IsBool:"<<d.IsBool()<<endl;
+    cout<<"IsNumber:"<<d.IsNumber()<<endl;
+    cout<<d.Cast2Bool()<<endl;
+    //cout<<d.Cast2Number()<<endl;   //类型检查
+    cout<<"--------------------Traverse Table---------------------"<<endl;
+    table1.TraverseTable([](string key,const LuaData& data)->bool
     {
-        cout<<key<<" --- "<<value<<endl;
-        return true;
+        cout<<"key: "<<key<<"--------data: "<<data<<endl;
+        return true;   //返回false的时候停止遍历
+    });
+    cout<<"------------Traverse Table Recursive-------------"<<endl;
+    table1.TraverseTableRecursive([](string key,const LuaData& data)->bool
+    {
+        cout<<"key: "<<key<<"--------data: "<<data<<endl;
+        return true;  
     });
     
-    cout<<"----------TraverseTable--------------"<<endl;
-    table.TraverseTable([](std::string key,const LuaData& value)->bool
-    {
-        cout<<key<<" --- "<<value<<endl;
-        return true;
-    });
-    
-    cout<<"----------------------Table2--------------------------"<<endl;
-    LuaTable t2=table.GetTable("LuaFilterParaments");
-    cout<<t2.GetData("Radius").Cast2Number()<<endl;
-    cout<<t2.GetData("RangeAngle").IsNumber()<<endl;
-    cout<<t2.GetData("RangeAngle").IsTable()<<endl;
-    
-    cout<<"----------------------Table3--------------------------"<<endl;
-    LuaTable t3("Test",100);        //lua api访问数字键的时候必须提供一个数值，而非字符串，因此这里跟Get类型函数不一样
-    cout<<t3.GetBool("200")<<endl;
-    
-    //cout<<t3.GetString("RangeAngle")<<endl;  //类型检查
-    return 0;
 }
 
 
