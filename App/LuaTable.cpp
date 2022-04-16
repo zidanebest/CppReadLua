@@ -23,7 +23,7 @@ LuaTable::LuaTable(const char* globalName)
         lua_pushvalue(L,-2);
         const char* key=lua_tostring(L,-1);
         
-        m_Table->insert(std::pair<std::string,LuaData*>(ToString(L,-1),new LuaData(L,-2)));
+        m_Table->insert(std::pair<std::string,LuaData>(ToString(L,-1),LuaData(L,-2)));
         lua_pop(L,2);
     }
     lua_pop(L,1);
@@ -46,7 +46,7 @@ LuaTable::LuaTable(lua_State* L, int index)
         lua_pushvalue(L,-2);
         const char* key=lua_tostring(L,-1);
         
-        m_Table->insert(std::pair<std::string,LuaData*>(ToString(L,-1),new LuaData(L,-2)));
+        m_Table->insert(std::pair<std::string,LuaData>(ToString(L,-1),LuaData(L,-2)));
         lua_pop(L,2);
     }
 }
@@ -55,7 +55,7 @@ void LuaTable::TraverseTable(std::function<bool(std::string key, const LuaData& 
 {
     for(auto it=m_Table->begin();it!=m_Table->end();++it)
     {
-        if(!func(it->first,*it->second))
+        if(!func(it->first,it->second))
         {
             return;
         }    
@@ -67,13 +67,13 @@ void LuaTable::TraverseTableRecursive(std::function<bool(std::string key, const 
     LUA_ASSERT(!m_Table->empty(),"table is empty");
     for(auto it=m_Table->begin();it!=m_Table->end();++it)
     {
-        if(!func(it->first,*it->second))
+        if(!func(it->first,it->second))
         {
             return;
         }
-        if(it->second->IsTable())
+        if(it->second.IsTable())
         {
-            it->second->Cast2Table().TraverseTableRecursive(func);
+            it->second.Cast2Table().TraverseTableRecursive(func);
         }
     }
 }

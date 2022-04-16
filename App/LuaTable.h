@@ -16,7 +16,7 @@ extern "C"{
 
 class LuaTable
 {
-    using TableType=std::unordered_map<std::string,LuaData*>;
+    using TableType=std::unordered_map<std::string,LuaData>;
     using TablePtr=std::shared_ptr<TableType>;
     
 private:  
@@ -121,7 +121,7 @@ LuaTable::LuaTable(const char* globalName,Arg ...arg)
         lua_pushvalue(L,-2);
         const char* key=lua_tostring(L,-1);
         
-        m_Table->insert(std::pair<std::string,LuaData*>(ToString(L,-1),new LuaData(L,-2)));
+        m_Table->insert(std::pair<std::string,LuaData>(ToString(L,-1),LuaData(L,-2)));
         lua_pop(L,2);
     }
     lua_pop(L,1);
@@ -154,8 +154,7 @@ double LuaTable::GetValue(T key, Lua_Type_Number) const
     std::string realKey=std::string(key);
     auto it=m_Table->find(realKey);
     LUA_ASSERT(it!=m_Table->end(),"Cant find value");
-    LuaData* data=it->second;
-    return  GetDataCheckLuaNumber(*data);
+    return  GetDataCheckLuaNumber(it->second);
 }
 
 template <typename T>
@@ -164,8 +163,7 @@ bool LuaTable::GetValue(T key, Lua_Type_Bool) const
     std::string realKey=std::string(key);
     auto it=m_Table->find(realKey);
     LUA_ASSERT(it!=m_Table->end(),"Cant find value");
-    LuaData* data=it->second;
-    return  GetDataCheckLuaBool(*data);
+    return  GetDataCheckLuaBool(it->second);
 }
 
 template <typename T>
@@ -174,8 +172,7 @@ LuaString LuaTable::GetValue(T key, Lua_Type_String) const
     std::string realKey=std::string(key);
     auto it=m_Table->find(realKey);
     LUA_ASSERT(it!=m_Table->end(),"Cant find value");
-    LuaData* data=it->second;
-    return  GetDataCheckLuaString(*data);
+    return  GetDataCheckLuaString(it->second);
 }
 
 template <typename T>
@@ -184,8 +181,7 @@ const LuaTable& LuaTable::GetValue(T key, Lua_Type_Table) const
     std::string realKey=std::string(key);
     auto it=m_Table->find(realKey);
     LUA_ASSERT(it!=m_Table->end(),"Cant find value");
-    LuaData* data=it->second;
-    return  GetDataCheckLuaTable(*data);
+    return  GetDataCheckLuaTable(it->second);
 }
 template<typename T>
 const LuaData& LuaTable::GetValue(T key) const
@@ -193,8 +189,7 @@ const LuaData& LuaTable::GetValue(T key) const
     std::string realKey=std::string(key);
     auto it=m_Table->find(realKey);
     LUA_ASSERT(it!=m_Table->end(),"Cant find value");
-    LuaData* data=it->second;
-    return *data;
+    return (it->second);
 }
 
 template <typename T, typename ... Arg>
