@@ -22,28 +22,21 @@ return {
 
 ```
 ```
-int main(int argc, char* argv[])
-{
-    cout<<"-----------------Create Table--------------------"<<endl;
+cout<<"-----------------Create Table--------------------"<<endl;
     LuaTable table1("Test","LuaFilterParaments");
     LuaTable table2("Test",100); //构造的时候，访问数字键，输入数字
-    LuaTable table3=table1.GetTable("100");//Get时，访问数字键，输入字符串
+    std::shared_ptr<LuaTable> table3=table1.GetTable("100");//Get时，访问数字键，输入字符串
     cout<<"------------------Read Table---------------------"<<endl;
     double num=table2.GetNumber("RangeAngle");
     cout<<num<<endl;
-
+    
     bool b=table2.GetBool("200");
     cout<<b<<endl;
-
-    const char* str=table1.GetString("Type");
+    
+    std::string str=table1.GetString("Type");
     cout<<str<<endl;
-
-    table3=table3.GetTable("RangeAngle");
-    cout<<table3.GetString("LuaFilter")<<endl;
-
-    LuaData d=table3.GetData("200");
-    cout<<d<<endl;
-
+    
+    LuaData d=table3->GetData("200");
     cout<<"--------------------LuaData Opt---------------------"<<endl;
     cout<<"IsBool:"<<d.IsBool()<<endl;
     cout<<"IsNumber:"<<d.IsNumber()<<endl;
