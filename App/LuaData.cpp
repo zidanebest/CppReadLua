@@ -1,7 +1,6 @@
 ﻿#include "LuaData.h"
-#include "LuaTable.h"
 #include <cassert>
-
+#include "LuaTable.h"
 
 
 

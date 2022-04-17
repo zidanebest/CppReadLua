@@ -35,7 +35,7 @@ LUA_DECLARE_GET_TYPE(LuaBool);
 LUA_DECLARE_GET_TYPE(LuaString);
 
 LUA_READER_GET_DATA(LuaTable);
-const LuaTable& GetDataCheckLuaTable(const LuaData& luaData)
+std::shared_ptr<LuaTable> GetDataCheckLuaTable(const LuaData& luaData)
 {
     std::shared_ptr<LuaTable> value;
     if(LuaType::LuaTable!=luaData.type)
@@ -47,7 +47,7 @@ const LuaTable& GetDataCheckLuaTable(const LuaData& luaData)
     {
         value=GetDataLuaTable(luaData.data);
     }
-    return *value;
+    return value;
 }
 
 //类型判断函数

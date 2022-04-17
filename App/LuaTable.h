@@ -2,6 +2,7 @@
 
 #include <cassert>
 #include <functional>
+#include <iostream>
 #include <memory>
 #include <string>
 #include <unordered_map>
@@ -22,6 +23,7 @@ class LuaTable
 private:  
      std::string ToString(lua_State* L,int index) const
      {
+         auto type=lua_type(L,index);
          switch (lua_type(L,index))
          {
          case LUA_TSTRING:
@@ -42,7 +44,10 @@ public:
     LuaTable(const char* globalName);
     LuaTable(const LuaTable&);
     LuaTable(lua_State* L,int index);
-
+    void operator=(const LuaTable& table)
+    {
+        m_Table=table.m_Table;
+    }
 
 /** 按索引取值 **/
 private:
@@ -56,7 +61,7 @@ private:
     LuaString GetValue(T key, Lua_Type_String) const;
 
     template <typename T>
-    const LuaTable& GetValue(T key, Lua_Type_Table) const;
+    std::shared_ptr<LuaTable> GetValue(T key, Lua_Type_Table) const;
 
     template <typename T>
     const LuaData& GetValue(T key) const;
@@ -78,19 +83,19 @@ public:
     const char* GetString(T key,Arg...arg) const;
 
     template<typename T>
-    const char* GetString(T key) const;
+    std::string GetString(T key) const;
 
     template<typename T,typename ...Arg>
-    const LuaTable& GetTable(T key,Arg...arg) const;
+    std::shared_ptr<LuaTable> GetTable(T key,Arg...arg) const;
 
     template<typename T>
-    const LuaTable& GetTable(T key) const;
+    std::shared_ptr<LuaTable> GetTable(T key) const;
 
     template<typename T,typename ...Arg>
     const LuaData& GetData(T key,Arg...arg) const;
 
     template<typename T>
-    const LuaData& GetData(T key) const;
+    LuaData GetData(T key) const;
 
 public:
     //遍历元素
@@ -98,7 +103,7 @@ public:
     
     //遍历元素，遇到表递归
     void TraverseTableRecursive(std::function<bool(std::string key,const LuaData& value)> func) const;
-private:
+public:
     TablePtr m_Table;
     
 };
@@ -176,7 +181,7 @@ LuaString LuaTable::GetValue(T key, Lua_Type_String) const
 }
 
 template <typename T>
-const LuaTable& LuaTable::GetValue(T key, Lua_Type_Table) const
+std::shared_ptr<LuaTable> LuaTable::GetValue(T key, Lua_Type_Table) const
 {
     std::string realKey=std::string(key);
     auto it=m_Table->find(realKey);
@@ -195,8 +200,8 @@ const LuaData& LuaTable::GetValue(T key) const
 template <typename T, typename ... Arg>
 double LuaTable::GetNumber(T key, Arg... arg) const
 {
-    const LuaTable& table=GetValue(key,Lua_Type_Table());
-    return table.GetNumber(arg...);
+    std::shared_ptr<LuaTable> table=GetValue(key,Lua_Type_Table());
+    return table->GetNumber(arg...);
 }
 
 template <typename T>
@@ -209,8 +214,8 @@ double LuaTable::GetNumber(T key) const
 template <typename T, typename ... Arg>
 bool LuaTable::GetBool(T key, Arg... arg) const
 {
-    const LuaTable& table=GetValue(key,Lua_Type_Table());
-    return table.GetBool(arg...);
+    std::shared_ptr<LuaTable> table=GetValue(key,Lua_Type_Table());
+    return table->GetBool(arg...);
 }
 
 template <typename T>
@@ -223,40 +228,40 @@ bool LuaTable::GetBool(T key) const
 template <typename T, typename ... Arg>
 const char* LuaTable::GetString(T key, Arg... arg) const
 {
-    const LuaTable& table=GetValue(key,Lua_Type_Table());
-    return table.GetString(arg...);
+    std::shared_ptr<LuaTable> table=GetValue(key,Lua_Type_Table());
+    return table->GetString(arg...);
 }
 
 template <typename T>
-const char* LuaTable::GetString(T key) const
+std::string LuaTable::GetString(T key) const
 {
     const char* value=GetValue(key,Lua_Type_String());
     return value;
 }
 
 template <typename T, typename ... Arg>
-const LuaTable& LuaTable::GetTable(T key, Arg... arg) const
+std::shared_ptr<LuaTable> LuaTable::GetTable(T key, Arg... arg) const
 {
-    const LuaTable& table=GetValue(key,Lua_Type_Table());
-    return table.GetTable(arg...);
+    std::shared_ptr<LuaTable> table=GetValue(key,Lua_Type_Table());
+    return table->GetTable(arg...);
 }
 
 template <typename T>
-const LuaTable& LuaTable::GetTable(T key) const
+std::shared_ptr<LuaTable> LuaTable::GetTable(T key) const
 {
-    const LuaTable& value=GetValue(key,Lua_Type_Table());
+    std::shared_ptr<LuaTable> value=GetValue(key,Lua_Type_Table());
     return value;
 }
 
 template <typename T, typename ... Arg>
 const LuaData& LuaTable::GetData(T key, Arg... arg) const
 {
-    const LuaTable& table=GetValue(key,Lua_Type_Table());
-    return table.GetData(arg...);
+    std::shared_ptr<LuaTable> table=GetValue(key,Lua_Type_Table());
+    return table->GetData(arg...);
 }
 
 template <typename T>
-const LuaData& LuaTable::GetData(T key) const
+LuaData LuaTable::GetData(T key) const
 {
     return GetValue(key);
 }

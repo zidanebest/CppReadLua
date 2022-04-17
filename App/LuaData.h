@@ -1,9 +1,11 @@
 ﻿#pragma once
 
+#include <iostream>
 #include <memory>
 #include <ostream>
 
 #include "LuaLog.h"
+
 #include "LuaType.h"
 
 
@@ -16,13 +18,17 @@ extern "C" {
         return type==LuaType::Lua##luaType;\
     }\
 
+inline std::ostream& operator<<(std::ostream& os,const LuaData& data);
 
 struct LuaData
 {
     std::shared_ptr<void> data;
     LuaType type;
     LuaData(lua_State* L, int index);
-    
+    // ~LuaData()
+    // {
+    //     std::cout<<"data: "<<*this<< std::endl;
+    // }
     DECLARE_LUA_IS_TYPE(Number)
     DECLARE_LUA_IS_TYPE(Bool)
     DECLARE_LUA_IS_TYPE(String)
@@ -53,7 +59,7 @@ struct LuaData
     
     
 };
-inline std::ostream& operator<<(std::ostream& os,const LuaData& data)
+std::ostream& operator<<(std::ostream& os,const LuaData& data)
 {
     switch (data.type)
     {

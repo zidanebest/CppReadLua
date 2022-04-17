@@ -1,5 +1,7 @@
 ﻿#pragma once
 #include <cstdint>
+#include <memory>
+
 extern "C"{
 #include "src/lua.h"
 }
@@ -38,7 +40,7 @@ LUA_DECLARE_GET_FUNCTIONS(LuaBool);
 LUA_DECLARE_GET_FUNCTIONS(LuaString);
 
 LuaTable* GetDataLuaTable(void* data);
-const LuaTable& GetDataCheckLuaTable(const LuaData& luaData);
+std::shared_ptr<LuaTable> GetDataCheckLuaTable(const LuaData& luaData);
  
 
 #define DECLARE_CHECK_TYPE(type) \

@@ -17,12 +17,15 @@ LuaTable::LuaTable(const char* globalName)
     int index=PositiveIndex(L,-1);
     m_Table.reset(new TableType());
     lua_pushnil(L);
+    std::cout<<lua_gettop(L)<< std::endl;
     while(lua_next(L,index))
     {
         //复制一个key
         lua_pushvalue(L,-2);
-        const char* key=lua_tostring(L,-1);
-        
+        //auto key=lua_tostring(L,-1);
+        //std::cout<<lua_gettop(L)<< std::endl;
+        lua_tostring(L,-1);
+        //std::cout<<lua_gettop(L)<< std::endl;
         m_Table->insert(std::pair<std::string,LuaData>(ToString(L,-1),LuaData(L,-2)));
         lua_pop(L,2);
     }

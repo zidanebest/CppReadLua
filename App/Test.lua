@@ -7,9 +7,9 @@
 		RangeAngle = 360.0,
 		[100] = {
 		            RangeAngle={
-                        LuaFilter = "CheckRangeHit",
-                        [200]=true
-                    }
+                        LuaFilter = "CheckRangeHit" 
+                    },
+                    [200]=true
                  }
 	},
 	[100] = {
