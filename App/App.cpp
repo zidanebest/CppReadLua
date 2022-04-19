@@ -8,6 +8,7 @@ int main(int argc, char* argv[])
     cout<<"-----------------Create Table--------------------"<<endl;
     LuaTable table1("Test","LuaFilterParaments");
     LuaTable table2("Test",100); //构造的时候，访问数字键，输入数字
+    LuaTable table4("ConnectLevel");
     std::shared_ptr<LuaTable> table3=table1.GetTable("100");//Get时，访问数字键，输入字符串
     cout<<"------------------Read Table---------------------"<<endl;
     double num=table2.GetNumber("RangeAngle");

@@ -18,6 +18,10 @@ public:
     {
         luaL_openlibs(L);
         std::fstream f;
+        
+        CreateEnvPathTable();
+        AddEnvPath("contentDir","C:/MainDic/Pan/demo/EM/Content/");
+        
         f.open(m_RequirePath);
         LUA_ASSERT(f.is_open(),"File open failed");
         
@@ -32,6 +36,20 @@ public:
     ~LuaContext()
     {
         lua_close(L);
+    }
+    
+    inline void CreateEnvPathTable()
+    {
+        lua_newtable(L); //table envpath
+        lua_setglobal(L,"EnvPath");
+    }
+    inline void AddEnvPath(const char* key,const char* value)
+    {
+        lua_getglobal(L,"EnvPath");
+        lua_pushstring(L,key);
+        lua_pushstring(L,value);
+        lua_settable(L,-3);
+        lua_setglobal(L,"EnvPath");
     }
     lua_State* GetLuaState()
     {

@@ -198,6 +198,7 @@
     <ClCompile Include="src\lzio.c" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="json.lua" />
     <Content Include="Require.lua" />
     <Content Include="src\Makefile" />
     <Content Include="Test.lua" />

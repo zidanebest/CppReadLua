@@ -45,16 +45,16 @@ struct LuaData
         return LuaBool(*(std::static_pointer_cast<LuaBool>(data)));
     }
 
-    inline LuaString Cast2String() const
+    inline std::string Cast2String() const
     {
         LUA_ASSERT(type==LuaType::LuaString,"Cant cast to target string");
         return LuaString(*(std::static_pointer_cast<LuaString>(data)));
     }
 
-    inline const LuaTable& Cast2Table() const
+    inline std::shared_ptr<LuaTable> Cast2Table() const
     {
         LUA_ASSERT(type==LuaType::LuaTable,"Cant cast to target table");
-        return *(std::static_pointer_cast<LuaTable>(data));
+        return std::static_pointer_cast<LuaTable>(data);
     }
     
     

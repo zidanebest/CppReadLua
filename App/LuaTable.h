@@ -242,8 +242,8 @@ std::string LuaTable::GetString(T key) const
 template <typename T, typename ... Arg>
 std::shared_ptr<LuaTable> LuaTable::GetTable(T key, Arg... arg) const
 {
-    std::shared_ptr<LuaTable> table=GetValue(key,Lua_Type_Table());
-    return table->GetTable(arg...);
+    const LuaTable& table=GetValue(key,Lua_Type_Table());
+    return table.GetTable(arg...);
 }
 
 template <typename T>

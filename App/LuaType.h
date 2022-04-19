@@ -39,7 +39,7 @@ LUA_DECLARE_GET_FUNCTIONS(LuaNumber);
 LUA_DECLARE_GET_FUNCTIONS(LuaBool);
 LUA_DECLARE_GET_FUNCTIONS(LuaString);
 
-LuaTable* GetDataLuaTable(void* data);
+std::shared_ptr<LuaTable> GetDataLuaTable(std::shared_ptr<void> data);
 std::shared_ptr<LuaTable> GetDataCheckLuaTable(const LuaData& luaData);
  
 

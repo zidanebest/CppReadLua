@@ -76,7 +76,7 @@ void LuaTable::TraverseTableRecursive(std::function<bool(std::string key, const 
         }
         if(it->second.IsTable())
         {
-            it->second.Cast2Table().TraverseTableRecursive(func);
+            it->second.Cast2Table()->TraverseTableRecursive(func);
         }
     }
 }
